@@ -17,26 +17,23 @@ jump in ready to make mistakes and typos in this course. The only way
 you will really understand the material is to practice typing it in on
 your own as often as possible.
 
-i.  **Syllabus --** Introduction to CSS3 -- University of Michigan
-ii. **Reading: **Resources
-iii. **Reading: **Help us learn more about you!
-iv. **Reading: **Syllabus
-v.  **Reading: **Building Your First Web Page
-vi. **Reading: **Early coding
-vii. **Reading: **Code Placement
-viii. **Reading: **Homework One Description
-ix. **Reading: **Peer Review
+  i.  **Syllabus --** Introduction to CSS3 -- University of Michigan
+  ii. **Reading:** Resources
+  iii. **Reading:** Help us learn more about you!
+  iv. **Reading:** Syllabus
+  v.  **Reading:** Building Your First Web Page
+  vi. **Reading:** Early coding
+  vii. **Reading:** Code Placement
 
 ## Week 1
 
-1.  [**Week** 01.01 Course Welcome](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0)
-2.  01-02 Cascading Style Sheets
-3.  01-03 Colors
-4.  01-04 Styling Your Text
-5.  **Video: **01-05 Code Together
-6.  **Video: **01-06a Display and Visibility - Part 1
-7.  **Video: **01-06b Display and Visibility - Part 2
-8.  **Video: **01-07 Optional \-- Homework Description
+  1. [**Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0)
+  2. Cascading Style Sheets
+  3. Colors
+  4. Styling Your Text
+  5. Code Together
+  6. Display and Visibility - Part 1
+  7. Display and Visibility - Part 2
 
 ## Week 2
 
@@ -50,24 +47,13 @@ require a little bit of tweaking to get the desired results. In
 particular we will talk about the Box Model, background images, opacity,
 float, columns, visibility, and designing for different browsers.
 
-1.  **Reading: **Resources
-2.  [**Video: **02-01 Box Model](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
-3.  **Reading: **Coding Together
-4.  **Video: **02-02 Code Together
-5.  **Video: **02-03 Styling Links and Lists
-6.  **Video: **02-04 Advanced Selectors
-7.  **Reading: **Supplemental reading on complex selectors
-8.  **Practice Quiz: **Optional Practice Quiz: Review
-9.  **Reading: **Shorthand rules
-10. **Video: **02-05 Browser Capabilites
-11. **Reading: **Browsers
-12. **Reading: **Code Together
-13. **Video: **02-06 Code Together
-14. **Reading: **Background Images and Opacity
-15. **Video: **02-07 Designing For Accessibility
-16. **Reading: **Optional - The importance of headings
-17. **Reading: **Homework Two Description
-18. **Video: **02-08 Optional - Homework Description
+  1. [**Box Mode**l](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
+  2. **Video:** Code Together
+  3. **Video:** Styling Links and Lists
+  4. **Video:** Advanced Selectors
+  5. **Video:** Browser Capabilites
+  6. **Video:** Code Together
+  7. **Video:** Designing For Accessibility
 
 ## Week 3
 
@@ -86,16 +72,11 @@ elements to stick to a certain part of your page. Think about annoying
 pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
-1.  **Reading: **Resources
-2.  [**Video: **03-01 Pseudo Classes and Elements] (https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
-3.  **Video: **03-02 Transitions
-4.  **Video: **03-03 Transforms
-5.  **Reading: **OPTIONAL READINGS - Transitions, Transforms, and Animation
-6.  **Video: **03-04 Code together - Transitions
-7.  **Reading: **Positioning
-8.  **Video: **03-05 Positioning
-9.  **Reading: **Why not a Peer Assignment this week?
-10. **Reading: **Some Fun Links
+  1. [**Pseudo Classes and Elements**] (https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
+  2. **Video:** Transitions
+  3. **Video:** Transforms
+  4. **Video:** Code together - Transitions
+  5. **Video:** Positioning
 
 ## Week 4
 
@@ -112,16 +93,13 @@ styling guidelines while still putting your own personal touch on the
 project. Just remember, you need to validate your work for proper syntax
 and accessibility.
 
-1.  **Reading: **Resources
-2.  [**Video: **04-01 Styling Tables](https://www.coursera.org/lecture/introcss/04-01-styling-tables-OGCjp)
-3.  **Video: **04-02 Creating Navigation Menus
-4.  **Video: **04-03 Accessible Navigation
-5.  **Reading: **OPTIONAL: A Change to the Accessibility of Headings
-6.  **Video: **04-04 Creating Navigation Menus 2
-7.  **Video: **04-05 Creating Navigation Menus 3
-8.  **Reading: **Final Project Description
-9.  **Video: **04-06 Optional - Homework Description
-10. **Video: **04-07 Conclusion
+  1.  [**Styling Tables**](https://www.coursera.org/lecture/introcss/04-01-styling-tables-OGCjp)
+  2.  **Video:** Creating Navigation Menus
+  3.  **Video:** Accessible Navigation
+  4.  **Video:** Creating Navigation Menus 2
+  5.  **Video:** Creating Navigation Menus 3
+  6.  **Video:**  Optional - Homework Description
+  7. **Video:** Conclusion
 
 ### Where To Go from Here?
 
@@ -130,11 +108,11 @@ have a few recommendations. The most important thing is that you
 continue to practice your skills and always have \"something\" that you
 are working on.
 
-1.  **Reading: **Coursera Options
-2.  **Reading: **CodeAcademy - other badge tutorials
-3.  **Reading: Meetups**
-4.  **Reading: **Post-course Survey
-5.  **Reading: **Keep Learning with Michigan Online
+  1.  **Reading:** Coursera Options
+  2.  **Reading:** CodeAcademy - other badge tutorials
+  3.  **Reading: Meetups**
+  4.  **Reading:** Post-course Survey
+  5.  **Reading:** Keep Learning with Michigan Online
 
 ## i. Syllabus
 
