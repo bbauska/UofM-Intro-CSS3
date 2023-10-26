@@ -47,7 +47,7 @@ require a little bit of tweaking to get the desired results. In
 particular we will talk about the Box Model, background images, opacity,
 float, columns, visibility, and designing for different browsers.
 
-  1. [**Box Mode**l](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
+  1. [**Box Mode**l(https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
   2. **Video:** Code Together
   3. **Video:** Styling Links and Lists
   4. **Video:** Advanced Selectors
@@ -72,7 +72,7 @@ elements to stick to a certain part of your page. Think about annoying
 pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
-  1. [**Pseudo Classes and Elements**] (https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
+  1. [**Pseudo Classes and Elements**](https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
   2. **Video:** Transitions
   3. **Video:** Transforms
   4. **Video:** Code together - Transitions
