@@ -47,7 +47,7 @@ require a little bit of tweaking to get the desired results. In
 particular we will talk about the Box Model, background images, opacity,
 float, columns, visibility, and designing for different browsers.
 
-  1. [**Box Mode**l(https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
+  1. [**Box Mode**](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
   2. **Video:** Code Together
   3. **Video:** Styling Links and Lists
   4. **Video:** Advanced Selectors
