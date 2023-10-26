@@ -2,8 +2,7 @@
 ##### (by Colleen van Lent, Ph.D. University of Michigan)
 
 ![Advanced Styling with Responsive Design by Colleen van Lent, Ph.D.
-(lecturer, school of information)](./images/image1.png)
-
+(lecturer, school of information)](./images/image001.png)
 
 ## Week 1
 
@@ -52,8 +51,7 @@ particular we will talk about the Box Model, background images, opacity,
 float, columns, visibility, and designing for different browsers.
 
 1.  **Reading: **Resources
-2.  [**Video: **02-01 Box
-    Model](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
+2.  [**Video: **02-01 Box Model](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
 3.  **Reading: **Coding Together
 4.  **Video: **02-02 Code Together
 5.  **Video: **02-03 Styling Links and Lists
@@ -89,8 +87,7 @@ pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
 1.  **Reading: **Resources
-2.  [**Video: **03-01 Pseudo Classes and
-    Elements](https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
+2.  [**Video: **03-01 Pseudo Classes and Elements] (https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
 3.  **Video: **03-02 Transitions
 4.  **Video: **03-03 Transforms
 5.  **Reading: **OPTIONAL READINGS - Transitions, Transforms, and Animation
@@ -100,7 +97,7 @@ OF THE SCREEN despite the fact that you keep trying to scroll them away.
 9.  **Reading: **Why not a Peer Assignment this week?
 10. **Reading: **Some Fun Links
 
-## Week 4 {#week-4 .unnumbered}
+## Week 4
 
 ## Week Four: Putting It All Together
 
@@ -116,8 +113,7 @@ project. Just remember, you need to validate your work for proper syntax
 and accessibility.
 
 1.  **Reading: **Resources
-2.  [**Video: **04-01 Styling
-    Tables](https://www.coursera.org/lecture/introcss/04-01-styling-tables-OGCjp)
+2.  [**Video: **04-01 Styling Tables](https://www.coursera.org/lecture/introcss/04-01-styling-tables-OGCjp)
 3.  **Video: **04-02 Creating Navigation Menus
 4.  **Video: **04-03 Accessible Navigation
 5.  **Reading: **OPTIONAL: A Change to the Accessibility of Headings
@@ -196,7 +192,7 @@ Some of the videos are not traditional lectures, instead they are videos
 where I demonstrate the concepts from an earlier lecture. I highly
 recommend that you code along with me while you watch these videos.
 ***[The key to success in this course is in writing
-code.]{.underline}*** I put these videos in so that you have something
+code.]*** I put these videos in so that you have something
 specific to practice. It is also a great way for you to see how often I
 mess up when I am coding!!
 
@@ -503,9 +499,9 @@ off on your own, and you\'re creating something beautiful whenever you
 can. So, I welcome you to the class, and I can\'t wait for you to join
 us as we learn more about cascading style sheets. Thanks.
 
-## Resources {#resources .unnumbered}
+## Resources
 
-### **Software**: {#software .unnumbered}
+### **Software**:
 
 The **preferred** way to code in this class is editor software
 (Notepad++, TextWrangler, Sublime, etc). If you do not have the ability
@@ -514,7 +510,7 @@ at:<http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro> .
 You can also use CodePen (there is a link below). It is important that
 you find a way that you can enter code and still test your work.
 
-### **Code:** {#code .unnumbered}
+### **Code:**
 
 All of the code I cover is available from a CodePen repository. I hope
 you can play with the code to test the different concepts we will cover.
@@ -525,7 +521,7 @@ Here is a link to the CodePen repository for the Week One code.
 Here is a list of the lectures this week that use CodePen, and the name
 of each file that they use:
 
-### 01-02 Cascading Style Sheet:  {#cascading-style-sheet .unnumbered}
+### 01-02 Cascading Style Sheet:
 
 -   styleAttribute.html
 
@@ -535,23 +531,23 @@ of each file that they use:
 
 -   internalStyle.html
 
-### 01-04 Styling Your Text:  {#styling-your-text .unnumbered}
+### 01-04 Styling Your Text:
 
 -   fonts
 
-### 01-05 Code Together: {#code-together .unnumbered}
+### 01-05 Code Together:
 
 -   Code Together 1 - No CS
 
 -   Code Together 1 - With CSS
 
-### 01-06 Display and Visbility - Part 1:  {#display-and-visbility---part-1 .unnumbered}
+### 01-06 Display and Visbility - Part 1:
 
 -   Display Example 1
 
 -   Display Example 2
 
-### **Slides:** {#slides .unnumbered}
+### **Slides:**
 
 If you would like to download a copy of slides, they are available here:
 
