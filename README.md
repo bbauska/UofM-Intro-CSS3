@@ -4,7 +4,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of intro-css.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image001.webp" 
+  <img src="./images/image002.png" 
   alt="University of Michigan - Intro to CSS3." 
   style="border: 2px solid #000000;" 
   width="500" />
