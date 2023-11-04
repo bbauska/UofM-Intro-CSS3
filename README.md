@@ -1,6 +1,14 @@
 # Introduction to CSS3
 ##### (by Colleen van Lent, Ph.D. University of Michigan)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of intro-css.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image001.webp" 
+  alt="University of Michigan - Intro to CSS3." 
+  style="border: 2px solid #000000;" 
+  width="500" />
+</p>
 ![Advanced Styling with Responsive Design by Colleen van Lent, Ph.D.
 (lecturer, school of information)](./images/image001.png)
 
