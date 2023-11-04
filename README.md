@@ -1,3 +1,12 @@
+---
+title: "University of Michigan's Introduction to CSS"
+author: "bbauska"
+date last editted: "11/04/2023 12+pm"
+output: 
+  markdown:
+    with_style
+---
+
 # Introduction to CSS3
 ##### (by Colleen van Lent, Ph.D. University of Michigan)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
