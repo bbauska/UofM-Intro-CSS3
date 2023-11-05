@@ -28,6 +28,14 @@ output:
   style="border: 2px solid #000000;" 
   width="200px;" />
 </p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image004.png" 
+  alt="What This Course Will Cover."
+  style="border: 2px solid #000000;" 
+  width="400px;" />
+</p>
 
 # Week 1
 
@@ -370,14 +378,6 @@ you.
 Hello, everybody. Welcome to Introduction to CSS3. In the next four
 weeks, we\'re going to learn how to take plain simple HTML5 code and
 turn it into something really beautiful.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
-  <img src="./images/image004.png" 
-  alt="What This Course Will Cover."
-  style="border: 2px solid #000000;" 
-  width="400px;" />
-</p>
 
 What will be doing over the next four weeks? Well, the main focus will
 be on learning about cascading style sheets. We\'re going to talk about
