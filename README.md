@@ -20,10 +20,8 @@ output:
   style="border: 2px solid #000000;" 
   width="500px" />
 </p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. cascade style sheet logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.png" 
   alt="Cascade Style Sheet 3 logo."
@@ -359,17 +357,27 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you.
 
-# Course Welcome/Overview
-
-![](./images/image003.png){width="4.0in"
-height="2.2440168416447945in"}
+## 1.1 Course Welcome/Overview
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by univesity of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image003.png" 
+  alt="offered by University of Michigan."
+  style="border: 2px solid #000000;" 
+  width="200px;" />
+</p>
 
 Hello, everybody. Welcome to Introduction to CSS3. In the next four
 weeks, we\'re going to learn how to take plain simple HTML5 code and
 turn it into something really beautiful.
-
-![](./images/image004.png){width="4.0in"
-height="2.223503937007874in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image004.png" 
+  alt="What This Course Will Cover."
+  style="border: 2px solid #000000;" 
+  width="400px;" />
+</p>
 
 What will be doing over the next four weeks? Well, the main focus will
 be on learning about cascading style sheets. We\'re going to talk about
@@ -6399,3 +6407,14 @@ to others.
 So again, congratulations and thank you for helping each other out on
 the discussion boards and in other ways as you all created something
 great in CSS 3.
+..the end
+<!-- template for images -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ ###.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image###.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="400px;" />
+</p>
+
