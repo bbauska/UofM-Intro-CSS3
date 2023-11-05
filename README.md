@@ -20,7 +20,7 @@ output:
   width="200px;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by univesity of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by university of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.png" 
   alt="offered by University of Michigan."
@@ -28,9 +28,9 @@ output:
   width="200px;" />
 </p>
 
-# Week 1
+### Week 1
 
-## Week One: Getting Started with Simple Styling
+### Week One: Getting Started with Simple Styling
 
 Welcome to Introduction to CSS3! In this course you will learn how to
 style your pages by taking advantage of the power of CSS3. We will focus
@@ -56,9 +56,9 @@ your own as often as possible.
 
 7.  **1-07 Homework Description**
 
-## Week 2
+### Week 2
 
-## Week Two: Advanced Styling
+### Week Two: Advanced Styling
 
 Colors and fonts are just the start to styling your page. The nice thing
 about starting with these properties is that they are usually very
@@ -85,9 +85,9 @@ float, columns, visibility, and designing for different browsers.
 
 8.  **2-08 Homework Description**
 
-## Week 3
+### Week 3
 
-## Week Three: Pseudo-classes, Pseudo-elements, Transitions, and Positioning 
+### Week Three: Pseudo-classes, Pseudo-elements, Transitions, and Positioning 
 
 Have you ever noticed on a web page that some links are blue and others
 are purple, depending upon if you have clicked on the links? How is it
@@ -113,9 +113,9 @@ OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
 5.  **3-05 Positioning**
 
-## Week 4
+### Week 4
 
-## Week Four: Putting It All Together
+### Week Four: Putting It All Together
 
 This week I am going to do some code review. I will show you how I used
 pseudo-classes and pseudo-elements to style a table. Then I give you a
@@ -150,9 +150,9 @@ have a few recommendations. The most important thing is that you
 continue to practice your skills and always have \"something\" that you
 are working on.
 
-# i. Syllabus
+## i. Syllabus
 
-## Welcome
+### Welcome
 
 Welcome to Introduction to CSS3. CSS stands for Cascading Style Sheets,
 a method of styling your HTML documents with various colors, fonts,
@@ -177,13 +177,13 @@ of accessibility. Not only will you style your site, but you will test
 it and other sites on the POUR accessibility principles to ensure that
 your styling is enhancing your site, not putting up unseen roadblocks.
 
-## How this course works:
+### How this course works:
 
 This course assumes that you already know how to write HTML code and are
 ready to style your pages. In each module you will be asked to do the
 following:
 
-## Watch video lectures
+### Watch video lectures
 
 The information has been broken down into pieces to help you learn the
 material in the smallest chunks that still give you enough information
@@ -192,7 +192,7 @@ to these during any time you have. You will find that some of the videos
 have material that makes sense to you at once. Sometimes you may want to
 replay other videos to clarify the material.
 
-## Change the video speed to one that works best for you
+### Change the video speed to one that works best for you
 
 You may find that you can speed the videos up and still retain the
 information. On the other hand, my mom is always telling me I talk too
@@ -200,7 +200,7 @@ quickly\... so you may find that you prefer to slow the videos down. The
 important thing is to find something that works well for you. Use the
 in-­video quizzes to help you gauge how your learning is going.
 
-## Code with video lectures
+### Code with video lectures
 
 Some of the videos are not traditional lectures, instead they are videos
 where I demonstrate the concepts from an earlier lecture. I highly
@@ -210,7 +210,7 @@ code.]*** I put these videos in so that you have something
 specific to practice. It is also a great way for you to see how often I
 mess up when I am coding!!
 
-## Read extra materials
+### Read extra materials
 
 Each module will include reading material. It is impossible to learn
 everything you need to learn just by listening to the lectures. There
@@ -219,7 +219,7 @@ you to seek out other resources online. Anyone who wants to work with
 technology needs to understand that it is important to update your
 skills.
 
-## Quizzes
+### Quizzes
 
 The first three modules will each have a graded quiz. These quizzes are
 intended to reinforce your confidence in the material, not \"trick\"
@@ -230,14 +230,14 @@ certain time period. Occasionally I include an ungraded quiz to help
 students track their current progress and prepare them for the graded
 quiz.
 
-## Peer Graded Assignments
+### Peer Graded Assignments
 
 There will be three peer graded assignments in this course: they are at
 the end of Week One, Week, Two, and Week Four. You are actually ready to
 start the final assessment by the end of the third week of class, I just
 wanted to provide some examples to accompany the final project.
 
-## Optional materials
+### Optional materials
 
 There will also be optional material provided in many of the modules.
 These may range from links to recent articles to videos on pioneers in
@@ -246,7 +246,7 @@ required for the quizzes, but rather provide additional ways for you to
 branch out and learn more about the history of the field or the emerging
 ideas.
 
-## Communication
+### Communication
 
 Communication for this course is done via the Discussion boards. The
 best way to utilize the discussion board is to search for your topic
@@ -256,7 +256,7 @@ great job of helping people. And, of course we rely on students to help
 each other as well. If you want to contact me directly, I do check my
 Colleen@UMSI Twitter account. I cannot respond to emails.
 
-## Participation Strategies
+### Participation Strategies
 
 Engaged learning looks different for everybody. In this course, we hope
 you will define your own measures of success and engage with the
@@ -268,7 +268,7 @@ your own goals. While the course provides time estimates for completion,
 you should feel empowered to engage in the material in whatever ways
 make sense to you.
 
-## Ground Rules
+### Ground Rules
 
 We expect everyone to be mindful of what they say and its potential
 impact on others. The goal is to have respectful discussions that do not
@@ -302,7 +302,7 @@ in these forums or in these groups. These forums are publicly accessible
 and any information you post may be collected, published, or used in an
 exploitative manner (scams, etc).*
 
-## Academic Honesty
+### Academic Honesty
 
 All submitted work should be your own and academic dishonesty is not
 allowed. Academic dishonesty can be defined as:
@@ -317,7 +317,7 @@ allowed. Academic dishonesty can be defined as:
 -   Employing or allowing another person to alter or revise your work,
     and then submitting the work as your own
 
-## Course Support
+### Course Support
 
 Questions and discussion of course material should take place within the
 course itself. Please do not contact instructors or teaching assistants
@@ -330,7 +330,7 @@ Center](https://support.edx.org/hc/en-us)/ [FutureLearn
 FAQs](https://about.futurelearn.com/about/faq?category=course-sign-up-and-completion)
 support forums.
 
-## Accessibility
+### Accessibility
 
 We are committed to developing accessible learning experiences for the
 widest possible audience. We recognize that learners with disabilities
@@ -344,7 +344,7 @@ accessibility challenges such as urgent issues that keep you from making
 progress in the course (e.g., missing or inadequate alt-text, captioning
 errors).
 
-## Diversity, Equity, Inclusion, and Justice
+### Diversity, Equity, Inclusion, and Justice
 
 **We welcome all learners to this course.** People like you are joining
 from all over the world and we value this diversity. We strive to create
@@ -355,8 +355,9 @@ attention to your feedback, how different types of learners experience
 this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you.
-
-## 1.1 Course Welcome/Overview
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-01">01-01 Course Welcome/Overview</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -613,7 +614,9 @@ lectures. Or better yet, read this first, watch the lectures, and then
 review the material again, but this time play with the code to see if
 you can change the pages.
 
-# Cascade Style Sheets
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-02">01-02 Cascade Style Sheets</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image010.png){width="4.0in"
 height="2.243589238845144in"}
@@ -1006,8 +1009,9 @@ code a lot in this course. We&apos;re going to be playing a lot with this
 course. You&apos;re going to be messing up a lot in this course. But I
 can&apos;t wait for you to develop something that really reflects how you
 want your page to look. Thanks.
-
-# Colors
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-03">01-03 Colors</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image039.png){width="4.0in"
 height="2.243589238845144in"}
@@ -1260,8 +1264,9 @@ everybody. Have fun with the colors. Use inspect element. Everyone loves
 to play with these different design elements of your page. And I hope
 that you&apos;ve learned something here that&apos;s useful as you continue
 programming, and keep styling your site.
-
-# Styling Your Text
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-04">01-04 Styling Your Text</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image062.png){width="4.0in"
 height="2.243589238845144in"}
@@ -1540,7 +1545,7 @@ into big problems you sketch it out first, I think you&apos;re going to have
 a lot of fun, and you&apos;re going to have a really great page that you&apos;re
 going to be proud of.
 
-## Early coding
+### Early coding
 
 One of the challenges of teaching about web design is that there are
 always multiple ways to demonstrate different concepts. For this course
@@ -1562,7 +1567,9 @@ Un-styled code: <http://codepen.io/ColleenEMc/pen/MaOrmE>
 
 Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 
-# Coding Together
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-05">01-05 Code Together</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image083.png){width="4.0in"
 height="2.243589238845144in"}
@@ -1720,7 +1727,10 @@ you&apos;re going to need to do for the homework in this section. Practice
 here, come back and watch me, if it helps you out a little bit getting
 over humps. But the important thing is, code, code, code, good luck.
 
-# Display and Visibility (2 parts)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-06a">01-06a Display and Visibility, Part 1</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
 
 ![](./images/image093.png){width="4.0in"
 height="2.243589238845144in"}![](./images/image094.png){width="4.0in"
@@ -1996,7 +2006,9 @@ with these a little bit until you get the idea of what they do. As time
 goes on, you&apos;ll start to figure out when you want them to actually do
 these kinds of actions.
 
-## Part 2
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-06b">01-06b Display and Visibility, Part 2</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image114.png){width="4.0in"
 height="2.2598293963254594in"}
@@ -2171,9 +2183,9 @@ easier. We want to avoid save refresh, save refresh. Instead, use those
 tools and you&apos;ll find that you&apos;re making really good decisions in your
 design and your code. Thanks.
 
-Week 01-07:
-
-## [Code Placement]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week1-07">01-07 Homework Description</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ## Code Placement - read
 
@@ -2499,7 +2511,9 @@ name of each file that they use:
 
 -   Coding together 3 with No CSS - Classes
 
-# Box Model
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-01">02-01 Box Model</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image147.png){width="4.0in"
 height="2.243589238845144in"}
@@ -2770,7 +2784,7 @@ these divs next to each other? We&apos;re going to have to use a kind of
 combination of display, and height, and width, and padding. Let&apos;s go
 ahead and do that.
 
-## Question
+### Question
 
 The code I am about to play with here is boxModel.html and boxModel.css.
 Make sure you play with this code and try to get it to do what I am
@@ -2866,7 +2880,9 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/yYPppz>
 
 Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 
-# Code Together
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-02">02-02 Code Together</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image174.png){width="4.0in"
 height="2.243589238845144in"}
@@ -3065,7 +3081,9 @@ confidence and your ability is really going to grow. And that&apos;s what I
 want. I want your confidence to be very, very high by the end of week
 four that you can do this. So good luck.
 
-# Styling Links and Lists
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-03">02-03 Styling Links and Lists</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image196.png){width="4.0in"
 height="2.243589238845144in"}
@@ -3350,7 +3368,9 @@ more and more web design, I&apos;m hoping that you&apos;re gaining the
 confidence to help make something really cool that you&apos;re going to
 proud of. So, stick in there. Thanks.
 
-# Advanced Selectors
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-04">02-04 Advanced Selectors</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image217.png){width="4.0in"
 height="2.22991469816273in"}
@@ -3646,7 +3666,7 @@ we go on, I know I&apos;m going to have some code-with-me examples. I hope
 you&apos;ll stop, get out your laptop, and really code with me to get an
 idea of how powerful these different things can be. Thanks.
 
-## Supplemental reading on complex selectors
+### Supplemental reading on complex selectors
 
 ### Learn more about Complex Selectors
 
@@ -3690,7 +3710,9 @@ This rule sets:
 
 -   background-position
 
-# Browser Capabilities
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-05">02-05 Browser Capabilities</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image240.png){width="4.0in"
 height="2.236751968503937in"}
@@ -4017,7 +4039,9 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/QjOaVg>
 
 Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 
-# Code Together
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-06">02-06 Code Together</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image265.png){width="4.0in" height="2.25in"}
 
@@ -4165,7 +4189,7 @@ most beautiful things. But it&apos;s kind of fun to go in and create
 different things and see how you can style them yourself. So, keep going
 and good luck and don&apos;t worry when you hit those typos. We all do.
 
-## Background Images and Opacity
+### Background Images and Opacity
 
 Earlier I briefly covered that the background property can take more
 than just a color. Using background-images for your elements rather than
@@ -4228,7 +4252,9 @@ Here is a site you may find helpful.
 
 <https://css-tricks.com/almanac/properties/o/opacity/>
 
-# Designing for Accessibility
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-07">02-07 Designing for Accessibility</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image282.png){width="4.0in"
 height="2.2401706036745406in"}
@@ -4397,7 +4423,9 @@ performance of your page, as well as enhance accessibility:
 
 [http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era\--webdesign-16824.](%20http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.)
 
-## Homework Two Description
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week2-08">02-08 Homework Two Description</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ### Homework Two: Advanced Selectors
 
@@ -4490,7 +4518,7 @@ height="2.725213254593176in"}
 ![](./images/image292.png){width="4.0in"
 height="2.841025809273841in"}
 
-# Homework Description
+## Homework Description
 
 ![](./images/image293.png){width="4.0in"
 height="2.243589238845144in"}
@@ -4686,9 +4714,9 @@ of each file that they use:
 
 -   Positioning
 
-# Week 3: Pseudo Classes and Elements
+## Week 3: Pseudo Classes and Elements
 
-# Resources
+## Resources
 
 ## **Code:**
 
@@ -4712,7 +4740,9 @@ of each file that they use:
 
 -   Positioning
 
-# 03-01 Pseudo Classes and Elements
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week3-01">03-01 Pseudo Classes and Elements</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image309.png){width="4.0in"
 height="2.2470089676290463in"}
@@ -4789,8 +4819,9 @@ going to be able to cover every combination of everything we learn
 about. But I do want to give you the tools so that you can go out and
 investigate how you can add some cool new styles to your page. Good
 luck.
-
-# 03-02 Transitions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week3-02">03-02 Transitions</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image314.png){width="4.0in"
 height="2.2333333333333334in"}
@@ -4947,7 +4978,9 @@ going to tab through. You want to make sure that all your content is
 always available, and just keep those transitions for something a little
 bit extra to add to your site. Good luck.
 
-# 03-03 Transforms
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week3-03">03-03 Transforms</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image326.png){width="4.0in"
 height="2.2401706036745406in"}
@@ -5082,9 +5115,9 @@ using transitions, transforms, and some of the other things we&apos;ve been
 learning all along. I hope you&apos;ll take a look at it and feel a little
 more confident about what we just learned with transforms. Good luck.
 
-# OPTIONAL READINGS - Transitions, Transforms, and Animation
+### OPTIONAL READINGS - Transitions, Transforms, and Animation
 
-## Optional Readings:
+### Optional Readings:
 
 1.  [CSS3
     Transitions](http://www.w3schools.com/css/css3_transitions.asp) -
@@ -5100,7 +5133,9 @@ more confident about what we just learned with transforms. Good luck.
 4.  [22 stunning examples of CSS3
     animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 
-# 03-04 Code together - Transitions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week3-04">03-04 Transitions</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image338.png){width="4.0in"
 height="2.22991469816273in"}
@@ -5189,15 +5224,16 @@ make sure and see if those concepts now make a little bit more sense
 that you&apos;ve seen the code in action. And I hope you&apos;ll play with this
 code, change the values, and really have some fun with it. So good luck.
 
-# Positioning
+### Positioning
 
 I think we have all encountered those annoying pop-up Internet ads that
 just won&apos;t seem to go away. This week you will learn how to make your
 very own version of those annoying ads. Using the box model principals,
 you learned earlier, you will learn to manipulate the positioning
 property.
-
-# 03-05 Positioning
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week3-05">03-05 Positioning</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image345.png){width="4.0in"
 height="2.2401706036745406in"}
@@ -5437,7 +5473,7 @@ find those tutorials or different references where they talk about
 positioning, and play with it until you&apos;re feeling a little bit more
 comfortable with how each of these work. Good luck.
 
-# Some Fun Links
+## Some Fun Links
 
 ### Some Fun Links - *Optional*
 
@@ -5447,7 +5483,7 @@ CSS](http://www.hongkiat.com/blog/built-with-css/)
 [12 Awesome CSS3 Features That You Can Finally Start
 Using](http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/)
 
-# Resources
+## Resources
 
 ## **Code:**
 
@@ -5481,7 +5517,9 @@ is a lightning bolt.
 ![](./images/image363.png){width="0.4708333333333333in"
 height="0.1763888888888889in"}
 
-# 04-01 Styling Tables
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week4-01">04-01 Styling Tables</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image314.png){width="4.0in"
 height="2.2333333333333334in"}
@@ -5594,8 +5632,9 @@ that these pseudo-classes, pseudo-elements, the different states, are
 all go together to create a page that can look so much better than just
 plain HTML by itself. So, I&apos;m hoping you&apos;ll use this code and create
 something great for yourself. Good luck.
-
-# 04-02 Creating Navigation Menus
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week4-02">04-02 Creating Navigation Menus 2</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image373.png){width="4.0in"
 height="2.2470089676290463in"}
@@ -5678,9 +5717,9 @@ for the picture, and then add some margin. Using these different things,
 we&apos;ve already talked about, display, line height, background URLs, we
 were able to make something that I think looks really cool for a simple,
 vertical navigation bar. Go ahead and try it. Good luck.
-
-# 04-03 Accessible Navigation
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week4-03">04-03 Accessible Navigation</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./images/image380.png){width="4.0in"
 height="2.243589238845144in"}
 
@@ -5867,7 +5906,7 @@ Make great use of headings. Make great use of link text. And make sure
 that you&apos;re giving people the tools they need to navigate your page
 successfully. Thanks.
 
-# OPTIONAL: A Change to the Accessibility of Headings
+## OPTIONAL: A Change to the Accessibility of Headings
 
 It used to be that the general rule was one \<h1\> heading per page.
 However, with the advent of HTML5 and its many container elements
@@ -5883,8 +5922,9 @@ disagrees.
 
 <https://yoast.com/headings-use/>
 
-# 04-04 Creating Navigation Menus 2
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week4-04">04-04 Creating Navigation Menus 2</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./images/image396.png){width="4.0in"
 height="2.2470089676290463in"}
 
@@ -5952,9 +5992,9 @@ turn it into something that looks really great and customized for the
 page that you are trying to create. So go ahead, have some fun, and now
 try to make a navigation bar that goes in all different ways, up and
 down, sideways, or even combinations. Good luck.
-
-# 04-05 Creating Navigation Menus 3
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week4-05">04-05 Creating Navigation Menus #3</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./images/image401.png){width="4.0in"
 height="2.2333333333333334in"}
 
@@ -6177,7 +6217,7 @@ site. You can watch it in the next video, or link directly here:
     grade the assignment by eye, or else save the css and try applying
     it to the html files.
 
-## Before
+### Before
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412. before (216) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6188,7 +6228,7 @@ site. You can watch it in the next video, or link directly here:
   width="40%;" />
 </p>
 
-## After
+### After
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 413. after (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6199,7 +6239,8 @@ site. You can watch it in the next video, or link directly here:
   width="40%;" />
 </p>
 
-## 04-06 Optional - Homework Description
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="week4-06">04-06 Optional - Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 414. homework description- final project (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6456,6 +6497,7 @@ your understanding of CSS. If you run into problems, you should feel free to use
 the discussion boards and ask people anything that you&apos;re not quite sure on. 
 Or just share something cool that you got to work. Good luck.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-07">04-07 Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
