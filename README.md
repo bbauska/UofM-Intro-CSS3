@@ -7,8 +7,8 @@ output:
     with_style
 ---
 
-<h1>Introduction to CSS3</h1>
-<h6>(by Colleen van Lent, Ph.D. University of Michigan)</h6>
+<h1 align="center">Introduction to CSS3</h1>
+<h6 align="center">(by Colleen van Lent, Ph.D. University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-intro-css3.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -17,7 +17,7 @@ output:
   <img src="./images/image001.png" 
   alt="Cascade Style Sheet 3 logo."
   style="border: 2px solid #000000;" 
-  width="200px;" />
+  width="400px;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by university of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -27,6 +27,7 @@ output:
   style="border: 2px solid #000000;" 
   width="200px;" />
 </p>
+
 
 ### Week 1
 
@@ -150,7 +151,7 @@ have a few recommendations. The most important thing is that you
 continue to practice your skills and always have \"something\" that you
 are working on.
 
-## i. Syllabus
+<h2 id="syllabus">i. Syllabus</h2>
 
 ### Welcome
 
@@ -177,7 +178,7 @@ of accessibility. Not only will you style your site, but you will test
 it and other sites on the POUR accessibility principles to ensure that
 your styling is enhancing your site, not putting up unseen roadblocks.
 
-### How this course works:
+<h3 id="how-it-works">How this course works:</h3>
 
 This course assumes that you already know how to write HTML code and are
 ready to style your pages. In each module you will be asked to do the
@@ -200,17 +201,16 @@ quickly\... so you may find that you prefer to slow the videos down. The
 important thing is to find something that works well for you. Use the
 in-­video quizzes to help you gauge how your learning is going.
 
-### Code with video lectures
+<h3 id="code-with-me">Code with me lectures</h3>
 
 Some of the videos are not traditional lectures, instead they are videos
 where I demonstrate the concepts from an earlier lecture. I highly
 recommend that you code along with me while you watch these videos.
-***[The key to success in this course is in writing
-code.]*** I put these videos in so that you have something
-specific to practice. It is also a great way for you to see how often I
-mess up when I am coding!!
+***[The key to success in this course is in writing code.]*** 
+I put these videos in so that you have something specific to practice. It is also 
+a great way for you to see how often I mess up when I am coding!!
 
-### Read extra materials
+<h3 id="read-extra">Read extra materials</h3>
 
 Each module will include reading material. It is impossible to learn
 everything you need to learn just by listening to the lectures. There
@@ -219,7 +219,7 @@ you to seek out other resources online. Anyone who wants to work with
 technology needs to understand that it is important to update your
 skills.
 
-### Quizzes
+<h3 id="quizzes">Quizzes</h3>
 
 The first three modules will each have a graded quiz. These quizzes are
 intended to reinforce your confidence in the material, not \"trick\"
@@ -230,14 +230,14 @@ certain time period. Occasionally I include an ungraded quiz to help
 students track their current progress and prepare them for the graded
 quiz.
 
-### Peer Graded Assignments
+<h3 id="peer-graded">Peer Graded Assignments</h3>
 
 There will be three peer graded assignments in this course: they are at
 the end of Week One, Week, Two, and Week Four. You are actually ready to
 start the final assessment by the end of the third week of class, I just
 wanted to provide some examples to accompany the final project.
 
-### Optional materials
+<h3 id="optional-materials">Optional materials</h3>
 
 There will also be optional material provided in many of the modules.
 These may range from links to recent articles to videos on pioneers in
@@ -358,14 +358,13 @@ you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-01">01-01 Course Welcome/Overview</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.png" 
   alt="University of Michigan - Intro to CSS3." 
   style="border: 2px solid #000000;" 
-  width="500px" />
+  width="40%;" />
 </p>
 
 Hello, everybody. Welcome to Introduction to CSS3. In the next four
@@ -377,7 +376,7 @@ turn it into something really beautiful.
   <img src="./images/image004.png" 
   alt="What This Course Will Cover."
   style="border: 2px solid #000000;" 
-  width="400px;" />
+  width="40%;" />
 </p>
 
 What will be doing over the next four weeks? Well, the main focus will
@@ -401,11 +400,16 @@ always fun to add colors and animations and cool things to our page.
 When we do that, we want to make sure that we don&apos;t do it at the cost
 of accessibility. We want make sure everyone can see everything on our
 page.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 05. week 1 - getting your feet wet (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image005.png" 
+  alt="Week 1: Getting Your Feet Wet."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image005.png){width="4.0in"
-height="2.2572648731408576in"}
-
-So, let&apos;s talk about what we&apos;re going to do on each of the four weeks.
+Let&apos;s talk about what we&apos;re going to do on each of the four weeks.
 In week one, the focus is really on just getting you started, getting
 your feet wet and getting you a little bit of confidence in knowing that
 you can do this.
@@ -424,9 +428,14 @@ about placing elements on the page. This is going to be an important
 element of our entire four weeks. Is trying to figure out how you can
 put your header over here or an image over there. And it can be tricky
 but that&apos;s okay. Because we&apos;re going to repeat it week after week.
-
-![](./images/image006.png){width="4.0in"
-height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. week 2 - box model (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image006.png" 
+  alt="Week 2: Box Model."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In week two, we will discuss the box model. This is a very common
 concept for any web developer, because we talk about how every element
@@ -447,8 +456,14 @@ learned about HTML5, you learned that some browsers support some tags
 while others don&apos;t. In the same way, browsers treat CSS differently.
 And I want you to know how to best react to that.
 
-![](./images/image007.png){width="4.0in"
-height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 07. week 3 - pseudo-classes and elements (10) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image007.png" 
+  alt="Week 3: Pseudo-Classes and Elements."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In week three, we talk about pseudo classes and elements. These are this
 cool idea of how we can make different things happen when we hover over
@@ -466,9 +481,14 @@ Finally, again we&apos;ll talk about positioning, how we can make things go
 in a certain spot and stay there all the time. We&apos;ve all seen really
 annoying pop-up menus and different pop-up ads. Now you can make your
 own annoying pop-up ad.
-
-![](./images/image008.png){width="4.0in"
-height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 4 - style a table sample (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image008.png" 
+  alt="Week 4: Style a Table Samples."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In week four, we&apos;re not really going to cover new material. Instead,
 it&apos;s going to be samples, samples, and more examples and samples. In
@@ -478,9 +498,14 @@ and different ways for styling a navigation menu.
 The bulk of week four will really be spent working on your final
 project. So, I want you to know right off who this class is for and if
 you&apos;re ready and are interested in taking it.
-
-![](./images/image009.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. who is this class for? (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image009.png" 
+  alt="Who is this class for?"
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 First of all, you don&apos;t want to take this class unless you know about
 HTML5 already. You may be taking a course on it. You may be just going
@@ -613,22 +638,30 @@ You might find it easier to read through this after going through the
 lectures. Or better yet, read this first, watch the lectures, and then
 review the material again, but this time play with the code to see if
 you can change the pages.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-02">01-02 Cascade Style Sheets</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image010.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 10. intro to cascading style sheets 3 (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image010.png" 
+  alt="Introduction to Cascading Style Sheets 3."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi. Welcome to our first truly technical lecture in our CSS course.
 It&apos;s about adding style to your pages. If you&apos;ve come to this course
 with me from our HTML course, you know that I know that you can make
 general HTML files. But up until now, you may not have styled them at
 all.
-
-![](./images/image011.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. the cascading part of css (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image011.png" 
+  alt="The Cascading part of CSS."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What I want you to know before we even begin styling, and you start
 putting your own little twists on the pages, is that the same HTML file
@@ -674,8 +707,14 @@ all your headings, or how you want to style some of your images. It&apos;s a
 really nice, specific way that everyone can follow to make these styling
 choices. And the rules are set up like this.
 
-![](./images/image012.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 12. css: selector, property &amp; value (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image012.png" 
+  alt="CSS: Selector, Property &amp; Value."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 First you have to put up your selector, and selector is just kind of a
 fancy way of saying what it is you want to style. In our case, we&apos;ll
