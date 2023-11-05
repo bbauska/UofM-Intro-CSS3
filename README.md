@@ -22,14 +22,14 @@ output:
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image001.png){width="1.7291666666666667in"
-height="1.6979166666666667in"}
-
-![Advanced Styling with Responsive Design offered by University of
-Michigan.](./images/image002.png){width="2.0in"
-height="0.8481014873140857in"}
+<p align="center">
+  <img src="./images/image001.png" 
+  alt="University of Michigan logo." 
+  style="border: 2px solid #000000;" 
+  width="200px;" />
+</p>
 
 # Week 1
 
