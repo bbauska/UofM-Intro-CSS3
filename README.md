@@ -18,15 +18,15 @@ output:
   <img src="./images/image002.png" 
   alt="University of Michigan - Intro to CSS3." 
   style="border: 2px solid #000000;" 
-  width="500" />
+  width="500px" />
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. cascade style sheet logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.png" 
-  alt="University of Michigan logo." 
+  alt="Cascade Style Sheet 3 logo."
   style="border: 2px solid #000000;" 
   width="200px;" />
 </p>
