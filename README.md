@@ -29,12 +29,12 @@ output:
   width="200px;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by univesity of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image004.png" 
-  alt="What This Course Will Cover."
+  <img src="./images/image003.png" 
+  alt="offered by University of Michigan."
   style="border: 2px solid #000000;" 
-  width="400px;" />
+  width="200px;" />
 </p>
 
 # Week 1
@@ -367,12 +367,12 @@ you.
 
 ## 1.1 Course Welcome/Overview
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by univesity of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image003.png" 
-  alt="offered by University of Michigan."
+  <img src="./images/image004.png" 
+  alt="What This Course Will Cover."
   style="border: 2px solid #000000;" 
-  width="200px;" />
+  width="400px;" />
 </p>
 
 Hello, everybody. Welcome to Introduction to CSS3. In the next four
