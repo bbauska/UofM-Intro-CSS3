@@ -12,15 +12,6 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-intro-css3.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
-  <img src="./images/image002.png" 
-  alt="University of Michigan - Intro to CSS3." 
-  style="border: 2px solid #000000;" 
-  width="500px" />
-</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. cascade style sheet logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.png" 
@@ -367,6 +358,19 @@ you.
 
 ## 1.1 Course Welcome/Overview
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image002.png" 
+  alt="University of Michigan - Intro to CSS3." 
+  style="border: 2px solid #000000;" 
+  width="500px" />
+</p>
+
+Hello, everybody. Welcome to Introduction to CSS3. In the next four
+weeks, we\'re going to learn how to take plain simple HTML5 code and
+turn it into something really beautiful.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image004.png" 
@@ -374,10 +378,6 @@ you.
   style="border: 2px solid #000000;" 
   width="400px;" />
 </p>
-
-Hello, everybody. Welcome to Introduction to CSS3. In the next four
-weeks, we\'re going to learn how to take plain simple HTML5 code and
-turn it into something really beautiful.
 
 What will be doing over the next four weeks? Well, the main focus will
 be on learning about cascading style sheets. We\'re going to talk about
