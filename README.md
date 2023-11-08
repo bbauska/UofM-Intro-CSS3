@@ -29,9 +29,9 @@ output:
 </p>
 
 
-### Week 1
+<h3>Week 1</h3>
 
-### Week One: Getting Started with Simple Styling
+<h3>Week One: Getting Started with Simple Styling</h3>
 
 Welcome to Introduction to CSS3! In this course you will learn how to
 style your pages by taking advantage of the power of CSS3. We will focus
@@ -57,9 +57,9 @@ your own as often as possible.
 
 7.  **1-07 Homework Description**
 
-### Week 2
+<h3>Week 2</h3>
 
-### Week Two: Advanced Styling
+<h3>Week Two: Advanced Styling</h3>
 
 Colors and fonts are just the start to styling your page. The nice thing
 about starting with these properties is that they are usually very
@@ -86,9 +86,9 @@ float, columns, visibility, and designing for different browsers.
 
 8.  **2-08 Homework Description**
 
-### Week 3
+<h3>Week 3</h3>
 
-### Week Three: Pseudo-classes, Pseudo-elements, Transitions, and Positioning 
+<h3>Week Three: Pseudo-classes, Pseudo-elements, Transitions, and Positioning </h3>
 
 Have you ever noticed on a web page that some links are blue and others
 are purple, depending upon if you have clicked on the links? How is it
@@ -114,9 +114,9 @@ OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
 5.  **3-05 Positioning**
 
-### Week 4
+<h3>Week 4</h3>
 
-### Week Four: Putting It All Together
+<h3>Week Four: Putting It All Together</h3>
 
 This week I am going to do some code review. I will show you how I used
 pseudo-classes and pseudo-elements to style a table. Then I give you a
@@ -144,7 +144,7 @@ and accessibility.
 
 7.  **4-07 Conclusion**
 
-### Where To Go from Here?
+<h3>Where To Go from Here?</h3>
 
 If you would like to do more now that you have finished this course, I
 have a few recommendations. The most important thing is that you
@@ -153,7 +153,7 @@ are working on.
 
 <h2 id="syllabus">i. Syllabus</h2>
 
-### Welcome
+<h3 id="welcome">Welcome</h3>
 
 Welcome to Introduction to CSS3. CSS stands for Cascading Style Sheets,
 a method of styling your HTML documents with various colors, fonts,
@@ -485,7 +485,7 @@ own annoying pop-up ad.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 4 - style a table sample (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image008.png" 
-  alt="Week 4: Style a Table Samples."
+  alt="Week 4: Style a Table Sample."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -561,7 +561,7 @@ off on your own, and you&apos;re creating something beautiful whenever you
 can. So, I welcome you to the class, and I can&apos;t wait for you to join
 us as we learn more about cascading style sheets. Thanks.
 
-## Resources
+### Resources
 
 ### **Software**:
 
@@ -690,7 +690,7 @@ but I want to make it pretty.
 
 How they did this is they added style attributes. In this case, I&apos;ve
 taken an h1 tag and added the style attribute and simply said
-**[\"color:blue\"]{.mark}.** And what this is going to do is it&apos;s going
+**[\"color:blue\"]** And what this is going to do is it&apos;s going
 to make this particular h1 heading have blue font to it. It&apos;s very
 simple. It&apos;s a nice way to just go in and add simple styling to your
 page. However, this still kind of breaks our rule of wanting to separate
@@ -706,7 +706,6 @@ say how you want to style all the paragraphs, or how you want to style
 all your headings, or how you want to style some of your images. It&apos;s a
 really nice, specific way that everyone can follow to make these styling
 choices. And the rules are set up like this.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 12. css: selector, property &amp; value (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -723,9 +722,14 @@ paragraph. Once you find which tag it is you want to style, you say
 which property it is you want to change. We can look at things such as
 color, background color, how much space we put around it, we&apos;re going
 to cover all of those.
-
-![](./images/image013.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 13.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image013.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But for right now, we&apos;re going to start off really simple and deal with
 colors. Then, you have to give each property a value, saying which color
@@ -735,9 +739,14 @@ hey, whenever you see an h1 heading, I want you to make the font color
 blue. We&apos;ve done exactly what we did when we embedded using the style
 tag, but now it&apos;s very generic, and we&apos;re not talking about a specific
 heading. We&apos;re not talking about a specific tag.
-
-![](./images/image014.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 14.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image014.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When you write those rules, the syntax is very important. A lot of
 times, when you write HTML, the browser is really nice to you and if you
@@ -748,9 +757,14 @@ get in trouble. The brackets and the semicolons are very important. Let
 me show you again when we go back here, you can see that I&apos;ve got a
 beginning bracket and a closing bracket, and I&apos;ve got this semicolon
 right at the end. You need to remember to include those.
-
-![](./image0s/image015.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 15.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image015.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And one of the reasons I talk about this is that when you start writing
 your code, when you pick a good editor, and most editors are pretty
@@ -768,15 +782,25 @@ instead of saying just you want the color to be blue, you also want the
 background color to be yellow? Well, no problem. You can have as many
 property value combinations as you want. You just need to remember to
 separate them with semicolons.
-
-![](./images/image016.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 16.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image016.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In this case, again, I&apos;ve set the color to blue and the background
 color to yellow.
-
-![](./images/image017.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 17.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image017.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right so now that you know how to write a rule how do we actually
 get them to work? There&apos;s two ways and the first way I&apos;m going to tell
@@ -785,8 +809,14 @@ here in my code, I&apos;ve got the basic template of our file. And inside
 the head tags, I&apos;ve put this style tag in, that&apos;s where you&apos;re going
 to want to put your rules, they&apos;re defined right within that style.
 
-![](./images/image018.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 18.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image018.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Inside the style tag, I&apos;ve added the h1, the color blue, and I&apos;ve
 ended my style tag. What happens now is that when the browser opens your
@@ -796,9 +826,14 @@ through your page and apply this rule to all the H1 tags. And if you
 have multiple rules including paragraphs, images, things like that,
 it&apos;s going to know, I want to apply this to all instances in the entire
 file.
-
-![](./images/image019.png){width="4.0in"
-height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 19.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image019.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 There is a really good chance you&apos;re going to mess up because I do this
 80% of the time when I&apos;m developing in class, and what I do is I forget
@@ -4861,17 +4896,27 @@ luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-02">03-02 Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image314.png){width="4.0in"
-height="2.2333333333333334in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image314.png" 
+  alt="Week3-02. Transitions."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi, everybody. In this lecture we&apos;re going to talk about transitions.
 You&apos;ve seen in different examples that we can change the state of
 elements. Links can go from regular link to visited. You can hover over
 things. You can focus them.
 
-![](./images/image315.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~ 315. transitions - when 1 element transition from 1 state to another (166) ~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image315.png" 
+  alt="Transitions - When 1 element transitions from 1 state to another."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Well, what if you want to actually have a little bit of almost animation
 when you do these things? That&apos;s what we can use transitions for. If
@@ -4885,8 +4930,14 @@ concepts.
 Let&apos;s get started. If you want to add transitions to your page,
 there&apos;s four properties that you&apos;re going to want to look at.
 
-![](./images/image316.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316. the properties (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image316.png" 
+  alt="The Properties."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The first is the actual transition property. What is it that you want to
 change? Do you want to change the size, the color, the position, all of
@@ -4911,25 +4962,33 @@ looking at your page, they&apos;ve got, just got the mouse going all over.
 And you don&apos;t want to have them looking at the transitions unless they
 really need to be focusing in on that one element.
 
-![](./images/image317.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317. setting up (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image317.png" 
+  alt="Setting up."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-All right. Let&apos;s go ahead and get started. If you want to use
-transitions, the first thing you need to do is just what you&apos;ve been
-doing all along, define your element and say what style you want it to
-have when you first load the page.
-
-Next, you want to choose which elements you want to transition. You may
-have styled it with background color, color, width, and height. You
-don&apos;t necessarily want to change all of those things when you go into
-your transition. Pick the ones that you do want to change.
-
-Third, define the new values for those elements. And this is important.
-You need to combine this step with a pseudo-class. It needs to be along
-with a hover or a focus or an active.
-
-![](./images/image318.png){width="4.0in"
-height="2.256837270341207in"}
+<p>All right. Let&apos;s go ahead and get started. If you want to use transitions, 
+the first thing you need to do is just what you&apos;ve been doing all along, define 
+your element and say what style you want it to have when you first load the page.</p>
+<p>Next, you want to choose which elements you want to transition. You may have styled 
+it with background color, color, width, and height. You don&apos;t necessarily want 
+to change all of those things when you go into your transition. Pick the ones that 
+you do want to change.</p>
+<p>Third, define the new values for those elements. And this is important. You need 
+to combine this step with a pseudo-class. It needs to be along with a hover or a 
+focus or an active.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. steps code (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image318.png" 
+  alt="Steps code."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s look at some code just on the screen, and then I&apos;ll run you
 through an actual example. Here, I&apos;ve went ahead and defined a div to
@@ -4937,8 +4996,14 @@ just have color, background, line height, width height, all the typical
 things. If you notice, the border radius is pretty small. It&apos;s only six
 pixels.
 
-![](./images/image319.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319. steps, #2 (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image319.png" 
+  alt="Steps, #2."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, I went in and I said, you know what, I&apos;m going to go ahead and
 define each one of these properties. My properties I want to change are
@@ -4947,8 +5012,14 @@ but I wanted a big example. You can say, I want it to take half a
 second, I want it to all be pretty much the same change, and I want you
 to wait a half a second before you start that transition.
 
-![](./images/image320.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320. steps #3 (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image320.png" 
+  alt="Steps, #3."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The last step, the one that had to do with the pseudo-class, was adding
 the div:hover and giving the new values that I want everything to be. So
@@ -4956,8 +5027,14 @@ instead of being black, I want to switch it to white. Instead of the
 width being 250 pixels, I want it to be 350, different background color,
 and a much bigger border radius. All right?
 
-![](./images/image321.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. internal style sheet (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image321.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s go ahead and look at an example that I have. I already coded up
 to show you. In this example I&apos;ve used an internal style sheet, partly
@@ -4968,8 +5045,14 @@ radius. And I&apos;ve also put in active, just cuz I wanted to show you that
 you can do multiple different states. Active, if you&apos;ve, maybe don&apos;t
 recall, is when you&apos;re clicking down on a state.
 
-![](./images/image322.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322. example transition (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image322.png" 
+  alt="Example Transition."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s take a look. Here&apos;s my transition, just by default, when you&apos;re
 looking at the page. Now, when I mouse over it, you can see that it&apos;s
@@ -4977,8 +5060,14 @@ kind of this cool change of color and border radius. Border radius
 actually can change things from looking like a square to looking like a
 circle.
 
-![](./images/image323.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. example transition, #2 (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image323.png" 
+  alt="Example Transition, #2."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The final one is now I&apos;m going to hold the mouse down and we&apos;re going
 to see what happens when the state goes into active. You can see, once
@@ -4986,9 +5075,14 @@ again, I&apos;ve changed all those things. I actually think this is pretty
 cool. It can also, however, be very distracting. So, you want to use
 transitions sparingly to make sure you&apos;re not taking away things from
 your page.
-
-![](./images/image324.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324. using shorthands (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image324.png" 
+  alt="Using Shorthands."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 It is possible and very common to use shorthand when you&apos;re writing out
 your different transitions. Instead of writing transition duration,
@@ -5061,24 +5155,39 @@ increased the margins. The next option is rotate. When you rotate
 something, you are rotating, or I kind of like to think of it as
 spinning the element, a certain number of degrees. You don&apos;t see the
 spin. You just see the result or what it would look like at the end.
-
-![](./images/image330.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 330.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image330.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here I have another element and I&apos;m going to tell it to rotate by 30
 degrees.
-
-![](./images/image331.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 331.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image331.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 From here, to here. Now it&apos;s really important that remember to put the
 deg. If you just put 30, many of the browsers are not going to have that
 work. In fact, most of them won&apos;t. Make sure you give it the degrees
 you want it to turn, some sort of number, 30, 90, 80, and then use
 degree.
-
-![](./images/image332.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 332.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image332.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, let&apos;s talk about scale. And scale is just a fancy way of saying,
 let&apos;s make it wider or taller. Again, you give it two numbers, and
@@ -5087,8 +5196,14 @@ element. Here I have a smaller block, and I&apos;ve decided I&apos;d like to
 make it two times as wide and three times as high. Here&apos;s a new element
 after the transform scale.
 
-![](./images/image333.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image333.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Skew is very hard for me to explain what it does, and it&apos;s even harder
 to do it because I always forget my left and rights when I&apos;m looking at
@@ -5098,16 +5213,28 @@ element a certain number of degrees around the x angle and a certain
 number of degrees around the y angle. Here I&apos;m going to show you a
 skew, 30 degrees by 15 degrees.
 
-![](./images/image334.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 334.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image334.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You start off here and you end up kind of turned at a very kind of weird
 angle. And it&apos;s very hard to show you this when I&apos;m staring at the
 screen, so I&apos;m hoping you&apos;ll type that in and kind of play with it a
 little bit.
 
-![](./images/image335.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 335.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image335.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The next and final option is matrix. And when you use the matrix, you
 can combine all of the 2D transform methods into one command at once. I
@@ -5116,8 +5243,14 @@ one&apos;s scale, which one&apos;s rotate, which one&apos;s skew. Unless you fee
 really confident with your CSS3, I would avoid using matrix and go ahead
 and use each of the other individual transforms one at a time.
 
-![](./images/image336.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 336.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image336.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The other ones that we just talked about were two dimensional
 transforms. We can also do three dimensional transforms, and they&apos;re
@@ -5133,9 +5266,14 @@ rotate, we have the scale, and we have the translate. And they can
 really do some really interesting things with how you want your elements
 to look. When it comes time to use transforms, there&apos;s a few things to
 think about.
-
-![](./images/image337.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 337.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image337.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Typically, when you use transforms, you&apos;re going to use them with state
 changes. If you remember, that means you might have a transform happen
@@ -5175,9 +5313,13 @@ more confident about what we just learned with transforms. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-04">03-04 Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image338.png){width="4.0in"
-height="2.22991469816273in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 338.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image338.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In the past, we&apos;ve done code together segments, where I&apos;ve coded,
 you&apos;ve coded along with me, and we&apos;ve made lots of little mistakes
@@ -5185,9 +5327,14 @@ together. Today, I really want to do a code review instead. I want you
 to sit back and look at some of the code that I&apos;ve written and see how
 the little things that we&apos;ve been learning are adding up together to
 create more complex webpages.
-
-![](./images/image339.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 339.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image339.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s start with some HTML. Over here, I have code that&apos;s just going
 to create a bunch of different divs. The one thing that might be new
@@ -5195,9 +5342,14 @@ that you haven&apos;t seen before is this idea of tab index. What the tab
 index does is it lets the browser know that if somebody is tabbing
 through your page, you actually want to put different elements in focus
 in a different order.
-
-![](./images/image340.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 340.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image340.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In this case, the first thing would be A, and then C, and then B, etc.
 It&apos;s just one more level of accessibility that I wanted to introduce to
@@ -5206,8 +5358,14 @@ is that the very last div has a class animate in it. I&apos;ve made this one
 a little bit different so that you can look at transitions and
 transforms in action.
 
-![](./images/image341.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 341.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image341.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, let&apos;s go ahead and look at the CSS, and play with the browser. Now,
 when we start at the top, you can see that I&apos;ve just dialed the div so
@@ -5223,8 +5381,14 @@ to refresh the page, because the one that I expected to go first
 didn&apos;t. That&apos;s because I&apos;d been tabbing before we even started
 typing.
 
-![](./images/image342.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 342.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image342.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So here we go. A changes color, and then C, and then B. This is you
 giving the user power to jump to the most important sections first. All
@@ -5232,8 +5396,14 @@ right, so after focus, let&apos;s talk about hover. Now when hover comes
 into case, what I&apos;m saying is make the width 200 pixels, it was 100,
 and change the background color.
 
-![](./images/image343.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 343.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image343.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s take a look. I&apos;m going to highlight over C right here, and then
 B, and then A. And you can see it&apos;s a very nice, smooth transition. But
@@ -5243,8 +5413,14 @@ through I on the bottom. When you start to go a little bit too crazy
 changing the size of things dynamically, you can throw everything off
 position. So, make sure you use this sparingly.
 
-![](./images/image344.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 344.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image344.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, let&apos;s get to the cool one, the last one. If you remember, I
 made one div, and I set it to be animated because I used the animate
@@ -5273,9 +5449,14 @@ property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-05">03-05 Positioning</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image345.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 345.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image345.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi everybody, welcome back. Today, we&apos;re going to be talking about
 positioning elements in your webpage. So, trying to layout your page and
@@ -5289,8 +5470,14 @@ get a little bit tricky. So let&apos;s begin talking about the different
 positioning elements, or, the different positioning properties, that you
 can use, okay?
 
-![](./images/image346.png){width="6.5in"
-height="3.6458333333333335in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 346.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image346.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="65%;" />
+</p>
 
 The four position properties are static, relative, absolute, and fixed,
 and for the most part they&apos;re very different. How they work together,
@@ -5300,8 +5487,14 @@ of position you want the element to be, and then you can say, but I want
 it to be this far from the top or this high off the bottom, or this far
 over from the left.
 
-![](./images/image347.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 347.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image347.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s start with static, and the reason we&apos;re going to start with
 static is because you&apos;ve already been using it all along. It&apos;s what we
@@ -5313,8 +5506,14 @@ the next available position. You can give it values such as top, bottom,
 left, and right, but the browser&apos;s going to completely ignore it. How
 it&apos;s going to work is something like this.
 
-![](./images/image348.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 348.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image348.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let me see if I can draw this up here. Is you&apos;ve got your screen. And
 then it&apos;s time to start adding things to your page, and the browser
@@ -5322,9 +5521,14 @@ goes, oh, well this is span so it fits right here. And the next one&apos;s
 span, so it fits right here. Oh, she&apos;s got something that&apos;s block, so
 I need to go down here. So, as you add, it just starts at the top, and
 works its way across, and then down.
-
-![](./images/image349.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 349.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image349.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But we can go beyond that. We can change how the browser positions
 things, and one of the ways we can do that is to use position relative.
@@ -5335,9 +5539,14 @@ similar to the static position, but now you get to add these offsets.
 The new positioning, the new place that we put the element, it&apos;s not
 going to affect any of its neighbors. Instead, what it may do is leave
 holes where the browser thought it should&apos;ve been in the first place.
-
-![](./images/image350.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 350.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image350.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Usually, relatively positioned elements are used as containers or blocks
 for other elements. So let me just show you another quick example here.
@@ -5350,8 +5559,14 @@ going to go underneath where it should be.
 So again, we&apos;re just adding little numbers to move things from where
 they would normally go.
 
-![](./images/image351.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image351.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The next position is what we call absolute. And this one can really
 confuse people when you first start it, because the browser, instead of
@@ -5361,8 +5576,14 @@ we&apos;re going to show one example with the browser. The other elements on
 the page behave as if it doesn&apos;t even exist. And what this can lead to,
 is that you can end up with one element on top of another.
 
-![](./images/image352.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 352.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image352.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, let&apos;s try this. I&apos;ve got my browser. Don&apos;t have a lot of room,
 here. So right here. And let&apos;s say I&apos;ve got a div, and I&apos;ve decided
@@ -5372,8 +5593,14 @@ relative, the next element would go underneath it. But if we have two
 absolute values, the next one that shows up is going to go, again, right
 on top of it.
 
-![](./images/image353.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 353.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image353.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, the final position that I&apos;m going to talk about is called
 fixed. And the fixed position is relative to the browser window. This is
@@ -5394,8 +5621,14 @@ have that navigation bar that&apos;s on the top, and as you scroll through
 the page, you don&apos;t have to scroll back up to see the navigation bar,
 because it&apos;s always just there.
 
-![](./images/image354.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 354.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image354.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s go ahead and look at an example where I&apos;ve got some different
 elements that use the different position properties. Okay, I&apos;m about to
@@ -5408,8 +5641,14 @@ top and left, and I left it as position static, because that&apos;s the
 default position it would always be. I want to show you what that&apos;s
 going to look like over in the browser.
 
-![](./images/image355.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 355.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image355.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If you look, you can see I&apos;ve got two divs, one up here and down here,
 and I have my three paragraphs. One, two, three.
@@ -5422,16 +5661,28 @@ down a little bit. Same for the B and the C. The reason that happens is
 because all the browsers have different default values for where the
 paragraph should be positioned.
 
-![](./images/image356.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 356.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image356.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, let me scroll over here for a second. I&apos;m going to go down. And you
 can see that there&apos;s this weird code right here that says, -webkit-
 margin-before and -webkit-margin-after. This is an example of some
 pseudo classes that they used.
 
-![](./images/image357.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 357.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image357.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I don&apos;t want these different default things to be coming into play.
 I&apos;m going to get rid of them. After I comment those out and comment
@@ -5439,8 +5690,14 @@ that back in, I refresh, and now we&apos;ve got our A, B and C. So again, A,
 B, and C, are all relative. You&apos;re telling the browser, just put it in
 the next available space.
 
-![](./images/image358.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 358.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image358.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s see what&apos;s going to happen now if I change my element from
 relative to static, or from static to relative. And you can see that
@@ -5451,8 +5708,14 @@ just go in the first place you can. Relative, go in the first place you
 can, but go ahead, you can tell it if you want it to move over a little
 bit in either direction.
 
-![](./images/image359.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 359.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image359.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The next one that we&apos;re going to do is absolute. Maybe. There we go, so
 now I want you to notice something. That A and that B, they&apos;re on top
@@ -5463,9 +5726,14 @@ it&apos;s all mixed together. There are circumstances where you will want
 things to be on top of each other. Maybe one of them will be visible,
 and one of them will be hidden, and they&apos;re going to change
 dynamically. But this is what happens with absolute.
-
-![](./images/image360.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 360.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image360.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now, if I scroll, I&apos;m going to make this screen a little bit smaller,
 and I scroll, you can see that the A and the B, they do scroll away.
@@ -5477,9 +5745,14 @@ scroll away. It doesn&apos;t work. It stays right there, okay? So again,
 it&apos;s static, relative, absolute, and fixed. And I want you to play with
 these, and know your options, before you start laying out your code by
 hand.
-
-![](./images/image361.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 361.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image361.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now, one of the things I showed you is that it&apos;s possible for multiple
 elements to be placed in the same position or on top of each other. And
@@ -5497,9 +5770,14 @@ different things like that. The Z-index is something that not a lot of
 people code with, but it&apos;s really helpful when you&apos;re using inspect
 element, if there&apos;s something below, and you want to see what it looks
 like on top.
-
-![](./images/image362.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 362.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image362.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s go ahead and review. Positioning your element is the key to
 creating the layouts that you want to have. And this is especially
@@ -5585,14 +5863,13 @@ Halloween, so boo! What can we do to take this information, this content
 from our HTML5, and turn it into something that&apos;s really pleasing?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 365. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image364.png" 
+  <img src="./images/image365.png" 
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image365.png){width="4.0in" height="2.25in"}
 
 Well let&apos;s take a look at what I&apos;ve done with it. Here, I&apos;ve used CSS
 to create a calendar that has a lot of different things going on it.
@@ -5604,14 +5881,13 @@ have a background image for those days to make it look a little bit
 different.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 366. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image364.png" 
+  <img src="./images/image366.png" 
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image366.png){width="4.0in" height="2.25in"}
 
 The other thing I&apos;ve added is that on days that have these little
 asterisks, if I click on them, the actual appointment shows up. As you
@@ -5624,14 +5900,13 @@ the different parts as you need to and as you want to incorporate them
 into your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 367. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image364.png" 
+  <img src="./images/image367.png" 
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image367.png){width="4.0in" height="2.25in"}
 
 Let&apos;s take a look at the CSS. You can see this is a very, very busy
 page. So just kind of sit back and you can hear me talk about the
@@ -5641,14 +5916,13 @@ something around the top. The thing is, the table itself is really only
 this part. It&apos;s not the caption.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 368. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image364.png" 
+  <img src="./images/image368.png" 
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image368.png){width="4.0in" height="2.25in"}
 
 What I&apos;ve done is I said, don&apos;t worry about the top two corners, here
 and here. Only curve the bottom two corners, all right. How do I get
@@ -5665,14 +5939,13 @@ throws off your rows. This is something really powerful that you should
 try to take advantage of.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 369. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image364.png" 
+  <img src="./images/image369.png" 
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image369.png){width="4.0in" height="2.25in"}
 
 What about when you try to make your page look really professional, the
 elements that overlap? Right here, I&apos;m actually looking at a table, and
@@ -5694,7 +5967,6 @@ whole idea of when you want to hide things.
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image370.png){width="4.0in" height="2.25in"}
 
 Let&apos;s go back to the HTML. I have put all of my elements inside a span tag. 
 So here, I&apos;ve got span library helper. I&apos;m hoping that you are thinking 
@@ -6028,7 +6300,6 @@ Tab. And, what Tab does, is it brings the next element into focus.
 
 So, go ahead and Tab, there. And you can see, that now, there&apos;s this
 new thing here that says Skip to main content.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 390.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6045,8 +6316,14 @@ off screen navigation links are extremely useful to allow people to jump
 immediately to what they want to get to. But, by using styling, we&apos;ve
 taken it off the page that you only use it if you really want to.
 
-![](./images/image391.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 391.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image391.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One of the things I wanted to mention is, if you&apos;re going to do
 off-page headings, don&apos;t use or .
@@ -6059,8 +6336,14 @@ very important for accessibility because screen readers can find and
 list all of the links. Now, what you may not realize is the way that
 these links are displayed may not be in the way you expect.
 
-![](./images/image392.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 392.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image392.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, they may be out of context. You may only be able to access them via
 tabbing or they may be presented in a list. So, you really want to avoid
@@ -6075,8 +6358,14 @@ have to listen to the description, it can be very confusing. Instead,
 unless you have a very short URL, go ahead and use some sort of textual
 description.
 
-![](./images/image393.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 393.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image393.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, just to review, let&apos;s think about what we&apos;ve learned today. When
 you finish making your page, it&apos;s not enough for it to look good. You
@@ -6084,16 +6373,28 @@ need to think about how easy it is to navigate your page. Think about
 what would happen if the colors weren&apos;t there, or if somebody could
 only navigate to your page with a mouse.
 
-![](./images/image394.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 394.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image394.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I want to show you really quickly what I&apos;m talking about here. Here&apos;s
 an old page of mine, and, at the bottom, I have the University of
 Michigan. I just want to show you what happens when I take away the
 style.
 
-![](./images/image395.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 395.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image395.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The page now, you can&apos;t even see the text anymore. These are the kind
 of small things that you would never notice unless you checked your page
@@ -6104,7 +6405,7 @@ Make great use of headings. Make great use of link text. And make sure
 that you&apos;re giving people the tools they need to navigate your page
 successfully. Thanks.
 
-## OPTIONAL: A Change to the Accessibility of Headings
+### OPTIONAL: A Change to the Accessibility of Headings
 
 It used to be that the general rule was one \<h1\> heading per page.
 However, with the advent of HTML5 and its many container elements
@@ -6123,16 +6424,28 @@ disagrees.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-04">04-04 Creating Navigation Menus 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image396.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 396.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image396.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Welcome back to another code review. Earlier, I created a navigation bar
 that worked vertically. It went up and down. Today, I just want to show
 you how you can use the same HTML code but create a horizontal
 navigation bar, instead.
 
-![](./images/image397.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 397.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image397.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s take a look. I want to go to something that looks a little bit
 more like this. And, not only have I gone to a horizontal navigation
@@ -6142,8 +6455,14 @@ the photos link looks a little bit different from the others. It&apos;s very
 common to do this to kind of indicate to people this is the page that
 you&apos;re looking at right now.
 
-![](./images/image398.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 398.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image398.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s take a look at the CSS and see how I&apos;ve taken plain HTML and
 turned it into something where I have a nicely styled navigation bar.
@@ -6156,8 +6475,14 @@ decoration. One of the things I added here is a border radius. Border
 radius curves the boxes, so if you look, everything&apos;s a little bit
 curved over here along the side. Nothing too important right there.
 
-![](./images/image399.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 399.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image399.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The next thing I have, the new one, is this idea of having a class
 called current. What the current class does, is it basically is a way of
@@ -6349,12 +6674,12 @@ Post to the discussion board. Go online and look up answers. But what I
 really hope is that you can create something that you&apos;re proud of, that
 is both beautiful and accessible. Good luck.
 
-## Final Project Description
+### Final Project Description
 
 \*\*This homework is also described in a module lecture (4-07 below).
 Make sure to read it to get a better feel for what I am looking for.
 
-## Objectives:
+### Objectives:
 
 1.  Create a style sheet and link it to the html files. (Without
     changing the html.)
@@ -6365,7 +6690,7 @@ Make sure to read it to get a better feel for what I am looking for.
     For instance, we want to style on the first element of each row to
     be left-aligned. The rest should be centered.
 
-## Background:
+### Background:
 
 I assume that you have finished all of the Week Three lecture videos,
 and you may want to watch Week Four as you complete this assignment.
@@ -6375,13 +6700,13 @@ after the final project.
 
 <http://www.intro-webdesign.com/CSS/final/teams.jpg>
 
-## Getting started:
+### Getting started:
 
 You will use the same code as you used for Assignment Two. I would
 recommend that you save copy of your style sheet for backup. The html is
 all still the same.
 
-## Steps:
+### Steps:
 
 1.  Style the following:
 
@@ -6406,7 +6731,7 @@ all still the same.
 site. You can watch it in the next video, or link directly here:
 [[https://www.coursera.org/learn/introcss/lecture/SyQ0X/04-06-optional-homework-description]](https://www.coursera.org/learn/introcss/lecture/SyQ0X/04-06-optional-homework-description)***
 
-## Submission
+### Submission
 
 1.  Submit your css file, we will still call it hw1.css.
 
@@ -6769,11 +7094,12 @@ great in CSS 3.
 <!-- template for images -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ ###.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
 <p align="center">
   <img src="./images/image###.png" 
   alt="."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-
-<h6)Last Updated: 11/04/2023 6:21pm</h6>
+-->
+<h6)Last Updated: 11/07/2023 5:48pm</h6>
