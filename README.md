@@ -5512,27 +5512,27 @@ find those tutorials or different references where they talk about
 positioning, and play with it until you&apos;re feeling a little bit more
 comfortable with how each of these work. Good luck.
 
-## Some Fun Links
+<h3>Some Fun Links</h3>
 
-### Some Fun Links - *Optional*
+<h3>Some Fun Links - <i>Optional</i>
 
-[18 Cool Things You Won't Believe Were Built Using
-CSS](http://www.hongkiat.com/blog/built-with-css/)
+<a href="http://www.hongkiat.com/blog/built-with-css/">
+18 Cool Things You Won't Believe Were Built Using CSS</a>
 
-[12 Awesome CSS3 Features That You Can Finally Start
-Using](http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/)
+<a href="http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/">
+12 Awesome CSS3 Features That You Can Finally Start Using</a>
 
-## Resources
+<h3>Resources</h3>
 
-## **Code:**
+<h3>Code:</h3>
 
-Here is a link to the CodePen repository for the Week Four code. You can
-play with the code to test the different concepts.
+<p>Here is a link to the CodePen repository for the Week Four code. You can play 
+with the code to test the different concepts.</p>
 
 <http://codepen.io/collection/AOLapY/>
 
-Here is a list of the lectures this week that use CodePen, and the name
-of each file that they use:
+<p>Here is a list of the lectures this week that use CodePen, and the name
+of each file that they use:</p>
 
 04-01 Styling Tables:
 
@@ -5553,22 +5553,29 @@ of each file that they use:
 Someone also asked for a link to one of the images I use in a video. It
 is a lightning bolt.
 
-![](./images/image363.png){width="0.4708333333333333in"
-height="0.1763888888888889in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 363. lightening bolt as sample list item marker (190) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image363.png" 
+  alt="Lightening bolt - sample list item marker."
+  style="border: 2px solid #000000;" 
+  width="5%;" />
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-01">04-01 Styling Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image314.png){width="4.0in"
-height="2.2333333333333334in"}
-
 In today&apos;s code review, we&apos;re going to talk about making a calendar.
-Because what I really like about calendars is that there are all these
-little, tiny things you need to think about to really make your page
-look professional.
-
-![](./images/image364.png){width="4.0in" height="2.25in"}
+Because what I really like about calendars is that there are all these little, 
+tiny things you need to think about to really make your page look professional.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image364.png" 
+  alt="Example plain calendar with appointments."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What I have right here on the screen is a very, very plain calendar,
 where you can see, I have all the days in the month. I also have, on
@@ -5577,6 +5584,14 @@ or meet with the dean, or be library helper. And, on the 31st, it&apos;s
 Halloween, so boo! What can we do to take this information, this content
 from our HTML5, and turn it into something that&apos;s really pleasing?
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image364.png" 
+  alt="Example plain calendar with appointments."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image365.png){width="4.0in" height="2.25in"}
 
 Well let&apos;s take a look at what I&apos;ve done with it. Here, I&apos;ve used CSS
@@ -5588,6 +5603,14 @@ realize it&apos;s really hard to see in the screen right now, but I actually
 have a background image for those days to make it look a little bit
 different.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image364.png" 
+  alt="Example plain calendar with appointments."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image366.png){width="4.0in" height="2.25in"}
 
 The other thing I&apos;ve added is that on days that have these little
@@ -5600,6 +5623,14 @@ giving it to you as a resource to kind of pick through and understand
 the different parts as you need to and as you want to incorporate them
 into your page.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image364.png" 
+  alt="Example plain calendar with appointments."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image367.png){width="4.0in" height="2.25in"}
 
 Let&apos;s take a look at the CSS. You can see this is a very, very busy
@@ -5609,6 +5640,14 @@ wanted to make my calendar with a very nice border radius so I&apos;d have
 something around the top. The thing is, the table itself is really only
 this part. It&apos;s not the caption.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image364.png" 
+  alt="Example plain calendar with appointments."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image368.png){width="4.0in" height="2.25in"}
 
 What I&apos;ve done is I said, don&apos;t worry about the top two corners, here
@@ -5625,6 +5664,14 @@ even, especially if later you decide to add more information and it
 throws off your rows. This is something really powerful that you should
 try to take advantage of.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image364.png" 
+  alt="Example plain calendar with appointments."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image369.png){width="4.0in" height="2.25in"}
 
 What about when you try to make your page look really professional, the
@@ -5639,15 +5686,29 @@ What happens if you comment it out? What&apos;s going to go on? All right, I
 have fairly simple code for the caption, I went ahead and just added
 some border radius and colors. What I really want to show you is this
 whole idea of when you want to hide things.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 370.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image370.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image370.png){width="4.0in" height="2.25in"}
 
-Let&apos;s go back to the HTML. I have put all of my elements Inside a span
-tag. So here, I&apos;ve got span library helper. I&apos;m hoping that you are
-thinking right now and going, why don&apos;t these show up when I first look
-at the calendar? Why isn&apos;t it there?
+Let&apos;s go back to the HTML. I have put all of my elements inside a span tag. 
+So here, I&apos;ve got span library helper. I&apos;m hoping that you are thinking 
+right now and going, why don&apos;t these show up when I first look at the calendar? 
+Why isn&apos;t it there?
 
-![](./images/image371.png){width="4.0in" height="2.25in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 371.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image371.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Well, the reason would be because by default, I&apos;m going to go ahead and
 hide all of the different appointments. I&apos;m going to go ahead and say,
@@ -5658,7 +5719,14 @@ don&apos;t want to show what&apos;s in there. It&apos;s a very little nuanced th
 and this is exactly why I made this example, so you could see the
 difference. All right, so now it&apos;s hidden.
 
-![](./images/image372.png){width="4.0in" height="2.25in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 372.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image372.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But as soon as I make it active, and active means as soon as you&apos;re
 clicking on it, I change the visibility from hidden to visible. Let&apos;s
@@ -5674,74 +5742,106 @@ something great for yourself. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-02">04-02 Creating Navigation Menus 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image373.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image373.png" 
+  alt="4-02. Creating Navigation Menu."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Welcome back. Since it&apos;s week four and you&apos;re working on your final
-project, what I want to do is show you some of the different options
-that you can use when you&apos;re styling your pages. And in this module, I
-want to show you what happens when you try to make a vertical navigation
-bar.
+project, what I want to do is show you some of the different options that you can 
+use when you&apos;re styling your pages. And in this module, I want to show you 
+what happens when you try to make a vertical navigation bar.
 
-![](./images/image374.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 374. navigation bar with four links (196) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image374.png" 
+  alt="Navigation bar with 4 links/menu options."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So over here in my browser, I have what the page is going to look like
 when we&apos;re done. But let&apos;s go ahead and I&apos;ll hit refresh and first
 see what it would look like if I tried to make a navigation bar using
 four simple links.
 
-![](./images/image375.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 375. before nav changes - inline menu (196) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image375.png" 
+  alt="The before navigation menu."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-Again, links are inline, so they go next to each other. There&apos;s no
-color. There&apos;s nothing going on. And it&apos;s really horrible. So let me
-put that style back in. Refresh the page. And I'm going to show you how
-I created this navigation bar.
+<p>Again, links are inline, so they go next to each other. There&apos;s no color. 
+There&apos;s nothing going on. And it&apos;s really horrible. So let me put that 
+style back in. Refresh the page. And I'm going to show you how I created this 
+navigation bar.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376. the after nav menu (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image376.png" 
+  alt="The after navigation menu."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image376.png){width="4.0in"
-height="2.2470089676290463in"}
+<p>Let's start by talking about the body. I just put in some background color, padding, 
+and margin. That's not really important here. What's important is talking about our 
+navigation section.</p>
+<p>One of the things I wanted to do is to show you the idea of using that box-sizing 
+border-box. What this is going to do is it takes away the need for you to count 
+up how much width, how much padding, how much border. You don&apos;t have to do 
+the math. The browser will do it for you. I put in some simple border, color, 
+background color, etc.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 377. 1st step in creating nav menu bar (197) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image377.png" 
+  alt="1st steps - creating a nav menu bar."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-Let's start by talking about the body. I just put in some background
-color, padding, and margin. That's not really important here. What's
-important is talking about our navigation section.
+The first thing I did, though, is I made it inline-block, because I want my navigation 
+to be next to the other parts of my page. And since nav is block, it won&apos;t happen 
+unless I throw it in there. So, I said I wanted it to be about 20% of the page and 
+then added some margin. Now, something new you may not have seen before is this idea 
+of height equals 100vh. That&apos;s your viewport height. So this means I want the 
+navigation to take up the whole height of your page. I&apos;m not hard-coating it to
+400 pixels or 200 pixels, cuz I don&apos;t know how big the screen is that you&apos;re 
+looking at.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 378. 2nd step in creating nav menu bar (198) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image378.png" 
+  alt="2nd step - creating a nav menu bar."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-One of the things I wanted to do is to show you the idea of using that
-box-sizing border-box. What this is going to do is it takes away the
-need for you to count up how much width, how much padding, how much
-border. You don&apos;t have to do the math. The browser will do it for you.
-I put in some simple border, color, background color, etc.
+Next, let&apos;s talk about the actual lengths themselves. What I&apos;ve gone in 
+and done is I&apos;ve taken away the regular boring links and I&apos;ve really 
+styled them to make them something a little more original. I put in a height of 
+how high I want each one of my links to be. And then I put in a little bit of a 
+trick and I said I want the line height to be 45 pixels. Why would I do that? The 
+reason would be I want to center home photos or I want to center the words within 
+it and this is how I can do it.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 379. 3rd step add background image and menu markers (198) ~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image379.png" 
+  alt="3rd step - add background image and menu markers."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image377.png){width="4.0in"
-height="2.2470089676290463in"}
-
-The first thing I did, though, is I made it inline-block, because I want
-my navigation to be next to the other parts of my page. And since nav is
-block, it won&apos;t happen unless I throw it in there. So, I said I wanted
-it to be about 20% of the page and then added some margin. Now,
-something new you may not have seen before is this idea of height equals
-100vh. That&apos;s your viewport height. So this means I want the navigation
-to take up the whole height of your page. I&apos;m not hard-coating it to
-400 pixels or 200 pixels, cuz I don&apos;t know how big the screen is that
-you&apos;re looking at.
-
-![](./images/image378.png){width="4.0in"
-height="2.2470089676290463in"}
-
-Next, let&apos;s talk about the actual lengths themselves. What I&apos;ve gone
-in and done is I&apos;ve taken away the regular boring links and I&apos;ve
-really styled them to make them something a little more original. I put
-in a height of how high I want each one of my links to be. And then I
-put in a little bit of a trick and I said I want the line height to be
-45 pixels. Why would I do that? The reason would be I want to center
-home photos or I want to center the words within it and this is how I
-can do it.
-
-![](./images/image379.png){width="4.0in"
-height="2.2470089676290463in"}
-
-The next kind of cool thing I&apos;ve done is I&apos;ve added a background
+<p>The next kind of cool thing I&apos;ve done is I&apos;ve added a background
 image. I added these little arrows. And the cool thing that I had to do
 that I want to really point out to you is I couldn&apos;t just link to the
 folder and then the file. Because of the way I set up my code, first I
@@ -5749,47 +5849,66 @@ need to say, oh, I know I&apos;m in the CSS folder right now, so I&apos;m going
 to go back up to my main folder and then find images. If this is
 confusing for you, don&apos;t worry. It&apos;s a brand-new concept, but it&apos;s
 something that a lot of you are going to run into as you try to link
-images from your style sheet. All right.
-
-The last thing I did was just add in a little padding, so there&apos;s room
+images from your style sheet. All right.</p>
+<p>The last thing I did was just add in a little padding, so there&apos;s room
 for the picture, and then add some margin. Using these different things,
 we&apos;ve already talked about, display, line height, background URLs, we
 were able to make something that I think looks really cool for a simple,
-vertical navigation bar. Go ahead and try it. Good luck.
+vertical navigation bar. Go ahead and try it. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-03">04-03 Accessible Navigation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image380.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image380.png" 
+  alt="4-03. Accessible Navigation Menu."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-In this lecture we&apos;re going to be talking about accessible navigation.
+<p>In this lecture we&apos;re going to be talking about accessible navigation.
 I know that this course is mostly about CSS, but I always like to pop in
 and remind you of the different things you need to think about as
 you&apos;re styling your pages. Navigation is really the most critical
 aspect of accessibility. If people can&apos;t navigate through your page and
 get to the content they really need to get to, then you&apos;ve really just
-wasted their time and some of yours.
+wasted their time and some of yours.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 381. navigation contents - visual cues (199) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image381.png" 
+  alt="Navigation contents - visual cues."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image381.png){width="4.0in"
-height="2.243589238845144in"}
-
-So, cited users have these kind of tried and true things that they look
+<p>So, cited users have these kind of tried and true things that they look
 for on a page. They know what a search box is. They know where the
 banner usually goes. Where the main navigation is. And it's not
 surprising to them that often the main content, in what we call the
 content well, is hidden down lower in a page. And we know this because
-we can see it just as soon as we open up the browser.
+we can see it just as soon as we open up the browser.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 382. navigation contents - low visual-user cues (200) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image382.png" 
+  alt="Navigation contents - low visual-user cues."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image382.png){width="4.0in"
-height="2.243589238845144in"}
-
-But for blind or low vision-users, they really need to rely on proper
-coding of the page in order to get to what they want to get to. And not
-just the proper coding, but there are a lot of stylistic issues you need
-to think about when you&apos;re doing this.
-
-![](./images/image383.png){width="4.0in"
-height="2.243589238845144in"}
+<p>But for blind or low vision-users, they really need to rely on proper coding of 
+the page in order to get to what they want to get to. And not just the proper coding, 
+but there are a lot of stylistic issues you need to think about when you&apos;re 
+doing this.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 383. title and heading placement (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image383.png" 
+  alt="Title and Heading placement."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What if you can&apos;t see? The first place that you get information is from
 the title of the page. You want to make sure that your title is short
@@ -5809,9 +5928,14 @@ We also want to think about your links. Because when you have the links
 to the different sites in your page, those descriptions are all that
 people have going for them. So, you don&apos;t want to use Click Me, Follow
 Me Here. You want to give good information in those link descriptions.
-
-![](./images/image384.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 384.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image384.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, we need to talk about proper heading hierarchy, okay? Headings
 need to be nested in order to really provide structure, so you
@@ -5819,9 +5943,14 @@ shouldn&apos;t have h3 headings before you have h2 headings. You should only
 have one h1 heading. You shouldn&apos;t jump from h2 to h4. Instead, you
 really want to follow a certain kind of order so that people can realize
 that there is meaning behind your page.
-
-![](./images/image385.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 385.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image385.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here&apos;s an example right here. I have my single h1 heading, and then in
 this page, I can imagine that I have three sections. Each one of those
@@ -5844,8 +5973,14 @@ using the tag, you should be styling other tags to replicate that look.
 Find out which font family they use. Find out which font size. Just
 repeat it. Don&apos;t use tags just because you like the way they look.
 
-![](./images/image386.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 386.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image386.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The other thing you can think about to help navigation, is this idea of
 off-page headings. It&apos;s useful to do when you want to give the screen
@@ -5853,8 +5988,14 @@ reader user some sort of navigational aid, but you don&apos;t want to put it
 right in the page and have your sighted users also have to deal with it
 all the time.
 
-![](./images/image387.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 387.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image387.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, let me give you an example of this one. We&apos;re going to use styling
 sheets to basically set something offpage, we&apos;ve given it the name of
@@ -5862,22 +6003,40 @@ offpage, and we&apos;ve said, hey, I want to place this in a position
 absolute off to the left by -1000px. So, you&apos;ll know that that&apos;s
 pretty far off.
 
-![](./images/image388.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 388.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image388.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I have here the University of Michigan Human Resources page. And if you
 look up near the top, there&apos;s really nothing there, up here in the top
 corner. But what I&apos;m going to do, is I&apos;m going to go ahead and hit
 Tab. And, what Tab does, is it brings the next element into focus.
 
-![](./images/image389.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 389.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image389.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, go ahead and Tab, there. And you can see, that now, there&apos;s this
 new thing here that says Skip to main content.
 
-![](./images/image390.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 390.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image390.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If I click on it, I go all the way down, and I was able to skip a lot of
 this additional information that they didn&apos;t really need to see. It was
