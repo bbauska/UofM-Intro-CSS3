@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "11/07/2023 9+pm"
+date last editted: "11/08/2023 12+pm"
 output: 
   markdown:
     with_style
@@ -98,7 +98,7 @@ an element that has the mouse hovering over it) and pseudo-elements
 (e.g., the first-letter of a heading, the first line of a paragraph).
 These elements are not difficult to style, but do require careful
 coding. It is also the first step to adding simple animation to your
-site. We end this week with the subject of positioning \-- how to get
+site. We end this week with the subject of positioning &#45;&#45; how to get
 elements to stick to a certain part of your page. Think about annoying
 pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
@@ -148,7 +148,7 @@ and accessibility.
 
 If you would like to do more now that you have finished this course, I
 have a few recommendations. The most important thing is that you
-continue to practice your skills and always have \"something\" that you
+continue to practice your skills and always have &quot;something&quot; that you
 are working on.
 
 <h2 id="syllabus">i. Syllabus</h2>
@@ -158,7 +158,7 @@ are working on.
 Welcome to Introduction to CSS3. CSS stands for Cascading Style Sheets,
 a method of styling your HTML documents with various colors, fonts,
 layouts, and spacing. But that is just the beginning. You can also do
-some \"cool\" stuff such as creating transitions or adding animations.
+some &quot;cool&quot; stuff such as creating transitions or adding animations.
 There are so many things you can do with CSS, that we focus on the
 following:
 
@@ -197,7 +197,7 @@ replay other videos to clarify the material.
 
 You may find that you can speed the videos up and still retain the
 information. On the other hand, my mom is always telling me I talk too
-quickly\... so you may find that you prefer to slow the videos down. The
+quickly&#46;.. so you may find that you prefer to slow the videos down. The
 important thing is to find something that works well for you. Use the
 in-­video quizzes to help you gauge how your learning is going.
 
@@ -222,7 +222,7 @@ skills.
 <h3 id="quizzes">Quizzes</h3>
 
 The first three modules will each have a graded quiz. These quizzes are
-intended to reinforce your confidence in the material, not \"trick\"
+intended to reinforce your confidence in the material, not &quot;trick&quot;
 you. As often as possible each question will be linked to a specific
 lecture or reading. You can take the quizzes as many times as you like,
 but there is a limit on how many times you can take each quiz in a
@@ -322,7 +322,7 @@ allowed. Academic dishonesty can be defined as:
 Questions and discussion of course material should take place within the
 course itself. Please do not contact instructors or teaching assistants
 off the platform, as responding to individual questions is virtually
-impossible. We encourage you to direct your questions to \[forum\],
+impossible. We encourage you to direct your questions to &lbrack;forum&rbrack;,
 where your question might be answered by a fellow learner or one of our
 course team members. For technical help please contact the [Coursera
 Learner Help Center](https://learner.coursera.help/hc/en-us)/ [edX Help
@@ -628,7 +628,7 @@ This tutorial can be found at
 This is a great resource for a lot of my students. I particularly like
 that the author uses CodePen. This is a great feature that lets you
 open, edit, and run the code as you learn about it. The lesson
-\"Building Your First Page\" gives a brief overview of HTML and the
+&quot;Building Your First Page&quot; gives a brief overview of HTML and the
 structure of pages. I am going to assume you already know about that,
 but it is a good refresher. The second part of this reading explains
 many of the key terms that I will be using throughout this course.
@@ -689,7 +689,7 @@ but I want to make it pretty.
 
 How they did this is they added style attributes. In this case, I&apos;ve
 taken an h1 tag and added the style attribute and simply said
-**[\"color:blue\"]** And what this is going to do is it&apos;s going
+**[&quot;color:blue&quot;]** And what this is going to do is it&apos;s going
 to make this particular h1 heading have blue font to it. It&apos;s very
 simple. It&apos;s a nice way to just go in and add simple styling to your
 page. However, this still kind of breaks our rule of wanting to separate
@@ -774,7 +774,7 @@ different colors, but instead everything&apos;s white or everything&apos;s red.
 It gives you this hint that you&apos;ve messed up on your rule syntax. In
 the same line, I want to put comments in to help you debug and explain
 to yourself what you&apos;re doing. This is how comments are done in CSS.
-You just do the /\*, \*/ again.
+You just do the /&ast;, &ast;/ again.
 
 What happens if you want to do more than just one property? What if
 instead of saying just you want the color to be blue, you also want the
@@ -1711,8 +1711,7 @@ and we have small-caps. People use this quite a bit when they&apos;re trying
 to do very consistent and yet somewhat fancy look to it. Here I&apos;ve said
 again, always using h1, I want my font variant to be small-caps. Now
 when you look at my text, my h1 text down at the bottom, I&apos;ve written
-\<h1\>Small caps variation.
-
+&lt;h1&gt;Small caps variation.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 71.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1726,7 +1725,6 @@ But when the browser displays it, it&apos;s going to display it in small
 caps. This keeps you from having to go back and forth to remembering to
 change all your text to uppercase or lowercase. It doesn&apos;t matter how
 you write it; the browser will always show it in uppercase.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 72.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1745,18 +1743,16 @@ extra-small, small, and smaller. I don&apos;t really like those very much,
 because it doesn&apos;t really give me a frame of reference. You can have
 medium, you can have large, extra-large, xx-large, and larger. Very few
 people use these options, but they&apos;re out there so I wanted to tell you
-what they were. Instead, what many people use is they use pixels. I&apos;m
-going to include on the website this nice kind of table for you that
-relates how many pixels to an inch, how many pixels to picos, so you can
-get a feel for it. But most people do something along the lines of 20
-pixels, 35 pixels, 80 pixels. And this is a very consistent look and
-it&apos;s something that people can kind of feel what it should look like.
-However, I tend to use percentages instead. Percentages are going to
-allow us to change the font size as we resize the screen much more
+what they were. Instead, what many people use is pixels. I&apos;m
+going to include on the website this nice table that relates how many pixels to 
+an inch, how many pixels to picos, so you can get a feel for it. But most people 
+do something along the lines of 20 pixels, 35 pixels, 80 pixels. And this is a 
+very consistent look and it&apos;s something that people can kind of feel what 
+it should look like.  However, I tend to use percentages instead. Percentages 
+are going to allow us to change the font size as we resize the screen much more
 easily. So, if you were to say use 100% it&apos;s going to be the default
 size. If you say use 110% it will be slightly larger. If you were to use
 75%, it&apos;d be three-quarters the size.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 73.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1771,7 +1767,6 @@ is the color of the foreground, which is the fancy word for just the
 text itself. All right. The background-color is the color of the
 background behind the font that we&apos;re looking at. And depending on what
 kind of text you&apos;re styling; it can look very different.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 74.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1795,8 +1790,14 @@ for the h1, the block element, the background color covers the whole
 width of the page. But for span, for inline elements, the background
 color only goes around just the element and the text itself.
 
-![](./images/image075.png){width="4.0in"
-height="2.261111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 75.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image075.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next let&apos;s talk about aligning text. Aligning text is simple. It&apos;s
 probably one of the easiest things you can do in HTML. And you&apos;re going
@@ -1809,46 +1810,82 @@ center, and justify. Center everything as much as you, along the middle
 of that division. Justify tries to spread it out to use as much space as
 possible.
 
-![](./images/image076.png){width="4.0in"
-height="2.261111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 76.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image076.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So let me show you some examples because that&apos;s really the best way to
 understand what&apos;s going on here. Here I&apos;ve got a left alignment.
 Everything lines up along the left-hand side of the screen.
 
-![](./images/image077.png){width="4.0in"
-height="2.261111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 77.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image077.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The next one I&apos;ve used text in line equals right. And you can see that
 everything is lined up to the right. It looks really weird. There are
 very few reasons you&apos;re going to use this. Unless you have something
 else kind of going along in the side 7in the middle here.
 
-![](./images/image078.png){width="4.0in"
-height="2.261111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image078.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The next one we&apos;re going to do is center. People use center quite a
 bit. They almost use it too much, but it is a nice way to kind of break
 up your text and have it look a little bit different.
 
-![](./images/image079.png){width="4.0in"
-height="2.261111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image079.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Justify is really hard to explain, and even when you first look at it,
 you might not notice what&apos;s going on. But with justify, the browser is
 putting in little bits of extra space to kind of help you spread it out
 so it has the exact same width all the way along.
 
-![](./images/image080.png){width="4.0in"
-height="2.261111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image080.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I&apos;m going to show you the justified with the left. And I think that&apos;s
 the best way to kind of see the difference, is that you basically don&apos;t
 have the empty space here. They&apos;ve kind of spread it out over here, so
 no one place has too much blank space.
 
-![](./images/image081.png){width="4.0in"
-height="2.2645297462817147in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image081.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, we&apos;re going to talk about line height, and line height is really
 different because it&apos;s not affecting the font itself. It&apos;s not
@@ -1865,9 +1902,14 @@ where I can show you exactly how these things would look. Or even
 better, I&apos;m just going to turn this into a teachable moment and have
 you go in there and type it yourself and look at how these two different
 rules affect the text.
-
-![](./images/image082.png){width="4.0in"
-height="2.2645297462817147in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image082.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s review. I know I went over a lot of things, and it can be
 overwhelming. One of the most important things is with everything we do
@@ -1902,7 +1944,7 @@ I am always going to choose the way that most closely illustrates our
 most recent lectures.
 
 If you are an experienced web designer you may certainly prefer a
-different method, probably even a \"better\" method. But for now, I am
+different method, probably even a &quot;better&quot; method. But for now, I am
 going to stick to the most basic of properties. I encourage you to post
 in the discussion sections if you want to share alternate methods.
 
@@ -1919,9 +1961,14 @@ Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-05">01-05 Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image083.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image083.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi, everybody, welcome back. One of the things I really want to stress
 in this Introduction to CSS course Is that there&apos;s this need to stop
@@ -1933,8 +1980,14 @@ stop, go get that, and code along together with me because just
 listening with me doesn&apos;t really give you the true experience you need
 to type it in and make mistakes as we go along together.
 
-![](./images/image084.png){width="4.0in"
-height="2.2055555555555557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 84.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image084.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Okay, so let&apos;s go ahead and begin. What I&apos;m going to do in this video
 is I&apos;m going to go back to an oldie but a goodie that we did in HTML
@@ -1942,8 +1995,14 @@ five. And I want us to go in together and style it. Alright, let&apos;s
 start by making our CSS file. I&apos;m going to go ahead and create a new
 one now, go up here to file, new file, or you can do command N.
 
-![](./images/image085.png){width="4.0in"
-height="2.2055555555555557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 85.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image085.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And the first thing you want to do is you want to save this as a .CSS
 file, so then that way your editor knows to color things the way you
@@ -1955,8 +2014,14 @@ I&apos;m going to go into my CSS folder. And I&apos;m going to call it
 together-1.css. It&apos;s really important that you remember to put that
 file extension, or things aren&apos;t going to work.
 
-![](./images/image086.png){width="4.0in"
-height="2.256410761154856in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 86.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image086.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, so here&apos;s my old, boring page. What people typically do is
 they style from the top of the page and work their way down. I want you
@@ -1974,8 +2039,14 @@ didn&apos;t link the style sheet correctly to the HTML file. Remember how I
 told you I always think put things in a folder called CSS? I need to
 include that. All right, come back. Reload.
 
-![](./images/image087.png){width="4.0in"
-height="2.2055555555555557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 87.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image087.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Oh, hey! I've got a little bit of something going on there. All right?
 So, now let's go ahead and just add a few more things. I know it doesn't
@@ -1986,8 +2057,14 @@ like. And I&apos;m going to pick background: I think I have 66666, all
 right. And let&apos;s go ahead and I really want to align that text. I&apos;m
 going to call it text-align: center. Save, refresh.
 
-![](./images/image088.png){width="4.0in"
-height="2.256410761154856in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image088.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The page is starting to look slightly different all the time. Now the
 one thing that&apos;s confusing me is it doesn&apos;t appear to like my
@@ -2009,8 +2086,14 @@ Roman. If you have a font that&apos;s made up of multiple words, you need to
 put them inside the quotes. And then finally just Serif. Let&apos;s see what
 happened.
 
-![](./images/image089.png){width="4.0in"
-height="2.2055555555555557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image089.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can see I&apos;m going to make it a little bit bigger, we&apos;re starting
 to get there. Let&apos;s go ahead and just style a few more things together,
@@ -2027,9 +2110,14 @@ It&apos;s starting to look much different. This isn&apos;t a lot of style. It&ap
 only one, two, three, four, five. Five rules and we already have a much
 different look. I&apos;m going to go ahead and make the screen smaller
 because when I put in that font size 150%, it makes a big difference.
-
-![](./images/image090.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 90.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image090.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right. One last thing I&apos;d like you to try to do is go ahead and try
 to style the summary in the details. Because if I want to make just the,
@@ -2040,7 +2128,8 @@ details tag and if you haven&apos;t seen it before, I put the word open in
 which means by default show it is open, so no one has to click on it.
 I&apos;ve got my details. I&apos;ve got my summary where the My Childhood part
 came up, and then I have all this part. If you want to make those
-italics, and only those, how do you do it? All right. What we&apos;re going
+italics, and only those, how do you do it? All right. 
+What we&apos;re going
 to start with, is we are going to style the details tag. And I&apos;m going
 to scroll up here a little bit so you guys can see a little better,
 hopefully. And what I&apos;m going to say is I want to make everything
@@ -2052,8 +2141,14 @@ summary in italics. How you make it so it&apos;s not italics, by default
 most things aren&apos;t, you can actually put in the word normal. All right.
 So that&apos;s it.
 
-![](./images/image091.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 91.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image091.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now we&apos;ve got this part in italics and this part in bold. For the most
 part we&apos;re finished but I am going to add one little thing, because
@@ -2065,8 +2160,14 @@ go. What we&apos;ve done now is we&apos;ve gone from a very simple, basic HTML
 file and we&apos;ve started adding just a little bit of color, a little bit
 of font size, a few different things like that.
 
-![](./images/image092.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 92.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image092.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let me show you what the original file looked like again and we&apos;ll look
 at them next to each other. I&apos;ll comment out my style sheet. I&apos;ll open
@@ -2077,21 +2178,31 @@ here, come back and watch me, if it helps you out a little bit getting
 over humps. But the important thing is, code, code, code, good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-06a">01-06a Display and Visibility, Part 1</h2>
+<h2 id="week1-6a">1.6a Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-
-![](./images/image093.png){width="4.0in"
-height="2.243589238845144in"}![](./images/image094.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 93/94. 1.6a/b. display and visibility (part 1 and 2) (55) ~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image093.webp?raw=true"
+  alt="Display and Visibility (part 1)."
+  style="width:35%" />
+<img class="displayed"
+  src="./images/image094.webp"
+  alt="Display and Visibility (part 2)."
+  style="width:35%" />
 
 Hi, today we&apos;re going to be talking about Display and Visibility on
 Your Webpage. Now when it comes time to making your page, again and
 again I&apos;m going to tell you that laying out where you want things to be
 is key to a really effective page.
-
-![](./images/image095.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 95. display is key to layout (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image095.png" 
+  alt="Display is Key to Layout."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And one of the things you need to remember is that every element we look
 at is basically a box. And the box model is something we&apos;re going to
@@ -2102,9 +2213,15 @@ we begin, I just want to remind you every element on your page is a box.
 Just think of it that way. And display is how you can decide whether the
 boxes should be next to each other, underneath each other, and different
 things like that.
-
-![](./images/image096.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. display: inline (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image096.png" 
+  alt="Common Values; Inline: sits next to other elements &amp; takes up 'just 
+    enough' width and height."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When we talk about display, there&apos;s some common values that pretty much
 everyone uses or they&apos;re just a default so you&apos;ve been using it
@@ -2114,9 +2231,14 @@ you&apos;re putting them on the page. I think of these as my good children
 in the minivan elements. It&apos;s fine if I want to put three kids in the
 backseat. They&apos;re not going to elbow each other, they&apos;re just fine.
 They&apos;re going to get along.
-
-![](./images/image097.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97. display: block; default (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image097.png" 
+  alt="Display: block; default takes up all width but just enough height."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The other type of display is block. And what block does is it forces a
 line break in between your elements. Again, with my example, I&apos;ve got
@@ -2124,9 +2246,14 @@ one kid who really just can&apos;t sit next to anybody else. I have to put
 them in their own row. Even though she&apos;s really tiny and she doesn&apos;t
 take up that much space, she has a whole row all to herself when we&apos;re
 driving in the car.
-
-![](./images/image098.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 98. display: block; forces line break (57) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image098.png" 
+  alt="Display: block; forces line break."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What&apos;s nice about block elements is, while they take up all of the
 horizontal width and just enough height, you can go in and you can set a
@@ -2139,9 +2266,14 @@ If it&apos;s inline, that&apos;s all you get. With block you have a little bit
 more flexibility, but you do have the problem that you&apos;re reserving a
 lot of space. So of course, what we came up with is this idea of
 something that takes the best of both.
-
-![](./images/image099.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99. display: inline-block (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image099.png" 
+  alt="Display: inline-block; same as inline but also accepts height and width."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And this is inline-block. Elements that have display inline-block are
 going to be the same as inline and that they can be next to each other,
@@ -2152,9 +2284,14 @@ inline-block, and then you can give it a height and a width. And if you
 have something that&apos;s block and you want two of them next to each,
 again, no problem. Change them to inline-block and you can set the width
 and height.
-
-![](./images/image100.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The fourth one which we don&apos;t really use as much is the idea of display
 none. And what happens here is if you have an element on your page and
@@ -2531,11 +2668,9 @@ your different options. And it&apos;s going to make your coding life so much
 easier. We want to avoid save refresh, save refresh. Instead, use those
 tools and you&apos;ll find that you&apos;re making really good decisions in your
 design and your code. Thanks.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-07">01-07 Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ## Code Placement - read
 
 When you write code, it is important to get into the good habits of
@@ -2556,7 +2691,7 @@ height="1.304757217847769in"}
 When we use CodePen we use that idea of separating our code. However, be
 aware that CodePen doesn&apos;t require many of the things you should have
 in your code. For instance, in the HTML files it ignores all of the
-information in the **[\<head\>]** section. If you develop in
+information in the **[&lt;head&gt;]** section. If you develop in
 CodePen, make sure to test your code later using the proper folder/file
 structure. You will need to include links to the style sheets and
 images.
@@ -2574,12 +2709,12 @@ My css folder is in the SAME directory as my html files.
 
 My link will be:
 
-\<link rel=\"stylesheet\" href=\"css/style.css\"\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;css/style.css&quot;&gt;
 
 It is important that you even use the proper case. Because on some
 computers it matters and this would not work**:**
 
-\<link rel=\"stylesheet\" href=\"CSS/style.css\"\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
 ## 01.07, cont'd: Homework One Description - read
 
@@ -2588,7 +2723,7 @@ computers it matters and this would not work**:**
 ![](./images/image128.png){width="4.0in"
 height="2.263248031496063in"}
 
-\*\*This homework is also described in a video lecture. Make sure to
+&ast;&ast;This homework is also described in a video lecture. Make sure to
 watch it to get a better feel for what I am looking for.
 
 ### Objectives:
@@ -3716,11 +3851,9 @@ practice, run into problems, get some help and keep going. As you do
 more and more web design, I&apos;m hoping that you&apos;re gaining the
 confidence to help make something really cool that you&apos;re going to
 proud of. So, stick in there. Thanks.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-04">02-04 Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./images/image217.png){width="4.0in"
 height="2.22991469816273in"}
 
@@ -3785,7 +3918,7 @@ height="2.136751968503937in"}
 
 Let&apos;s see an example really quickly here just on the screen of how it
 works. In my HTML, I would go ahead and put in my source, my alt tag,
-but also id=\"mainLogo\". Then, in my style sheet, using the \# symbol
+but also id=&quot;mainLogo&quot;. Then, in my style sheet, using the &#35; symbol
 along with the id name, the browser&apos;s going to know, oh, whenever I see
 one of those images, I want to make sure I add this border and this
 margin.
@@ -3805,7 +3938,7 @@ but you want a lot of them to be.
 height="2.136751968503937in"}
 
 You would write this code in a very similar manner. Over here in my
-HTML, I have class=\"thumb\", class=\"thumb\", class=\"thumb\". And in
+HTML, I have class=&quot;thumb&quot;, class=&quot;thumb&quot;, class=&quot;thumb&quot;. And in
 my CSS, instead of using the #, you need to make sure you use the period
 or dot, along with the class name, and then you can give it any rules.
 And this way, the page is going to go through and know that in addition
@@ -3822,11 +3955,11 @@ for ids. You can&apos;t mess up on this, because the browser will not fix it
 for you if you put the wrong thing in front of your class or id name.
 
 You want to remember that classes can be used multiple times. It makes
-sense in your HTML code to see class=\"thumb\", class=\"thumb\",
-class=\"thumb\" because it&apos;s not supposed to be a specific part of the
+sense in your HTML code to see class=&quot;thumb&quot;, class=&quot;thumb&quot;,
+class=&quot;thumb&quot; because it&apos;s not supposed to be a specific part of the
 page. With ids, it should be unique, you should only see id equals, for
 instance, header, which we&apos;re not even using once. You should only see
-id=\"main section\" once.
+id=&quot;main section&quot; once.
 
 So again, let&apos;s think of images and navigation bars. It&apos;s very common
 that you want to format numerous, but not all the images the same way.
@@ -3864,7 +3997,7 @@ height="1.8696576990376204in"}
 
 Go from this to this. You can see that only the links that are inside my
 navigation bar are styled. This one was left the same. And the one where
-I have class=\"current\" does look different from the others. It&apos;s
+I have class=&quot;current&quot; does look different from the others. It&apos;s
 really simple to use these things, you just need to know about them.
 
 As your pages get more advanced, you&apos;re going to want to narrow the
@@ -3914,7 +4047,7 @@ everything on your page. Sometimes, it&apos;s nice for debugging.
 The next one you might want to think about using are what we call
 attribute selectors. Instead of going on the tags, you go on the
 attributes that go inside the tags. In this case, it would want to style
-every link where you have href=\"info.html\", and I&apos;ll do a quick
+every link where you have href=&quot;info.html&quot;, and I&apos;ll do a quick
 example of that in just a second. But before I do that, I wanted to
 mention two more that we&apos;ll be looking at later, which are
 pseudo-classes and pseudo-elements. Just another level of distinguishing
@@ -4044,10 +4177,10 @@ is shorthand for
 > **border-style: solid;**
 
 So, when I switch back-and-forth between background and background-color
-I am doing the same sort of thing\...using the shorthand. What other
+I am doing the same sort of thing&#46;..using the shorthand. What other
 things can go in the background property? Here is an example:
 
-> ** background: #00ff00 url(\"imgs/ocean.jpg\") no-repeat fixed center;**
+> ** background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;**
 
 This rule sets:
 
@@ -4557,7 +4690,7 @@ this:
 height="1.1347222222222222in"}
 
 But if your style sheet is trying to link to a picture called
-\"ocean.jpg\" in your images folder, how can you link them together?
+&quot;ocean.jpg&quot; in your images folder, how can you link them together?
 
 Neither of these first two options will work since there is no file
 called ocean in the css folder, and the images folder isn&apos;t in there
@@ -4567,8 +4700,8 @@ either.
 >
 > background-image: url(&apos;images/ocean.jpg&apos;)
 
-Instead, your code needs to tell the browser to \"go up\" one folder and
-start looking from there. The \"../\" part of the code will do just
+Instead, your code needs to tell the browser to &quot;go up&quot; one folder and
+start looking from there. The &quot;../&quot; part of the code will do just
 that:
 
 > background-image: url(&apos;../images/ocean.jpg&apos;)
@@ -4765,12 +4898,12 @@ information you want to get out on the web. Good luck.
 
 Prior to HTML5 it was a given that each page should have at most one h1
 heading. However, when HTML5 introduced the many semantic container
-elements (section, article, main, aside, \...) the role of the
+elements (section, article, main, aside, &#46;..) the role of the
 h1changed. The article linked here makes some excellent points on how
-using more than one \<h1\> tag can increase the search engine
+using more than one &lt;h1&gt; tag can increase the search engine
 performance of your page, as well as enhance accessibility:
 
-[http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era\--webdesign-16824.](%20http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.)
+[http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era&#45;-webdesign-16824.](%20http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-08">02-08 Homework Two Description</h2>
@@ -4778,7 +4911,7 @@ performance of your page, as well as enhance accessibility:
 
 ### Homework Two: Advanced Selectors
 
-\*\*This homework is also described in a video lecture. Make sure to
+&ast;&ast;This homework is also described in a video lecture. Make sure to
 watch it to get a better feel for what I am looking for.
 
 ### Objectives:
@@ -4829,7 +4962,7 @@ is all still the same.
     text-decoration, and padding
 
 -   The link to the current page should be styled differently from the
-    other links (using class = \"active&apos;)
+    other links (using class = &quot;active&apos;)
 
 -   The sections should be next to each other, not one on top of the
     other.
@@ -6682,10 +6815,10 @@ successfully. Thanks.
 
 ### OPTIONAL: A Change to the Accessibility of Headings
 
-It used to be that the general rule was one \<h1\> heading per page.
+It used to be that the general rule was one &lt;h1&gt; heading per page.
 However, with the advent of HTML5 and its many container elements
 (aside, section, article, etc.) this rule has changed. Here is a link to
-an interesting article that explains why multiple \<h1\> headings will
+an interesting article that explains why multiple &lt;h1&gt; headings will
 probably improve the accessibility ***and*** search engine optimization
 of your page.
 
@@ -6951,7 +7084,7 @@ is both beautiful and accessible. Good luck.
 
 ### Final Project Description
 
-\*\*This homework is also described in a module lecture (4-07 below).
+&ast;&ast;This homework is also described in a module lecture (4-07 below).
 Make sure to read it to get a better feel for what I am looking for.
 
 ### Objectives:
@@ -6999,7 +7132,7 @@ all still the same.
 
     -   Change the opacity of a row when it is hovered over
 
-    -   The table elements \<td\> should be styled using at least four
+    -   The table elements &lt;td&gt; should be styled using at least four
         properties
 
 ***I have included a video you can watch to see a live demo of this new
@@ -7377,4 +7510,4 @@ great in CSS 3.
   width="40%;" />
 </p>
 -->
-<h6)Last Updated: 11/07/2023 5:48pm</h6>
+<h6)Last Updated: 11/08/2023 12:13pm</h6>
