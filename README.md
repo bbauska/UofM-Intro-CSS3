@@ -1033,10 +1033,10 @@ H1 headings, and it should handle both. Now there&apos;s nothing in here
 anymore, my tag is all by itself. And if you look at the result, let&apos;s
 go over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 29.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 29. internal style example - red paragraphs and blue h1 (24) ~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image029.png" 
-  alt="."
+  alt="Internal style example with red paragraphs and blue h1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1044,9 +1044,14 @@ go over here.
 You can see that now, even though my HTML doesn&apos;t have any type of
 styling in at all, both of the paragraphs are red over here and so&apos;s
 the heading. All right?
-
-![](./images/image030.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 30. external style example - red paragraphs and blue h1 (24) ~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image030.png" 
+  alt="External style example with red paragraphs and blue h1."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The last example I had for you is, I took these exact same rules and I
 put them off into an external style sheet. Again, there&apos;s no style tag
@@ -1060,16 +1065,26 @@ be kind of organized into different parts. Again, in the same way, I now
 have a page that uses external style sheets and looks really good. All
 this code is going to be available for you to look at it, but I want you
 to kind of play with it as much as you can.
-
-![](./images/image031.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 31. styled heading to show how cascade works (25) ~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image031.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But I want to use this final example to help you understand how the
 cascading works. Right here, I have my external style sheet. I&apos;m going
 to go over here for just a second. Go to my, and I&apos;m going to add,
-
-![](./images/image032.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 32. awkward styled heading (25) ~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image032.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One last thing. Sorry, this is going to be awkward. And I&apos;m going to
 say you know what? Instead, I want that font to be black again, and I
@@ -1077,9 +1092,14 @@ end it. I&apos;m going to show you what happens when you mess up really
 quickly. I&apos;m going to save it; I&apos;m going to reload my page and
 everything disappeared. This was what I was talking about. You really
 want to make sure you include that style tag. Do it.
-
-![](./images/image033.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 33. external and internal style sheets (25) ~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image033.png" 
+  alt="Both external and internal style sheet example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Make sure you close it up. All right. Now what I have going on here is
 my browser has its browser default. It has an external style sheet, and
@@ -1089,9 +1109,14 @@ can see, it&apos;s black. As you start styling, it&apos;s going to be very
 important that you look at different ways for separating your content
 from your formatting. As well as looking at the different ways that you
 can do that formatting.
-
-![](./images/image034.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 34. review style sheets - internal & external (26) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image034.png" 
+  alt="Review - Both external and internal style sheet example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One of the first things I want you to think about is how this idea of
 external and internal style sheets really plays into the separation of
@@ -1101,30 +1126,53 @@ to start with really simple examples to help you solidify what&apos;s going
 on with CSS. I&apos;m just going to end this now with a brief demo from an
 example they have at csszengarden.com because I think it really brings
 home the idea that CSS can be very powerful. Let&apos;s take a look.
-
-![](./images/image035.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. css zen garden (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image035.png"
+  alt="CSS Zen Garden example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 At this site, CSS Zen Garden, they&apos;ve actually done a really great job
 of showing all the different ways you can format an exact same file but
 in different ways.
 
-![](./images/image036.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. css zen garden, #2 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image036.png"
+  alt="CSS Zen Garden example, #2"
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Up here, if you take a look, you can see that this is one person&apos;s
 style sheet for decorating or styling this document. Now, without
 changing any of the HTML at all, someone else came in and said, hey, you
 know what, that&apos;s nice, but I&apos;m going to style it this way.
 
-![](./images/image037.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. css zen garden, #3 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image037.png"
+  alt="CSS Zen Garden example, #3."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 It looks completely different. It&apos;s the same exact HTML but it looks
 completely different.
 
-![](./images/image038.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. css zen garden, #4 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image038.png"
+  alt="CSS Zen Garden example, #4."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In the same way, we&apos;ve got this one right here, same exact HTML. But
 you couldn&apos;t look any different, because they&apos;ve added some CSS and
@@ -1136,9 +1184,13 @@ want your page to look. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-03">01-03 Colors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image039.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image039.png"
+  alt="Module 01-03: Colors"
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi. In today&apos;s lecture, we&apos;re going to be talking about colors. Before
 I really jump in, though, I just want to remind you that I&apos;m a computer
@@ -1150,9 +1202,14 @@ color schemes are going to be. I&apos;m going to direct you to different
 places online and let you use your own expertise to kind of figure out
 what goes best with each other. But let&apos;s begin with how we use colors
 on your web page.
-
-![](./images/image040.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40. color conventions (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image040.png"
+  alt="Color Conventions."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 We talk about the three different basic color conventions, the main ones
 that people use. Conventions is just another word for suggestions. It&apos;s
