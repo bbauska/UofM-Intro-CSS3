@@ -356,7 +356,7 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-01">01-01 Course Welcome/Overview</h2>
+<h2 id="week1-1">1.1. Course Welcome/Overview</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -638,7 +638,7 @@ lectures. Or better yet, read this first, watch the lectures, and then
 review the material again, but this time play with the code to see if
 you can change the pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-02">01-02 Cascade Style Sheets</h2>
+<h2 id="week1-2">1.2. Cascade Style Sheets</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 10. intro to cascading style sheets 3 (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1177,7 +1177,7 @@ course. You&apos;re going to be messing up a lot in this course. But I
 can&apos;t wait for you to develop something that really reflects how you
 want your page to look. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-03">01-03 Colors</h2>
+<h2 id="week1-3">1.3. Colors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1546,12 +1546,12 @@ to play with these different design elements of your page. And I hope
 that you&apos;ve learned something here that&apos;s useful as you continue
 programming, and keep styling your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-04">01-04 Styling Your Text</h2>
+<h2 id="week1-4">1.4. Styling Your Text</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. 1.4 styling your text (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image062.png" 
-  alt="."
+  alt="1.4 Styling Your Text."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1562,10 +1562,11 @@ look a little bit different than the standard default is to think about
 how you might want to style your text to bring maximum impact. So many
 options and we&apos;re going to talk about some of them today.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. options for styling text (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image063.png" 
-  alt="."
+  alt="Options for styling your text include font, color, background, alignment 
+    &amp; line-height."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1578,16 +1579,16 @@ finally, we&apos;re going to talk very briefly about line-height. These are
 all four things that you can do to just really kind of highlight or
 emphasize the different things you would like your style to bring about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 64. font-family (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image064.png" 
-  alt="."
+  alt="font-family."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-First let&apos;s talk about font family. Font families are just different
-types of text. If you&apos;ve used Word before, you&apos;ve gone in, you&apos;ve
+First let&apos;s talk about font family. Font families are just different types 
+of text. If you&apos;ve used Word before, you&apos;ve gone in, you&apos;ve
 gone to font family and you can pick Arial or Wingdings or all these
 different types of fonts. You can do the same things on your webpage.
 I&apos;ve got a couple of examples up here for you of the more common. You
@@ -1600,10 +1601,10 @@ ones because I wanted to show you that some are a single word, such as
 Helvetica. But Comic Sans MS is multiple words, so I had to put it
 inside quotes. All right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65. font-family: arial (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image065.png" 
-  alt="."
+  alt="font-family: arial."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1614,10 +1615,10 @@ whenever you see an h1 heading, don&apos;t use the browser default heading,
 instead I want you to use the Arial font. It changes the font slightly
 to look like this example here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 66. font-family alternatives (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image066.png" 
-  alt="."
+  alt="font-family: Courier, Impact, Arial."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1637,10 +1638,10 @@ can&apos;t support it, it will always go back to the browser default. So,
 you don&apos;t need to worry about font disappearing because you gave it a
 bad font family. It&apos;ll always come through.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 67. font-family: use sans-serif when possible (41) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image067.png" 
-  alt="."
+  alt="font-family: two categories; serif and sans-serif."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1656,32 +1657,32 @@ it comes time for someone to blow your page up, and they want to make it
 look bigger. Serif fonts can really get messy, so avoid those whenever
 possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 68. font-family: custom fonts (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image068.png" 
-  alt="."
+  alt="font-family: custom."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-I personally don&apos;t use custom fonts myself, but I&apos;ve never been an
+<p>I personally don&apos;t use custom fonts myself, but I&apos;ve never been an
 artsy type of person. If you do decide that you want to have your own
 font, or some sort of special web-safe custom font, you need to use
-something special here called a font-face rule. And what we do, is you
-can see in the first example, you say, hey, I&apos;m going to define my own
-font-face. I&apos;m going to happen to call it mySpecialFont. You can call
-it anything you want to call it, and then you need to give it a source.
+something special here called a font-face rule.</p>
+<p>What we do, is you can see in the first example, you say, hey, I&apos;m going to 
+define my own font-face. I&apos;m going to happen to call it mySpecialFont. You 
+can call it anything you want to call it, and then you need to give it a source.
 That source, this is a new one you haven&apos;t seen before. We&apos;re not
 using href, we&apos;re not using source, we&apos;re using url. And the url says
-this is where you can find the file that defines my special font. And
-once you do that, once you write the font face rule once, throughout the
-rest of your style sheet you can go ahead and reference it. Now every
-time I use an h1 font, you&apos;re going to use mySpecialFont.
+this is where you can find the file that defines my special font. And once you 
+do that, once you write the font face rule once, throughout the rest of your 
+style sheet you can go ahead and reference it. Now every time I use an h1 font, 
+you&apos;re going to use mySpecialFont.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 69. font-style: italic, normal, oblique (42) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image069.png" 
-  alt="."
+  alt="font-style: italic, normal, oblique."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1698,25 +1699,24 @@ basically, to your font. An oblique is when you really want to be extra
 special and define exactly what angle you want to have your text lean
 towards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 70.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 70. font-variant: normal, small-caps (43) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image070.png" 
-  alt="."
+  alt="font-variant: normal, small-caps."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-The font variant, we really only have two options here. We have normal
-and we have small-caps. People use this quite a bit when they&apos;re trying
-to do very consistent and yet somewhat fancy look to it. Here I&apos;ve said
-again, always using h1, I want my font variant to be small-caps. Now
-when you look at my text, my h1 text down at the bottom, I&apos;ve written
-&lt;h1&gt;Small caps variation.
+<p>The font variant, we really only have two options here. We have normal and we have 
+small-caps. People use this quite a bit when they&apos;re trying to do very consistent 
+and yet somewhat fancy look to it. Here I&apos;ve said again, always using h1, 
+I want my font variant to be small-caps. Now when you look at my text, my h1 text 
+down at the bottom, I&apos;ve written &lt;h1&gt;Small caps variation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 71.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 71. font-variant: small-caps example (43) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image071.png" 
-  alt="."
+  alt="font-variant: small-caps."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1726,10 +1726,10 @@ caps. This keeps you from having to go back and forth to remembering to
 change all your text to uppercase or lowercase. It doesn&apos;t matter how
 you write it; the browser will always show it in uppercase.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 72.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. font-size (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image072.png" 
-  alt="."
+  alt="font-size: xx-small to xx-large &amp; pixels."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1754,10 +1754,10 @@ easily. So, if you were to say use 100% it&apos;s going to be the default
 size. If you say use 110% it will be slightly larger. If you were to use
 75%, it&apos;d be three-quarters the size.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 73.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73. color and background-color (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image073.png" 
-  alt="."
+  alt="color (foreground) and background-color."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1768,10 +1768,10 @@ text itself. All right. The background-color is the color of the
 background behind the font that we&apos;re looking at. And depending on what
 kind of text you&apos;re styling; it can look very different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 74.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 74. colors example (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image074.png" 
-  alt="."
+  alt="colors example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1791,10 +1791,10 @@ width of the page. But for span, for inline elements, the background
 color only goes around just the element and the text itself.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 75.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. text-align (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image075.png" 
-  alt="."
+  alt="text-align: left, right, center, justify."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1811,10 +1811,10 @@ of that division. Justify tries to spread it out to use as much space as
 possible.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 76.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 76. left-align example (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image076.png" 
-  alt="."
+  alt="Text left-align example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1824,10 +1824,10 @@ understand what&apos;s going on here. Here I&apos;ve got a left alignment.
 Everything lines up along the left-hand side of the screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 77.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 77. text inline right example (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image077.png" 
-  alt="."
+  alt="Text inline equals right example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1838,10 +1838,10 @@ very few reasons you&apos;re going to use this. Unless you have something
 else kind of going along in the side 7in the middle here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78. text center example (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image078.png" 
-  alt="."
+  alt="Text inline center example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1851,10 +1851,10 @@ bit. They almost use it too much, but it is a nice way to kind of break
 up your text and have it look a little bit different.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 79. text justify - same width all around (47) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image079.png" 
-  alt="."
+  alt="Text justified means width is same all around."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1865,10 +1865,10 @@ putting in little bits of extra space to kind of help you spread it out
 so it has the exact same width all the way along.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. justified vs left example (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image080.png" 
-  alt="."
+  alt="Text justified vs. left example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1879,21 +1879,22 @@ have the empty space here. They&apos;ve kind of spread it out over here, so
 no one place has too much blank space.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. line-height (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image081.png" 
-  alt="."
+  alt="line-height."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-Next, we&apos;re going to talk about line height, and line height is really
+<p>Next, we&apos;re going to talk about line height, and line height is really
 different because it&apos;s not affecting the font itself. It&apos;s not
 affecting your text. It&apos;s affecting how much space is around your text.
 Some of you may have used Word before, and you can go and just how much
 space there is between the lines. Maybe you want it to be one line, one
-and a half lines, double spaced. That&apos;s what we&apos;re talking about here.
-My first example I said line-height equal 50%. And the next one I said
+and a half lines, double spaced. That&apos;s what we&apos;re talking about here.</p>
+
+<p>My first example I said line-height equal 50%. And the next one I said
 line-height equals 200%. In the first rule, that&apos;s kind of a weird rule
 to write because I&apos;m saying I want things to overlap with each other.
 In the second rule I&apos;m saying I want you to really spread out far.
@@ -1901,12 +1902,12 @@ Oops, all right, I&apos;m going to go ahead and put an example later online
 where I can show you exactly how these things would look. Or even
 better, I&apos;m just going to turn this into a teachable moment and have
 you go in there and type it yourself and look at how these two different
-rules affect the text.
+rules affect the text.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82. review (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image082.png" 
-  alt="."
+  alt="Review (1.4)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1959,7 +1960,7 @@ Un-styled code: <http://codepen.io/ColleenEMc/pen/MaOrmE>
 Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-05">01-05 Code Together</h2>
+<h2 id="week1-5">1.5. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2178,7 +2179,7 @@ here, come back and watch me, if it helps you out a little bit getting
 over humps. But the important thing is, code, code, code, good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-6a">1.6a Display and Visibility, Part 1</h2>
+<h2 id="week1-6a">1.6a. Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 93/94. 1.6a/b. display and visibility (part 1 and 2) (55) ~~~~~~~~~~~~~~~~~-->
@@ -2300,6 +2301,14 @@ that it exists. It&apos;s as if it lifted it up and took it out of the page.
 These four, the inline, the block, the inline-block and the none are the
 ones that we&apos;re really going to start playing with at the beginning.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image101.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2313,6 +2322,14 @@ not make sense when we first talk about it, but I gave each of my spans
 a height and a width. Basically, all my elements, a height and width and
 a different background color.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image102.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2333,6 +2350,14 @@ can follow along with me with what&apos;s inspect element, or you can go
 ahead and change the code in your file, save it, refresh, save it,
 refresh.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image103.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2347,6 +2372,14 @@ big. So how do we change that? If something&apos;s inline, but you want to
 give it a height and a width, we go down to display, and I&apos;m going to
 go here.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image104.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2354,6 +2387,14 @@ And I&apos;m going to try inline-block. Boom, right away my spans have taken
 on those properties. So before when they were inline, they were small.
 When they&apos;re inline block, I can shape them really nicely.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image105.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2366,6 +2407,14 @@ looking at the page that they were ever there. Kind of interesting thing
 to do and you might use it later if you want things to appear some times
 and not others but you don&apos;t want to leave a big white space.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image106.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2389,6 +2438,14 @@ it&apos;s not enough to know what the display is for the one element you&apos;re
 working on, you also need to know the display for its neighbors. But,
 let&apos;s go ahead and talk a little bit more.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image107.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2429,6 +2486,14 @@ just looking at when I was playing with display block, inline, none,
 etc. But now, we&apos;re going to throw float and clear into the mix as
 well.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image108.png){width="3.0in"
 height="1.6897430008748906in"}
 ![](./images/image109.png){width="3.0in"
@@ -2445,6 +2510,14 @@ is I&apos;m just going to float it to the left, which means they&apos;re not
 really going to move too much. What I want you to look for is that right
 now, there&apos;s a little bit of space between each one of my spans.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png" 
+  alt="Display: none; removed from page."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image110.png){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -2493,7 +2566,7 @@ goes on, you&apos;ll start to figure out when you want them to actually do
 these kinds of actions.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-06b">01-06b Display and Visibility, Part 2</h2>
+<h2 id="week1-6b">1.6b. Display and Visibility, Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image114.png){width="4.0in"
@@ -2669,7 +2742,7 @@ easier. We want to avoid save refresh, save refresh. Instead, use those
 tools and you&apos;ll find that you&apos;re making really good decisions in your
 design and your code. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-07">01-07 Homework Description</h2>
+<h2 id="week1-7">1.7. Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Code Placement - read
 
@@ -2996,7 +3069,7 @@ name of each file that they use:
 -   Coding together 3 with No CSS - Classes
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-01">02-01 Box Model</h2>
+<h2 id="week2-1">2.1. Box Model</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image147.png){width="4.0in"
@@ -3365,7 +3438,7 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/yYPppz>
 Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-02">02-02 Code Together</h2>
+<h2 id="week2-2">2.2. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image174.png){width="4.0in"
@@ -3566,7 +3639,7 @@ want. I want your confidence to be very, very high by the end of week
 four that you can do this. So good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-03">02-03 Styling Links and Lists</h2>
+<h2 id="week2-3">2.3. Styling Links and Lists</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image196.png){width="4.0in"
@@ -3852,7 +3925,7 @@ more and more web design, I&apos;m hoping that you&apos;re gaining the
 confidence to help make something really cool that you&apos;re going to
 proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-04">02-04 Advanced Selectors</h2>
+<h2 id="week2-4">2.4. Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./images/image217.png){width="4.0in"
 height="2.22991469816273in"}
@@ -4193,7 +4266,7 @@ This rule sets:
 -   background-position
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-05">02-05 Browser Capabilities</h2>
+<h2 id="week2-5">2.5. Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image240.png){width="4.0in"
@@ -4522,7 +4595,7 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/QjOaVg>
 Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-06">02-06 Code Together</h2>
+<h2 id="week2-6">2.6. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image265.png){width="4.0in" height="2.25in"}
@@ -4735,7 +4808,7 @@ Here is a site you may find helpful.
 <https://css-tricks.com/almanac/properties/o/opacity/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-07">02-07 Designing for Accessibility</h2>
+<h2 id="week2-7">2.7. Designing for Accessibility</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image282.png){width="4.0in"
@@ -4906,7 +4979,7 @@ performance of your page, as well as enhance accessibility:
 [http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era&#45;-webdesign-16824.](%20http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-08">02-08 Homework Two Description</h2>
+<h2 id="week2-8">2.8. Homework Two Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ### Homework Two: Advanced Selectors
@@ -5223,19 +5296,28 @@ of each file that they use:
 -   Positioning
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-01">03-01 Pseudo Classes and Elements</h2>
+<h2 id="week3-1">3.1. Pseudo Classes and Elements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image309.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image309.png" 
+  alt="Pseudo Classes and Elements."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Welcome back everybody. Today we&apos;re going to talk very briefly about
 pseudo classes and elements. We&apos;ve been working with different types of
 elements throughout this entire course, and how we can structure them
 and style them.
-
-![](./images/image310.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. types of pseudo-classes (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image310.png" 
+  alt="Types of Pseudo-Classes."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Well, pseudo elements are kind of different from the other things we&apos;ve
 seen before in that they are very dependent on the DOM structure, and
@@ -5252,21 +5334,27 @@ also a link that&apos;s been visited. You can also react to different user
 actions. If someone&apos;s hovering over a paragraph or hovering over an H1
 tag, you can still react to it. It doesn&apos;t just have to be a link. You
 can also have active, and active is when you&apos;re holding the mouse
-button down over some sort of element. And the last one is focus. Focus
-would be when someone&apos;s tabbing through the page you can put focus down
-on each one of these. Finally, one that makes a lot of sense and you&apos;ve
-probably seen before is that you can dial the pseudo-classes of forms or
-interfaces. If the check box has been clicked or checked off, you can
-see that sometimes they make it yellow. Or if you&apos;ve ever been to a
-site and you&apos;re not allowed to type something in until you type
-something in a box above, higher in, they tend to gray it out. The way
-you would do this is you could say, you know what? If someone hovers
-over my paragraph, I want to just do a border. Border:1 px. Now, even
-though there&apos;s no place on the DOM where they have p:hover, it should
-work for you when you put that styling rule in.
+button down over some sort of element. 
 
-![](./images/image311.png){width="4.0in"
-height="2.2470089676290463in"}
+And the last one is focus. Focus would be when someone&apos;s tabbing through the 
+page you can put focus down on each one of these. Finally, one that makes a lot of 
+sense and you&apos;ve probably seen before is that you can dial the pseudo-classes 
+of forms or interfaces. If the check box has been clicked or checked off, you can
+see that sometimes they make it yellow. Or if you&apos;ve ever been to a site and 
+you&apos;re not allowed to type something in until you type something in a box 
+above, higher in, they tend to gray it out. The way you would do this is you could 
+say, you know what? If someone hovers over my paragraph, I want to just do a border. 
+Border:1 px. Now, even though there&apos;s no place on the DOM where they have 
+p:hover, it should work for you when you put that styling rule in.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 311. pseudo-classes position example (74) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image311.png" 
+  alt="Pseudo-Classes position example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can also style based on the structural position of the different
 elements. You have first-child, last-child, nth-child. The way that one
@@ -5277,8 +5365,14 @@ element, the colon, and then the name of the pseudo-class that you want
 to style. Pseudo elements aren&apos;t necessarily part of the DOM, but they
 can be used to style specific or unique parts of the page.
 
-![](./images/image312.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. types of pseudo-elements (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image312.png" 
+  alt="Types of Pseudo-Elements; fancy first letter of paragraph."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Some examples might if you have a paragraph and you want to put in that
 fancy first letter with a different font, you can use the first letter
@@ -5302,12 +5396,12 @@ about. But I do want to give you the tools so that you can go out and
 investigate how you can add some cool new styles to your page. Good
 luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-02">03-02 Transitions</h2>
+<h2 id="week3-2">3.2. Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image314.png" 
-  alt="Week3-02. Transitions."
+  alt="Week3-2. Transitions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5520,7 +5614,7 @@ always available, and just keep those transitions for something a little
 bit extra to add to your site. Good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-03">03-03 Transforms</h2>
+<h2 id="week3-3">3.3. Transforms</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image326.png){width="4.0in"
@@ -5719,7 +5813,7 @@ more confident about what we just learned with transforms. Good luck.
     animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-04">03-04 Transitions</h2>
+<h2 id="week3-4">3.4. Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 338.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5855,7 +5949,7 @@ very own version of those annoying ads. Using the box model principals,
 you learned earlier, you will learn to manipulate the positioning
 property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-05">03-05 Positioning</h2>
+<h2 id="week3-5">3.5. Positioning</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 345.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
