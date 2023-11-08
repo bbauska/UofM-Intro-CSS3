@@ -2184,11 +2184,11 @@ over humps. But the important thing is, code, code, code, good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 93/94. 1.6a/b. display and visibility (part 1 and 2) (55) ~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
-  src="./images/image093.webp?raw=true"
+  src="./images/image093.png"
   alt="Display and Visibility (part 1)."
   style="width:35%" />
 <img class="displayed"
-  src="./images/image094.webp"
+  src="./images/image094.png"
   alt="Display and Visibility (part 2)."
   style="width:35%" />
 
@@ -7288,11 +7288,11 @@ you want, but I need to know that those changes are completed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 417/418. before and after web design (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image417.webp"
+  src="./assets/images/image417.png"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Before." />
 <img class="border"
-  src="./assets/images/image418.webp"
+  src="./assets/images/image418.png"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="After." />
 <p style="clear: both;"></p>
@@ -7302,11 +7302,11 @@ we&apos;re going with this final project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 419/420. ultimate frisbee history (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image419.webp"
+  src="./assets/images/image419.png"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Ultimate Frisbee History menu." />
 <img class="border"
-  src="./assets/images/image420.webp"
+  src="./assets/images/image420.png"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Ultimate Frisbee History menu, #2." />
 <p style="clear: both;"></p>
@@ -7316,11 +7316,11 @@ first HTML view. Our next one, we made it really plain.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421/422. college teams (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image421.webp"
+  src="./assets/images/image421.png"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Examples of proprietary and open-source CMS software." />
 <img class="border"
-  src="./assets/images/image422.webp"
+  src="./assets/images/image422.png"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="More on examples of proprietary and open-source CMS software." />
 <p style="clear: both;"></p>
