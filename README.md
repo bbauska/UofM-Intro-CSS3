@@ -455,7 +455,6 @@ Finally, we&apos;ll talk about browser capabilities. Just like when you
 learned about HTML5, you learned that some browsers support some tags
 while others don&apos;t. In the same way, browsers treat CSS differently.
 And I want you to know how to best react to that.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 07. week 3 - pseudo-classes and elements (10) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -808,7 +807,6 @@ you about is called using an Internal Style Sheet. As you can see over
 here in my code, I&apos;ve got the basic template of our file. And inside
 the head tags, I&apos;ve put this style tag in, that&apos;s where you&apos;re going
 to want to put your rules, they&apos;re defined right within that style.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 18.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1138,7 +1136,6 @@ home the idea that CSS can be very powerful. Let&apos;s take a look.
 At this site, CSS Zen Garden, they&apos;ve actually done a really great job
 of showing all the different ways you can format an exact same file but
 in different ways.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. css zen garden, #2 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1152,7 +1149,6 @@ Up here, if you take a look, you can see that this is one person&apos;s
 style sheet for decorating or styling this document. Now, without
 changing any of the HTML at all, someone else came in and said, hey, you
 know what, that&apos;s nice, but I&apos;m going to style it this way.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. css zen garden, #3 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1164,7 +1160,6 @@ know what, that&apos;s nice, but I&apos;m going to style it this way.
 
 It looks completely different. It&apos;s the same exact HTML but it looks
 completely different.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. css zen garden, #4 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1225,9 +1220,14 @@ coming up. When you&apos;re just coding and hacking away, you just want to
 pop something up on the screen. No problem. Use blue or red or yellow
 but then later what you&apos;re going to want to do. It changed when these
 other two conventions I&apos;m going to talk about.
-
-![](./images/image041.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image041.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The first one is called hexadecimal. Hexadecimal you might recognize the
 decimal part, that&apos;s how we count from zero to nine. Hexadecimal just
@@ -1238,16 +1238,26 @@ set up the same, where you have a pound sign followed by either three or
 six digits. The examples I have here for you are six digits. And the way
 it works is that you have a red, green, and blue value, and the bigger
 the number you put in there, the more red, green, or blue you&apos;ll see.
-
-![](./images/image042.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 42.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image042.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here&apos;s my example. I have an example of blue, red, but also yellow
 because depending on how much of these different values you put in,
 it&apos;s can change the color that&apos;s going to show up on your screen.
-
-![](./images/image043.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image043.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now hexadecimal is probably the most common way of doing colors when you
 look at a lot of people&apos;s pages, but another way that&apos;s coming up a
@@ -1257,23 +1267,38 @@ the zero to F, instead you&apos;re using numbers between zero and one. Here
 I&apos;ve done the same thing, I&apos;ve just done one, one, and one, one. I
 could have just as easily put 0.5, 0.8, 0.6, and that would change the
 strength of the color.
-
-![](./images/image044.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 44.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image044.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here I have rgb (0,0,1). One of the reasons that people have been
 switching over to rgb is that there&apos;s another option called rgba.
-
-![](./images/image045.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 45.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image045.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And for the longest time I really had to think about what that a meant
 and what it stands for is alpha transparency. You have a fourth value on
 the end that says, you know what? I want to use this blue color, but I
 want to kind of make it a little bit see through.
-
-![](./images/image046.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 46.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image046.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When it comes up, if I were to actually make it zero it would be
 completely see-through. If I were to give it a final value of one, it
@@ -1285,25 +1310,40 @@ to remember that different monitors can display colors in different
 ways, all right? I want to show you an example really quick on the web
 of how you can see some of these different colors and how they&apos;re
 working.
-
-![](./images/image047.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 47.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image047.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What I brought up here is my course webpage and it&apos;s okay if you can&apos;t
 see it. I know it&apos;s kind of small. What I want to show you is me using
 something called Inspect Element to really kind of look at my page, and
 look at the colors, and a really quick way for me to see how I can make
 it look different.
-
-![](./images/image048.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 48.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image048.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I have my mouse, right here. I&apos;m going to right-click, and I'm going to
 go down to Inspect Element. Now for some of you, this part may pop over
 to the side or underneath.
-
-![](./images/image049.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 49.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image049.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can move it around by clicking on this button over here. But as you
 can see, I&apos;m going to highlight my h1 and go down here to the span.
@@ -1317,7 +1357,6 @@ can see, I&apos;m going to highlight my h1 and go down here to the span.
 </p>
 
 And you can be like oh, there&apos;s the color I&apos;m using.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 51.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1334,7 +1373,6 @@ changing the hexadecimal value for me down there. If I wanted to, I
 could find the perfect color, this green is not the perfect color. I
 could find the perfect color, grab that hexadecimal value and put into
 my style sheet.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1348,7 +1386,6 @@ They also give you the option of the RGBA value as well so you can do it
 either way you want. I love using expect element to kind of play with
 the colors because it&apos;s so much easier when you can see what&apos;s
 happening as you&apos;re designing it.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 53.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1362,7 +1399,6 @@ If you want to check something else, I can even go down here, each thing
 as you highlight you can add colors, do different things along the same
 line. I wouldn&apos;t suggest this, but I&apos;m going to add a background
 color.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 54.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1381,7 +1417,6 @@ really fun and really bad, because you can just start falling down this
 rabbit hole. And you&apos;re like, oh I like this color. No, this color&apos;s
 better. You&apos;re beginning, you&apos;re starting off, just pick a color, play
 with it, and keep going with it. But let&apos;s go back.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 55.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1414,7 +1449,6 @@ look at a page is the text on a good color for the background? Most of
 us intuitively know when something has really poor color contrast.
 We&apos;re squinting at it. But to be honest, very few of us know what the
 really exact level is of where you need to go.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 56.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1431,7 +1465,6 @@ you just a quick example of how you can use these to check a page. I go
 over here, and I&apos;ve got the wave.webbing.org. And you can type in any
 URL. I&apos;m going to go ahead and put in my own personal web page from
 UMISH, which may change by the time this comes up.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 57.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1443,7 +1476,6 @@ UMISH, which may change by the time this comes up.
 
 And, as you can see, you can go over here and it&apos;ll check your styles,
 it&apos;ll check your different HTML.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1459,7 +1491,6 @@ color contrast issues detected. You&apos;ll be surprised how much, though,
 you will get examples. They can be extremely picky and if it&apos;s really
 something that you feel strongly that you can see, absolutely, stick
 with it. But you want to take their suggestions with a grain of salt.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1473,9 +1504,14 @@ The one thing I really wanted to talk to you about again, is just this
 whole idea of don't use color alone to convey meaning. This is a typical
 kind of bar graph for people to use colors to say, hey this is how much
 share is Apple iPhone, the Pre Palm, different things along that line.
-
-![](./images/image060.png){width="4.0in"
-height="2.254273840769904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 60.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image060.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, let&apos;s look at that same graph but in grayscale. And suddenly you
 can see it&apos;s pretty much useless to anybody who&apos;s really trying to
@@ -1484,9 +1520,14 @@ similar. Instead, if you&apos;re going to use a graph like this, I&apos;m not
 saying you can&apos;t, I&apos;m saying make sure you&apos;re providing alternatives.
 Make sure you&apos;ve got alternate text or you&apos;ve got a caption or
 someplace else where people can link to get this information.
-
-![](./images/image061.png){width="4.0in"
-height="2.254273840769904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 61.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image061.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, so I know I didn&apos;t talk a lot about the different colors
 that you can use, or the different colors that go together, again,
@@ -1507,18 +1548,27 @@ programming, and keep styling your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-04">01-04 Styling Your Text</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image062.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image062.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi, in today&apos;s lecture, we&apos;re going to talk about styling your text on
 your webpages. One of the best and easiest ways to really make your page
 look a little bit different than the standard default is to think about
 how you might want to style your text to bring maximum impact. So many
 options and we&apos;re going to talk about some of them today.
-
-![](./images/image063.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image063.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One of those options is to think about basically your font. Some of the
 things you can style are the font family, the font style, the font
@@ -1527,9 +1577,14 @@ background of your font. We can talk about alignment as well. And
 finally, we&apos;re going to talk very briefly about line-height. These are
 all four things that you can do to just really kind of highlight or
 emphasize the different things you would like your style to bring about.
-
-![](./images/image064.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image064.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 First let&apos;s talk about font family. Font families are just different
 types of text. If you&apos;ve used Word before, you&apos;ve gone in, you&apos;ve
@@ -1544,18 +1599,28 @@ the people who are looking at your page. I also picked these particular
 ones because I wanted to show you that some are a single word, such as
 Helvetica. But Comic Sans MS is multiple words, so I had to put it
 inside quotes. All right.
-
-![](./images/image065.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image065.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 How it works is, again, you use your syntax rule. You have your
 selector, your property, and then your value. In this case I&apos;ve said
 whenever you see an h1 heading, don&apos;t use the browser default heading,
 instead I want you to use the Arial font. It changes the font slightly
 to look like this example here.
-
-![](./images/image066.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image066.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now every single browser doesn&apos;t support everything. We&apos;ve seen this
 even with HTML 5. Some browsers support some text, some don&apos;t. In the
@@ -1571,9 +1636,14 @@ about cascading style sheets, we said if you give it a rule and it
 can&apos;t support it, it will always go back to the browser default. So,
 you don&apos;t need to worry about font disappearing because you gave it a
 bad font family. It&apos;ll always come through.
-
-![](./images/image067.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image067.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When you pick your font families, there&apos;s a few things you should think
 about. The first one is maybe the most important, is some fonts are much
@@ -1585,9 +1655,14 @@ fonts are very clean, there&apos;s no drop downs or anything like that. When
 it comes time for someone to blow your page up, and they want to make it
 look bigger. Serif fonts can really get messy, so avoid those whenever
 possible.
-
-![](./images/image068.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image068.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I personally don&apos;t use custom fonts myself, but I&apos;ve never been an
 artsy type of person. If you do decide that you want to have your own
@@ -1602,9 +1677,14 @@ this is where you can find the file that defines my special font. And
 once you do that, once you write the font face rule once, throughout the
 rest of your style sheet you can go ahead and reference it. Now every
 time I use an h1 font, you&apos;re going to use mySpecialFont.
-
-![](./images/image069.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image069.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s talk about font style. It&apos;s a much fancier word than you might
 expect, but we&apos;re simply talking about do you want your font to look
@@ -1617,9 +1697,14 @@ it and make it normal. Italic is always a certain kind of lean,
 basically, to your font. An oblique is when you really want to be extra
 special and define exactly what angle you want to have your text lean
 towards.
-
-![](./images/image070.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 70.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image070.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The font variant, we really only have two options here. We have normal
 and we have small-caps. People use this quite a bit when they&apos;re trying
@@ -1628,16 +1713,28 @@ again, always using h1, I want my font variant to be small-caps. Now
 when you look at my text, my h1 text down at the bottom, I&apos;ve written
 \<h1\>Small caps variation.
 
-![](./images/image071.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 71.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image071.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But when the browser displays it, it&apos;s going to display it in small
 caps. This keeps you from having to go back and forth to remembering to
 change all your text to uppercase or lowercase. It doesn&apos;t matter how
 you write it; the browser will always show it in uppercase.
 
-![](./images/image072.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 72.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image072.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now font size is something that we&apos;ll be talking about pretty much
 throughout this entire course and in other courses we&apos;re going to be
@@ -1660,8 +1757,14 @@ easily. So, if you were to say use 100% it&apos;s going to be the default
 size. If you say use 110% it will be slightly larger. If you were to use
 75%, it&apos;d be three-quarters the size.
 
-![](./images/image073.png){width="4.0in"
-height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 73.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image073.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, let&apos;s talk about color and background color. The color attribute
 is the color of the foreground, which is the fancy word for just the
@@ -1669,8 +1772,14 @@ text itself. All right. The background-color is the color of the
 background behind the font that we&apos;re looking at. And depending on what
 kind of text you&apos;re styling; it can look very different.
 
-![](./images/image074.png){width="4.0in"
-height="2.261111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 74.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image074.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, here I&apos;ve done one rule, and you haven&apos;t seen this before. I&apos;m
 going to go ahead and style two different selectors. I&apos;m going to style
