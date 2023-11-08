@@ -2302,15 +2302,13 @@ These four, the inline, the block, the inline-block and the none are the
 ones that we&apos;re really going to start playing with at the beginning.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 101. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
+  <img src="./images/image101.png" 
   alt="Display: none; removed from page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image101.png){width="4.0in"
-height="2.2529910323709537in"}
 
 What I have right here is just a simple file that&apos;s going to have three
 span elements, three div elements and three paragraph elements. If you
@@ -2323,15 +2321,13 @@ a height and a width. Basically, all my elements, a height and width and
 a different background color.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 102. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
+  <img src="./images/image102.png" 
   alt="Display: none; removed from page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image102.png){width="4.0in"
-height="2.2529910323709537in"}
 
 If we&apos;re to look at it right now. You would see that I&apos;ve made all my
 spans green, all my divs blue, and all my paragraphs a kind of pinkish
@@ -2351,15 +2347,13 @@ ahead and change the code in your file, save it, refresh, save it,
 refresh.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 103. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
+  <img src="./images/image103.png" 
   alt="Display: none; removed from page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image103.png){width="4.0in"
-height="2.2529910323709537in"}
 
 I got to inspect element over here by right-clicking, and what I&apos;m
 going to do now is I&apos;m going to right-click on one of these span
@@ -2373,30 +2367,26 @@ give it a height and a width, we go down to display, and I&apos;m going to
 go here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 104. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
+  <img src="./images/image104.png" 
   alt="Display: none; removed from page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image104.png){width="4.0in"
-height="2.2529910323709537in"}
 
 And I&apos;m going to try inline-block. Boom, right away my spans have taken
 on those properties. So before when they were inline, they were small.
 When they&apos;re inline block, I can shape them really nicely.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 105. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
+  <img src="./images/image105.png" 
   alt="Display: none; removed from page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image105.png){width="4.0in"
-height="2.2529910323709537in"}
 
 And if I&apos;m changing them to just block, you can see now they&apos;re on top
 of each other because block elements don&apos;t like to be next to each
@@ -2408,15 +2398,13 @@ to do and you might use it later if you want things to appear some times
 and not others but you don&apos;t want to leave a big white space.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 106. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
+  <img src="./images/image106.png" 
   alt="Display: none; removed from page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image106.png){width="4.0in"
-height="2.2529910323709537in"}
 
 Go ahead and take a second and I&apos;m just going to click on a few of the
 other things. For instance, my divs, I can go and I can say, you know
@@ -2439,15 +2427,13 @@ working on, you also need to know the display for its neighbors. But,
 let&apos;s go ahead and talk a little bit more.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 107. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
+  <img src="./images/image107.png" 
   alt="Display: none; removed from page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image107.png){width="4.0in"
-height="2.2529910323709537in"}
 
 When we&apos;re talking about display, it&apos;s pretty common to also talk
 about two other properties as well. And these are called float and
@@ -2485,19 +2471,16 @@ and clear as well. We&apos;re going to look at the same exact file we were
 just looking at when I was playing with display block, inline, none,
 etc. But now, we&apos;re going to throw float and clear into the mix as
 well.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 108/109. code and example float (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
-  alt="Display: none; removed from page."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+<img src="./assets/images/image108.png"
+  style="width:30%;"
+  alt="." >
+<img src="./assets/images/image109.png"
+  style="width:30%;"
+  alt="." >
 </p>
-![](./images/image108.png){width="3.0in"
-height="1.6897430008748906in"}
-![](./images/image109.png){width="3.0in"
-height="1.6897430008748906in"}
 
 Here is the code we&apos;re looking at, and here&apos;s the website. And the
 first thing I&apos;m going to do is I&apos;m going to play with the spans up
