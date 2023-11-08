@@ -8,7 +8,7 @@ output:
 ---
 
 <h1 align="center">Introduction to CSS3</h1>
-<h7 align="center">(by Colleen van Lent, Ph.D. University of Michigan)</h7>
+<h6 align="center">(by Colleen van Lent, Ph.D. University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-intro-css3.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
