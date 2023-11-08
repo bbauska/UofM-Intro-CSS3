@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "11/04/2023 12+pm"
+date last editted: "11/07/2023 9+pm"
 output: 
   markdown:
     with_style
@@ -655,7 +655,7 @@ with me from our HTML course, you know that I know that you can make
 general HTML files. But up until now, you may not have styled them at
 all.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. the cascading part of css (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the cascading part of css (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image011.png" 
   alt="The Cascading part of CSS."
@@ -850,9 +850,14 @@ pages and you want them all to have a very consistent look about them.
 You don&apos;t want to have to go in and say if you want to change a color,
 you don&apos;t want to have to go in and open every single one of those
 files so you can change the color to red or green.
-
-![](./images/image020.png){width="4.0in"
-height="2.2440168416447945in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image020.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Instead, what you want to use is you want to use something called
 external style sheets. The way it works with an external style sheet is
@@ -869,9 +874,14 @@ remember to put the file name. Once again this is where it&apos;s going to
 be really important that you&apos;re naming things in ways that they make
 since to you. You can link to as many different style sheets as you
 want, most of the time we start with one.
-
-![](./images/image021.png){width="4.0in"
-height="2.2440168416447945in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image021.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now that we&apos;ve had that style sheet, every single file that links to it
 will all share that style sheet. Remember when I mentioned that you
@@ -879,9 +889,14 @@ might have a site with 10, 20, 1,000 pages to it and you decide to
 change that color from blue to red or green or something like that? This
 is great. All you need to do is open up style.css, change one line of
 code, and you&apos;ve now just changed potentially thousands of pages.
-
-![](./images/image022.png){width="4.0in"
-height="2.260683508311461in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 22.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image022.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s talk for a second about this idea of cascading style sheets. What
 does it mean that we&apos;re cascading? Well, when the browser goes to make
@@ -906,9 +921,14 @@ the cascading part comes in again. First it looks at defaults, then
 external, then internal, and then inline. Which is why really you want
 to avoid using any inline style because it pretty much nullifies all
 your styling rules.
-
-![](./images/image023.png){width="4.0in"
-height="2.260683508311461in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 23.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image023.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Alright, so we know how those four go, but what if you have a selector
 and, you&apos;ve linked to two or three different style sheets, and that
@@ -928,9 +948,14 @@ went out and had a really good time one night, and you came home and
 decided, I&apos;m going to code! And you forget that you&apos;ve already written
 some rules. Well, if that&apos;s the case, once again, the browser&apos;s going
 to look at the one it saw last.
-
-![](./images/image024.png){width="4.0in"
-height="2.260683508311461in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 24.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image024.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In this case, I have two rules for h1. One writes at the color to blue.
 And I said, hey I want you to use this aerial font family. And then
@@ -939,15 +964,25 @@ and I say hey, I want you to use a font family Times. How the browser&apos;s
 going to look at this is it&apos;s going to go down, and say, I&apos;m going to
 make all the font blue, and I&apos;m going to go ahead and make the font
 family Times. It&apos;s just always is going to use the last one it saw.
-
-![](./images/image025.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 25.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image025.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Again, the most recent rule has precedence, whether it was inside your
 code or it came from different files.
-
-![](./images/image026.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 26.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image026.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 There is, however, one way to overwrite this. Suppose you&apos;re writing
 something and you know you want something to be that way. You don&apos;t
@@ -958,9 +993,14 @@ here I&apos;ve got font-family, Arial, and I&apos;ve got important right here.
 Even though later I decide to overwrite it with times, the browser&apos;s
 going to say nope, I know that she really wanted me to use Arial, and it
 works out.
-
-![](./images/image027.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 27.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image027.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s go ahead and look at an example of what I mean by all those
 precedents. I know just listening to me can get a little overwhelming,
@@ -978,18 +1018,28 @@ want it to. If I wanted all the paragraphs to be red, I&apos;d have to go in
 there and put style equals, style equals. In this example there&apos;s only
 two, but you can imagine how it&apos;d get really annoying if you had a lot,
 okay.
-
-![](./images/image028.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 28.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image028.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In our next example we have an internal style. In this case, I&apos;ve put
 in my style tag up at the top and I&apos;ve added rules for paragraphs and
 H1 headings, and it should handle both. Now there&apos;s nothing in here
 anymore, my tag is all by itself. And if you look at the result, let&apos;s
 go over here.
-
-![](./images/image029.png){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 29.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image029.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can see that now, even though my HTML doesn&apos;t have any type of
 styling in at all, both of the paragraphs are red over here and so&apos;s
@@ -1200,14 +1250,25 @@ height="2.25042760279965in"}
 
 You can move it around by clicking on this button over here. But as you
 can see, I&apos;m going to highlight my h1 and go down here to the span.
-
-![](./images/image050.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 50.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image050.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And you can be like oh, there&apos;s the color I&apos;m using.
 
-![](./images/image051.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 51.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image051.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I&apos;m going to go ahead and click on this, and as you can see I can
 actually in real time, kind of play with which different colors I want.
@@ -1217,24 +1278,42 @@ could find the perfect color, this green is not the perfect color. I
 could find the perfect color, grab that hexadecimal value and put into
 my style sheet.
 
-![](./images/image052.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image052.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 They also give you the option of the RGBA value as well so you can do it
 either way you want. I love using expect element to kind of play with
 the colors because it&apos;s so much easier when you can see what&apos;s
 happening as you&apos;re designing it.
 
-![](./images/image053.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 53.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image053.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If you want to check something else, I can even go down here, each thing
 as you highlight you can add colors, do different things along the same
 line. I wouldn&apos;t suggest this, but I&apos;m going to add a background
 color.
 
-![](./images/image054.png){width="4.0in"
-height="2.25042760279965in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 54.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image054.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And as you can see, they have the actual names. Because it&apos;s very
 unlikely that if you were to scroll through the different hexadecimal
@@ -1246,8 +1325,14 @@ rabbit hole. And you&apos;re like, oh I like this color. No, this color&apos;s
 better. You&apos;re beginning, you&apos;re starting off, just pick a color, play
 with it, and keep going with it. But let&apos;s go back.
 
-![](./images/image055.png){width="4.0in"
-height="2.254273840769904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 55.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image055.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One of the things that happens when people are using color is there&apos;s
 this really natural tendency to want to use color to emphasize
@@ -1273,8 +1358,14 @@ us intuitively know when something has really poor color contrast.
 We&apos;re squinting at it. But to be honest, very few of us know what the
 really exact level is of where you need to go.
 
-![](./images/image056.png){width="4.0in"
-height="2.254273840769904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 56.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image056.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What you can do is use different tools to help you quantify the contrast
 between text and its background color. I&apos;ve put in two links here. The
@@ -1284,14 +1375,26 @@ over here, and I&apos;ve got the wave.webbing.org. And you can type in any
 URL. I&apos;m going to go ahead and put in my own personal web page from
 UMISH, which may change by the time this comes up.
 
-![](./images/image057.png){width="4.0in"
-height="2.254273840769904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 57.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image057.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And, as you can see, you can go over here and it&apos;ll check your styles,
 it&apos;ll check your different HTML.
 
-![](./images/image058.png){width="4.0in"
-height="2.254273840769904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image058.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But if you check where my mouse is, you can also check on the contrast.
 And it&apos;ll go in and it&apos;ll say, nope, this looks good. There were no
@@ -1300,8 +1403,14 @@ you will get examples. They can be extremely picky and if it&apos;s really
 something that you feel strongly that you can see, absolutely, stick
 with it. But you want to take their suggestions with a grain of salt.
 
-![](./images/image059.png){width="4.0in"
-height="2.254273840769904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image059.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The one thing I really wanted to talk to you about again, is just this
 whole idea of don't use color alone to convey meaning. This is a typical
