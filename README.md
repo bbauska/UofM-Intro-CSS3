@@ -3760,10 +3760,10 @@ be really skinny even if they don&apos;t need to be. Let&apos;s use percentages.
 I&apos;m going to use 30%, not 33%, because I want to give a little bit of
 elbow room for paddings, margins, borders, etc.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. add new section tag (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182.  (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image182.png" 
-  alt="Add new section tag."
+  alt="."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -3989,8 +3989,14 @@ can do with them, make sure that people understand that it&apos;s a link
 that they&apos;re looking at. Or, if they&apos;re using a screen reader, it&apos;s a
 link they&apos;re hearing about.
 
-![](./images/image201.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. states (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image201.png" 
+  alt="States: a:link, a:visited, a:hover, a:focus &amp; a:active."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Another new thing about links, that we haven&apos;t seen before, is this
 idea that links have states. Have you ever noticed that, when you go to
@@ -4032,8 +4038,14 @@ happened. All right? Let&apos;s go ahead and talk about how we do these. But
 before I do, once again we are coming back to this idea of precedence.
 Cascading style sheets are very big on this.
 
-![](./images/image202.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. precedence of rules (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image202.png" 
+  alt="Precedence of rules; a:hover after a:link, a:visited after a:hover &amp; a:active."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If you decide that you want to use these different states, there are a
 couple of rules you need to remember when you&apos;re writing your style
@@ -4041,9 +4053,14 @@ sheets. One, if you&apos;re going to use **a:hover** and a:visited must come
 after **a:link**. And next, **a:visited** must come after **a:hover**.
 It&apos;s just this hierarchy that&apos;s going on while you&apos;re coating your
 pages.
-
-![](./images/image203.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. styling links (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image203.png" 
+  alt="Styling links."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s look at an example now of some code and how I&apos;m styling my
 links. In this example, what I have here is I just have three links that
