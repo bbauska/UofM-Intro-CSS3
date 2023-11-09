@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "11/08/2023 12+pm"
+date last editted: "11/09/2023 9+am"
 output: 
   markdown:
     with_style
@@ -3406,8 +3406,8 @@ plus one, plus one, plus five, plus ten. It all adds up.
   width="40%;" />
 </p>
 
-The height, in the same way, is your height plus the top and bottom
-padding, top and bottom margin, and the top and bottom border.
+<p>The height, in the same way, is your height plus the top and bottom
+padding, top and bottom margin, and the top and bottom border.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. centering an element (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3417,7 +3417,7 @@ padding, top and bottom margin, and the top and bottom border.
   width="40%;" />
 </p>
 
-All right, so when we talk about margin, I just wanted to throw this
+<p>All right, so when we talk about margin, I just wanted to throw this
 slide in even though it doesn&apos;t mesh with a lot of the other things
 we&apos;ve been necessary talking about. But it&apos;s because margin is very
 important for when you want to center elements on a page. When we want
@@ -3430,12 +3430,13 @@ that. The auto is what puts it left and right. Now this is only going to
 work if the element happens to be display:block, if the element is not
 floating, is the element has a width that&apos;s not auto, which means that
 you set it. And this last one is if the element is not fixed or absolute
-position. Now I haven&apos;t covered position yet. And so, the good news is,
+position.</p>
+<p>Now I haven&apos;t covered position yet. And so, the good news is,
 since I haven&apos;t covered it, you probably haven&apos;t messed with it, and
 you don&apos;t have to worry about these two things. But as you try to send
 your elements, come back to this slide if you need to, and check these
 off to make sure that all these properties fit. And that&apos;s the best way
-to center things right now.
+to center things right now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. box-sizing (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3445,21 +3446,19 @@ to center things right now.
   width="40%;" />
 </p>
 
-Finally, when we talk about this, I want to add one more option, and
+<p>Finally, when we talk about this, I want to add one more option, and
 that&apos;s called box-sizing. And what box-sizing does is it takes some of
 the math out of that additive height and additive width. What your
 options are is you can have content-box, so box-sizing content-box, and
 that&apos;s just your default additive. You&apos;re going to have to remember
-how much space you&apos;re using.
-
-The next one is called border-box. And border-box actually takes the
+how much space you&apos;re using.</p>
+<p>The next one is called border-box. And border-box actually takes the
 width, the content, the padding, and the border all into consideration.
 So, if you say you want the width to be 200 pixels, it&apos;s not going to
 actually make the element 200 pixels. It&apos;s going to make it 200 pixels
 minus the padding and border. One of the last things to remember is that
 we&apos;ll take into account padding and border, it won&apos;t take into account
-margin.
-
+margin.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. measurements (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3469,11 +3468,10 @@ margin.
   width="40%;" />
 </p>
 
-So finally, one of the things I&apos;m going to be showing you in this
+<p>So finally, one of the things I&apos;m going to be showing you in this
 example in just a second, is different ways you can set the height and
-width of different elements. And there&apos;s two common ways to do this.
-
-The first one is called absolute, and that&apos;s when you set an element to
+width of different elements. And there&apos;s two common ways to do this.</p>
+<p>The first one is called absolute, and that&apos;s when you set an element to
 a specific size. You say I want it to be so many pixels, or so many
 millimeters, or so many centimeters. Pixels is a very common way to set
 sizes. The other type of measurement is what I call fluid, and it sets
@@ -3481,9 +3479,8 @@ the size relative to surrounding elements or the parent elements. You
 can use things such as percent. You can use vw, which stands for
 viewport width, vh which stands for viewport height. You can even use
 things such as em and rem, which aren&apos;t commonly used, but they
-actually set the size relative to its parents.
-
-Let&apos;s go ahead and move to my example so we can play with this just a
+actually set the size relative to its parents.</p>
+<p>Let&apos;s go ahead and move to my example so we can play with this just a
 little bit. It&apos;s not going to be enough to demonstrate everything that
 we can do, but hopefully it&apos;ll get you started. What I have here is a
 very simple HTML file where I have a left side and right side. But as
@@ -3491,17 +3488,23 @@ you can see, they&apos;re not to the left and the right now. They&apos;re just
 on top of each other. So, the first thing I want to know is, can you put
 these divs next to each other? We&apos;re going to have to use a kind of
 combination of display, and height, and width, and padding. Let&apos;s go
-ahead and do that.
+ahead and do that.</p>
 
 <h4>Question</h4>
 
-The code I am about to play with here is boxModel.html and boxModel.css.
+<p>The code I am about to play with here is boxModel.html and boxModel.css.
 Make sure you play with this code and try to get it to do what I am
-about to do.
-
-![](./images/image167.png){width="3.5in"
-height="1.937713254593176in"}![](./images/image168.png){width="3.5in"
-height="1.937713254593176in"}
+about to do.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 167/168. boxmodel.html/.css - set width (95) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image167.png"
+  style="width:40%;"
+  alt="boxModel.html and boxModel.css to set width for side-by-side text." />
+<img src="./images/image168.png"
+  style="width:40%;"
+  alt="boxModel.html and boxModel.css to set width for side-by-side text." />
+</p>
 
 Over here in my CSS file (to the right), right away you can see this
 kind of the background things I&apos;ve done. Now, when you want things to
@@ -3509,26 +3512,41 @@ be next to each other, you have to give them a width, because right now
 they take up 100%. One option would be for you set it to some sort of
 pixels. And say maybe 200 pixels and 200 pixels, and see what would
 happen, see if it works out.
-
-![](./images/image169.png){width="4.0in"
-height="2.214529746281715in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. set width to 48% (95) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image169.png" 
+  alt="Set width to 48%"
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The problem with doing that, as I uncomment my code here, is that as
 people go on different browser sizes, your numbers might be too big or
 too small. What I&apos;ve done here is I went ahead and I set my width to
 48%.
-
-![](./images/image170.png){width="4.0in"
-height="2.214529746281715in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. left/right div (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image170.png" 
+  alt="Left/right div."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now doing that is really great, and I&apos;m going to come out of this one
 line for just a second, because most people get that idea that you want
 to set the width to something smaller. What they forget, is that even
 though they&apos;re only taking up 48%, in fact I&apos;ll even just make it
 something really small.
-
-![](./images/image171.png){width="4.0in"
-height="2.214529746281715in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. narrow left/right div (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image171.png" 
+  alt="Left/right div."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 20%, they&apos;re not going next to each other. So, you need to remember
 that you want to use those fluid measurements. Let&apos;s go back here, I&apos;m
@@ -3538,8 +3556,14 @@ change it to in-line block, it&apos;ll never let block elements be next to
 each other. So that&apos;s why you have to remember to do both of those
 elements. Let&apos;s go ahead and save and reload.
 
-![](./images/image172.png){width="4.0in"
-height="2.214529746281715in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. left/right div side-by-side (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image172.png" 
+  alt="Left/right div side-by-side."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can see that I&apos;ve done my width. I&apos;ve done my display block. I&apos;ve
 got my padding. I&apos;ve got my border, and I&apos;ve got some margin. The last
@@ -3552,30 +3576,33 @@ sure that you&apos;re playing with all these things, that you&apos;re playing
 with the margin, you&apos;re playing with the padding, you&apos;re playing with
 the border. Because that&apos;s how you&apos;re going to get things to work, by
 tweaking, tweaking, tweaking.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. review (2.1) (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image173.png" 
+  alt="2.1 Box Model Review."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image173.png){width="4.0in"
-height="2.261538713910761in"}
-
-When it comes time for you to start implementing all these ideas, your
+<p>When it comes time for you to start implementing all these ideas, your
 box model with your padding, content, margin, etc., you really want to
 design sketches on paper first, because it&apos;s really hard to shove
 things in after you&apos;ve already come up with an outline, all right?
-Design first, code second.
-
-The second thing you might want to do is use the box model to reduce the
+Design first, code second.</p>
+<p>The second thing you might want to do is use the box model to reduce the
 complexity of your code. Or at least the complexity of your math trying
 to figure out what things fit where. Finally, no matter what you do, you
 need to remember that margin always has to be considered. It can be
 tricky when you first start trying to put your page together, and
 getting things to go exactly where you want them to go, and we haven&apos;t
-even talked about positioning yet, which would be even another element.
-
-For right now, practice these things in small ways. Use Inspect Element
+even talked about positioning yet, which would be even another element.</p>
+<p>For right now, practice these things in small ways. Use Inspect Element
 to play with it and not have to change your code so much. Until you get
 things looking just the way you want them to look. And don&apos;t worry,
 we&apos;re all making mistakes. We&apos;re all doing this together. But I think
 your page is hopefully getting closer and closer to something that you
-would really want to put out on the web. Good job.
+would really want to put out on the web. Good job.</p>
 
 <h3>Coding Together</h3>
 
@@ -3592,24 +3619,40 @@ Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-2">2.2. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image174.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. code together (2.2) (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image174.png" 
+  alt="2.2 Code Together."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-Hi, everybody, welcome back. Once again, I&apos;m going to ask you to stop
-learning and start coding and practicing. And we&apos;re going to use the
-same example we used in our first coding break.
+<p>Once again, I&apos;m going to ask you to stop learning and start coding and 
+practicing. And we&apos;re going to use the same example we used in our first coding 
+break.</p>
 
-![](./images/image175.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. old/new menus (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image175.png" 
+  alt="Display old and new (before and after) menu pages."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I wanted to show you what our old page was, right here. And see how we
 can change it into something that looks a little bit more like our new
 page over here, where we&apos;ve been implementing some of our margins,
 paddings, and widths and heights. All right, so let&apos;s go ahead and get
 started.
-
-![](./images/image176.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. style sheet (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image176.png" 
+  alt="Style sheet."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The first thing I want to do is use the exact same style sheet I used
 for the first one. There&apos;s absolutely no need to recreate your style
@@ -3620,34 +3663,51 @@ mistake in my earlier version. I have two rules styling h1. That&apos;s not
 a problem. The browser will apply all these styles. But what I really
 meant to do was I meant to style the body tag.
 
-![](./images/image177.png){width="4.0in"
-height="2.261537620297463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. starting point (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image177.png" 
+  alt="Starting point."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-So, let&apos;s take a look at what it looks like right now. And let&apos;s go
+<p>So, let&apos;s take a look at what it looks like right now. And let&apos;s go
 back to our current version. And there we go. That already looks a
 little bit better than what we used to have. All right, so now that I&apos;m
 on a good starting place for when I start, let&apos;s talk about the
-different things we can style in our page, all right?
+different things we can style in our page, all right?</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. start point, #2 (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image178.png" 
+  alt="Start point, #2."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image178.png){width="4.0in"
-height="2.261538713910761in"}
-
-One of the first things I want to do is I want to add a little bit of
+<p>One of the first things I want to do is I want to add a little bit of
 margin to my page. If you look over here, there&apos;s not much space
 between the edge of the page and the actual browser. I want to add just
 a little bit. You can add a little bit, you can add a lot. In fact,
 while we code today, I&apos;m going to add a lot, just so you can see the
-effects. So how do you do that? How do you add that space between the
+effects.</p>
+<p>So how do you do that? How do you add that space between the
 element and its neighbors? You go in and we&apos;re going to add a margin.
 And, like I said, I think I'm going to make it a little bit more
 pronounced than in the code I showed right there. I'm going to go ahead
 and make it 4%. So, when we do this, I'm going to go back to the page.
 I'm going to reload. And you can see everything is kind of moved in, all
 right? Margin just adds a little space and makes it more visually
-appealing to your users, all right?
-
-![](./images/image179.png){width="4.0in"
-height="2.261538713910761in"}
+appealing to your users, all right?</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. add margin & padding (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image179.png" 
+  alt="Add margin and padding to style sheet."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s think of some other things that we want to do. Clearly, I
 probably want to add a little bit of space between my links and the
@@ -3660,24 +3720,34 @@ whole header. I&apos;m going to change it to, padding, again you can pick
 anything you want. You can use pixels, you can use percents. I&apos;m just
 going to put in pixels. And I&apos;m going to say please add 15 pixels of
 space between the border and the bottom. Make sure I save.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. add margin & padding, #2 (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image180.png" 
+  alt="Add margin and padding to style sheet, #2."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image180.png){width="4.0in"
-height="2.261538713910761in"}
-
-And refresh, and you can see I&apos;ve added padding all the way around the
+<p>And refresh, and you can see I&apos;ve added padding all the way around the
 entire thing. If I really only wanted padding to be on the bottom, I
 could have said padding bottom, or padding right, or padding left. All
-right, let&apos;s go ahead and style something else. One of the big things I
-changed is that instead of having one underneath each other, I&apos;ve
-changed these so they&apos;re next to each other. Remember, by default,
-sections are block, they&apos;re display block, which means don&apos;t let
-anyone else come next to me. In order to change it so they&apos;re next to
-each other, we can either use inline or inline-block. Almost always when
-given this choice, you&apos;re going to use inline, because when you use
-inline-block, you can include a height and a width.
-
-![](./images/image181.png){width="4.0in"
-height="2.1905982064741907in"}
+right, let&apos;s go ahead and style something else.</p>
+<p>One of the big things I changed is that instead of having one underneath each 
+other, I&apos;ve changed these so they&apos;re next to each other. Remember, by 
+default, sections are block, they&apos;re display block, which means don&apos;t 
+let anyone else come next to me. In order to change it so they&apos;re next to
+each other, we can either use inline or inline-block. Almost always when given 
+this choice, you&apos;re going to use inline, because when you use inline-block, 
+you can include a height and a width.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. add new section tag (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image181.png" 
+  alt="Add new section tag."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, go back to my CSS file. I don&apos;t want to change the header. I
 think I&apos;m pretty good with h1. The nav, the h2, oh, you know what? I
@@ -3689,28 +3759,44 @@ pixels. I could pick 150 pixels each. Well, that means they&apos;re going to
 be really skinny even if they don&apos;t need to be. Let&apos;s use percentages.
 I&apos;m going to use 30%, not 33%, because I want to give a little bit of
 elbow room for paddings, margins, borders, etc.
-
-![](./images/image182.png){width="4.0in"
-height="2.1905982064741907in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. add new section tag (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image182.png" 
+  alt="Add new section tag."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, let&apos;s go ahead and look at it right now, I want to see what
 it looks like. You can see I&apos;ve made it 30%, but they&apos;re still not
 next to each other. That&apos;s because they&apos;re still block.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 183/184. display: inline-block new section tag (103) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image183.png"
+  style="width:40%;"
+  alt="display: inline-block." />
+<img src="./images/image184.png"
+  style="width:40%;"
+  alt="display: inline-block." />
+</p>
 
-![](./images/image183.png){width="3.5in"
-height="1.9167727471566054in"}![](./images/image184.png){width="3.5in"
-height="1.9818383639545056in"}
-
-Let&apos;s change them to inline-block, Display. And let&apos;s hope for the
+<p>Let&apos;s change them to inline-block, Display. And let&apos;s hope for the
 best. There we go. I&apos;ve got all three things next to each other. Still
 not looking exactly the way we want, but it&apos;s step by step. It&apos;s
 making this little bit of progress at a time. I&apos;m going to go ahead and
-fix this fact that they aren&apos;t all lined up at the top.
-
-![](./images/image185.png){width="3.5in"
-height="1.9818372703412073in"}
-![](./images/image186.png){width="3.5in"
-height="1.9818372703412073in"}
+fix this fact that they aren&apos;t all lined up at the top.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 185/186. add margin to separate items on page (103) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image185.png"
+  style="width:40%;"
+  alt="Add margin to add space between items." />
+<img src="./images/image186.png"
+  style="width:40%;"
+  alt="Add margin to add space between items." />
+</p>
 
 And I&apos;m going to say float: left; refresh and we&apos;re getting closer,
 we&apos;re getting closer, but there&apos;s something still a little bit wrong
@@ -3720,10 +3806,16 @@ do you add a little bit of space between elements? All right, if we were
 in class, I&apos;d have that one student that&apos;s like ooh, ooh, I know, yes,
 it&apos;s margin.
 
-![](./images/image187.png){width="3.5in"
-height="1.9818372703412073in"}
-![](./images/image188.png){width="3.5in"
-height="1.9818372703412073in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 187/188. margin-right & un-float (103) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image187.png"
+  style="width:40%;"
+  alt="Add margin to add space between items." />
+<img src="./images/image188.png"
+  style="width:40%;"
+  alt="Add margin to add space between items." />
+</p>
 
 Let&apos;s say margin-right. And I will make it something small like 2%. All
 right, we&apos;re getting closer. We&apos;re getting closer. Still not quite
@@ -3734,23 +3826,34 @@ you&apos;re done floating when you don&apos;t want those next elements to float.
 You actually have to go in and say, oh, but I don&apos;t want to float this
 part. Once we&apos;re done with these three sections, we don&apos;t want the
 footer to also be have them next to them.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189/190. footer: clear both (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image189.png"
+  style="width:40%;"
+  alt="Footer: clear both." />
+<img src="./images/image190.png"
+  style="width:40%;"
+  alt="Footer: clear both." />
+</p>
 
-![](./images/image189.png){width="3.5in"
-height="1.9818372703412073in"}
-![](./images/image190.png){width="3.5in"
-height="1.9818372703412073in"}
-
-Let&apos;s go in and adjust the footer code. Down here. All right, if you
+<p>Let&apos;s go in and adjust the footer code. Down here. All right, if you
 remember if you don&apos;t want things to float next to you, we&apos;re going to
 use clear: both, which means don&apos;t let anything float on either side of
 me. Oh, much better, right? It looks much, much better. And other than
 the fact that I&apos;ve got weird colors, we&apos;re very close to right here. I
 actually kind of like the gray on the header and the footer so I&apos;m
-going to leave it.
-
-![](./images/image191.png){width="3.5in"
-height="1.9818372703412073in"}![](./images/image192.png){width="3.5in"
-height="1.9818372703412073in"}
+going to leave it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191/192. set img width (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image191.png"
+  style="width:40%;"
+  alt="Set img width." />
+<img src="./images/image192.png"
+  style="width:40%;"
+  alt="Set img width." />
+</p>
 
 But what I do want to do, is I want to make that picture smaller. This
 little icon right here, let&apos;s make it look a little more like this. And
@@ -3760,55 +3863,77 @@ and just hard code it right now. So, I&apos;m going to make it 75 pixels.
 Oops, going to have to say width:75px. Let&apos;s take a look at how we did.
 Yeah, that looks okay. If I didn&apos;t like it and I wanted to play with
 it, I wouldn&apos;t go in here and try 100 and then 80 and then 52.
-
-![](./images/image193.png){width="4.0in"
-height="2.264957349081365in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193. inspect element (105) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image193.png" 
+  alt="Inspect element."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What I would do is I&apos;d go in here and do Inspect Element again. And I
 would, oh, make this much bigger because otherwise everything looks
 really crazy. And I would go into the image and I&apos;d say, okay what does
 it look like if instead I make it 150 pixels? Does that look better?
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194/195. more styling practice (105) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image194.png"
+  style="width:40%;"
+  alt="More styling practice." />
+<img src="./images/image195.png"
+  style="width:40%;"
+  alt="More styling practice." />
+</p>
 
-![](./images/image194.png){width="3.5in"
-height="1.9818372703412073in"}
-![](./images/image195.png){width="3.5in"
-height="1.9818372703412073in"}
-
-Or what if I make it 125 pixels? Do I like that? Pick a value you like,
+<p>Or what if I make it 125 pixels? Do I like that? Pick a value you like,
 and once you find something that looks good to you, copy that value into
 the style sheet. Because if I refresh it right now, my inspect element
 values go away. All right, let&apos;s go in here, fix it, save it, and
 refresh. All right, so this is great, these are the types of things I
-want you doing in this class. I want you grabbing an HTML file and
-saying ooh, can I change this around? What can I do to make it
-different? Clearly, this page we&apos;ve created right here isn&apos;t a
-finished product. It&apos;s not exactly how you&apos;d want it to be out there
-on the web. We&apos;re going to keep learning new things and we&apos;re going to
-keep styling things in different ways. And as you keep practicing, your
-confidence and your ability is really going to grow. And that&apos;s what I
-want. I want your confidence to be very, very high by the end of week
-four that you can do this. So good luck.
+want you doing in this class</p>
+<p>I want you grabbing an HTML file and saying ooh, can I change this around? What 
+can I do to make it different? Clearly, this page we&apos;ve created right here 
+isn&apos;t a finished product. It&apos;s not exactly how you&apos;d want it to be 
+out there on the web. We&apos;re going to keep learning new things and we&apos;re 
+going to keep styling things in different ways. And as you keep practicing, your
+confidence and your ability is really going to grow. And that&apos;s what I want. 
+I want your confidence to be very, very high by the end of week four that you can 
+do this. So good luck.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-3">2.3. Styling Links and Lists</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image196.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 196. styling links and lists (2.3) (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image196.png" 
+  alt="2.3 Styling Links and Lists."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Today we&apos;re going to talk about styling links and styling lists. When
 it comes time to style the links on your page, it&apos;s really important
 that you remember links are what make up a website. It&apos;s that
 interconnectivity that helps people gain knowledge. It&apos;s what helps
 search engines help link your text and content to somebody else&apos;s text
-and content. So, today we&apos;re going to talk specifically about links
+and content. 
+
+So, today we&apos;re going to talk specifically about links
 because I want you to think about how you&apos;re styling. In general, when
 you go to style a link you can use all the same different attributes
 that you&apos;ve been using for everything else. Your headers, your
 paragraphs, things like that. However, links do have one special
 additional property called text-decoration.
-
-![](./images/image197.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. anchor links (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image197.png" 
+  alt="Anchor links."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In this example right here, what I have going on is that instead of
 having my links be inline, which means they go next to each other, I&apos;m
@@ -3823,22 +3948,38 @@ inline block. I also am going to align the text, add some padding, and
 this text decoration, none, this is new. This says, hey, I want to get
 rid of that underline that usually shows up underneath links.
 
-![](./images/image198.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. anchor links example (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image198.png" 
+  alt="Anchor links example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I&apos;ve gone from this up here in the top corner to something that a
 little bit more styled down here at the bottom. In fact, it almost
 doesn&apos;t even look like a link at all. Let&apos;s talk about that.
-
-![](./images/image199.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199. buttons (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image199.png" 
+  alt="Buttons."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Sometimes when installing their links, people really try to make it look
 much more like buttons. And we want to avoid that because we want to be
 semantic. If you want a button, use a button element instead.
-
-![](./images/image200.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200. buttons example (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image200.png" 
+  alt="Buttons example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And you can do that very simply by just putting in the button tag
 instead of the anchor tag. And again, in the same way you can style it
@@ -7814,4 +7955,4 @@ great in CSS 3.
   width="40%;" />
 </p>
 -->
-<h6)Last Updated: 11/08/2023 12:13pm</h6>
+<h6)Last Updated: 11/09/2023 9:18am</h6>
