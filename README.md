@@ -560,9 +560,9 @@ off on your own, and you&apos;re creating something beautiful whenever you
 can. So, I welcome you to the class, and I can&apos;t wait for you to join
 us as we learn more about cascading style sheets. Thanks.
 
-### Resources
+<h4>Resources</h4>
 
-### **Software**:
+<h4>Software:</h4>
 
 The **preferred** way to code in this class is editor software
 (Notepad++, TextWrangler, Sublime, etc.). If you do not have the ability
@@ -574,7 +574,7 @@ at:
 You can also use CodePen (there is a link below). It is important that
 you find a way that you can enter code and still test your work.
 
-### **Code:**
+<h4>Code:</h4>
 
 All of the code I cover is available from a CodePen repository. I hope
 you can play with the code to test the different concepts we will cover.
@@ -585,7 +585,7 @@ Here is a link to the CodePen repository for the Week One code.
 Here is a list of the lectures this week that use CodePen, and the name
 of each file that they use:
 
-### 01-02 Cascading Style Sheet:
+<h4>01-02 Cascading Style Sheet:</h4>
 
 -   styleAttribute.html
 
@@ -595,23 +595,23 @@ of each file that they use:
 
 -   internalStyle.html
 
-### 01-04 Styling Your Text:
+<h4>01-04 Styling Your Text:</h4>
 
 -   fonts
 
-### 01-05 Code Together:
+<h4>01-05 Code Together:</h4>
 
 -   Code Together 1 - No CS
 
 -   Code Together 1 - With CSS
 
-### 01-06 Display and Visibility - Part 1:
+<h4>01-06 Display and Visibility - Part 1:</h4>
 
 -   Display Example 1
 
 -   Display Example 2
 
-### **Slides:**
+<h4>Slides:</h4>
 
 If you would like to download a copy of slides, they are available here:
 
@@ -621,7 +621,7 @@ introcss.ppt
 
 <https://d3c33hcgiwev3.cloudfront.net/_6fb69eabde5662fc69073f044056cafd_introcss.ppt.zip?Expires=1698364800&Signature=fuKkHBs6j5ODSGL6iSCuW3OBaKouKaSPVm8dDyDjEEKKbAUbcfaBfwgoHCE23MJ5yqYbvognEi3CARurOIZrS1qrEuFJUyKuo-6LMkWF~i-muSC66OGsgfD5e4kyK72sp8goyVsZIl6sIOtH5XMojMVXApZEG0h8B3viqAJa2Hg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A>
 
-### Building Your First Web Page by Shay Howe
+<h4>Building Your First Web Page by Shay Howe</h4>
 
 This tutorial can be found at
 <https://learn.shayhowe.com/html-css/building-your-first-web-page/>.
@@ -648,11 +648,10 @@ you can change the pages.
   width="40%;" />
 </p>
 
-Hi. Welcome to our first truly technical lecture in our CSS course.
-It&apos;s about adding style to your pages. If you&apos;ve come to this course
-with me from our HTML course, you know that I know that you can make
-general HTML files. But up until now, you may not have styled them at
-all.
+<p>Welcome to our first truly technical lecture in our CSS course. It&apos;s about 
+adding style to your pages. If you&apos;ve come to this course with me from our 
+HTML course, you know that I know that you can make general HTML files. But up 
+until now, you may not have styled them at all.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the cascading part of css (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1937,7 +1936,7 @@ into big problems you sketch it out first, I think you&apos;re going to have
 a lot of fun, and you&apos;re going to have a really great page that you&apos;re
 going to be proud of.
 
-### Early coding
+<h4>Early coding</h4>
 
 One of the challenges of teaching about web design is that there are
 always multiple ways to demonstrate different concepts. For this course
@@ -2831,7 +2830,7 @@ My link will be:
 &lt;link rel=&quot;stylesheet&quot; href=&quot;css/style.css&quot;&gt;
 
 It is important that you even use the proper case. Because on some
-computers it matters and this would not work**:**
+computers it matters and this would not work:
 
 &lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
@@ -2845,10 +2844,10 @@ computers it matters and this would not work**:**
   width="40%;" />
 </p>
 
-&ast;&ast;This homework is also described in a video lecture. Make sure to
+This homework is also described in a video lecture. Make sure to
 watch it to get a better feel for what I am looking for.
 
-### Objectives:
+<h3>Objectives:</h3>
 
 1.  Create a style sheet and link it to the html files. (Without
     changing the html.)
@@ -2856,7 +2855,7 @@ watch it to get a better feel for what I am looking for.
 2.  Style the sheet using the properties color, background-color,
     text-align, text-transform, and/or display.
 
-### Background:
+<h3>Background:</h3>
 
 In this assignment I have created a three-page website about a game
 called Ultimate, or Ultimate Frisbee. We are going to use this site for
@@ -2872,7 +2871,7 @@ my style sheet!!)
 
 -   <https://www.intro-webdesign.com/CSS/assignment-1/history.jpg>
 
-### Getting started:
+<h3>Getting started:</h3>
 
 You will need to get the code to get started. You can do ONE OF THESE
 TWO THINGS:
@@ -2885,7 +2884,7 @@ TWO THINGS:
 
 -   <https://codepen.io/ColleenEMc/pen/ZbavEK> (teams.html)
 
-2.  (Advanced): Download the zip file from
+2.  (Advanced): Download the zip file from:
 
 https://intro-webdesign.com/CSS/assignment-1.zip or from [Course
 Resources](https://www.coursera.org/learn/introcss/resources/HwJJk).
@@ -2895,7 +2894,7 @@ you will need to extract them with extra software.) When you peer grade,
 you can put the CSS code directly into the css folder. Make sure to save
 a copy of your code so you don&apos;t lose it!!
 
-### Steps:
+<h3>Steps:</h3>
 
 1.  Create a file called hw1.css and save it in your css folder.
 
@@ -2903,14 +2902,14 @@ a copy of your code so you don&apos;t lose it!!
     SURE TO USE GOOD PRACTICES, for instance, using hex or rgb, not
     color names.
 
-***I have included a video showing examples of each of these styles.***
+<b><i>I have included a video showing examples of each of these styles.</i></b>
 
-### Before
+<h3>Before</h3>
 
 ![](./images/image129.png){width="4.0in"
 height="5.068990594925634in"}
 
-### After
+<h3>After</h3>
 
 ![](./images/image130.png){width="4.0in"
 height="3.684615048118985in"}
@@ -2940,7 +2939,7 @@ height="1.697435476815398in"}
 Here are shortcuts to some examples of our before and after for this
 assignment.
 
-### Ultimate Frisbee:
+<h3>Ultimate Frisbee:</h3>
 
 <http://www.intro-webdesign.com/CSS/assignment-1/index.html>
 
@@ -2949,7 +2948,7 @@ height="3.673503937007874in"}
 
 <http://www.intro-webdesign.com/CSS/assignment-1/index.jpg>
 
-### Ultimate Frisbee Teams:
+<h3>Ultimate Frisbee Teams:</h3>
 
 <http://www.intro-webdesign.com/CSS/assignment-1/teams.html>
 
@@ -2958,7 +2957,7 @@ height="3.673503937007874in"}
 
 <http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg>
 
-### Ultimate Frisbee History:
+<h3>Ultimate Frisbee History:</h3>
 
 <http://www.intro-webdesign.com/CSS/assignment-1/history.html>
 
@@ -3077,9 +3076,9 @@ your own unique looks as your styling elements. For right now all I can
 say is good luck and make sure you go on those discussion boards if you
 have any questions.
 
-## Week 2 Resources:
+<h4>Week 2 Resources:</h4>
 
-### **Code:**
+<h4><i>Code:</i></h4>
 
 Here is a link to the CodePen repository for the Week Two code. You can
 play with the code to test the different concepts.
@@ -3089,29 +3088,29 @@ play with the code to test the different concepts.
 Here is a list of the lectures this week 2 that use CodePen, and the
 name of each file that they use:
 
-### 2-01 Box Mode:
+<h4>2-01 Box Mode:</h4>
 
 -   Box Display
 
-### 2-03 Styling Links and Lists:
+<h4>2-03 Styling Links and Lists:</h4>
 
 -   Links
 
 -   Lists
 
-### 2-04 Advanced Selectors:
+<h4>2-04 Advanced Selectors:</h4>
 
 -   Advanced Selectors
 
 -   Advanced Selectors 2 - Attribute Selectors
 
-### 2-05 Browser Capabilities:
+<h4>2-05 Browser Capabilities:</h4>
 
 -   Consistent Browser Style with default
 
 -   Consistent Browser Style with prefixes
 
-### 2-06 Coding Together:
+<h4>2-06 Coding Together:</h4>
 
 -   Coding together 3 with CSS - Classes
 
@@ -3390,7 +3389,7 @@ these divs next to each other? We&apos;re going to have to use a kind of
 combination of display, and height, and width, and padding. Let&apos;s go
 ahead and do that.
 
-### Question
+<h4>Question</h4>
 
 The code I am about to play with here is boxModel.html and boxModel.css.
 Make sure you play with this code and try to get it to do what I am
@@ -3474,7 +3473,7 @@ we&apos;re all making mistakes. We&apos;re all doing this together. But I think
 your page is hopefully getting closer and closer to something that you
 would really want to put out on the web. Good job.
 
-### Coding Together
+<h3>Coding Together</h3>
 
 In the next module (2.2) I am going to walk you through some code. I
 hope you will take the time to play with this code or make your own
@@ -3489,7 +3488,6 @@ Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-2">2.2. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./images/image174.png){width="4.0in"
 height="2.243589238845144in"}
 
@@ -3690,7 +3688,6 @@ four that you can do this. So good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-3">2.3. Styling Links and Lists</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./images/image196.png){width="4.0in"
 height="2.243589238845144in"}
 
@@ -4270,41 +4267,47 @@ we go on, I know I&apos;m going to have some code-with-me examples. I hope
 you&apos;ll stop, get out your laptop, and really code with me to get an
 idea of how powerful these different things can be. Thanks.
 
-### Supplemental reading on complex selectors
+<h4>Supplemental reading on complex selectors</h4>
 
-### Learn more about Complex Selectors
+<h4>Learn more about Complex Selectors</h4>
 
 <http://learn.shayhowe.com/advanced-html-css/complex-selectors/>
 
-### Shorthand rules
+<h4>Shorthand rules</h4>
 
-As you have probably picked up by now, I love my Sublime editor. It does
+<p>As you have probably picked up by now, I love my Sublime editor. It does
 lots of great things for me, but sometimes it offers suggestions that I
 didn&apos;t really mean to use. One common example is that I often
 unintentionally switch between using background and background-color.
-Does this make a difference?
+Does this make a difference?</p>
 
-For the most part no. The background property can take a number of
+<p>For the most part no. The background property can take a number of
 different values. Think about the border example we did in the Box Model
-lecture. This code
+lecture. This code;</p>
 
-> **border: 1px solid black;**
+```
+border: 1px solid black;
+```
 
-is shorthand for
+<p>is shorthand for;</p>
 
-> **border-width: 1px;**
->
-> **border-color: black;**
->
-> **border-style: solid;**
+```
+border-width: 1px;
 
-So, when I switch back-and-forth between background and background-color
+border-color: black;
+
+border-style: solid;
+```
+
+<p>When I switch back-and-forth between background and background-color
 I am doing the same sort of thing&#46;..using the shorthand. What other
-things can go in the background property? Here is an example:
+things can go in the background property? Here is an example:</p>
 
-> ** background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;**
+```
+background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
+```
 
-This rule sets:
+<p>This rule sets:</p>
 
 -   background-color
 
@@ -4317,7 +4320,6 @@ This rule sets:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-5">2.5. Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./images/image240.png){width="4.0in"
 height="2.236751968503937in"}
 
@@ -4601,7 +4603,7 @@ haven&apos;t written or that you have to use browser prefixes. You&apos;ve
 totally got this and I know that you can code using these different
 tools. Good luck.
 
-### Browsers
+<h4>Browsers</h4>
 
 Things with browsers are always changing, updating etc. It makes
 recording videos a dangerous decision, since almost anything I say may
@@ -4624,14 +4626,14 @@ Edge. Right now, if a property is standard there will be no need for any
 prefixes in Edge. If you are going to use experimental features, use the
 -ms prefix.
 
-### Using the prefixes
+<h4>Using the prefixes</h4>
 
 Don&apos;t forget, you never know which version of a browser someone may be
 using. Hopefully you want to share your work with as many people as
 possible. Plan on your page working on a few iterations back of any
 browser
 
-### Code Together
+<h4>Code Together</h4>
 
 In the next section (2.6) I am going to walk you through some code. I
 hope you will take the time to play with this code or make your own
@@ -4646,7 +4648,6 @@ Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-6">2.6. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./images/image265.png){width="4.0in" height="2.25in"}
 
 Welcome back, everybody. It&apos;s time for us to stop learning new things
@@ -4793,7 +4794,7 @@ most beautiful things. But it&apos;s kind of fun to go in and create
 different things and see how you can style them yourself. So, keep going
 and good luck and don&apos;t worry when you hit those typos. We all do.
 
-### Background Images and Opacity
+<h4>Background Images and Opacity</h4>
 
 Earlier I briefly covered that the background property can take more
 than just a color. Using background-images for your elements rather than
@@ -4802,7 +4803,7 @@ more tags (and the necessary alt text). That said, using background
 images can be challenging at first for two reasons: folder structure and
 variations in image size.
 
-### Folder structure
+<h4>Folder structure</h4>
 
 As you code, it is recommended that your .html files be in one folder
 and your css files and image files be in subfolders, something like
@@ -4818,17 +4819,21 @@ Neither of these first two options will work since there is no file
 called ocean in the css folder, and the images folder isn&apos;t in there
 either.
 
-> background-image: url(&apos;ocean.jpg&apos;)   
->
-> background-image: url(&apos;images/ocean.jpg&apos;)
+```
+background-image: url(&apos;ocean.jpg&apos;)
+
+background-image: url(&apos;images/ocean.jpg&apos;)
+```
 
 Instead, your code needs to tell the browser to &quot;go up&quot; one folder and
 start looking from there. The &quot;../&quot; part of the code will do just
 that:
 
-> background-image: url(&apos;../images/ocean.jpg&apos;)
+```
+background-image: url(&apos;../images/ocean.jpg&apos;)
+```
 
-### Variations in image size
+<h4>Variations in image size</h4>
 
 Since it is rarely the case, the your image is just the perfect size to
 fit in an element perfectly, there are additional background properties
@@ -4844,7 +4849,7 @@ optional, but potentially very useful.
 
 <http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/>
 
-### Opacity
+<h4>Opacity</h4>
 
 If you are using a background image and it is making it hard to read the
 text, you can alter the opacity of the image. The opacity is how
@@ -4859,7 +4864,6 @@ Here is a site you may find helpful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-7">2.7. Designing for Accessibility</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./images/image282.png){width="4.0in"
 height="2.2401706036745406in"}
 
@@ -5016,7 +5020,7 @@ learning, that you&apos;re remembering it&apos;s not about having the coolest
 webpage. It&apos;s about having a clean page that really portrays the
 information you want to get out on the web. Good luck.
 
-### Optional - The importance of headings
+<h4>Optional - The importance of headings</h4>
 
 Prior to HTML5 it was a given that each page should have at most one h1
 heading. However, when HTML5 introduced the many semantic container
@@ -5028,7 +5032,7 @@ performance of your page, as well as enhance accessibility:
 [http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era&#45;-webdesign-16824.](%20http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-8">2.8. Homework Two Description</h2>
+<h2 id="week2-8">2.8. Homework Two Description - Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (two) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5038,11 +5042,10 @@ performance of your page, as well as enhance accessibility:
   width="40%;" />
 </p>
 
-### Homework Two: Advanced Selectors
+<h4>Homework Two: Advanced Selectors</h4>
 
-&ast;&ast;This homework is also described in a video lecture. Make sure to
-watch it to get a better feel for what I am looking for.
-
+<h5>This homework is also described in a video lecture. Make sure to
+watch it to get a better feel for what I am looking for.</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5052,7 +5055,7 @@ watch it to get a better feel for what I am looking for.
   width="40%;" />
 </p>
 
-### Objectives:
+<h4>Objectives:</h4>
 
 1.  Create a style sheet and link it to the html files. (Without
     changing the html.)
@@ -5063,7 +5066,7 @@ watch it to get a better feel for what I am looking for.
     You can search for the options online, or you can watch the videos
     from Week Four for some pointers.
 
-### Background:
+<h4>Background:</h4>
 
 I assume that you have finished all of the Week Two lecture videos, and
 you may want to watch Week Three as you complete this assignment. This
@@ -5076,13 +5079,13 @@ pictures. You can see the newly styled pages here:
 
 <http://www.intro-webdesign.com/CSS/assignment-2/history.jpg>
 
-### Getting started:
+<h4>Getting started:</h4>
 
 You will use the same code as you used for Assignment One. I would
 recommend that you save a copy of your stylesheet for backup. The html
 is all still the same.
 
-### Steps:
+<h4>Steps:</h4>
 
 1.  Download the image from
     <http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg>
@@ -5109,11 +5112,12 @@ is all still the same.
     have a border, be centered horizontally, and have vertical
     (top/bottom) space between them and the other images.
 
-***I have included a video you can watch to see a live demo of this new
-site. You can watch it in the next video, or link directly here:***
+<b><i>I have included a video you can watch to see a live demo of this new
+site. You can watch it in the next video, or link directly here:</i></b>
+
 <https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description>
 
-## Submission
+<h4>Submission</h4>
 
 1.  Submit your css file, we will still call it hw1.css.
 
@@ -5122,12 +5126,12 @@ site. You can watch it in the next video, or link directly here:***
     grade the assignment by eye, or else save the css and try applying
     it to the html files.
 
-## Before
+<h4>Before</h4>
 
 ![](./images/image130.png){width="4.0in"
 height="3.684615048118985in"}
 
-### After
+<h4>After</h4>
 
 ![](./images/image290.png){width="4.0in"
 height="2.8064107611548557in"}
@@ -5138,7 +5142,7 @@ height="2.725213254593176in"}
 ![](./images/image292.png){width="4.0in"
 height="2.841025809273841in"}
 
-## Homework Description
+<h4>Homework Description</h4>
 
 ![](./images/image293.png){width="4.0in"
 height="2.243589238845144in"}
@@ -5362,9 +5366,9 @@ break. Again, if you run into problems, make sure you hit those
 discussion boards. You have classmates have been really helpful, and I
 really want to encourage that communication. Good luck.
 
-## Resources
+<h4>Resources</h4>
 
-### **Code:**
+<h4>Code:</h4>
 
 Here is a link to the CodePen repository for the Week Three code. You
 can play with the code to test the different concepts.
@@ -5374,23 +5378,23 @@ can play with the code to test the different concepts.
 Here is a list of the lectures this week that use CodePen, and the name
 of each file that they use:
 
-### 03-02 Transitions:
+<h4>03-02 Transitions:</h4>
 
 -   Transitions - Using pseudo classes
 
-### 03-04 Code Together - Transitions:
+<h4>03-04 Code Together - Transitions:</h4>
 
 -   Animate - Using Transform
 
-### 03-05 Positioning:
+<h4>03-05 Positioning:</h4>
 
 -   Positioning
 
-## Week 3: Pseudo Classes and Elements
+<h3>Week 3: Pseudo Classes and Elements</h3>
 
-## Resources
+<h4>Resources</h4>
 
-## **Code:**
+<h4>Code:</h4>
 
 Here is a link to the CodePen repository for the Week Three code. You
 can play with the code to test the different concepts.
@@ -5814,7 +5818,6 @@ that&apos;s how much you want to change the width and the height of an
 element. Here I have a smaller block, and I&apos;ve decided I&apos;d like to
 make it two times as wide and three times as high. Here&apos;s a new element
 after the transform scale.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5831,7 +5834,6 @@ at some of the examples. What you&apos;re doing is you&apos;re rotating the
 element a certain number of degrees around the x angle and a certain
 number of degrees around the y angle. Here I&apos;m going to show you a
 skew, 30 degrees by 15 degrees.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 334.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5845,7 +5847,6 @@ You start off here and you end up kind of turned at a very kind of weird
 angle. And it&apos;s very hard to show you this when I&apos;m staring at the
 screen, so I&apos;m hoping you&apos;ll type that in and kind of play with it a
 little bit.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 335.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5861,7 +5862,6 @@ never use this, because I find it far too confusing to remember which
 one&apos;s scale, which one&apos;s rotate, which one&apos;s skew. Unless you feel
 really confident with your CSS3, I would avoid using matrix and go ahead
 and use each of the other individual transforms one at a time.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 336.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5911,9 +5911,9 @@ using transitions, transforms, and some of the other things we&apos;ve been
 learning all along. I hope you&apos;ll take a look at it and feel a little
 more confident about what we just learned with transforms. Good luck.
 
-### OPTIONAL READINGS - Transitions, Transforms, and Animation
+<h4>OPTIONAL READINGS - Transitions, Transforms, and Animation</h4>
 
-### Optional Readings:
+<h4>Optional Readings:</h4>
 
 1.  [CSS3
     Transitions](http://www.w3schools.com/css/css3_transitions.asp) -
@@ -6058,7 +6058,7 @@ make sure and see if those concepts now make a little bit more sense
 that you&apos;ve seen the code in action. And I hope you&apos;ll play with this
 code, change the values, and really have some fun with it. So good luck.
 
-### Positioning
+<h4>Positioning</h4>
 
 I think we have all encountered those annoying pop-up Internet ads that
 just won&apos;t seem to go away. This week you will learn how to make your
@@ -6409,9 +6409,9 @@ find those tutorials or different references where they talk about
 positioning, and play with it until you&apos;re feeling a little bit more
 comfortable with how each of these work. Good luck.
 
-<h3>Some Fun Links</h3>
+<h4>Some Fun Links</h4>
 
-<h3>Some Fun Links - <i>Optional</i>
+<h4>Some Fun Links - <i>Optional</i></h4>
 
 <a href="http://www.hongkiat.com/blog/built-with-css/">
 18 Cool Things You Won't Believe Were Built Using CSS</a>
@@ -6419,9 +6419,9 @@ comfortable with how each of these work. Good luck.
 <a href="http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/">
 12 Awesome CSS3 Features That You Can Finally Start Using</a>
 
-<h3>Resources</h3>
+<h4>Resources</h4>
 
-<h3>Code:</h3>
+<h4>Code:</h4>
 
 <p>Here is a link to the CodePen repository for the Week Four code. You can play 
 with the code to test the different concepts.</p>
