@@ -2632,16 +2632,27 @@ to make sure I gave you an example to go through with me. I have here a
 div, a couple divs with some paragraphs in it. And what I wanted to do
 was I wanted to make sure that they didn&apos;t have all the exact same
 content.
-
-![](./images/image118.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118. divs next to each other (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image118.png" 
+  alt="divs next to each other."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 As you can see, each of the divs is now next to each other because
 we&apos;ve told it we don&apos;t want them to be underneath each other. But this
 really isn&apos;t what you were hoping for it to look like.
 
-![](./images/image119.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. divs float left (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image119.png" 
+  alt="divs float left."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s go ahead and try adding that float left. Save, I&apos;m going to go
 ahead over here and refresh. And you can see, it does look a little bit
@@ -2650,8 +2661,14 @@ other. But what I&apos;m going to do now is I&apos;m going to show you something
 that doesn&apos;t work out really well. And that is this idea of when I
 resize it.
 
-![](./images/image120.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. example overflow (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image120.png" 
+  alt="Example overflow."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now you can see this idea of that the overflow might be really important
 because now things are going outside the divs themselves. Plus, I really
@@ -2663,8 +2680,14 @@ actually go in here and I can scroll each and every one of these. I&apos;m
 actually not a huge fan of this, because I don&apos;t like that people would
 need to know that they can scroll.
 
-![](./images/image121.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. set width of div to 30% (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image121.png" 
+  alt="Set width of 3 divs to 30% each."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 We&apos;re going to try something new here, instead what I&apos;m going to do is
 set the width to 30%, and I&apos;m going to go ahead and use the
@@ -2678,8 +2701,14 @@ refresh it. You can see this is not the look that we are hoping for. It
 resizes, but it&apos;s just not doing what we want because each one has its
 own particular height because we really want it to just fit that.
 
-![](./images/image122.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. another div change (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image122.png" 
+  alt="Another div change."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 This is where table cell comes in. I&apos;m going to change my display from
 inline block to table cell. And for once, when I go to hit refresh, I&apos;m
@@ -2689,9 +2718,14 @@ it so that it all works out. Now depending on what browser you&apos;re on,
 this may not work. Because what you really want to say is, if I&apos;m going
 to go ahead and make this used table cell, don&apos;t forget to go into your
 body and say display.
-
-![](./images/image123.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. still another div change (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image123.png" 
+  alt="Still another div change."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right and I&apos;m going to refresh and it&apos;s going to look the same,
 it&apos;s just going to be a better coding style. Now, I&apos;m going to try to
@@ -2704,8 +2738,14 @@ these new values, seeing what happens and playing with it. When it comes
 time for your final project, that&apos;s when to be really specific about
 making sure that everything looks good on every browser.
 
-![](./images/image124.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. visibility (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image124.png" 
+  alt="Visibility."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The last thing I want to mention very quickly was this idea of
 visibility. And it specifies whether or not an element is going to be
@@ -2720,8 +2760,14 @@ displaying none the browser acts as if it&apos;s not even there. You don&apos;t
 see anything. With visibility hidden, the browser is going to leave the
 space that that element would take up, it just doesn&apos;t show it.
 
-![](./images/image125.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. review (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image125.png" 
+  alt="Review (1.6)."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So finally, let&apos;s go ahead and review. Display is just one tool of the
 many we&apos;re going to use for positioning the elements on your page.
@@ -2736,9 +2782,8 @@ easier. We want to avoid save refresh, save refresh. Instead, use those
 tools and you&apos;ll find that you&apos;re making really good decisions in your
 design and your code. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-7">1.7. Homework Description</h2>
+<h2 id="week1-7">1.7. Homework Description - Code Placement</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Code Placement - read
 
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
@@ -5131,9 +5176,14 @@ background image for a navigation bar and something that isn&apos;t
 necessarily easy to see when you&apos;re just looking at paper, I&apos;ve added
 a new class that highlights which page we&apos;re on right now. If you look,
 the home link is highlighted because we&apos;re on the home page.
-
-![](./images/image299.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 299.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image299.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If I click on history, the history link is how that it because we&apos;re on
 the history page and then the same way, the team&apos;s page. This is what
