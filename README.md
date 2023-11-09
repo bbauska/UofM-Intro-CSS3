@@ -1962,11 +1962,10 @@ Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-5">1.5. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. code together (1.5) (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image083.png" 
-  alt="."
+  alt="1.5. Code Together."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1982,25 +1981,25 @@ listening with me doesn&apos;t really give you the true experience you need
 to type it in and make mistakes as we go along together.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 84.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 84. practice coding; styling (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image084.png" 
-  alt="."
+  alt="Practice Coding; Styling."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-Okay, so let&apos;s go ahead and begin. What I&apos;m going to do in this video
+Okay, so let&apos;s go ahead and begin. What I&apos;m going to do in this section
 is I&apos;m going to go back to an oldie but a goodie that we did in HTML
 five. And I want us to go in together and style it. Alright, let&apos;s
 start by making our CSS file. I&apos;m going to go ahead and create a new
 one now, go up here to file, new file, or you can do command N.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 85.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. create .css file (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image085.png" 
-  alt="."
+  alt="Create .css file."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2016,35 +2015,31 @@ together-1.css. It&apos;s really important that you remember to put that
 file extension, or things aren&apos;t going to work.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 86.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 86. style header (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image086.png" 
-  alt="."
+  alt="Practice Styling; Style Header."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-All right, so here&apos;s my old, boring page. What people typically do is
-they style from the top of the page and work their way down. I want you
-to pick your own values, but let&apos;s together go ahead and style my
-header. Oops, wrong thing here.
-
-And we can give it a background. I&apos;m going to try B3B3B3. We can give
-it a larger font if you want. I&apos;m going to say font size. Let&apos;s make
-it 150%. Just a little bit something different. I&apos;m going to save this,
-and I always really encourage students to make small changes to their
-code and then check and see what happened. Let&apos;s see if we changed
-anything over here. And so now I&apos;m going to reload it and see what
-happened, and if you notice, nothing happened. Well, the problem is I
-didn&apos;t link the style sheet correctly to the HTML file. Remember how I
-told you I always think put things in a folder called CSS? I need to
-include that. All right, come back. Reload.
-
+<p>Here&apos;s my old, boring page. What people typically do is they style from 
+the top of the page and work their way down. I want you to pick your own values, 
+but let&apos;s together go ahead and style my header.</p>
+<p>And we can give it a background. I&apos;m going to try B3B3B3. We can give it a 
+larger font if you want. I&apos;m going to say font size. Let&apos;s make it 150%. 
+Just a little bit something different. I&apos;m going to save this, and I always 
+really encourage students to make small changes to their code and then check and 
+see what happened. Let&apos;s see if we changed anything over here. And so now 
+I&apos;m going to reload it and see what happened, and if you notice, nothing 
+happened. Well, the problem is I didn&apos;t link the style sheet correctly to 
+the HTML file. Remember how I told you I always think put things in a folder 
+called CSS? I need to include that. All right, come back. Reload.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 87.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 87. background-color and text-align: center (52) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image087.png" 
-  alt="."
+  alt="Update background-color and text-align: center."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2059,10 +2054,10 @@ right. And let&apos;s go ahead and I really want to align that text. I&apos;m
 going to call it text-align: center. Save, refresh.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 88. h1 color, font-variant, and font-color (52) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image088.png" 
-  alt="."
+  alt="Update h1 font color and font-variant."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2088,15 +2083,15 @@ put them inside the quotes. And then finally just Serif. Let&apos;s see what
 happened.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. update and add style rules (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image089.png" 
-  alt="."
+  alt="Update style.css rules."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-You can see I&apos;m going to make it a little bit bigger, we&apos;re starting
+<p>You can see I&apos;m going to make it a little bit bigger, we&apos;re starting
 to get there. Let&apos;s go ahead and just style a few more things together,
 and then we&apos;ll go on and learn a little bit more. I would like to see
 you pick your own things for h2. So h2 I&apos;m going to pick a different
@@ -2105,22 +2100,21 @@ going to use 00B7EA. So, does it matter? Does it matter whether I type
 it as EA uppercase, lowercase? It doesn&apos;t matter at all. The important
 thing is for you to usually be consistent so you don&apos;t mess yourself up
 as you&apos;re going back and forth. All right? We&apos;ll refresh again. All
-right.
-
-It&apos;s starting to look much different. This isn&apos;t a lot of style. It&apos;s
+right.</p>
+<p>It&apos;s starting to look much different. This isn&apos;t a lot of style. It&apos;s
 only one, two, three, four, five. Five rules and we already have a much
 different look. I&apos;m going to go ahead and make the screen smaller
-because when I put in that font size 150%, it makes a big difference.
+because when I put in that font size 150%, it makes a big difference.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 90.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. style summary in details (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image090.png" 
-  alt="."
+  alt="Style summary in italics."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-All right. One last thing I&apos;d like you to try to do is go ahead and try
+<p>All right. One last thing I&apos;d like you to try to do is go ahead and try
 to style the summary in the details. Because if I want to make just the,
 I grew up in Ashtabula Ohio part, how can you make those italics but not
 the rest? All right so if you remember what the HTML code looks like,
@@ -2129,29 +2123,27 @@ details tag and if you haven&apos;t seen it before, I put the word open in
 which means by default show it is open, so no one has to click on it.
 I&apos;ve got my details. I&apos;ve got my summary where the My Childhood part
 came up, and then I have all this part. If you want to make those
-italics, and only those, how do you do it? All right. 
-What we&apos;re going
-to start with, is we are going to style the details tag. And I&apos;m going
-to scroll up here a little bit so you guys can see a little better,
-hopefully. And what I&apos;m going to say is I want to make everything
+italics, and only those, how do you do it? All right. </p>
+<p>What we&apos;re going to start with, is we are going to style the details tag. 
+And I&apos;m going to scroll up here a little bit so you guys can see a little 
+better, hopefully. And what I&apos;m going to say is I want to make everything
 italic, and the way you do that is you go and put in font-style: italic.
 Got it? Now this isn&apos;t going to be exactly what we wanted because what
 I&apos;ve done is I&apos;ve italicized everything. So now you want to go back
 and say, but you know what? I don&apos;t want the summary. I don&apos;t want the
 summary in italics. How you make it so it&apos;s not italics, by default
 most things aren&apos;t, you can actually put in the word normal. All right.
-So that&apos;s it.
-
+So that&apos;s it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 91.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 91. style header and footer same (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image091.png" 
-  alt="."
+  alt="Style header and Footer same."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-Now we&apos;ve got this part in italics and this part in bold. For the most
+<p>Now we&apos;ve got this part in italics and this part in bold. For the most
 part we&apos;re finished but I am going to add one little thing, because
 it's really common for people to style their header and their footer in
 a very similar manner. Let&apos;s go and add style my footer. And what I
@@ -2159,13 +2151,12 @@ want to do is I want to give it the same background color that my header
 had. Background, one, two, three, four, five, six, boom. And there you
 go. What we&apos;ve done now is we&apos;ve gone from a very simple, basic HTML
 file and we&apos;ve started adding just a little bit of color, a little bit
-of font size, a few different things like that.
-
+of font size, a few different things like that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 92.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. old and new styles (55) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image092.png" 
-  alt="."
+  alt="Old and new styles side-by-side."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2177,7 +2168,6 @@ they&apos;re exact same HTML. Okay great, these are the type of things
 you&apos;re going to need to do for the homework in this section. Practice
 here, come back and watch me, if it helps you out a little bit getting
 over humps. But the important thing is, code, code, code, good luck.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-6a">1.6a. Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
