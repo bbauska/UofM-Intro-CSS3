@@ -7217,8 +7217,7 @@ margin are very important and they&apos;re very additive. So, when you use
 percents, instead of pixels, it&apos;s going to keep it from being that it
 looks fine on a big screen and then really bad on a small screen.
 
-![](./images/image400.png){width="4.0in"
-height="2.2470089676290463in"}
+![](./images/image400.png)
 
 The last thing, I kind of put in here just to have some fun and to help
 show you again some of the different things you can do with CSS, is I
@@ -7239,8 +7238,7 @@ down, sideways, or even combinations. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-05">04-05 Creating Navigation Menus #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image401.png){width="4.0in"
-height="2.2333333333333334in"}
+![](./images/image401.webp)
 
 Guess what? We&apos;re going to do another, and our final, navigation bar
 together, in this code review. This one, though, is a little bit
@@ -7249,8 +7247,7 @@ talk to you about the accessibility of how many people make their
 navigation bars. The new way, I&apos;ve used this way, is to create your
 navigation links as part of lists.
 
-![](./images/image402.png){width="4.0in"
-height="2.2534186351706036in"}
+![](./images/image402.webp)
 
 You can see, we already have it a little bit different over here. I&apos;ve
 got an unordered list with one, two, three, four a list items, and some
@@ -7267,8 +7264,7 @@ been in a webpage and we&apos;re trying to hover over something to click a
 link. And it keeps popping away because our hand is too shaky or we have
 to hover over three things at the same time.
 
-![](./images/image403.png){width="4.0in"
-height="2.2333333333333334in"}
+![](./images/image403.webp)
 
 So again, while this is a technique, I want to share with you and help
 you to understand, I hope that you&apos;ll make sure that any applications
@@ -7278,14 +7274,12 @@ So again, let&apos;s start with this plain, kind of boring HTML code, and
 see if we can&apos;t get it to look like something a little bit more
 exciting.
 
-![](./images/image404.png){width="4.0in"
-height="2.2333333333333334in"}
+![](./images/image404.webp)
 
 What we have here now is a horizontal navigation bar that&apos;s going to
 have drop down elements.
 
-![](./images/image405.png){width="4.0in"
-height="2.2333333333333334in"}
+![](./images/image405.webp)
 
 So, when I go over Home, there&apos;s nothing extra to see, but, when I go
 over Pictures, you can see that I have three additional links I can try
@@ -7298,8 +7292,7 @@ navigation because I think you know how to do all this. Instead, let&apos;s
 talk about the different lists themselves. So sorry, list items
 themselves in the links.
 
-![](./images/image406.png){width="4.0in"
-height="2.2333333333333334in"}
+![](./images/image406.webp)
 
 So, what I&apos;ve done is I&apos;ve gone in here, kind of so you can see both
 at the same time. And it&apos;s very faint, and I wish I had made a
@@ -7307,8 +7300,7 @@ different color now. But I have a border between each one of these
 options. Now, it would have looked a little bit weird for me to have a
 border right here along the side.
 
-![](./images/image407.png){width="4.0in"
-height="2.2401706036745406in"}
+![](./images/image407.webp)
 
 What I needed to do is I went and I said you know what? For that last
 list item, the very last one, let&apos;s not put a border in. It&apos;s that
@@ -7317,8 +7309,7 @@ little bit more professional. We also don&apos;t want borders on the sub
 items, right? Because there&apos;s nothing. Since those are blocked, we
 don&apos;t need borders on the side.
 
-![](./images/image408.png){width="4.0in"
-height="2.2333333333333334in"}
+![](./images/image408.webp)
 
 I did the same thing over here, where I said, you know what? I don&apos;t
 want to use any borders over here. Pretty straight forward, I hope. Now,
@@ -7327,7 +7318,7 @@ right?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409. using transition (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image409.png" 
+  <img src="./images/image409.webp" 
   alt="Hover will display block."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7341,7 +7332,7 @@ like last time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 410. sub menu transition (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image410.png"
+  <img src="./images/image410.webp"
   alt="Hover will display block."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7363,7 +7354,7 @@ get it so that it suddenly does show up if we want to do something along that li
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411. hover menu (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image411.png" 
+  <img src="./images/image411.webp" 
   alt="Hover will display block."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7376,7 +7367,7 @@ setting it up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 412. hover display becomes block (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image412.png" 
+  <img src="./images/image412.webp" 
   alt="Hover will display block, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7466,7 +7457,7 @@ site. You can watch it in the next video, or link directly here:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412. before (216) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image412.png" 
+  <img src="./images/image412.webp" 
   alt="Before."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7477,7 +7468,7 @@ site. You can watch it in the next video, or link directly here:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 413. after (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image413.png"
+  <img src="./images/image413.webp"
   alt="After."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7488,7 +7479,7 @@ site. You can watch it in the next video, or link directly here:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 414. homework description- final project (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image414.png" 
+  <img src="./images/image414.webp" 
   alt="Homework Description."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7501,7 +7492,7 @@ something that you feel really proud of and that you&apos;ll want to share.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415. objective (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image415.png" 
+  <img src="./images/image415.webp" 
   alt="Objective."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7512,7 +7503,7 @@ style three different HTML files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416. getting started (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image416.png"
+  <img src="./images/image416.webp"
   alt="Getting started."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7524,11 +7515,11 @@ you want, but I need to know that those changes are completed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 417/418. before and after web design (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image417.png"
+  src="./assets/images/image417.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Before." />
 <img class="border"
-  src="./assets/images/image418.png"
+  src="./assets/images/image418.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="After." />
 <p style="clear: both;"></p>
@@ -7538,11 +7529,11 @@ we&apos;re going with this final project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 419/420. ultimate frisbee history (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image419.png"
+  src="./assets/images/image419.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Ultimate Frisbee History menu." />
 <img class="border"
-  src="./assets/images/image420.png"
+  src="./assets/images/image420.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Ultimate Frisbee History menu, #2." />
 <p style="clear: both;"></p>
@@ -7552,7 +7543,7 @@ first HTML view. Our next one, we made it really plain.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421/422. college teams (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image421.png"
+  src="./assets/images/image421.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Examples of proprietary and open-source CMS software." />
 <img class="border"
@@ -7563,7 +7554,7 @@ first HTML view. Our next one, we made it really plain.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423. college teams (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image423.png" 
+  <img src="./images/image423.webp" 
   alt="College teams."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7584,7 +7575,7 @@ looks really good.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 424. you must leave the html alone (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image424.png" 
+  <img src="./images/image424.webp" 
   alt="You must leave the HTML alone."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7600,7 +7591,7 @@ together examples.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425. table (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image425.png" 
+  <img src="./images/image425.webp" 
   alt="Table."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7631,7 +7622,7 @@ it differently and it means something different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426. table heading (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image426.png" 
+  <img src="./images/image426.webp" 
   alt="Table heading."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7649,7 +7640,7 @@ property, something that you think would look cool.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427. table rows (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image427.png" 
+  <img src="./images/image427.webp" 
   alt="Table rows."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7674,7 +7665,7 @@ example of that before I go on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428. table menu form (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image428.png" 
+  <img src="./images/image428.webp" 
   alt="Table menu form."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7685,7 +7676,7 @@ black font color. So that&apos;s where the opacity comes in.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. table menu form, #2 (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image429.png" 
+  <img src="./images/image429.webp" 
   alt="Table menu form, again."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7697,7 +7688,7 @@ or anything like that. Instead, what I changed is the opacity to set it to 1.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. td - table data (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image430.png" 
+  <img src="./images/image430.webp" 
   alt="TD - table elements."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7719,7 +7710,7 @@ to try to replicate it, go ahead and try to use it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 431. peer grading (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image431.png" 
+  <img src="./images/image431.webp" 
   alt="Peer grading."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7746,7 +7737,7 @@ Or just share something cool that you got to work. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image432.png" 
+  <img src="./images/image432.webp" 
   alt="In closing, 'Intro to CSS3'."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -7764,7 +7755,7 @@ my own progress as a web designer?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 433. what's next? (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image433.png" 
+  <img src="./images/image433.webp" 
   alt="What's next?"
   style="border: 2px solid #000000;" 
   width="40%;" />
