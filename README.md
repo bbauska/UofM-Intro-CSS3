@@ -2171,14 +2171,12 @@ over humps. But the important thing is, code, code, code, good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-6a">1.6a. Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 93/94. 1.6a/b. display and visibility (part 1 and 2) (55) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 93. 1.6a. display and visibility (part 1) (55) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image093.png"
   style="width:40%;"
   alt="Display and Visibility (part 1)." />
-<img src="./images/image094.png"
-  style="width:40%;"
-  alt="Display and Visibility (part 2)." />
+</p>
 
 <p>Hi, today we&apos;re going to be talking about Display and Visibility on
 Your Webpage. Now when it comes time to making your page, again and
@@ -2193,15 +2191,15 @@ is key to a really effective page.</p>
   width="40%;" />
 </p>
 
-And one of the things you need to remember is that every element we look
+<p>One of the things you need to remember is that every element we look
 at is basically a box. And the box model is something we&apos;re going to
 cover in a future lecture. But before we get to the specifics, I just
 want to talk about some details. Because how the display on your display
-element works affects all the neighboring elements on your page. Before
-we begin, I just want to remind you every element on your page is a box.
-Just think of it that way. And display is how you can decide whether the
-boxes should be next to each other, underneath each other, and different
-things like that.
+element works affects all the neighboring elements on your page.</p>
+<p>Before we begin, I just want to remind you every element on your page is a box.
+Just think of it that way. And display is how you can decide whether the boxes 
+should be next to each other, underneath each other, and different things like 
+that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. display: inline (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2290,10 +2288,10 @@ These four, the inline, the block, the inline-block and the none are the
 ones that we&apos;re really going to start playing with at the beginning.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 101. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 101. example; 3 span, div and paragraph elements (59) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image101.png" 
-  alt="Display: none; removed from page."
+  alt="Example; 3 span, 3 div and 3 paragraph elements."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2309,21 +2307,20 @@ a height and a width. Basically, all my elements, a height and width and
 a different background color.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 102. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 102. example; span is green, div is blue and p is pinkish (59) ~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image102.png" 
-  alt="Display: none; removed from page."
+  alt="Example; span is green, div is blue, and paragraph is pinkish."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-If we&apos;re to look at it right now. You would see that I&apos;ve made all my
+<p>If we&apos;re to look at it right now. You would see that I&apos;ve made all my
 spans green, all my divs blue, and all my paragraphs a kind of pinkish
 purple color. And each one lays out exactly by default as how it would
 go. The reason the divs are as big as they are and the paragraphs are as
 big as they are is, again we put that in our style sheet.
-
-You can see my height and my width. If I didn&apos;t include these by
+<p>You can see my height and my width. If I didn&apos;t include these by
 default, these divs and paragraphs would take up the whole width of the
 screen, and they&apos;d be really small because they would only need enough
 space to have that text. Let&apos;s go ahead and play with this. Normally, I
@@ -2332,13 +2329,12 @@ different displays and different things like that. I&apos;m hoping it&apos;ll be
 a little clearer for you if instead, I do this at the same time. So, you
 can follow along with me with what&apos;s inspect element, or you can go
 ahead and change the code in your file, save it, refresh, save it,
-refresh.
-
+refresh.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 103. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 103. example; use inspect element (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image103.png" 
-  alt="Display: none; removed from page."
+  alt="Example; use inspect element."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2353,25 +2349,23 @@ width for each one of my span elements. But they&apos;re not actually very
 big. So how do we change that? If something&apos;s inline, but you want to
 give it a height and a width, we go down to display, and I&apos;m going to
 go here.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 104. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 104. change spans to inline-block (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image104.png" 
-  alt="Display: none; removed from page."
+  alt="Change spans to inline-block."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-And I&apos;m going to try inline-block. Boom, right away my spans have taken
+<p>And I&apos;m going to try inline-block. Boom, right away my spans have taken
 on those properties. So before when they were inline, they were small.
-When they&apos;re inline block, I can shape them really nicely.
-
+When they&apos;re inline block, I can shape them really nicely.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 105. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 105. block elements don't like to be next to each other (61) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image105.png" 
-  alt="Display: none; removed from page."
+  alt="Example; block elements don't like to be next to each other."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2386,10 +2380,10 @@ to do and you might use it later if you want things to appear some times
 and not others but you don&apos;t want to leave a big white space.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 106. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. div; inline block (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image106.png" 
-  alt="Display: none; removed from page."
+  alt="Make div: inline-block and check neighbors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2413,12 +2407,11 @@ happens if it&apos;s span? And pay really close attention to the fact that
 it&apos;s not enough to know what the display is for the one element you&apos;re
 working on, you also need to know the display for its neighbors. But,
 let&apos;s go ahead and talk a little bit more.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 107. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107. complementary properties (62) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image107.png" 
-  alt="Display: none; removed from page."
+  alt="Complementary Properties; float and clear."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2460,44 +2453,46 @@ just looking at when I was playing with display block, inline, none,
 etc. But now, we&apos;re going to throw float and clear into the mix as
 well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 108/109. code and example float (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 108/109. code and example float (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-<img src="./assets/images/image108.png"
-  style="width:30%;"
-  alt="." >
-<img src="./assets/images/image109.png"
-  style="width:30%;"
-  alt="." >
+<img src="./images/image108.png"
+  style="width:40%;"
+  alt="Code example, before." />
+<img src="./images/image109.png"
+  style="width:40%;"
+  alt="Code example, after." />
 </p>
 
-Here is the code we&apos;re looking at, and here&apos;s the website. And the
+<p>Here is the code we&apos;re looking at, and here&apos;s the website. And the
 first thing I&apos;m going to do is I&apos;m going to play with the spans up
 here and I&apos;m going to try floating them. Remember, when you float
 something, you&apos;re basically saying put it as far over to the side as
 you can and the other elements are almost going to act as if they&apos;re
 not there but they&apos;re not going to overlap it. I&apos;m going to go down
-here, go to my float. Say float. Now, the first thing I&apos;m going to do
-is I&apos;m just going to float it to the left, which means they&apos;re not
-really going to move too much. What I want you to look for is that right
-now, there&apos;s a little bit of space between each one of my spans.
-
+here, go to my float. Say float.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 110. float left, space goes away (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png" 
-  alt="Display: none; removed from page."
+  <img src="./images/image110.png" 
+  alt="Float left, space goes away."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image110.png){width="4.0in"
-height="2.2529910323709537in"}
 
-When I change it to left, that space goes away and the div actually goes
-underneath it as well, because the spans are on top. Now when I try
-changing it and floating it right.
-
-![](./images/image111.png){width="4.0in"
-height="2.2529910323709537in"}
+<p>Now, the first thing I&apos;m going to do is I&apos;m just going to float it to 
+the left, which means they&apos;re not really going to move too much. What I want 
+you to look for is that right now, there&apos;s a little bit of space between each 
+one of my spans. When I change it to left, that space goes away and the div actually 
+goes underneath it as well, because the spans are on top. Now when I try changing 
+it and floating it right.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 111. float right, right next to each other (63) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image111.png" 
+  alt="Float right, now right next to each other."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When I float it right, I want you to notice that not only do they not
 have space in between them, that they&apos;re kind of right next to each
@@ -2507,9 +2502,14 @@ moves it as far to the right as it can. And then when it&apos;s doing span
 B, it&apos;s moving as far to the right as it can, and span C as well. This
 is kind of something interesting, and you can see that if they were to
 the left, the divs would overlap them.
-
-![](./images/image112.png){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 112. change all divs to float left (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image112.png" 
+  alt="Change all divs to float left."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, so let&apos;s go ahead and do a few more of these things. And
 I&apos;m going to do a change all my divs, so that they are also. Let&apos;s go
@@ -5157,19 +5157,30 @@ Next make sure you saw that active class I talked about. That&apos;s how
 people will be able to know which page they&apos;re looking at without
 having to look at the URL.
 
-![](./images/image306.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 306. page has a left and right class (77) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image306.png" 
+  alt="Page has a left and right class."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-Now another thing that you're going to need to work on is this idea that
+<p>Now another thing that you're going to need to work on is this idea that
 our page has a left and a right class to it. Now in order to get things
 to go next to each other you're going to need to mess with the display
 and possibly float depending on how you implement this. Make sure you
 change them so that they&apos;re side by side, and change that background
 color for the left class. You may have already done that in the previous
-homework, but if you didn&apos;t make sure it gets done now.
-
-![](./images/image307.png){width="4.0in"
-height="2.243589238845144in"}
+homework, but if you didn&apos;t make sure it gets done now.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. images (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image307.png" 
+  alt="Images."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Finally, we want to get back to those images. First, you need to put the
 images back in because, hopefully in homework one, you set their display
@@ -5180,9 +5191,14 @@ Next, make sure that they&apos;re centered within that left class. I don&apos;t
 want the pictures to be all the way to one side or the other. And, while
 you&apos;re centering them, make sure you put some space between them, on
 the top and bottom, too.
-
-![](./images/image308.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. peer grading (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image308.png" 
+  alt="Peer Grading."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Once again, we&apos;ll be using the peer grader to evaluate your work.
 Unlike before, grades will be based on level of completion, and somewhat
@@ -6334,7 +6350,6 @@ some days, little appointments. So, I&apos;m going to have lunch with mom,
 or meet with the dean, or be library helper. And, on the 31st, it&apos;s
 Halloween, so boo! What can we do to take this information, this content
 from our HTML5, and turn it into something that&apos;s really pleasing?
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 365. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6352,7 +6367,6 @@ things like border radius, highlighted out these days right here. I
 realize it&apos;s really hard to see in the screen right now, but I actually
 have a background image for those days to make it look a little bit
 different.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 366. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
