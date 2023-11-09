@@ -2759,7 +2759,6 @@ difference is between display and visibility. Just remember that with
 displaying none the browser acts as if it&apos;s not even there. You don&apos;t
 see anything. With visibility hidden, the browser is going to leave the
 space that that element would take up, it just doesn&apos;t show it.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. review (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2784,7 +2783,6 @@ design and your code. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-7">1.7. Homework Description - Code Placement</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
 where to place your code, there are definitely conventions. (Conventions
@@ -2795,10 +2793,14 @@ The most common organization is to have one main folder with your html
 files in it. There are also subfolders (folders inside the main folder)
 for your CSS files and image files. (In this example I also have
 JavaScript files.)
-
-![Folder with subfolders nested
-within.](./images/image126.png){width="4.0in"
-height="1.304757217847769in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 126. folder with subfolders nested within (72) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image126.png" 
+  alt="Folder with subfolders nested within."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When we use CodePen we use that idea of separating our code. However, be
 aware that CodePen doesn&apos;t require many of the things you should have
@@ -2813,9 +2815,14 @@ understanding folder structures will help you, even if you never code
 again.
 
 I am going to end with a screen shot of my computer.
-
-![](./images/image127.png){width="4.0in"
-height="0.5088801399825021in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 127. screenshot: homework, css, style (72) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image127.png" 
+  alt="Screenshot: homework, css, and style."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 My css folder is in the SAME directory as my html files.
 
@@ -2828,12 +2835,15 @@ computers it matters and this would not work**:**
 
 &lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
-## 01.07, cont'd: Homework One Description - read
-
-## Homework One: Creating an External Style Sheet
-
-![](./images/image128.png){width="4.0in"
-height="2.263248031496063in"}
+<h2 id="week1-7">1.7, cont'd: Homework One Description - Creating an External Style Sheet</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (73) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image128.png" 
+  alt="Homework Description (1.7) - Creating an External Style Sheet."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 &ast;&ast;This homework is also described in a video lecture. Make sure to
 watch it to get a better feel for what I am looking for.
