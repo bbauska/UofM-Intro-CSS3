@@ -2173,10 +2173,10 @@ over humps. But the important thing is, code, code, code, good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 93/94. 1.6a/b. display and visibility (part 1 and 2) (55) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
-<img src="./assets/images/image093.png"
+<img src="./images/image093.png"
   style="width:40%;"
   alt="Display and Visibility (part 1)." />
-<img src="./assets/images/image094.png"
+<img src="./images/image094.png"
   style="width:40%;"
   alt="Display and Visibility (part 2)." />
 
