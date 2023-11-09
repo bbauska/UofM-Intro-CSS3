@@ -2171,21 +2171,19 @@ over humps. But the important thing is, code, code, code, good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-6a">1.6a. Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 93/94. 1.6a/b. display and visibility (part 1 and 2) (55) ~~~~~~~~~~~~~~~~~-->
-<img class="displayed"
-  src="./images/image093.png"
-  alt="Display and Visibility (part 1)."
-  style="width:35%" />
-<img class="displayed"
-  src="./images/image094.png"
-  alt="Display and Visibility (part 2)."
-  style="width:35%" />
+<p align="center">
+<img src="./assets/images/image093.png"
+  style="width:40%;"
+  alt="Display and Visibility (part 1)." />
+<img src="./assets/images/image094.png"
+  style="width:40%;"
+  alt="Display and Visibility (part 2)." />
 
-Hi, today we&apos;re going to be talking about Display and Visibility on
+<p>Hi, today we&apos;re going to be talking about Display and Visibility on
 Your Webpage. Now when it comes time to making your page, again and
 again I&apos;m going to tell you that laying out where you want things to be
-is key to a really effective page.
+is key to a really effective page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 95. display is key to layout (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
