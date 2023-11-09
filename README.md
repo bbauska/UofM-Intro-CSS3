@@ -2486,7 +2486,7 @@ one of my spans. When I change it to left, that space goes away and the div actu
 goes underneath it as well, because the spans are on top. Now when I try changing 
 it and floating it right.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 111. float right, right next to each other (63) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 111. float right, right next to each other (64) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image111.png" 
   alt="Float right, now right next to each other."
@@ -2503,7 +2503,7 @@ B, it&apos;s moving as far to the right as it can, and span C as well. This
 is kind of something interesting, and you can see that if they were to
 the left, the divs would overlap them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 112. change all divs to float left (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 112. change all divs to float left (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image112.png" 
   alt="Change all divs to float left."
@@ -2518,38 +2518,51 @@ things are going all over the place and you really, you probably don&apos;t
 want it to look this way. Particularly if we wanted all of our
 paragraphs to really be at the bottom of the page. I&apos;m going to go up
 here to my paragraphs.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 113. clear both sides (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image113.png" 
+  alt="Clear both sides."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
-![](./images/image113.png){width="4.0in"
-height="2.2529910323709537in"}
-
-I&apos;m going to say, I&apos;m not going to float these. Instead, I&apos;m going to
+<p>I&apos;m going to say, I&apos;m not going to float these. Instead, I&apos;m going to
 say I&apos;m done with floating, please stop floating things around me. And
 I am going to clear both sides. The paragraphs are now saying, get me
 away from all this floating craziness. I just want to be down here.
-Floating, clearing, different things like this. When we do these kind of
-really simple code examples in the lecture, they&apos;re not always going to
-make as much sense as when you&apos;re putting them in as part of something
-bigger. But the problem is I can&apos;t show you examples of something
-bigger because you&apos;d all fall asleep about three or four minutes into
-the code. So go ahead, do what we&apos;ve always been doing and just play
-with these a little bit until you get the idea of what they do. As time
-goes on, you&apos;ll start to figure out when you want them to actually do
-these kinds of actions.
-
+Floating, clearing, different things like this.</p>
+<p>When we do these kind of really simple code examples in the lecture, they&apos;re 
+not always going to make as much sense as when you&apos;re putting them in as part 
+of something bigger. But the problem is I can&apos;t show you examples of something
+bigger because you&apos;d all fall asleep about three or four minutes into the code. 
+So go ahead, do what we&apos;ve always been doing and just play with these a little 
+bit until you get the idea of what they do. As time goes on, you&apos;ll start to 
+figure out when you want them to actually do these kinds of actions.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-6b">1.6b. Display and Visibility, Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image114.png){width="4.0in"
-height="2.2598293963254594in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~ 94. 1.6b. display and visibility (part 2) (65) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image094.png"
+  style="width:40%;"
+  alt="Display and Visibility (part 2)." />
+</p>
 
 One of the things you may have noticed as you&apos;ve been going through
 other code is that sometimes when you mess with the height and the width
 of an element. You find out that it no longer is big enough to hold all
 the text that you wanted to show.
-
-![](./images/image115.png){width="4.0in"
-height="2.2598293963254594in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 114/115. element overflow; visible, hidden, scroll, auto (66) ~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image114.png"
+  style="width:40%;"
+  alt="Element Overflow; visible, hidden, scroll and auto." />
+<img src="./images/image115.png"
+  style="width:40%;"
+  alt="Element Overflow; visible, hidden, scroll and auto." />
+</p>
 
 So, what can you do when the content doesn&apos;t fit any longer inside the
 box that you&apos;ve made with your height and width? You can use a property
@@ -2586,18 +2599,28 @@ values. Again, browsers are always changing. HTML5 and future versions
 are always changing and they&apos;re trying to add new support. The problem
 is when you see these new cool tools they don&apos;t always work on every
 browser. So inline, inline block, block and none will work everywhere.
-
-![](./images/image116.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116. table, grid, flexbox (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image116.png" 
+  alt="Table, grid and flexbox."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But here are a few more that are slowly beginning to gain acceptance.
 And those are table, grid and flexbox. For grid and flexbox, I&apos;m going
 to leave it to you to kind of play with it. But I did want to show you
 an example of where a lot of my students find the table display really
 helpful.
-
-![](./images/image117.png){width="4.0in"
-height="2.2662390638670167in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117. display: table (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image117.png" 
+  alt="display: table and table-cell."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 How a table display works is that you don&apos;t make an actual table with
 your HTML code, nor do you have the tag table. But you&apos;re telling your
@@ -4952,11 +4975,27 @@ performance of your page, as well as enhance accessibility:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-8">2.8. Homework Two Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (two) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image293.png" 
+  alt="2.8. Homework Description (two): Advanced Selectors."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 ### Homework Two: Advanced Selectors
 
 &ast;&ast;This homework is also described in a video lecture. Make sure to
 watch it to get a better feel for what I am looking for.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image294.png" 
+  alt="Objective."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 ### Objectives:
 
@@ -5102,9 +5141,14 @@ we call the current page that we&apos;re looking at. You&apos;re going to be
 styling this to let your viewers know where they are on this page. I&apos;m
 going to go through and talk about each of the tags I want you to look
 at in order to complete this assignment.
-
-![](./images/image300.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 300. you must leave the html alone (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image300.png" 
+  alt="You must leave the HTML alone."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When you get started, you&apos;re going to leave that HTML code alone, and
 you&apos;re either going create a new style sheet, or you&apos;re going to go
@@ -5116,8 +5160,14 @@ I have three classes called active, left, and right, and finally,
 you&apos;re going to want to put those images back in that were in the
 left-hand side of the page.
 
-![](./images/image301.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 301. body: change padding and margin (75) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image301.png" 
+  alt="body: change padding and margin."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So first, let&apos;s talk about the body. By default, your browsers put in
 some sort of padding and margin, but I want you to overwrite that and
@@ -5125,8 +5175,14 @@ put something that will look consistent across all browsers. You can
 also feel free to adjust the size of the text, but that&apos;s not required.
 I know I did because I just found the text a little bit too small.
 
-![](./images/image302.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 302. header:  background-color and image (75) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image302.png" 
+  alt="header: change background-color and add background-image."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, go to the header. The first step is to change the background color
 and see if you can get that to work. Next, you&apos;re going to want to add
@@ -5134,29 +5190,43 @@ a background image. And to be honest, this will be the trickiest part of
 the whole homework assignment. Because sometimes it&apos;s not always clear
 where you can find the images and where you can&apos;t, so make sure you
 check in some of the other resources if you get stuck on this part.
-
-![](./images/image303.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 303. h1: change font size and color (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image303.png" 
+  alt="h1: change font-size and color."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, I want you to change the font color and increase that font size a
 little bit more. Now here again is something that&apos;s new that you
 didn&apos;t learn before. I want you to style the links that are in the
 navigation section but only those links. Not all the links in the page.
-
-![](./images/image304.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 304. navigation links: style only nav (76) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image304.png" 
+  alt="Navigation links: style only nav."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You don&apos;t need to recreate my example exactly, but I do want your links
 to be nicely spaced apart, they should have some background color,
 rounded borders and no underline. Make them look nice.
-
-![](./images/image305.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. create active class (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image305.png" 
+  alt="Create an active class."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next make sure you saw that active class I talked about. That&apos;s how
 people will be able to know which page they&apos;re looking at without
 having to look at the URL.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 306. page has a left and right class (77) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
