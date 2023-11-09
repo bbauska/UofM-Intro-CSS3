@@ -3119,16 +3119,26 @@ name of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-1">2.1. Box Model</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image147.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.1) (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image147.png" 
+  alt="2.1 Box Model."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi. Today we&apos;re going to talk about the box model. And what the box
 model is, is really a general concept of CSS that helps you size and
 place your element where you want them to go.
 
-![](./images/image148.png){width="4.0in"
-height="2.2461537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. height and width (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image148.png" 
+  alt="Height and Width."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One of the first things we&apos;re going to talk about is height and width.
 I know I&apos;ve already used this a little bit in some of my other
@@ -3145,8 +3155,14 @@ if you give it a height and a width, the browser just ignores it.
 Anything else, the browser goes great, I can go ahead and change that
 for you.
 
-![](./images/image149.png){width="4.0in"
-height="2.2461537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. border (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image149.png" 
+  alt="Border."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Some of the other things we want to think about then, when we have
 elements, is how they fit on the screen. One of the easiest ways for you
@@ -3164,16 +3180,28 @@ specify a color, or you don&apos;t specify a width, no problem. It&apos;ll
 default to black and probably one pixel. But you have to decide what
 kind of style you want.
 
-![](./images/image150.png){width="4.0in"
-height="2.2461537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. border with div example (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image150.png" 
+  alt="Border with div example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In this case, I&apos;ve said, for all my divs, I want them to have a solid
 one pixel border around them, and I can&apos;t tell you what color that is,
 because I&apos;m not quite that geeky yet, but I&apos;d guess something like
 blue.
 
-![](./images/image151.png){width="4.0in"
-height="2.2461537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151. border-style (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image151.png" 
+  alt="border-style."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The border style that you want to specify, while most people always use
 solid, there&apos;s a lot of different styles. You can use dotted, dashed,
@@ -3182,9 +3210,14 @@ things you can do, and it's really kind of a stylistic difference on
 your part. I don&apos;t really pay much attention to them because I&apos;ve
 always just used solid myself. Once you&apos;ve decided what kind of style
 you want, you can specify the width and color.
-
-![](./images/image152.png){width="4.0in"
-height="2.2461537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. border width and color (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image152.png" 
+  alt="Border width and color."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When it comes time to set the width, if you decide to, is you can set it
 in a number of pixels or you can use the key words, thin, medium, or
@@ -3194,9 +3227,14 @@ When it comes time to do the color, you can do the same thing we&apos;ve
 been doing all along. You can just use the name, such as blue, the RGB
 value, the hex value, or just so you know, it&apos;s also transparent. It
 can just take the color of whatever&apos;s underneath it.
-
-![](./images/image153.png){width="4.0in"
-height="2.2461537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. specifying individual sides (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image153.png" 
+  alt="Specifying Individual Sides."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When it comes time for you to specify how big you want your border to
 go, you can specify in four different ways.
@@ -3224,9 +3262,14 @@ to you is, it can be really intimidating, and you&apos;re wondering what
 people are doing when they&apos;re going on. This is what they&apos;re doing.
 They&apos;re using shorthand's so that they don&apos;t have to have border
 right, border left, border top, border bottom.
-
-![](./images/image154.png){width="4.0in"
-height="2.2461537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 154. margin: positive and negative (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image154.png" 
+  alt="Margin: positive and negative."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Margin is basically that space that&apos;s outside of your border. It&apos;s
 between, when I say you and your neighbor, or what I should really say
@@ -3236,9 +3279,14 @@ whenever you give it a positive margin, you&apos;re basically saying, move
 your element to the right or down. If you give it a negative margin,
 you&apos;re actually having it move closer to the neighbor. You are having
 it move left or upward.
-
-![](./images/image155.png){width="4.0in"
-height="2.2547003499562557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 155. padding: positive and negative (89) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image155.png" 
+  alt="Padding: positive and negative."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Padding is very similar in concept to margin, but instead this space is
 between the element and its border. It&apos;s giving it a little bit of
@@ -3248,9 +3296,14 @@ padding, you&apos;re moving it outward from the element. You&apos;re giving it
 more space. If you give it a negative padding, you&apos;re actually moving
 the border close to or maybe even on top of the elements that are next
 to it.
-
-![](./images/image156.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. margin & padding, #1 (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image156.png" 
+  alt="Margin & Padding, #1."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 With margin and padding, all you&apos;re going to do is give a numerical
 value. You&apos;re going to give it something like 3 pixels or 10%. You
@@ -3258,17 +3311,27 @@ don&apos;t give it any type of color. It&apos;s always going to be transparent.
 The padding is always going to be the same color as the element, and the
 margin&apos;s always going to be the same color of the parent, probably the
 body of the page.
-
-![](./images/image157.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. margin & padding, #2 (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image157.png" 
+  alt="Margin & Padding, #2."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 They, just like the border, can be defined in that one to four values.
 If you put margin three pixels, it will be a three pixel margin around
 everything. If you say padding, ten pixels, five pixels, you&apos;ll have
 top, bottom, left and right.
-
-![](./images/image158.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. margin & padding, example (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image158.png" 
+  alt="Margin & Padding, Example."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So let me show you a quick picture of kind of what I&apos;m talking about.
 In this case, here is my text is my actual element. I&apos;ve said this is
@@ -3279,18 +3342,28 @@ near anything else. Give me this much space around myself. So, it might
 move your paragraphs down. It might move your divs down and over. So,
 just practice this. And as you play with it more and more, it&apos;ll make
 more sense which one&apos;s a margin and which one is the padding.
-
-![](./images/image159.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. additive height and width (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image159.png" 
+  alt="Additive height and width."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One of the things you need to understand when you&apos;re doing padding and
 border and margin, and all these things is that in HTML says, your
 height and your width is additive. What that means is if you decide that
 you want the width of your element to be 200 pixels, you probably need
 to take into account how big all those other aspects and properties are.
-
-![](./images/image160.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 160. margin + border + padding + width/height (91) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image160.png" 
+  alt="Margin + border + padding + width/height."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, in this case, part of the width is the margin, plus the border, plus
 the padding, plus the actual element width itself. And so, it all really
@@ -3298,9 +3371,14 @@ adds up to get what we consider the actual width of your element. And
 this is going to matter when you&apos;re looking at your page and you&apos;re
 designing it and trying to decide how much space you want each element
 to take up.
-
-![](./images/image161.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 161. what is the width and height? (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image161.png" 
+  alt="What is the width and height?"
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If we look at this example right here where I have the width is 100px,
 the padding is 10px, the margin is 5px and the border is 1px. I&apos;m
@@ -3308,21 +3386,36 @@ hoping that right now, you&apos;re doing the math in your head, and I
 promise not to give much more math than this, but you&apos;re doing it to
 figure out how much width does this element, does this div, actually
 need on the page.
-
-![](./images/image162.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 162. what is the width and height, #2? (92) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image162.png" 
+  alt="What is the width and height, #2?"
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And in this case the width is 132 pixels. The 100, plus 10, plus five,
 plus one, plus one, plus five, plus ten. It all adds up.
-
-![](./images/image163.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 163. what is the width and height, #3? (92) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image163.png" 
+  alt="What is the width and height, #3?"
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The height, in the same way, is your height plus the top and bottom
 padding, top and bottom margin, and the top and bottom border.
-
-![](./images/image164.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. centering an element (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image164.png" 
+  alt="Centering an element."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, so when we talk about margin, I just wanted to throw this
 slide in even though it doesn&apos;t mesh with a lot of the other things
@@ -3343,9 +3436,14 @@ you don&apos;t have to worry about these two things. But as you try to send
 your elements, come back to this slide if you need to, and check these
 off to make sure that all these properties fit. And that&apos;s the best way
 to center things right now.
-
-![](./images/image165.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. box-sizing (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image165.png" 
+  alt="box-sizing."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Finally, when we talk about this, I want to add one more option, and
 that&apos;s called box-sizing. And what box-sizing does is it takes some of
@@ -3362,8 +3460,14 @@ minus the padding and border. One of the last things to remember is that
 we&apos;ll take into account padding and border, it won&apos;t take into account
 margin.
 
-![](./images/image166.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. measurements (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image166.png" 
+  alt="Measurements."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So finally, one of the things I&apos;m going to be showing you in this
 example in just a second, is different ways you can set the height and
