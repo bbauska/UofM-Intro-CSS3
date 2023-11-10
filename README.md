@@ -4664,8 +4664,14 @@ pseudo-classes and pseudo-elements. Just another level of distinguishing
 just certain things you want to style on your page. But first, let&apos;s go
 ahead and look at using these attribute selectors.
 
-![](./images/image231.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image231.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The way that attribute selectors work is that they search the DOM for
 elements that have the attribute that you are looking for. For instance,
@@ -4675,8 +4681,14 @@ government sites or non-profit sites or educational sites. It&apos;s really
 easy for us to find those and go ahead and style them a little
 differently.
 
-![](./images/image232.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image232.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 How we do that is we use operators to match the different parts of the
 alt text that you&apos;re looking for. So up here, in what we call the
@@ -4687,15 +4699,27 @@ exactly. It&apos;s going to find every file that ends in .png. We also have
 the wildcard, where you&apos;re going and saying if you see umich in any
 part of any hyper reference at all, apply this rule.
 
-![](./images/image233.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image233.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What we&apos;re going to look at is we&apos;re going to look at a file that has
 different links and each one has a different type of extension that we
 want to style differently.
 
-![](./images/image234.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image234.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right. What I have here is just a list of links. There&apos;s no
 classes. Nothing special about these, that goes to different university
@@ -4703,16 +4727,27 @@ sites, organizations, government sites, and if you take a look, by
 default, it&apos;s just going to show up as your traditional blue links with
 underlined, the text right there.
 
-![](./images/image235.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image235.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But what I want to do is I want to go in and say, you know what, all the
 ones that end in .org? Make them one color. All the ones that are .edu,
 another color, and all the ones that end in .gov, a third color. Let&apos;s
 see what it looks like.
-
-![](./images/image236.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image236.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here, you can see that without me having to put in any information
 inside the tags themselves, the browser has colored them the proper
@@ -4721,8 +4756,14 @@ You need to realize that these ideas are going to merge together.
 You&apos;re going to be using classes, you&apos;re going to be using ids,
 you&apos;re going to be using attributes.
 
-![](./images/image237.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image237.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And the important thing I want you to know is that when you are adding
 all these things together, the order that you write classes and
@@ -4731,8 +4772,14 @@ you have special early dark or dark early special. What really matters
 is the order that you write your rules in your style sheet. Browsers are
 always going to start to the top, and apply each rule.
 
-![](./images/image238.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image238.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now the good news from this lecture is that I want you to realize that
 with the power of classes and ids and this cascading style sheet is that
@@ -4742,8 +4789,14 @@ that maybe you didn&apos;t like about it. You can override these style
 sheets and make it your very own. Just make sure that you link your
 style sheet last.
 
-![](./images/image239.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image239.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right, we&apos;ve covered a lot, and I&apos;m hoping I didn&apos;t overwhelm you
 with the video. I just want you to remember that when we do type
@@ -4811,15 +4864,27 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-5">2.5. Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image240.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image240.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi, everyone. Today we&apos;re going to talk about browser capabilities and
 what you can do to make sure that your sites have a consistent
 appearance, regardless of how people are accessing it.
 
-![](./images/image241.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image241.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Even though HTML5 has really been pushing the browser developers to all
 come to this consistent implementation, they really differ in display
@@ -4831,8 +4896,14 @@ works for a wide audience. And while we&apos;ve been talking a lot about
 accessibility, and different ways to access the web, it even comes down
 to the most basic browser implementations.
 
-![](./images/image242.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image242.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So first, let&apos;s talk about handling these stylistic differences. The
 easiest way to eliminate browser differences is for you to make
@@ -4851,8 +4922,14 @@ you don&apos;t use what we call this default style sheet, you&apos;re going to
 design your page, and it&apos;s going to be really hard for you to remember
 if you&apos;ve actually checked off each element that you&apos;re using.
 
-![](./images/image243.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image243.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 One of the other things we want to talk about is handling what we call
 unsupported properties. So first, we know that all browsers don&apos;t
@@ -4873,8 +4950,14 @@ a little weird, and I was feeling lazy and I didn&apos;t want to deal with
 it. But I&apos;m here to tell you, it&apos;s actually very, very easy to use
 these prefixes.
 
-![](./images/image244.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image244.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, let&apos;s take a look at what I&apos;m talking about. You&apos;ve been using
 different properties and the browser&apos;s hopefully just been working. But
@@ -4883,9 +4966,14 @@ prefix or a little bit in front of it, such as webkit, moz, ms, or o for
 Opera. Each one of these prefixes say, hey, if you&apos;re on this
 particular browser, this is what I need you to do to get the look that
 the designer is going for.
-
-![](./images/image245.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image245.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What are some of these properties that are often unsupported? They
 include column-count, which is a way to add multiple columns into your
@@ -4918,9 +5006,14 @@ idea to check that site out as you start developing your page.
   style="width:40%;"
   alt="." />
 </p>
-
-![](./images/image248.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image248.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But for now, let&apos;s go ahead and look at an example. In this example, I
 have a file called prefixes.html. And I just want to show you quickly
@@ -4930,6 +5023,14 @@ not match exactly, or some of the spacing might not match exactly. If I
 wanted to get rid of that, if I really wanted to make sure that the
 pages look exactly the same, what I can do is add a default style sheet.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image252.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 ![](./images/image249.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -4940,16 +5041,28 @@ put in things like, I don&apos;t want any padding, I don&apos;t want any margin.
 If I&apos;ve got lists, get rid of the list style. Make this really as ugly
 as you can.
 
-![](./images/image250.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image250.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If I go back over here, you might not see a huge difference because the
 browsers are already pretty plain, but you can see things move over
 slightly. We get rid of a little bit of stuff. And in the same way, when
 I refresh the Safari, they&apos;re going to look a little bit more similar.
 
-![](./images/image251.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image251.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now, let&apos;s go ahead and look at that example where some of the
 properties aren&apos;t supported. And I&apos;m going to go back over to my HTML
@@ -4972,7 +5085,6 @@ want between those columns.
 Now, when I refresh, you can see it&apos;s gone from being all one long kind
 of block paragraph to that everything&apos;s split up. And it&apos;s really cool
 because it&apos;s dynamic.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5221,7 +5333,6 @@ Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-6">2.6. Code Together</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.6) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
