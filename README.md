@@ -4388,11 +4388,10 @@ proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-4">2.4. Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.4) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image217.png" 
-  alt="."
+  alt="2.4 Advanced Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4406,7 +4405,7 @@ just some of them? Or you don&apos;t want to style all of your lists, you
 just want to style some of them?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. css selectors (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image218.png" 
   alt="."
@@ -4444,7 +4443,7 @@ If you had an h1 and then some other things and that ordered list was
 inside a paragraph, it wouldn&apos;t work that way.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. id selectors (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image219.png" 
   alt="."
@@ -4465,7 +4464,7 @@ no point in using that because a lot of people just really use this id
 for JavaScript and things like that. But again, this is something
 you&apos;re going to be seeing a lot, so I want to introduce you to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220. id selectors example (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image220.png" 
   alt="."
@@ -4481,7 +4480,7 @@ one of those images, I want to make sure I add this border and this
 margin.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. class selector (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image221.png" 
   alt="."
@@ -4498,7 +4497,7 @@ of them that way. You don&apos;t want all of your images to be thumbnails,
 but you want a lot of them to be.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. class selector example (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image222.png" 
   alt="."
@@ -4515,7 +4514,7 @@ to any styling you just put on images, you also want this styling for
 the thumbnails.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. classes vs. ids (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image223.png" 
   alt="."
@@ -4546,7 +4545,7 @@ one page at a time, and that&apos;s why you might choose to use the id.
 Let&apos;s go through a quick example using that navigation bar.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. sample html (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image224.png" 
   alt="."
@@ -4559,7 +4558,7 @@ that don&apos;t even really go anywhere. I&apos;ve commented out the style sheet
 just so you can see what it would look like without any styling.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. add more styling (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image225.png" 
   alt="."
@@ -4579,7 +4578,7 @@ other link or anything else we&apos;ve seen that way. Let&apos;s uncomment the
 style sheet. Save it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226/227.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226/227.  (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image226.png"
   style="width:40%;"
@@ -4598,7 +4597,7 @@ As your pages get more advanced, you&apos;re going to want to narrow the
 scope of some of the rules. We only want to apply them to certain
 things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. narrowing the scope (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image228.png" 
   alt="."
@@ -4617,7 +4616,7 @@ you want to apply to both the header and the footer, or to the sections
 and the articles. Not a problem.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. expanding the scope (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image229.png" 
   alt="."
@@ -4638,7 +4637,7 @@ after it, it always just uses the last one it saw, along with the
 earlier ones that don&apos;t conflict.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. more attribute selectors (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image230.png" 
   alt="."
@@ -7812,7 +7811,6 @@ disagrees.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-04">04-04 Creating Navigation Menus 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 396.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image396.png" 
@@ -7825,7 +7823,6 @@ Welcome back to another code review. Earlier, I created a navigation bar
 that worked vertically. It went up and down. Today, I just want to show
 you how you can use the same HTML code but create a horizontal
 navigation bar, instead.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 397.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7842,7 +7839,6 @@ we&apos;re currently looking at. So, if you notice, in the navigation bar,
 the photos link looks a little bit different from the others. It&apos;s very
 common to do this to kind of indicate to people this is the page that
 you&apos;re looking at right now.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 398.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7862,7 +7858,6 @@ that I want a certain height, a certain background color, a certain text
 decoration. One of the things I added here is a border radius. Border
 radius curves the boxes, so if you look, everything&apos;s a little bit
 curved over here along the side. Nothing too important right there.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 399.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7883,7 +7878,6 @@ So once again, I just want to show you that things like padding and
 margin are very important and they&apos;re very additive. So, when you use
 percents, instead of pixels, it&apos;s going to keep it from being that it
 looks fine on a big screen and then really bad on a small screen.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 400.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7926,7 +7920,6 @@ different, not only for the way we set things up, but because I want to
 talk to you about the accessibility of how many people make their
 navigation bars. The new way, I&apos;ve used this way, is to create your
 navigation links as part of lists.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 402.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8239,11 +8232,11 @@ you want, but I need to know that those changes are completed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 417/418. before and after web design (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image417.webp"
+  src="./images/image417.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Before." />
 <img class="border"
-  src="./assets/images/image418.webp"
+  src="./images/image418.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="After." />
 <p style="clear: both;"></p>
@@ -8253,11 +8246,11 @@ we&apos;re going with this final project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 419/420. ultimate frisbee history (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image419.webp"
+  src="./images/image419.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Ultimate Frisbee History menu." />
 <img class="border"
-  src="./assets/images/image420.webp"
+  src="./images/image420.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Ultimate Frisbee History menu, #2." />
 <p style="clear: both;"></p>
@@ -8267,11 +8260,11 @@ first HTML view. Our next one, we made it really plain.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421/422. college teams (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
-  src="./assets/images/image421.webp"
+  src="./images/image421.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Examples of proprietary and open-source CMS software." />
 <img class="border"
-  src="./assets/images/image422.png"
+  src="./images/image422.png"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="More on examples of proprietary and open-source CMS software." />
 <p style="clear: both;"></p>
