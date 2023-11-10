@@ -6462,8 +6462,14 @@ delay. So when you look at other people&apos;s code, don&apos;t be confused if
 it doesn&apos;t look like my first example. They&apos;ve probably been using the
 shortcuts.
 
-![](./images/image325.png){width="4.0in"
-height="2.256837270341207in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 325.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image325.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 All right. So hopefully that was a little bit cool and you&apos;re excited
 to go and implement some sort of transitions on your page. Playing with
@@ -6481,9 +6487,13 @@ bit extra to add to your site. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-3">3.3. Transforms</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image326.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 326.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image326.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hello everyone. Today we&apos;re going to talk briefly about transforms.
 Transforms are very similar to transitions, in that they provide another
@@ -6491,8 +6501,14 @@ option for changing the appearance of elements that are on our page. We
 can change things in both the two dimensional manner and a three
 dimensional manner as people are looking at your site.
 
-![](./images/image327.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 327.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image327.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s look at some of the two-dimensional transform options. We&apos;re
 going to talk about translate, rotate, scale, skew and matrix, and how
@@ -6506,15 +6522,26 @@ it&apos;s negative you move to the left. With y, if it&apos;s positive you move
 down and if it&apos;s negative you move up. Let&apos;s look at an actual example
 to make it a little bit clearer.
 
-![](./images/image328.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 328.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image328.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here, I&apos;ve got this nice blue element. And what I&apos;m about to say is
 that I want to translate it, 100 and 75. So you&apos;re going to expect to
 see it move off to the right and down a little bit.
-
-![](./images/image329.png){width="4.0in"
-height="2.236751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 329.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image329.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can see, again, it&apos;s hard to really tell when things go up and
 down. But if you look at the margins, we&apos;ve almost effectively
@@ -7857,7 +7884,14 @@ margin are very important and they&apos;re very additive. So, when you use
 percents, instead of pixels, it&apos;s going to keep it from being that it
 looks fine on a big screen and then really bad on a small screen.
 
-![](./images/image400.png)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 400.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image400.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The last thing, I kind of put in here just to have some fun and to help
 show you again some of the different things you can do with CSS, is I
@@ -7878,7 +7912,13 @@ down, sideways, or even combinations. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-05">04-05 Creating Navigation Menus #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image401.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~ 401.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image401.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Guess what? We&apos;re going to do another, and our final, navigation bar
 together, in this code review. This one, though, is a little bit
@@ -7887,7 +7927,15 @@ talk to you about the accessibility of how many people make their
 navigation bars. The new way, I&apos;ve used this way, is to create your
 navigation links as part of lists.
 
-![](./images/image402.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 402.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image402.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can see, we already have it a little bit different over here. I&apos;ve
 got an unordered list with one, two, three, four a list items, and some
@@ -7903,8 +7951,14 @@ that you want to activate. I think we&apos;ve all been there, when we&apos;ve
 been in a webpage and we&apos;re trying to hover over something to click a
 link. And it keeps popping away because our hand is too shaky or we have
 to hover over three things at the same time.
-
-![](./images/image403.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 403.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image403.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So again, while this is a technique, I want to share with you and help
 you to understand, I hope that you&apos;ll make sure that any applications
@@ -7913,13 +7967,25 @@ you do, you do your best to make sure it&apos;s as accessible as possible.
 So again, let&apos;s start with this plain, kind of boring HTML code, and
 see if we can&apos;t get it to look like something a little bit more
 exciting.
-
-![](./images/image404.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 404.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image404.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What we have here now is a horizontal navigation bar that&apos;s going to
 have drop down elements.
-
-![](./images/image405.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 405.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image405.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, when I go over Home, there&apos;s nothing extra to see, but, when I go
 over Pictures, you can see that I have three additional links I can try
@@ -7931,16 +7997,28 @@ Let&apos;s take a look. All right, I&apos;m going to skip the body in the
 navigation because I think you know how to do all this. Instead, let&apos;s
 talk about the different lists themselves. So sorry, list items
 themselves in the links.
-
-![](./images/image406.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 406.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image406.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So, what I&apos;ve done is I&apos;ve gone in here, kind of so you can see both
 at the same time. And it&apos;s very faint, and I wish I had made a
 different color now. But I have a border between each one of these
 options. Now, it would have looked a little bit weird for me to have a
 border right here along the side.
-
-![](./images/image407.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 407.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image407.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What I needed to do is I went and I said you know what? For that last
 list item, the very last one, let&apos;s not put a border in. It&apos;s that
@@ -7948,8 +8026,14 @@ little tiny tweaks that you can put in your code to make it look a
 little bit more professional. We also don&apos;t want borders on the sub
 items, right? Because there&apos;s nothing. Since those are blocked, we
 don&apos;t need borders on the side.
-
-![](./images/image408.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 408.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image408.webp" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I did the same thing over here, where I said, you know what? I don&apos;t
 want to use any borders over here. Pretty straight forward, I hope. Now,
@@ -8117,10 +8201,10 @@ site. You can watch it in the next video, or link directly here:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-06">04-06 Optional - Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 414. homework description- final project (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 414. homework description (4.6) - final project (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image414.webp" 
-  alt="Homework Description."
+  alt="4.6 Homework Description - Final Project."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8153,7 +8237,7 @@ Now, when you get started, I&apos;m going to assume that you have the second
 peer-graded assignment done. You can feel free to alter that as much as
 you want, but I need to know that those changes are completed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 417/418. before and after web design (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 417/418. before and after web design (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
   src="./assets/images/image417.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
@@ -8167,7 +8251,7 @@ you want, but I need to know that those changes are completed.
 All right, so let me show you our before&apos;s and our after&apos;s for where
 we&apos;re going with this final project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 419/420. ultimate frisbee history (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 419/420. ultimate frisbee history (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
   src="./assets/images/image419.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
@@ -8192,7 +8276,7 @@ first HTML view. Our next one, we made it really plain.
   alt="More on examples of proprietary and open-source CMS software." />
 <p style="clear: both;"></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423. college teams (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423. college teams (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image423.webp" 
   alt="College teams."
@@ -8213,7 +8297,7 @@ a little bit difficult to achieve, but once you&apos;ve got it done, it
 looks really good.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 424. you must leave the html alone (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 424. you must leave the html alone (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image424.webp" 
   alt="You must leave the HTML alone."
@@ -8229,7 +8313,7 @@ pseudo-classes. If you seem a little bit confused about that, don&apos;t
 forget, we&apos;ve got slides that cover this as well as some of our code
 together examples.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425. table (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425. table (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image425.webp" 
   alt="Table."
@@ -8278,7 +8362,7 @@ the whole thing, and then also make the bottom border thicker. Finally,
 when you&apos;re done with this, go ahead and add just at least one other
 property, something that you think would look cool.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427. table rows (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427. table rows (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image427.webp" 
   alt="Table rows."
@@ -8303,7 +8387,7 @@ when someone hovers over any of the rows, it&apos;s going to change from a
 kind of faded out to a darker color. And I&apos;m going to show you an
 example of that before I go on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428. table menu form (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428. table menu form (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image428.webp" 
   alt="Table menu form."
@@ -8314,7 +8398,7 @@ example of that before I go on.
 If you notice in this table, the text is a little bit faded out from being solid 
 black font color. So that&apos;s where the opacity comes in.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. table menu form, #2 (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. table menu form, #2 (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image429.webp" 
   alt="Table menu form, again."
@@ -8326,7 +8410,7 @@ When I hover over each team name, you&apos;ll see that the font gets a little bi
 I didn&apos;t change the font color here, I didn&apos;t change the font family, or the type, 
 or anything like that. Instead, what I changed is the opacity to set it to 1.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. td - table data (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. td - table data (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image430.webp" 
   alt="TD - table elements."
@@ -8348,7 +8432,7 @@ for different properties that you can play with. I would encourage you to go out
 and look at text-shadow. It&apos;s something I use in my example. If you really want 
 to try to replicate it, go ahead and try to use it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 431. peer grading (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 431. peer grading (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image431.webp" 
   alt="Peer grading."
@@ -8375,7 +8459,7 @@ Or just share something cool that you got to work. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-07">04-07 Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image432.webp" 
   alt="In closing, 'Intro to CSS3'."
@@ -8393,7 +8477,7 @@ At this point, you might be wondering, what next? I&apos;ve gone to the HTML cla
 maybe, and I&apos;ve definitely just finished the CSS class. What can I do to continue 
 my own progress as a web designer?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 433. what's next? (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 433. what's next? (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image433.webp" 
   alt="What's next?"
