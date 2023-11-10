@@ -2905,14 +2905,25 @@ a copy of your code so you don&apos;t lose it!!
 <b><i>I have included a video showing examples of each of these styles.</i></b>
 
 <h3>Before</h3>
-
-![](./images/image129.png){width="4.0in"
-height="5.068990594925634in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 129.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image129.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 <h3>After</h3>
 
-![](./images/image130.png){width="4.0in"
-height="3.684615048118985in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 130.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image130.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi everybody welcome back. It&apos;s time for us to start coding. One of the
 things I&apos;ve noticed over the past couple years of teaching is that
@@ -2924,17 +2935,27 @@ never actually trying out any of the things we&apos;ve talked about. So
 that&apos;s what this homework is for. A chance for you to finally go
 through and put down some of this code and see what goes on when you try
 to apply styling to your HTML.
-
-![](./images/image131.png){width="4.0in"
-height="2.263248031496063in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 131.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image131.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 The objective for this homework assignment is for you to show me that
 you can write one CSS file that can go and style three different HTML
 files.
-
-![](./images/image132.png){width="3.0in"
-height="1.6974365704286964in"}![](./images/image133.png){width="3.0in"
-height="1.697435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 132/133.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image132.png"
+  style="width:40%;"
+  alt="display: inline-block." />
+<img src="./images/image133.png"
+  style="width:40%;"
+  alt="display: inline-block." />
+</p>
 
 Here are shortcuts to some examples of our before and after for this
 assignment.
@@ -2943,8 +2964,13 @@ assignment.
 
 <http://www.intro-webdesign.com/CSS/assignment-1/index.html>
 
-![](./images/image134.png){width="4.0in"
-height="3.673503937007874in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 134.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image134.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 <http://www.intro-webdesign.com/CSS/assignment-1/index.jpg>
 
@@ -2952,8 +2978,13 @@ height="3.673503937007874in"}
 
 <http://www.intro-webdesign.com/CSS/assignment-1/teams.html>
 
-![](./images/image135.png){width="4.0in"
-height="3.673503937007874in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 135.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image135.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 <http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg>
 
@@ -2961,8 +2992,13 @@ height="3.673503937007874in"}
 
 <http://www.intro-webdesign.com/CSS/assignment-1/history.html>
 
-![](./images/image136.png){width="6.0in"
-height="5.510255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 136.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image136.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 <http://www.intro-webdesign.com/CSS/assignment-1/history.jpg>
 
@@ -2970,8 +3006,13 @@ I&apos;ve put the links here above, but it&apos;s really going to be much
 clearer when I show you the homework in action. Let&apos;s take a look at
 it.
 
-![](./images/image137.png){width="6.0in"
-height="3.3948720472440943in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 137.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image137.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 When we start, I&apos;m going to give you three HTML files that are really
 not well styled. They start off, they have a navigation, they have three
@@ -2979,8 +3020,13 @@ very large pictures, some are smaller. And then they have the content.
 All three pages that you&apos;ll look at, home, teams, and history have
 different content.
 
-![](./images/image138.png){width="6.0in"
-height="3.3185892388451443in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 138.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image138.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 What I want you to do is write your own CSS rules that will take these
 types of pages, and turn it into something that looks like this (above).
@@ -2990,8 +3036,13 @@ take you from something that&apos;s hard to read to something that&apos;s much
 easier to read. Let&apos;s go ahead and step through the different things
 that you&apos;ll need to change in order to achieve this separate look.
 
-![](./images/image139.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 139.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image139.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 The most important thing to understand is that you must leave the HTML
 alone. I don&apos;t want you to change it at all, instead I only want you to
@@ -3000,14 +3051,26 @@ you&apos;re going to need to add are styles for the header, the headings,
 the section, the links and the images. Let me go through and show you
 exactly what you need to look at.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 140.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image140.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 ![](./images/image140.png){width="4.0in"
 height="2.2427351268591424in"}
 
 For your header, it&apos;s pretty straightforward. I want you to go in and I
 want you to add a background color.
 
-![](./images/image141.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 141.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image141.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 For your headings, both h1 and h2, I want you to change the font color.
 Now remember, this is different from the background color. It&apos;s the
@@ -3020,15 +3083,25 @@ they&apos;re in lower case. So, I want you to use CSS to make that change.
 The next thing I want you to do is just for the h1 heading I want you to
 center the text.
 
-![](./images/image142.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 142.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image142.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 Next make one quick change to the section part of your HTML. I want you
 to style the different section so it has a different background color
 from the other elements in your page.
 
-![](./images/image143.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 143.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image143.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 Next, let&apos;s take a look at the links. The changes you&apos;re going to make
 here are very subtle. They&apos;re not very obvious if I didn&apos;t
@@ -3038,8 +3111,13 @@ your links. After you&apos;ve done that, go in and center the text, similar
 to the way that you&apos;re going to the center the texts for the h1
 headings.
 
-![](./images/image144.png){width="4.0in"
-height="2.256410761154856in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 144.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image144.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 Finally, the last thing that really kind of messes up our HTML page
 initial example is these huge pictures that just get in the way. For
@@ -3049,15 +3127,25 @@ be the trickiest part of the whole assignment because I don&apos;t want you
 to change the html. I want those pictures to be there. I just want you
 to use CSS3 to remove them from the page.
 
-![](./images/image145.png){width="6.0in"
-height="3.1416666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 145.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image145.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 So, I hope between looking through this example and looking online, and
 looking at my before and after shots, that you&apos;ll be able to do this
 homework assignment.
 
-![](./images/image146.png){width="4.0in"
-height="2.263248031496063in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 146.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image146.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
 
 When you&apos;re done, we&apos;re going to be using peer grading. When we do
 this, grades are going to be based on basically how well you were able
@@ -3662,7 +3750,6 @@ thing I&apos;m going to fix is the fact that I made what you might call a
 mistake in my earlier version. I have two rules styling h1. That&apos;s not
 a problem. The browser will apply all these styles. But what I really
 meant to do was I meant to style the body tag.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. starting point (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4067,9 +4154,14 @@ links. In this example, what I have here is I just have three links that
 I haven&apos;t styled in any way. I&apos;ve got a link to introduction to web
 design, a link to the University of Michigan, and a link to Kent State
 University, which is where I did my undergrad.
-
-![](./images/image204.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image204.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But what happens when I add some CSS to it? Up here on the top I have
 all the typical things we&apos;ve been talking about before, the width and
@@ -4078,9 +4170,14 @@ add is this idea of margin where I can center each of my links one on
 top of each other with a little bit of space in between them. All right,
 so let&apos;s take a look at what that looks like and you can see I have
 each links looks really much different, okay.
-
-![](./images/image205.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image205.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And you can see when I see my pen, when I hover over each one of these,
 what happens is the color changes. How I got that to work is right over
@@ -4092,8 +4189,14 @@ tabbing through my page. As you tab, you can see Introduction to Web
 Design goes into focus, and then the University of Michigan, and then
 Kent State, and I&apos;m doing that by tabbing through the page.
 
-![](./images/image206.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image206.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The last rule, the active rule, is something that I&apos;m going to show you
 and then kind of break off from there. How the active works is that when
@@ -4110,9 +4213,14 @@ importance of accessibility, we want to make sure that your links are
 links and that people know that they&apos;re there. Once you&apos;re done
 playing around with links, let&apos;s go ahead and start thinking about
 styling list items.
-
-![](./images/image207.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image207.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When you style lists, kind of the default properties they all look the
 same. You&apos;ve got the one, two, three or the circle, circle, circle, but
@@ -4123,15 +4231,26 @@ Some of the things we can look at are your list-style-type, your
 list-style-image. The list style position, and just the list style
 itself. The list style type basically says how do you want me to
 indicate the different list items?
-
-![](./images/image208.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image208.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 By default, for ordered lists again, we have the one, two, three, but
 you can give different values.
 
-![](./images/image209.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image209.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can say I want it to be lower roman numeral, upper roman numeral,
 lower alpha numeric, you can play with these to get the feel you want.
@@ -4142,9 +4261,14 @@ When you do list-style-type for unordered lists, typically what you
 have, and it depends on your browser, is the little circle or the little
 disk. We can change that, and we can put in exactly what you want to
 make sure it&apos;s going to be.
-
-![](./images/image210.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image210.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Another option that you can play with is this idea of getting rid of
 those default markers altogether, and instead, using a custom image
@@ -4152,9 +4276,14 @@ instead of that traditional marker. And when you do this, it kind of
 brings up back to this idea of the list-style position. Many times,
 you&apos;re going to move your position over, depending on which list-style
 you&apos;re using.
-
-![](./images/image211.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image211.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Down here I&apos;ve got an example of where I&apos;m saying I want my list style
 image. I&apos;ve got square first, this says, hey, if you can&apos;t find the
@@ -4170,16 +4299,28 @@ I&apos;m going to make a little bit bigger for you here, if I can. You can
 see that the unordered lists are just using the circles, and the ordered
 lists are using the default numbers. Let&apos;s play with this now.
 
-![](./images/image212.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image212.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s go ahead and put in a style sheet. In my style sheet, I&apos;ve gone
 in there said, what I want to do with my list styles is I want to switch
 it to upper-roman and numeral and also use a square instead.
-
-![](./images/image213.png){width="3.5in"
-height="1.9788462379702536in"}![](./images/image214.png){width="3.5in"
-height="1.9788462379702536in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213/214.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image213.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image214.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 This is what it looked like before, and this is what we look like
 afterwards. You can see, there&apos;s just a little bit more something to
@@ -4191,8 +4332,14 @@ if you remember, if you&apos;ve been paying attention to this idea that when
 you have precedence this new rule down here is going to overwrite all
 the rules above it. Let&apos;s make sure I&apos;ve saved my page, and reload.
 
-![](./images/image215.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image215.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And now in this case what&apos;s happened is that we&apos;ve removed those
 regular markers and I&apos;ve put my little lightning bolt inside. Doing
@@ -4202,8 +4349,14 @@ got everything written exactly the same way. Typos are really the
 killer. It&apos;s not a matter of it being difficult, it&apos;s a matter about
 you just being very careful when you&apos;re doing these things.
 
-![](./images/image216.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image216.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Okay, so let&apos;s go ahead and review what we&apos;ve been talking about so
 far. And not just in this lecture, but in the course as far we&apos;ve
@@ -4235,8 +4388,14 @@ proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-4">2.4. Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image217.png){width="4.0in"
-height="2.22991469816273in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image217.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi, today we&apos;re going to be talking about advanced selectors. Up until
 this point, when we&apos;ve been writing our rules, we&apos;ve been writing our
@@ -4246,8 +4405,14 @@ of that type. But what if you don&apos;t want to style all of the links,
 just some of them? Or you don&apos;t want to style all of your lists, you
 just want to style some of them?
 
-![](./images/image218.png){width="4.0in"
-height="2.2512817147856516in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image218.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Well, now we&apos;re going to talk about these types of advanced selectors
 that will let us do just that. CSS is going to give you so many options
@@ -4278,8 +4443,14 @@ section that has an h1 and then an ordered list, they would be siblings.
 If you had an h1 and then some other things and that ordered list was
 inside a paragraph, it wouldn&apos;t work that way.
 
-![](./images/image219.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image219.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, we&apos;re going to talk about what we call id selectors. ids are used
 to identify a single element in the DOM. The way ids work is that you
@@ -4293,9 +4464,14 @@ to move out of the use of id from CSS. They&apos;re saying there&apos;s really
 no point in using that because a lot of people just really use this id
 for JavaScript and things like that. But again, this is something
 you&apos;re going to be seeing a lot, so I want to introduce you to it.
-
-![](./images/image220.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image220.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Let&apos;s see an example really quickly here just on the screen of how it
 works. In my HTML, I would go ahead and put in my source, my alt tag,
@@ -4304,8 +4480,14 @@ along with the id name, the browser&apos;s going to know, oh, whenever I see
 one of those images, I want to make sure I add this border and this
 margin.
 
-![](./images/image221.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image221.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Class selectors are similar to ids, but the difference is, that classes
 can apply to a range of elements, not just one particular element in the
@@ -4315,8 +4497,14 @@ things all in the same way, but I don&apos;t want to necessarily style all
 of them that way. You don&apos;t want all of your images to be thumbnails,
 but you want a lot of them to be.
 
-![](./images/image222.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image222.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You would write this code in a very similar manner. Over here in my
 HTML, I have class=&quot;thumb&quot;, class=&quot;thumb&quot;, class=&quot;thumb&quot;. And in
@@ -4326,8 +4514,14 @@ And this way, the page is going to go through and know that in addition
 to any styling you just put on images, you also want this styling for
 the thumbnails.
 
-![](./images/image223.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image223.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 So just to try to help you make it a little bit clearer, what&apos;s the
 difference between using classes and ids? Well first, you want to make
@@ -4351,15 +4545,27 @@ slightly differently. And that makes sense because you can only be at
 one page at a time, and that&apos;s why you might choose to use the id.
 Let&apos;s go through a quick example using that navigation bar.
 
-![](./images/image224.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image224.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here&apos;s a sample HTML file, where all I&apos;ve done is put in four links
 that don&apos;t even really go anywhere. I&apos;ve commented out the style sheet
 just so you can see what it would look like without any styling.
 
-![](./images/image225.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image225.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can see, I&apos;ve got my Home, Interests, Resume, Hobbies, and I have
 one additional link down here that I very badly called here. Let's try
@@ -4372,9 +4578,16 @@ anything that&apos;s class current, I want to make even different than any
 other link or anything else we&apos;ve seen that way. Let&apos;s uncomment the
 style sheet. Save it.
 
-![](./images/image226.png){width="3.5in"
-height="1.8696576990376204in"}![](./images/image227.png){width="3.5in"
-height="1.8696576990376204in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226/227.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image226.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image227.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Go from this to this. You can see that only the links that are inside my
 navigation bar are styled. This one was left the same. And the one where
@@ -4384,9 +4597,14 @@ really simple to use these things, you just need to know about them.
 As your pages get more advanced, you&apos;re going to want to narrow the
 scope of some of the rules. We only want to apply them to certain
 things.
-
-![](./images/image228.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image228.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And one of the notations you can use for that is the dot. In your style
 sheet, you would actually have p.main. This means go and find all the
@@ -4398,8 +4616,14 @@ we call, expand the scope. Let&apos;s say that there&apos;s some sort of styling
 you want to apply to both the header and the footer, or to the sections
 and the articles. Not a problem.
 
-![](./images/image229.png){width="4.0in"
-height="2.136751968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image229.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What you do is you just write the element, and you include a comma right
 there to let it know. So just as a quick review. And this is something
@@ -4413,8 +4637,14 @@ that&apos;s higher up. Unless a rule has the exclamation point important
 after it, it always just uses the last one it saw, along with the
 earlier ones that don&apos;t conflict.
 
-![](./images/image230.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image230.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In addition to the element selectors and the different DOM relationship
 selectors, we also have a few more that I want to talk about briefly.
@@ -4679,9 +4909,16 @@ does is it lists the different properties and it tells you which
 browsers support them and which ones need the prefixes. It&apos;s a good
 idea to check that site out as you start developing your page.
 
-![](./images/image246.png){width="3.5in"
-height="1.967253937007874in"}![](./images/image247.png){width="3.5in"
-height="1.967253937007874in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246/247.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image246.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image247.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 ![](./images/image248.png){width="4.0in"
 height="2.248290682414698in"}
@@ -4724,23 +4961,41 @@ with this idea of column-count. How column-count and column-gap work is
 you tell the browser how many columns you want and how much space you
 want between those columns.
 
-![](./images/image251.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image251.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now, when I refresh, you can see it&apos;s gone from being all one long kind
 of block paragraph to that everything&apos;s split up. And it&apos;s really cool
 because it&apos;s dynamic.
 
-![](./images/image252.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image252.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 If I re-size the browser, everything kind of moves around. And this is a
 really cool thing way to do it. One of the other things I&apos;d like to add
 just as something to look at, is this idea of instead of having a
 square, I want to kind of round the edges a little bit.
 
-![](./images/image253.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image253.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You do that by adding in what&apos;s called the border-radius. Now I&apos;m
 going to stop before I refresh the page, because I want to point
@@ -4748,8 +5003,14 @@ something out to you in case you&apos;re as intimidated as I was when I
 first started doing this. The border-radius is just a simple property
 that&apos;s been around for a while.
 
-![](./images/image254.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254. (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image254.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And you can see it right here, and you give it a value. Same with
 column-count and column-gap. This whole idea of adding prefixes just
@@ -4759,8 +5020,14 @@ names. I want you to really try to embrace this, and realize you&apos;re not
 doing anything too spectacular. I&apos;ve made it 25. And I&apos;m going to go
 ahead and refresh it.
 
-![](./images/image255.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image255.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And as you can see, I&apos;ve curved the different edges around the side.
 The last thing I&apos;m going to do is add a gradient to the color. Right
@@ -4768,26 +5035,44 @@ now, I&apos;m a consistent blue color. And it&apos;s important that no matter
 what you give a background color, that you would like to be used, is the
 case the gradient isn&apos;t happening.
 
-![](./images/image256.png){width="3.5in"
-height="1.977351268591426in"}![](./images/image257.png){width="3.5in"
-height="1.9773501749781277in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 256/257. linear gradient - 2 colors (135) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image256.png"
+  style="width:40%;"
+  alt="linear gradient." />
+<img src="./images/image257.png"
+  style="width:40%;"
+  alt="sample output." />
+</p>
 
 Now for linear gradient, you&apos;re giving two colors that you&apos;d like to
 be seeing at the beginning and the end. I have regular blue. And now
 when I refresh, I go from a blue to a light grey. I want to remind you
 that when you&apos;re developing, don&apos;t try to memorize things. Don&apos;t try
 to remember how to do everything.
-
-![](./images/image258.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258. inspect (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image258.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 I&apos;m going to right-click on here, and do Inspect Element. Because if
 you decide later that&apos;s too much of a curve, or you don&apos;t like that
 color, what you don&apos;t want to do is type, save, refresh, type, save,
 refresh. It gets really annoying.
 
-![](./images/image259.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 259.  (135) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image259.png" 
+  alt="Automated ways to include prefixes."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Instead, I&apos;m going to go right here to my section and I&apos;m going to
 look, and you can see in Inspect Element that it said I didn&apos;t use the
@@ -4796,8 +5081,14 @@ to. I&apos;m Chrome. What I can do is come down here to the border-radius
 and change it. Instead of 25 pixels, if I want less of a curve, I can
 make it 5 pixels.
 
-![](./images/image260.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 260.  (136) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image260.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 You can see it happening in real time. If you want to make it look
 crazy, you can make it 50 pixels. You can also use percents if you like.
@@ -4805,9 +5096,14 @@ So put in 15%. You may play with these things dynamically and once you
 get a value that you really like, copy and paste it into your CSS file.
 Browser prefixes are something to play with that can be fun. But also,
 it can be frustrating.
-
-![](./images/image261.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 261. automated ways to include prefixes (136) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image261.png" 
+  alt="Automated ways to include prefixes."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But the most important thing is that you should realize it&apos;s very
 straightforward. One of the things that you might do as you&apos;re adding
@@ -4832,9 +5128,14 @@ remember in my example, even though I was using Chrome, my style sheet
 still had all the different prefixes. This would automatically only add
 the ones you need. Again, these are kind of cool, but let&apos;s not worry
 about them right now. For now, let&apos;s focus on the basics.
-
-![](./images/image262.png){width="4.0in"
-height="2.248290682414698in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. review (2.5) (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image262.png" 
+  alt="2.5 Review."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 To review, when you start coding, when you start making style sheets,
 you&apos;re going to want to think about using a default style sheet to
@@ -4874,14 +5175,26 @@ just watched, I used the prefixes for border-radius, but I am fairly
 certain that it is supported by most of the browsers now. I even went to
 [caniuse.com](http://caniuse.com/) to check it out.
 
-![](./images/image263.png){width="4.0in"
-height="2.9679483814523184in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. caniuse (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image263.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 But when I checked on column-count it showed that the prefixes are still
 needed.
 
-![](./images/image264.png){width="4.0in"
-height="2.976068460192476in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. caniuse, #2 (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image264.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And I didn&apos;t even talk about prefixes for the new Microsoft browser,
 Edge. Right now, if a property is standard there will be no need for any
@@ -4910,7 +5223,14 @@ Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-6">2.6. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image265.png){width="4.0in" height="2.25in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.6) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image265.png" 
+  alt="2.6 Code Together."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Welcome back, everybody. It&apos;s time for us to stop learning new things
 and put into practice the things that we&apos;ve been talking about in the
@@ -4920,9 +5240,14 @@ code along, so again I&apos;m going to stress that I really hope you stop,
 put down whatever else you&apos;re doing, whip up your laptop or whatever
 you&apos;re coding on, and code with me rather than just watching what I&apos;m
 doing.
-
-![](./images/image266.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266.  (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image266.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When we last were coding together, hopefully you created something that
 looks like this screen up here. We&apos;ve gone in and we&apos;d used width and
@@ -4932,8 +5257,14 @@ different elements such as gradient, instead of having three equal width
 sections we&apos;re going to have some sections take up half the page, some
 take up the full page, little things like this. And we&apos;re going to be
 utilizing these new selectors that we&apos;ve been studying. Let&apos;s begin.
-
-![](./images/image267.png){width="4.0in" height="2.25in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267.  (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image267.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The first thing that I want to do is put in that linear gradient or that
 new color that goes in both the header and the footer. When I go to my
@@ -4949,14 +5280,26 @@ great, we did. Now, when I wrote this rule, you might remember that I
 put header, footer and that means it&apos;s supposed to apply to both of
 these elements. But it only applied to the header. We need to think
 about why that happened.
-
-![](./images/image268.png){width="4.0in" height="2.25in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268.  (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image268.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The reason is if we scroll down, you can see that further down in the
 page I have said, I want my footer background to be this particular
 color. This overwrites any earlier rules, so I&apos;m going to go in here.
-
-![](./images/image269.png){width="4.0in" height="2.25in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269.  (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image269.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And I&apos;m going to delete this, and say, let&apos;s get rid of that. Refresh,
 and great. Now it looks much better. Okay, so we&apos;ve made that one
@@ -4966,17 +5309,29 @@ these web kit prefixes or browser prefixes. If you get rid of it, it may
 work on your browser, but there&apos;s a really good chance it won&apos;t work
 on the other browser. We want to practice this. All right, let&apos;s take a
 look and see what we&apos;ve got. I&apos;ve got the gradient in.
-
-![](./images/image270.png){width="4.0in" height="2.25in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270.  (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image270.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The next thing I want to tackle is styling these links, and again, I&apos;m
 not styling all the links in the page, because if you notice, this one
 down here still looks exactly the same. I only want to style the links
 that are inside the navigation section.
-
-![](./images/image271.png){width="3.5in"
-height="1.96875in"}![](./images/image272.png){width="3.5in"
-height="1.96875in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 271/272.  (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image271.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image272.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 I&apos;m going to go right here and, I&apos;ve styled my nav. It looks good.
 Next time, I&apos;m going to say, hey, let&apos;s style just those links that
@@ -4992,17 +5347,31 @@ and I say let&apos;s change our display to inline-block, we should have much
 better luck. Almost too much luck, because the screen doesn&apos;t quite fit
 that. All right? All right. So great, that&apos;s one step closer.
 
-![](./images/image273.png){width="3.5in"
-height="1.96875in"}![](./images/image274.png){width="3.5in"
-height="1.96875in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273/274.  (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image273.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image274.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Let&apos;s add that different background color. And I think I made it white.
 But you can use anything you want. Boom. We&apos;re definitely getting
 closer. Little tiny steps are getting us much, much closer.
 
-![](./images/image275.png){width="3.5in"
-height="1.96875in"}![](./images/image276.png){width="3.5in"
-height="1.96875in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275/276.  (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image275.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image276.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 The next thing I want to tackle as we try to change our page is this
 idea that some of the sections should take up half the screen, while
@@ -5019,9 +5388,16 @@ because the problem is I got rid of my section styling and replaced it
 with this class and nowhere in my HTML did I remember to reference the
 class.
 
-![](./images/image277.png){width="3.5in"
-height="1.96875in"}![](./images/image278.png){width="3.5in"
-height="1.96875in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277/278.  (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image277.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image278.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 For the first time we&apos;re now going to go into our HTML file and start
 making some changes. Going to go here, I would like this one to only
@@ -5037,9 +5413,16 @@ them to be in. Our bottom section, the one that we knew we didn&apos;t want
 to be floating, we need to go in and say hey, there&apos;s certain sections
 we want to be whole.
 
-![](./images/image279.png){width="3.5in"
-height="1.96875in"}![](./images/image280.png){width="3.5in"
-height="1.96875in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279/280.  (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image279.png"
+  style="width:40%;"
+  alt="." />
+<img src="./images/image280.png"
+  style="width:40%;"
+  alt="." />
+</p>
 
 Let&apos;s go back to our style sheet. And I&apos;m going to just do a little
 bit of copy and paste here. And I&apos;m going to say, you know what? This
@@ -5070,9 +5453,14 @@ variations in image size.
 As you code, it is recommended that your .html files be in one folder
 and your css files and image files be in subfolders, something like
 this:
-
-![](./images/image281.png){width="2.21875in"
-height="1.1347222222222222in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281. subfolders; css & images (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image281.png" 
+  alt="Subfolders; CSS and images."
+  style="border: 2px solid #000000;" 
+  width="20%;" />
+</p>
 
 But if your style sheet is trying to link to a picture called
 &quot;ocean.jpg&quot; in your images folder, how can you link them together?
@@ -5126,16 +5514,27 @@ Here is a site you may find helpful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-7">2.7. Designing for Accessibility</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image282.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image282.png" 
+  alt="2.7 Designing for Accessibility."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi, and welcome back as we go back and we talk about designing for
 accessibility once again. So, as I&apos;ve been telling you more and more
 kind of cool, neat things, I sometimes feel the need to rein you back in
 and remind you of the basics of when you&apos;re designing your page.
 
-![](./images/image283.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. overview (2.7) (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image283.png" 
+  alt="Overview (2.7) Designing for Accessibility."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 And part of that basics is that I want to remind you that the content of
 your page should be in your HTML. What I mean by that is that it can be
@@ -5149,8 +5548,14 @@ POUR guidelines. We want your pages to be perceivable, operable,
 understandable, and robust. And the perceivable and understandable
 really kind of match up with what you&apos;re doing with your CSS.
 
-![](./images/image284.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284. perceivable (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image284.png" 
+  alt="Perceivable."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 In order for things to be perceivable, I just want you to remember a
 couple of things. First, always remember to provide text alternatives
@@ -5172,9 +5577,14 @@ Make it easy for users to connect, to see their content, by using really
 good color contrast. You&apos;d be surprised to realize how many people are
 unable to access information on the web because they really can&apos;t see
 what you&apos;ve put up there.
-
-![](./images/image285.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 285. operable (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image285.png" 
+  alt="Operable."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, let&apos;s talk about what it means for your page to be operable. What
 I mean by that is that all the functionality that&apos;s going into your
@@ -5200,16 +5610,27 @@ Don&apos;t make it a puzzle where they have to kind of figure out how to get
 where they want to go. It&apos;s your job to make it as easy as possible for
 them to find content and figure out where they are on your page.
 
-![](./images/image286.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. how to access the web (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image286.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Here&apos;s just a few quick examples of different ways that people
 sometimes access the web, whether it&apos;s with a penstick, a keyboard, a
 remote, a kind of accessible keyboard, or even some sort of puff devices
 that they can use to navigate through the web.
-
-![](./images/image287.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. understandable (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image287.png" 
+  alt="Understandable."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Next, let&apos;s talk about what I mean when a page is understandable.
 Typically, you want to keep your language short and sweet on your page.
@@ -5232,9 +5653,14 @@ page you were three pages ago, make it easy for people to get that.
 
 Next, help users avoid and correct mistakes. It&apos;s up to you, not them,
 to figure out how to access the information.
-
-![](./images/image288.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. robust (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image288.png" 
+  alt="Robust."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Finally, the R, the robust in the POUR. Is your site functional across
 various technologies, a smart phone, screen reader, laptop, pensticks?
@@ -5254,9 +5680,14 @@ compatibility with new browsers. And the easiest way to do that is to go
 onto validator.w3c.org and the wave.webaim.org to validate your code.
 It&apos;s simple, it&apos;s fast, and it&apos;s really going to give you a much
 better page.
-
-![](./images/image289.png){width="4.0in"
-height="2.2401706036745406in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. review (2.7) (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image289.png" 
+  alt="Review (2.7) Designing for Accessibility."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Just to review, I&apos;m not asking you to make great strides. I just want
 you to do little things right. And that really starts with the proper
@@ -5296,7 +5727,7 @@ performance of your page, as well as enhance accessibility:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-8">2.8. Homework Two Description - Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (two) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (two) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image293.png" 
   alt="2.8. Homework Description (two): Advanced Selectors."
@@ -5309,7 +5740,7 @@ performance of your page, as well as enhance accessibility:
 <h5>This homework is also described in a video lecture. Make sure to
 watch it to get a better feel for what I am looking for.</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image294.png" 
   alt="Objective."
@@ -5390,39 +5821,73 @@ site. You can watch it in the next video, or link directly here:</i></b>
 
 <h4>Before</h4>
 
-![](./images/image130.png){width="4.0in"
-height="3.684615048118985in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. before (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image130.png" 
+  alt="Ultimate Frisbee: Watch Your Head; Before changes."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 <h4>After</h4>
 
-![](./images/image290.png){width="4.0in"
-height="2.8064107611548557in"}
-
-![](./images/image291.png){width="4.0in"
-height="2.725213254593176in"}
-
-![](./images/image292.png){width="4.0in"
-height="2.841025809273841in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290/291. after, #1 and #2 (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image290.png"
+  style="width:40%;"
+  alt="After: Watch Your Head." />
+<img src="./images/image291.png"
+  style="width:40%;"
+  alt="After: College Teams." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292. after, #3 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image292.png" 
+  alt="Background."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 <h4>Homework Description</h4>
 
-![](./images/image293.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293.  (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image293.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Hi, everybody. Welcome back, it&apos;s time for another homework example.
 What we&apos;re going to be doing this week is adding even more style to the
 pages that you started styling last week.
 
-![](./images/image294.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image294.png" 
+  alt="Objective."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 The objective of this assignment is that I don&apos;t want you to be
 changing the html at all. I want you to either create a new style sheet
 or update last week&apos;s style sheet so it can be used on three different
 html files.
 
-![](./images/image295.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. getting started (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image295.png" 
+  alt="Getting Started."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 When you get started it&apos;s very important that you&apos;ve completed the
 first peer graded assignment. I&apos;m going to assume that you have it done
@@ -5431,9 +5896,16 @@ to make. You can either alter that previous homework assignment, or you
 really can start completely from scratch if you weren&apos;t happy with your
 earlier work.
 
-![](./images/image296.png){width="3.5in"
-height="1.963140857392826in"}![](./images/image297.png){width="3.5in"
-height="1.963140857392826in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 296/297. before/after assignment (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image296.png"
+  style="width:40%;"
+  alt="Before assignment." />
+<img src="./images/image297.png"
+  style="width:40%;"
+  alt="After assignment." />
+</p>
 
 Let&apos;s take a look at the before and after for this assignment that I
 want you to try to achieve. This was our page when we first started. In
@@ -5441,8 +5913,14 @@ homework one, you took it from here to here. Still very simple, but just
 much cleaner because we added some background color, some color fonts,
 and we got rid of those images.
 
-![](./images/image298.png){width="4.0in"
-height="2.243589238845144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298.  (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image298.png" 
+  alt="."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 What I want you to work on this week is really changing things and
 making it really styled as opposed to just clean. Let&apos;s take a look at
@@ -5453,7 +5931,7 @@ necessarily easy to see when you&apos;re just looking at paper, I&apos;ve added
 a new class that highlights which page we&apos;re on right now. If you look,
 the home link is highlighted because we&apos;re on the home page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 299.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 299. history link (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image299.png" 
   alt="."
@@ -5468,7 +5946,7 @@ styling this to let your viewers know where they are on this page. I&apos;m
 going to go through and talk about each of the tags I want you to look
 at in order to complete this assignment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 300. you must leave the html alone (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 300. you must leave the html alone (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image300.png" 
   alt="You must leave the HTML alone."
@@ -5487,7 +5965,7 @@ you&apos;re going to want to put those images back in that were in the
 left-hand side of the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 301. body: change padding and margin (75) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 301. body: change padding and margin (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image301.png" 
   alt="body: change padding and margin."
@@ -5502,7 +5980,7 @@ also feel free to adjust the size of the text, but that&apos;s not required.
 I know I did because I just found the text a little bit too small.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 302. header:  background-color and image (75) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 302. header:  background-color and image (158) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image302.png" 
   alt="header: change background-color and add background-image."
@@ -5517,7 +5995,7 @@ the whole homework assignment. Because sometimes it&apos;s not always clear
 where you can find the images and where you can&apos;t, so make sure you
 check in some of the other resources if you get stuck on this part.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 303. h1: change font size and color (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 303. h1: change font size and color (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image303.png" 
   alt="h1: change font-size and color."
@@ -5530,7 +6008,7 @@ little bit more. Now here again is something that&apos;s new that you
 didn&apos;t learn before. I want you to style the links that are in the
 navigation section but only those links. Not all the links in the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 304. navigation links: style only nav (76) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 304. navigation links: style only nav (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image304.png" 
   alt="Navigation links: style only nav."
@@ -5542,7 +6020,7 @@ You don&apos;t need to recreate my example exactly, but I do want your links
 to be nicely spaced apart, they should have some background color,
 rounded borders and no underline. Make them look nice.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. create active class (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. create active class (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image305.png" 
   alt="Create an active class."
@@ -5554,7 +6032,7 @@ Next make sure you saw that active class I talked about. That&apos;s how
 people will be able to know which page they&apos;re looking at without
 having to look at the URL.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 306. page has a left and right class (77) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 306. page has a left and right class (160) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image306.png" 
   alt="Page has a left and right class."
@@ -5570,7 +6048,7 @@ change them so that they&apos;re side by side, and change that background
 color for the left class. You may have already done that in the previous
 homework, but if you didn&apos;t make sure it gets done now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. images (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. images (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image307.png" 
   alt="Images."
@@ -5588,7 +6066,7 @@ want the pictures to be all the way to one side or the other. And, while
 you&apos;re centering them, make sure you put some space between them, on
 the top and bottom, too.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. peer grading (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. peer grading (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image308.png" 
   alt="Peer Grading."
@@ -5684,7 +6162,7 @@ of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image309.png" 
-  alt="Pseudo Classes and Elements."
+  alt="3.1 Pseudo Classes and Elements."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5694,7 +6172,7 @@ pseudo classes and elements. We&apos;ve been working with different types of
 elements throughout this entire course, and how we can structure them
 and style them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. types of pseudo-classes (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. types of pseudo-classes (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image310.png" 
   alt="Types of Pseudo-Classes."
@@ -5731,7 +6209,7 @@ Border:1 px. Now, even though there&apos;s no place on the DOM where they have
 p:hover, it should work for you when you put that styling rule in.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 311. pseudo-classes position example (74) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 311. pseudo-classes position example (164) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image311.png" 
   alt="Pseudo-Classes position example."
@@ -5747,9 +6225,8 @@ first-of-type, last-of-type, only-of-type. And again, you just have the
 element, the colon, and then the name of the pseudo-class that you want
 to style. Pseudo elements aren&apos;t necessarily part of the DOM, but they
 can be used to style specific or unique parts of the page.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. types of pseudo-elements (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. types of pseudo-elements (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image312.png" 
   alt="Types of Pseudo-Elements; fancy first letter of paragraph."
@@ -5765,9 +6242,14 @@ something like credit card information, you can go ahead and put in the
 different types of credit cards but have a little before that says, and
 hey, put a picture in here. You can also style just fragments of
 different selections.
-
-![](./images/image313.png){width="4.0in"
-height="2.2470089676290463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. Review (3.1) (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image313.png" 
+  alt="Review (3.1 Pseudo Classes and Elements)."
+  style="border: 2px solid #000000;" 
+  width="40%;" />
+</p>
 
 Now I didn&apos;t give you much code when we went through here because
 really using pseudo classes and pseudo elements is very unique to the
