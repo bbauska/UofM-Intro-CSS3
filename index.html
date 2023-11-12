@@ -740,7 +740,6 @@ different pages and you want them all to have a very consistent look
 about them. You don't want to have to go in and say if you want to
 change a color, you don't want to have to go in and open every single
 one of those files so you can change the color to red or green.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. external style sheet, #1 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -3307,9 +3306,19 @@ background color, a different width, things like that. In addition,
 anything that's class current, I want to make even different than any
 other link or anything else we've seen that way. Let's uncomment the
 style sheet. Save it.</p>
-<p><img src="./images/image226.png"
-style="width:3.5in;height:1.86966in" /><img src="./images/image227.png"
-style="width:3.5in;height:1.86966in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226/227.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image226.png" 
+  alt="." 
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image227.png" 
+  alt="." 
+  style="width:40%" />
+</p>
+
 <p>Go from this to this. You can see that only the links that are inside
 my navigation bar are styled. This one was left the same. And the one
 where I have class="current" does look different from the others. It's
@@ -3317,8 +3326,13 @@ really simple to use these things, you just need to know about them.</p>
 <p>As your pages get more advanced, you're going to want to narrow the
 scope of some of the rules. We only want to apply them to certain
 things.</p>
-<p><img src="./images/image228.png"
-style="width:4in;height:2.13675in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image228.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>And one of the notations you can use for that is the dot. In your
 style sheet, you would actually have
 <strong><mark>p.main</mark></strong>. This means go and find all the
@@ -3329,8 +3343,13 @@ just a way for you to reduce what's being styled. On the same hand, you
 can also, what we call, expand the scope. Let's say that there's some
 sort of styling you want to apply to both the header and the footer, or
 to the sections and the articles. Not a problem.</p>
-<p><img src="./images/image229.png"
-style="width:4in;height:2.13675in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image229.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>What you do is you write the element, and you include a comma right
 there to let it know. Just as a quick review. And this is something from
 much earlier. You need to think about what happens when there are
@@ -3342,8 +3361,13 @@ that somewhere below, it's going to override and combine with anything
 that's higher up. Unless a rule has the exclamation point important
 after it, it always just uses the last one it saw, along with the
 earlier ones that don't conflict.</p>
-<p><img src="./images/image230.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image230.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>In addition to the element selectors and the different DOM
 relationship selectors, we also have a few more that I want to talk
 about briefly. The first one is the universal selector, which is the
@@ -3362,8 +3386,13 @@ more that we'll be looking at later, which are pseudo-classes and
 pseudo-elements. Just another level of distinguishing just certain
 things you want to style on your page. But first, let's go ahead and
 look at using these attribute selectors.</p>
-<p><img src="./images/image231.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image231.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>The way that attribute selectors work is that they search the DOM for
 elements that have the attribute that you are looking for. For instance,
 you might want to look at all the images that use gif files or all the
@@ -3371,8 +3400,13 @@ images that have empty alt text or maybe all the links that go to
 government sites or non-profit sites or educational sites. It's really
 easy for us to find those and go ahead and style them a little
 differently.</p>
-<p><img src="./images/image232.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image232.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>How we do that is we use operators to match the different parts of
 the alt text that you're looking for. Up here, in what we call the
 caret, it's going to match the beginning. In this case, it would match
@@ -3381,26 +3415,46 @@ it ends. The next one with the dollar sign is going to match the end
 exactly. It's going to find every file that ends in .png. We also have
 the wildcard, where you're going and saying if you see umich in any part
 of any hyper reference at all, apply this rule.</p>
-<p><img src="./images/image233.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image233.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>What we're going to look at is we're going to look at a file that has
 different links and each one has a different type of extension that we
 want to style differently.</p>
-<p><img src="./images/image234.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image234.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>All right. What I have here is just a list of links. There's no
 classes. Nothing special about these, that goes to different university
 sites, organizations, government sites, and if you take a look, by
 default, it's just going to show up as your traditional blue links with
 underlined, the text right there.</p>
-<p><img src="./images/image235.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image235.png"
+  alt="." 
+  style="width:40%" />
+
 <p>But what I want to do is I want to go in and say, you know what, all
 the ones that end in .org? Make them one color. All the ones that are
 .edu, another color, and all the ones that end in .gov, a third color.
 Let's see what it looks like.</p>
-<p><img src="./images/image236.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image236.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>Here, you can see that without me having to put in any information
 inside the tags themselves, the browser has colored them the proper
 color. Okay, I've just covered a lot of stuff in a very short section.
@@ -3408,16 +3462,26 @@ You need to realize that these ideas are going to merge together. You're
 going to be using classes, you're going to be using
 <strong>ids</strong>, you're going to be using
 <strong>attributes</strong>.</p>
-<p><img src="./images/image237.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image237.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>And the important thing I want you to know is that when you are
 adding all these things together, the order that you write classes and
 different ids in your text doesn't matter. It doesn't matter whether you
 have special early dark or dark early special. What really matters is
 the order that you write your rules in your style sheet. Browsers are
 always going to start at the top, and apply each rule.</p>
-<p><img src="./images/image238.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image238.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>Now the good news from this lecture is that I want you to realize
 that with the power of classes and ids and this cascading style sheet is
 that this means you can use style sheets from other people to style your
@@ -3425,8 +3489,13 @@ code. And you can just add a class that changes the one little attribute
 that maybe you didn't like about it. You can override these style sheets
 and make it your very own. Just make sure that you link your style sheet
 last.</p>
-<p><img src="./images/image239.png"
-style="width:4in;height:2.25812in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image239.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>All right, we've covered a lot, and I'm hoping I didn't overwhelm you
 with the video. I just want you to remember that when we do type
 selectors and the things that I'm going to have you do in this class is
@@ -3478,14 +3547,25 @@ an example:</p>
 <li><p>background-repeat, and</p></li>
 <li><p>background-position</p></li>
 </ul>
+
 <h1 id="browser-capabilities-1">Browser Capabilities</h1>
-<p><img src="./images/image240.png"
-style="width:4in;height:2.23675in" /></p>
-<p>Hi, everyone. Today we're going to talk about browser capabilities
-and what you can do to make sure that your sites have a consistent
-appearance, regardless of how people are accessing it.</p>
-<p><img src="./images/image241.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image240.png" 
+  alt="."
+  style="width:40%" />
+
+<p>Today we're going to talk about browser capabilities and what you can do to 
+make sure that your sites have a consistent appearance, regardless of how people 
+are accessing it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image241.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>Even though HTML5 has really been pushing the browser developers to
 all come to this consistent implementation, they really differ in
 display and adherence to the new tags that are coming out. And as
@@ -3495,8 +3575,13 @@ way that you are. It's your responsibility to make sure that your page
 works for a wide audience. And while we've been talking a lot about
 accessibility, and different ways to access the web, it even comes down
 to the most basic browser implementations.</p>
-<p><img src="./images/image242.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image242.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>First, let's talk about handling these stylistic differences. The
 easiest way to eliminate browser differences is for you to make
 something called a default style sheet. And in that style sheet, you
@@ -3513,8 +3598,13 @@ improve and your page is going to look better and better. Otherwise, if
 you don't use what we call this default style sheet, you're going to
 design your page, and it's going to be really hard for you to remember
 if you've actually checked off each element that you're using.</p>
-<p><img src="./images/image243.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image243.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>One of the other things we want to talk about is handling what we
 call unsupported properties. So first, we know that all browsers don't
 support all the HTML5 tags. You've seen this already, in some of the
@@ -3531,8 +3621,13 @@ was completely intimidated. I didn't know what was going on, and it
 looked a little weird, and I was feeling lazy and I didn't want to deal
 with it. But I'm here to tell you, it's actually very, very easy to use
 these prefixes.</p>
-<p><img src="./images/image244.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image244.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>Let's take a look at what I'm talking about. You've been using
 different properties and the browser's hopefully just been working. But
 now, for some of those properties, you're going to want and add a prefix
@@ -3540,8 +3635,13 @@ or a little bit in front of it, such as webkit, moz, ms, or o for Opera.
 Each one of these prefixes say, hey, if you're on this particular
 browser, this is what I need you to do to get the look that the designer
 is going for.</p>
-<p><img src="./images/image245.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image245.png" 
+  alt="." 
+  style="width:40%" />
+
 <p>What are some of these properties that are often unsupported? They
 include column-count, which is a way to add multiple columns into your
 paragraphs or divs. It's a really nice way to break up your text that's
@@ -3559,11 +3659,25 @@ and which ones aren't.</p>
 caniuse.com does is it lists the different properties and it tells you
 which browsers support them and which ones need the prefixes. It's a
 good idea to check that site out as you start developing your page.</p>
-<p><img src="./images/image246.png"
-style="width:3.5in;height:1.96725in" /><img src="./images/image247.png"
-style="width:3.5in;height:1.96725in" /></p>
-<p><img src="./images/image248.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246/247.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image246.png" 
+  alt="." 
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image247.png"
+  alt="." 
+  style="width:40%" />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image248.png" 
+  alt="."
+  style="width:40%" />
+
 <p>But for now, let's go ahead and look at an example. In this example,
 I have a file called prefixes.html. And I just want to show you quickly
 what it looks like on both Chrome over here, and also on Safari. They
@@ -3572,23 +3686,38 @@ not match exactly, or some of the spacing might not match exactly. If I
 wanted to get rid of that, if I really wanted to make sure that the
 pages look exactly the same, what I can do is add a default style
 sheet.</p>
-<p><img src="./images/image249.png"
-style="width:4in;height:2.24274in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image249.png" 
+  alt="."
+  style="width:40%" />
+
 <p>Let's go down over here, and I'm going to say hey I want to use my
 default style sheet. And what that looks like is it's a really crazy
 file where I've listed all the different elements. And then after that,
 put in things like, I don't want any padding, I don't want any margin.
 If I've got lists, get rid of the list style. Make this really as ugly
 as you can.</p>
-<p><img src="./images/image250.png"
-style="width:4in;height:2.24274in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image250.png" 
+  alt="."
+  style="width:40%" />
+
 <p>If I go back over here, you might not see a huge difference because
 the browsers are already pretty plain, but you can see things move over
 slightly. We get rid of a little bit of stuff. And in the same way, when
 I refresh the Safari, they're going to look a little bit more
 similar.</p>
-<p><img src="./images/image251.png"
-style="width:4in;height:2.24274in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image251.png" 
+  alt="."
+  style="width:40%" />
+
 <p>Now, let's go ahead and look at that example where some of the
 properties aren't supported. And I'm going to go back over to my HTML
 file, and I'm going to say, hey, I want to use my style sheet to go
@@ -3597,26 +3726,46 @@ that I'm talking about specifically is, we're going to start with this
 idea of column-count. How column-count and column-gap work is you tell
 the browser how many columns you want and how much space you want
 between those columns.</p>
-<p><img src="./images/image251.png"
-style="width:4in;height:2.24274in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image251.png" 
+  alt="."
+  style="width:40%" />
+
 <p>Now, when I refresh, you can see it's gone from being all one long
 kind of block paragraph to that everything's split up. And it's really
 cool because it's dynamic.</p>
-<p><img src="./images/image252.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image252.png"
+  alt="."
+  style="width:40%" />
+
 <p>If I re-size the browser, everything kind of moves around. And this
 is a really cool thing way to do it. One of the other things I'd like to
 add just as something to look at, is this idea of instead of having a
 square, I want to round the edges a little bit.</p>
-<p><img src="./images/image253.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image253.png" 
+  alt="."
+  style="width:40%" />
+
 <p>You do that by adding in what's called the border-radius. Now I'm
 going to stop before I refresh the page, because I want to point
 something out to you in case you're as intimidated as I was when I first
 started doing this. The border-radius is just a simple property that's
 been around for a while.</p>
-<p><img src="./images/image254.png"
-style="width:4in;height:2.24274in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image254.png" 
+  alt="."
+  style="width:40%" />
+
 <p>And you can see it right here, and you give it a value. Same with
 column-count and column-gap. This whole idea of adding prefixes just
 means, take your regular property and slap these prefixes on it. You
@@ -3624,45 +3773,80 @@ don't need to learn anything new; you just need to remember the prefix
 names. I want you to really try to embrace this, and realize you're not
 doing anything too spectacular. I've made it 25. And I'm going to go
 ahead and refresh it.</p>
-<p><img src="./images/image255.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image255.png" 
+  alt="."
+  style="width:40%" />
+
 <p>And as you can see, I've curved the different edges around the side.
 The last thing I'm going to do is add a gradient to the color. Right
 now, I'm a consistent blue color. And it's important that no matter what
 you give a background color, that you would like to be used, is the case
 the gradient isn't happening.</p>
-<p><img src="./images/image256.png"
-style="width:3.5in;height:1.97735in" /><img src="./images/image257.png"
-style="width:3.5in;height:1.97735in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256/257.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image256.png" 
+  alt="."
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image257.png" 
+  alt="."
+  style="width:40%" />
+</p>
+
 <p>Now for linear gradient, you're giving two colors that you'd like to
 be seeing at the beginning and the end. I have regular blue. And now
 when I refresh, I go from a blue to a light grey. I want to remind you
 that when you're developing, don't try to memorize things. Don't try to
 remember how to do everything.</p>
-<p><img src="./images/image258.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image258.png" 
+  alt="."
+  style="width:40%" />
+
 <p>I'm going to right-click on here, and do Inspect Element. Because if
 you decide later that's too much of a curve, or you don't like that
 color, what you don't want to do is type, save, refresh, type, save,
 refresh. It gets really annoying.</p>
-<p><img src="./images/image259.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image259.png" 
+  alt="."
+  style="width:40%" />
+
 <p>Instead, I'm going to go right here to my section and I'm going to
 look, and you can see in Inspect Element that it said I didn't use the
 moz prefix, and I didn't use the Opera prefix, because I didn't need to.
 I'm Chrome. What I can do is come down here to the border-radius and
 change it. Instead of 25 pixels, if I want less of a curve, I can make
 it 5 pixels.</p>
-<p><img src="./images/image260.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image260.png" 
+  alt="."
+  style="width:40%" />
+
 <p>You can see it happening in real time. If you want to make it look
 crazy, you can make it 50 pixels. You can also use percents if you like.
 So put in 15%. You may play with these things dynamically and once you
 get a value that you really like, copy and paste it into your CSS file.
 Browser prefixes are something to play with that can be fun. But also,
 it can be frustrating.</p>
-<p><img src="./images/image261.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image261.png"
+  alt="."
+  style="width:40%" />
+
 <p>But the most important thing is that you should realize it's very
 straightforward. One of the things that you might do as you're adding
 prefixes is that realize, for right now, the easiest thing for you to do
@@ -3684,8 +3868,13 @@ you remember in my example, even though I was using Chrome, my style
 sheet still had all the different prefixes. This would automatically
 only add the ones you need. Again, these are kind of cool, but let's not
 worry about them right now. For now, let's focus on the basics.</p>
-<p><img src="./images/image262.png"
-style="width:4in;height:2.24829in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image262.png"
+  alt="."
+  style="width:40%" />
+
 <p>To review, when you start coding, when you start making style sheets,
 you're going to want to think about using a default style sheet to
 remove those stylistic differences. And when you do that, I need you to
@@ -3718,12 +3907,22 @@ be outdated, or will be outdated soon. For instance, in the video you
 just watched, I used the prefixes for border-radius, but I am fairly
 certain that it is supported by most of the browsers now. I even went to
 <a href="http://caniuse.com/">caniuse.com</a> to check it out.</p>
-<p><img src="./images/image263.png"
-style="width:4in;height:2.96795in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image263.png"
+  alt="."
+  style="width:40%" />
+
 <p>But when I checked on column-count it showed that the prefixes are
 still needed.</p>
-<p><img src="./images/image264.png"
-style="width:4in;height:2.97607in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image264.png"
+  alt="."
+  style="width:40%" />
+
 <p>And I didn't even talk about prefixes for the new Microsoft browser,
 Edge. Right now, if a property is standard there will be no need for any
 prefixes in Edge. If you are going to use experimental features, use the
@@ -3743,9 +3942,15 @@ to this code though, you can find it at:</p>
 href="http://codepen.io/ColleenEMc/pen/QjOaVg">http://codepen.io/ColleenEMc/pen/QjOaVg</a></p>
 <p>Styled code: <a
 href="http://codepen.io/ColleenEMc/pen/jbaYvL">http://codepen.io/ColleenEMc/pen/jbaYvL</a></p>
+
 <h1 id="code-together-3">Code Together</h1>
-<p><img src="./images/image265.png"
-style="width:4in;height:2.25in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image265.png" 
+  alt="."
+  style="width:40%" />
+
 <p>Welcome back, everybody. It's time for us to stop learning new things
 and put into practice the things that we've been talking about in the
 last week. What we're going to do is add some of the new components that
@@ -3754,8 +3959,13 @@ along, so again I'm going to stress that I really hope you stop, put
 down whatever else you're doing, whip up your laptop or whatever you're
 coding on, and code with me rather than just watching what I'm
 doing.</p>
-<p><img src="./images/image266.png"
-style="width:4in;height:2.26154in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image266.png" 
+  alt="."
+  style="width:40%" />
+
 <p>When we last were coding together, hopefully you created something
 that looks like this screen up here. We've gone in and we'd used width
 and different displays, padding and margin and we were making our page a
@@ -3765,8 +3975,13 @@ elements such as gradient, instead of having three equal width sections
 we're going to have some sections take up half the page, some take up
 the full page, little things like this. And we're going to be utilizing
 these new selectors that we've been studying. Let's begin.</p>
-<p><img src="./images/image267.png"
-style="width:4in;height:2.25in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image267.png"
+  alt="."
+  style="width:40%" />
+
 <p>The first thing that I want to do is put in that linear gradient or
 that new color that goes in both the header and the footer. When I go to
 my style sheet, and I'm going to come up here. One of the first things I
@@ -3781,14 +3996,24 @@ great, we did. Now, when I wrote this rule, you might remember that I
 put header, footer and that means it's supposed to apply to both of
 these elements. But it only applied to the header. We need to think
 about why that happened.</p>
-<p><img src="./images/image268.png"
-style="width:4in;height:2.25in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image268.png" 
+  alt="."
+  style="width:40%" />
+
 <p>The reason is if we scroll down, you can see that further down in the
 page I have said, I want my footer background to be this particular
 color. This overwrites any earlier rules, so I'm going to go in
 here.</p>
-<p><img src="./images/image269.png"
-style="width:4in;height:2.25in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image269.png" 
+  alt="."
+  style="width:40%" />
+
 <p>And I'm going to delete this, and say, let's get rid of that.
 Refresh, and great. Now it looks much better. Okay, so we've made that
 one change, and hopefully you're getting used to the idea of both using
@@ -3797,15 +4022,30 @@ putting in these web kit prefixes or browser prefixes. If you get rid of
 it, it may work on your browser, but there's a really good chance it
 won't work on the other browser. We want to practice this. All right,
 let's take a look and see what we've got. I've got the gradient in.</p>
-<p><img src="./images/image270.png"
-style="width:4in;height:2.25in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image270.png" 
+  alt="."
+  style="width:40%" />
+
 <p>The next thing I want to tackle is styling these links, and again,
 I'm not styling all the links in the page, because if you notice, this
 one down here still looks exactly the same. I only want to style the
 links that are inside the navigation section.</p>
-<p><img src="./images/image271.png"
-style="width:3.5in;height:1.96875in" /><img src="./images/image272.png"
-style="width:3.5in;height:1.96875in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 271/272.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image271.png" 
+  alt="."
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image272.png" 
+  alt="."
+  style="width:40%" />
+</p>
+
 <p>I'm going to go right here and, I've styled my nav. It looks good.
 Next time, I'm going to say, hey, let's style just those links that are
 inside the nav. And, we've made quite a few changes. If I come down
@@ -3820,15 +4060,35 @@ inline and you can't give them width or height. So now, if I go in and I
 say let's change our display to inline-block, we should have much better
 luck. Almost too much luck, because the screen doesn't quite fit that.
 All right? All right. So great, that's one step closer.</p>
-<p><img src="./images/image273.png"
-style="width:3.5in;height:1.96875in" /><img src="./images/image274.png"
-style="width:3.5in;height:1.96875in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273/274.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image273.png"
+  alt="."
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image274.png"
+  alt="."
+  style="width:40%" />
+</p>
+
 <p>Let's add that different background color. And I think I made it
 white. But you can use anything you want. Boom. We're definitely getting
 closer. Little tiny steps are getting us much, much closer.</p>
-<p><img src="./images/image275.png"
-style="width:3.5in;height:1.96875in" /><img src="./images/image276.png"
-style="width:3.5in;height:1.96875in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275/276.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image275.png" 
+  alt="."
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image276.png" 
+  alt="."
+  style="width:40%" />
+</p>
+
 <p>The next thing I want to tackle as we try to change our page is this
 idea that some of the sections should take up half the screen, while
 some of the sections should go ahead and take up the whole width of the
@@ -3844,9 +4104,19 @@ sections, not all of them. If I refresh, it's not going to work yet
 because the problem is I got rid of my section styling and replaced it
 with this class and nowhere in my HTML did I remember to reference the
 class.</p>
-<p><img src="./images/image277.png"
-style="width:3.5in;height:1.96875in" /><img src="./images/image278.png"
-style="width:3.5in;height:1.96875in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277/278.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image277.png"
+  alt="."
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image278.png"
+  alt="."
+  style="width:40%" />
+</p>
+
 <p>For the first time we're now going to go into our HTML file and start
 making some changes. Going to go here, I would like this one to only
 take up half the screen, so I'll say class=half. And I would like this
@@ -3860,9 +4130,19 @@ are next to each other to be basically in positions you don't want them
 to be in. Our bottom section, the one that we knew we didn't want to be
 floating, we need to go in and say hey, there's certain sections we want
 to be whole.</p>
-<p><img src="./images/image279.png"
-style="width:3.5in;height:1.96875in" /><img src="./images/image280.png"
-style="width:3.5in;height:1.96875in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279/280.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image279.png"
+  alt="."
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image280.png"
+  alt="."
+  style="width:40%" />
+</p>
+
 <p>Let's go back to our style sheet. And I'm going to just do a little
 bit of copy and paste here. And I'm going to say, you know what? This
 one section, I need it to be class equals whole. So go back over here.
@@ -3890,8 +4170,13 @@ variations in image size.</p>
 <p>As you code, it is recommended that your .html files be in one folder
 and your css files and image files be in subfolders, something like
 this:</p>
-<p><img src="./images/image281.png"
-style="width:2.21875in;height:1.13472in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image281.png"
+  alt="."
+  style="width:40%" />
+
 <p>But if your style sheet is trying to link to a picture called
 "ocean.jpg" in your images folder, how can you link them together?</p>
 <p>Neither of these first two options will work since there is no file
@@ -3931,14 +4216,24 @@ more transparent red.</p>
 <p><a
 href="https://css-tricks.com/almanac/properties/o/opacity/">https://css-tricks.com/almanac/properties/o/opacity/</a></p>
 <h1 id="designing-for-accessibility">Designing for Accessibility</h1>
-<p><img src="./images/image282.png"
-style="width:4in;height:2.24017in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image282.png"
+  alt="."
+  style="width:40%" />
+
 <p>Hi, and welcome back as we go back and we talk about designing for
 accessibility once again. As I've been telling you more and more cool,
 neat things, I sometimes feel the need to rein you back in and remind
 you of the basics of when you're designing your page.</p>
-<p><img src="./images/image283.png"
-style="width:4in;height:2.24017in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image283.png"
+  alt="."
+  style="width:40%" />
+
 <p>And part of that basics is that I want to remind you that the content
 of your page should be in your HTML. What I mean by that is that it can
 be really tempting to add content via colors, images, etc., things that
@@ -3949,8 +4244,13 @@ redesigning and testing and redesigning is remember what we call the
 POUR guidelines. We want your pages to be perceivable, operable,
 understandable, and robust. And the perceivable and understandable
 really kind of match up with what you're doing with your CSS.</p>
-<p><img src="./images/image284.png"
-style="width:4in;height:2.24017in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image284.png"
+  alt="."
+  style="width:40%" />
+
 <p>In order for things to be perceivable, I just want you to remember a
 couple of things. First, always remember to provide text alternatives
 for your images. Your images should not convey the information
@@ -3969,8 +4269,14 @@ it.</p>
 really good color contrast. You'd be surprised to realize how many
 people are unable to access information on the web because they really
 can't see what you've put up there.</p>
-<p><img src="./images/image285.png"
-style="width:4in;height:2.24017in" /></p>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 285.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image285.png"
+  alt="."
+  style="width:40%" />
+
 <p>Next, let's talk about what it means for your page to be operable.
 What I mean by that is that all the functionality that's going into your
 page should be available from the keyboard. Don't expect that everyone's
@@ -3991,14 +4297,24 @@ turn it off. This can actually cause seizures.</p>
 Don't make it a puzzle where they have to kind of figure out how to get
 where they want to go. It's your job to make it as easy as possible for
 them to find content and figure out where they are on your page.</p>
-<p><img src="./images/image286.png"
-style="width:4in;height:2.24017in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image286.png"
+  alt="."
+  style="width:40%" />
+
 <p>Here's just a few quick examples of different ways that people
 sometimes access the web, whether it's with a penstick, a keyboard, a
 remote, a kind of accessible keyboard, or even some sort of puff devices
 that they can use to navigate through the web.</p>
-<p><img src="./images/image287.png"
-style="width:4in;height:2.24017in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image287.png"
+  alt="."
+  style="width:40%" />
+
 <p>Next, let's talk about what I mean when a page is understandable.
 Typically, you want to keep your language short and sweet on your page.
 Unless you're an author and you're showing off your works, people are
@@ -4016,8 +4332,13 @@ a website where you just can't quite figure out how to get back to the
 page you were three pages ago, make it easy for people to get that.</p>
 <p>Next, help users avoid and correct mistakes. It's up to you, not
 them, to figure out how to access the information.</p>
-<p><img src="./images/image288.png"
-style="width:4in;height:2.24017in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image288.png"
+  alt="."
+  style="width:40%" />
+
 <p>Finally, the R, the robust in the POUR. Is your site functional
 across various technologies, a smart phone, screen reader, laptop,
 pensticks? As you work with me and we go further on, we'll talk about
@@ -4034,8 +4355,13 @@ compatibility with new browsers. And the easiest way to do that is to go
 onto validator.w3c.org and the wave.webaim.org to validate your code.
 It's simple, it's fast, and it's really going to give you a much better
 page.</p>
-<p><img src="./images/image289.png"
-style="width:4in;height:2.24017in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image289.png"
+  alt="."
+  style="width:40%" />
+
 <p>Just to review, I'm not asking you to make great strides. I just want
 you to do little things right. And that really starts with the proper
 HTML tags.</p>
@@ -4131,46 +4457,96 @@ This second assignment may have a number of different options. You can
 grade the assignment by eye, or else save the css and try applying it to
 the html files.</p></li>
 </ol>
+
 <h2 class="unnumbered" id="before-1">Before</h2>
-<p><img src="./images/image130.png"
-style="width:4in;height:3.68462in" /></p>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image130.png"
+  alt="."
+  style="width:40%" />
+
 <h3 class="unnumbered" id="after-1">After</h3>
-<p><img src="./images/image290.png"
-style="width:4in;height:2.80641in" /></p>
-<p><img src="./images/image291.png"
-style="width:4in;height:2.72521in" /></p>
-<p><img src="./images/image292.png"
-style="width:4in;height:2.84103in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image290.png"
+  alt="."
+  style="width:40%" />
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 291.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image291.png"
+  alt="."
+  style="width:40%" />
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image292.png"
+  alt="."
+  style="width:40%" />
+
 <h1 id="homework-description">Homework Description</h1>
-<p><img src="./images/image293.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image293.png"
+  alt="."
+  style="width:40%" />
+
 <p>Hi, everybody. Welcome back, it's time for another homework example.
 What we're going to be doing this week is adding even more style to the
 pages that you started styling last week.</p>
-<p><img src="./images/image294.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image294.png"
+  alt="."
+  style="width:40%" />
+
 <p>The objective of this assignment is that I don't want you to be
 changing the html at all. I want you to either create a new style sheet
 or update last week's style sheet so it can be used on three different
 html files.</p>
-<p><img src="./images/image295.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image295.png"
+  alt="."
+  style="width:40%" />
+
 <p>When you get started it's very important that you've completed the
 first peer graded assignment. I'm going to assume that you have it done
 and so when I talk in this video about the different changes, I want you
 to make. You can either alter that previous homework assignment, or you
 really can start completely from scratch if you weren't happy with your
 earlier work.</p>
-<p><img src="./images/image296.png"
-style="width:3.5in;height:1.96314in" /><img src="./images/image297.png"
-style="width:3.5in;height:1.96314in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 296/297.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>
+<img class="border displayed"
+  src="./images/image296.png"
+  alt="."
+  style="width:40%" />
+<img class="border displayed"
+  src="./images/image297.png"
+  alt="."
+  style="width:40%" />
+</p>  
+
 <p>Let's take a look at the before and after for this assignment that I
 want you to try to achieve. This was our page when we first started. In
 homework one, you took it from here to here. Still very simple, but just
 much cleaner because we added some background color, some color fonts,
 and we got rid of those images.</p>
-<p><img src="./images/image298.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image298.png"
+  alt="."
+  style="width:40%" />
+
 <p>What I want you to work on this week is really changing things and
 making it really styled as opposed to just clean. Let's take a look at
 what I'd like you to work on in week three. As you can see this looks
@@ -4179,16 +4555,26 @@ background image for a navigation bar and something that isn't
 necessarily easy to see when you're just looking at paper, I've added a
 new class that highlights which page we're on right now. If you look,
 the home link is highlighted because we're on the home page.</p>
-<p><img src="./images/image299.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image299.png"
+  alt="."
+  style="width:40%" />
+
 <p>If I click on history, the history link is how that it because we're
 on the history page and then the same way, the team's page. This is what
 we call the current page that we're looking at. You're going to be
 styling this to let your viewers know where they are on this page. I'm
 going to go through and talk about each of the tags I want you to look
 at in order to complete this assignment.</p>
-<p><img src="./images/image300.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image300.png"
+  alt="."
+  style="width:40%" />
+
 <p>When you get started, you're going to leave that HTML code alone, and
 you're either going create a new style sheet, or you're going to go
 ahead and update the one you used before.</p>
@@ -4197,15 +4583,26 @@ You need to work on the body, the header, the h one, the links, and then
 I have three classes called active, left, and right, and finally, you're
 going to want to put those images back in that were in the left-hand
 side of the page.</p>
-<p><img src="./images/image301.png"
-style="width:4in;height:2.24359in" /></p>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image301.png"
+  alt="."
+  style="width:40%" />
+
 <p>First, let's talk about the body. By default, your browsers put in
 some sort of padding and margin, but I want you to overwrite that and
 put something that will look consistent across all browsers. You can
 also feel free to adjust the size of the text, but that's not required.
 I know I did because I just found the text a little bit too small.</p>
-<p><img src="./images/image302.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image302.png"
+  alt="."
+  style="width:40%" />
+
 <p>Next, go to the header. The first step is to change the background
 color and see if you can get that to work. Next, you're going to want to
 add a background image. And to be honest, this will be the trickiest
@@ -4213,25 +4610,45 @@ part of the whole homework assignment. Because sometimes it's not always
 clear where you can find the images and where you can't, so make sure
 you check in some of the other resources if you get stuck on this
 part.</p>
-<p><img src="./images/image303.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image303.png"
+  alt="."
+  style="width:40%" />
+
 <p>Next, I want you to change the font color and increase that font size
 a little bit more. Now here again is something that's new that you
 didn't learn before. I want you to style the links that are in the
 navigation section but only those links. Not all the links in the
 page.</p>
-<p><img src="./images/image304.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image304.png"
+  alt="."
+  style="width:40%" />
+
 <p>You don't need to recreate my example exactly, but I do want your
 links to be nicely spaced apart, they should have some background color,
 rounded borders and no underline. Make them look nice.</p>
-<p><img src="./images/image305.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image305.png"
+  alt="."
+  style="width:40%" />
+
 <p>Next make sure you saw that active class I talked about. That's how
 people will be able to know which page they're looking at without having
 to look at the URL.</p>
-<p><img src="./images/image306.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 306.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image306.png"
+  alt="."
+  style="width:40%" />
+
 <p>Now another thing that you’re going to need to work on is this idea
 that our page has a left and a right class to it. Now in order to get
 things to go next to each other you’re going to need to mess with the
@@ -4239,8 +4656,13 @@ display and possibly float depending on how you implement this. Make
 sure you change them so that they're side by side, and change that
 background color for the left class. You may have already done that in
 the previous homework, but if you didn't make sure it gets done now.</p>
-<p><img src="./images/image307.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image307.png"
+  alt="."
+  style="width:40%" />
+
 <p>Finally, we want to get back to those images. First, you need to put
 the images back in because, hopefully in homework one, you set their
 display to none, which means they're gone. Put them back into something
@@ -4249,8 +4671,13 @@ so that they'll stack up on top of each other.</p>
 want the pictures to be all the way to one side or the other. And, while
 you're centering them, make sure you put some space between them, on the
 top and bottom, too.</p>
-<p><img src="./images/image308.png"
-style="width:4in;height:2.24359in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image308.png"
+  alt="."
+  style="width:40%" />
+
 <p>Once again, we'll be using the peer grader to evaluate your work.
 Unlike before, grades will be based on level of completion, and somewhat
 more of how your page looks. We want to make sure that you're not
@@ -4314,6 +4741,7 @@ name of each file that they use:</p>
 <ul>
 <li><p>Transitions - Using pseudo classes</p></li>
 </ul>
+
 <p>03-04 Code Together - Transitions:</p>
 <ul>
 <li><p>Animate - Using Transform</p></li>
@@ -4322,16 +4750,26 @@ name of each file that they use:</p>
 <ul>
 <li><p>Positioning</p></li>
 </ul>
-<h1 class="unnumbered" id="pseudo-classes-and-elements">3.1. Pseudo
-Classes and Elements</h1>
-<p><img src="./images/image309.png"
-style="width:4in;height:2.24701in" /></p>
+
+<h1 id="week3-01">3.1. Pseudo Classes and Elements</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image309.png"
+  alt="."
+  style="width:40%" />
+
 <p>Welcome back everybody. Today we're going to talk very briefly about
 pseudo classes and elements. We've been working with different types of
 elements throughout this entire course, and how we can structure them
 and style them.</p>
-<p><img src="./images/image310.png"
-style="width:4in;height:2.24701in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image310.png"
+  alt="."
+  style="width:40%" />
+
 <p>Well, pseudo elements are kind of different from the other things
 we've seen before in that they are very dependent on the DOM structure,
 and some of them are actually dynamically populated. To be honest, you
@@ -4359,8 +4797,13 @@ this is you could say, you know what? If someone hovers over my
 paragraph, I want to just do a border. Border:1 px. Now, even though
 there's no place on the DOM where they have p:hover, it should work for
 you when you put that styling rule in.</p>
-<p><img src="./images/image311.png"
-style="width:4in;height:2.24701in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image311.png"
+  alt="."
+  style="width:40%" />
+
 <p>You can also style based on the structural position of the different
 elements. You have first-child, last-child, nth-child. The way that one
 works is you put a number in to say the fifth child or the tenth child.
@@ -4369,8 +4812,13 @@ first-of-type, last-of-type, only-of-type. And again, you just have the
 element, the colon, and then the name of the pseudo-class that you want
 to style. Pseudo elements aren't necessarily part of the DOM, but they
 can be used to style specific or unique parts of the page.</p>
-<p><img src="./images/image312.png"
-style="width:4in;height:2.24701in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image312.png"
+  alt="."
+  style="width:40%" />
+
 <p>Some examples might if you have a paragraph and you want to put in
 that fancy first letter with a different font, you can use the first
 letter pseudo element. Same with the first line, you can generate things
@@ -4379,8 +4827,13 @@ something like credit card information, you can go ahead and put in the
 different types of credit cards but have a little before that says, and
 hey, put a picture in here. You can also style just fragments of
 different selections.</p>
-<p><img src="./images/image313.png"
-style="width:4in;height:2.24701in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image313.png"
+  alt="."
+  style="width:40%" />
+
 <p>Now I didn't give you much code when we went through here because
 really using pseudo classes and pseudo elements is very unique to the
 page you're going to make. So later when we talk about tables, keep an
@@ -4390,14 +4843,24 @@ be able to cover every combination of everything we learn about. But I
 do want to give you the tools so that you can go out and investigate how
 you can add some cool new styles to your page. Good luck.</p>
 <h1 class="unnumbered" id="transitions-1">3.2. Transitions</h1>
-<p><img src="./images/image314.png"
-style="width:4in;height:2.23333in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image314.png"
+  alt="."
+  style="width:40%" />
+
 <p>Hi, everybody. In this lecture we're going to talk about transitions.
 You've seen in different examples that we can change the state of
 elements. Links can go from regular link to visited. You can hover over
 things. You can focus them.</p>
-<p><img src="./images/image315.png"
-style="width:4in;height:2.25684in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 315.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image315.png"
+  alt="."
+  style="width:40%" />
+
 <p>Well, what if you want to actually have a little bit of almost
 animation when you do these things? That's what we can use transitions
 for. If you hover over the link, you can change the color. If an image
@@ -4408,8 +4871,13 @@ been looking for, to show that you're really starting to grasp these
 concepts.</p>
 <p>Let's get started. If you want to add transitions to your page,
 there's four properties that you're going to want to look at.</p>
-<p><img src="./images/image316.png"
-style="width:4in;height:2.25684in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image316.png"
+  alt="."
+  style="width:40%" />
+
 <p>The first is the actual transition property. What is it that you want
 to change? Do you want to change the size, the color, the position, all
 of them?</p>
@@ -4428,8 +4896,13 @@ to hover for two seconds before you go on?</p>
 looking at your page, they've got, just got the mouse going all over.
 And you don't want to have them looking at the transitions unless they
 really need to be focusing in on that one element.</p>
-<p><img src="./images/image317.png"
-style="width:4in;height:2.25684in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image317.png"
+  alt="."
+  style="width:40%" />
+
 <p>All right. Let's go ahead and get started. If you want to use
 transitions, the first thing you need to do is just what you've been
 doing all along, define your element and say what style you want it to
@@ -4441,23 +4914,38 @@ your transition. Pick the ones that you do want to change.</p>
 <p>Third, define the new values for those elements. And this is
 important. You need to combine this step with a pseudo-class. It needs
 to be along with a hover or a focus or an active.</p>
-<p><img src="./images/image318.png"
-style="width:4in;height:2.25684in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image318.png"
+  alt="."
+  style="width:40%" />
+
 <p>Let's look at some code just on the screen, and then I'll run you
 through an actual example. Here, I've went ahead and defined a div to
 just have color, background, line height, width height, all the typical
 things. If you notice, the border radius is pretty small. It's only six
 pixels.</p>
-<p><img src="./images/image319.png"
-style="width:4in;height:2.25684in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image319.png"
+  alt="."
+  style="width:40%" />
+
 <p>Next, I went in and I said, you know what, I'm going to go ahead and
 define each one of these properties. My properties I want to change are
 going to be color, width, background, and border radius. This is a lot,
 but I wanted a big example. You can say, I want it to take half a
 second, I want it to all be pretty much the same change, and I want you
 to wait a half a second before you start that transition.</p>
-<p><img src="./images/image320.png"
-style="width:4in;height:2.25684in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border displayed"
+  src="./images/image320.png"
+  alt="."
+  style="width:40%" />
+
 <p>The last step, the one that had to do with the pseudo-class, was
 adding the div:hover and giving the new values that I want everything to
 be. So instead of being black, I want to switch it to white. Instead of
