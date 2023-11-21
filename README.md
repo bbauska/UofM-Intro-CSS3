@@ -1176,7 +1176,7 @@ course. You&apos;re going to be messing up a lot in this course. But I
 can&apos;t wait for you to develop something that really reflects how you
 want your page to look. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-03">1.03. Colors</h2>
+<h2 id="week1-3">1.3. Colors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1547,10 +1547,10 @@ programming, and keep styling your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-04">1.04. Styling Your Text</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. 1.04 styling your text (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. 1.4 styling your text (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image062.webp" 
-  alt="1.04 Styling Your Text."
+  alt="1.4 Styling Your Text."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1906,7 +1906,7 @@ rules affect the text.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82. review (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image082.webp" 
-  alt="Review (1.04)."
+  alt="Review (1.4)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1961,10 +1961,10 @@ Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-05">1.05. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. code together (1.05) (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. code together (1.5) (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image083.webp" 
-  alt="1.05. Code Together."
+  alt="1.5. Code Together."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2168,13 +2168,13 @@ you&apos;re going to need to do for the homework in this section. Practice
 here, come back and watch me, if it helps you out a little bit getting
 over humps. But the important thing is, code, code, code, good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-6a">1.06a. Display and Visibility, Part 1</h2>
+<h2 id="week1-06a">1.06a. Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 93. 1.06a. display and visibility (part 1) (55) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 93. 1.6a. display and visibility (part 1) (55) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image093.webp"
   style="width:40%;"
-  alt="1.06a. Display and Visibility (part 1)." />
+  alt="Display and Visibility (part 1)." />
 </p>
 
 <p>Hi, today we&apos;re going to be talking about Display and Visibility on
@@ -2541,11 +2541,11 @@ figure out when you want them to actually do these kinds of actions.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-06b">1.06b. Display and Visibility, Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 94. 1.06b. display and visibility (part 2) (65) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 94. 1.6b. display and visibility (part 2) (65) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image094.webp"
   style="width:40%;"
-  alt="1.06b. Display and Visibility (part 2)." />
+  alt="Display and Visibility (part 2)." />
 </p>
 
 One of the things you may have noticed as you&apos;ve been going through
@@ -2759,10 +2759,10 @@ displaying none the browser acts as if it&apos;s not even there. You don&apos;t
 see anything. With visibility hidden, the browser is going to leave the
 space that that element would take up, it just doesn&apos;t show it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. review (1.06) (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. review (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image125.webp" 
-  alt="Review (1.06)."
+  alt="Review (1.6)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2834,12 +2834,12 @@ computers it matters and this would not work:
 
 &lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
-<h2 id="week1-07">1.07, cont'd: Homework One Description - Creating an External Style Sheet</h2>
+<h2 id="week1-07b">1.07b, cont'd: Homework One Description - Creating an External Style Sheet</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (73) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image128.webp" 
-  alt="Homework Description (1.07) - Creating an External Style Sheet."
+  alt="Homework Description (1.7) - Creating an External Style Sheet."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -3058,6 +3058,8 @@ exactly what you need to look at.
   alt="."
   style="border: 2px solid #000000;" 
   width="40%;" />
+![](./images/image140.webp){width="4.0in"
+height="2.2427351268591424in"}
 
 For your header, it&apos;s pretty straightforward. I want you to go in and I
 want you to add a background color.
@@ -3205,10 +3207,10 @@ name of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-01">2.01. Box Model</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.01) (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.1) (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image147.webp" 
-  alt="2.01. Box Model."
+  alt="2.1 Box Model."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -3279,6 +3281,7 @@ In this case, I&apos;ve said, for all my divs, I want them to have a solid
 one pixel border around them, and I can&apos;t tell you what color that is,
 because I&apos;m not quite that geeky yet, but I&apos;d guess something like
 blue.
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151. border-style (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3691,7 +3694,7 @@ would really want to put out on the web. Good job.</p>
 
 <h3>Coding Together</h3>
 
-In the next module (2.02) I am going to walk you through some code. I
+In the next module (2.2) I am going to walk you through some code. I
 hope you will take the time to play with this code or make your own
 version of the site. If you check the Resources tab you will find all of
 the code I use in this course. If you would like to find a direct link
@@ -3704,10 +3707,10 @@ Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-02">2.02. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. code together (2.02) (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. code together (2.2) (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image174.webp" 
-  alt="2.02 Code Together."
+  alt="2.2 Code Together."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -3989,10 +3992,10 @@ do this. So good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-03">2.03. Styling Links and Lists</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 196. styling links and lists (2.03) (106) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 196. styling links and lists (2.3) (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image196.webp" 
-  alt="2.03 Styling Links and Lists."
+  alt="2.3 Styling Links and Lists."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4385,10 +4388,10 @@ proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-04">2.04. Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.04) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.4) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image217.webp" 
-  alt="2.04 Advanced Selectors."
+  alt="2.4 Advanced Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4859,7 +4862,7 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 -   background-position
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-5">2.5. Browser Capabilities</h2>
+<h2 id="week2-05">2.05. Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5237,10 +5240,10 @@ still had all the different prefixes. This would automatically only add
 the ones you need. Again, these are kind of cool, but let&apos;s not worry
 about them right now. For now, let&apos;s focus on the basics.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. review (2.05) (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. review (2.5) (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image262.webp" 
-  alt="2.05 Review."
+  alt="2.5 Review."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5318,7 +5321,7 @@ browser
 
 <h4>Code Together</h4>
 
-In the next section (2.06) I am going to walk you through some code. I
+In the next section (2.6) I am going to walk you through some code. I
 hope you will take the time to play with this code or make your own
 version of the site. If you check the Resources tab you will find all of
 the code I use in this course. If you would like to find a direct link
@@ -5331,10 +5334,10 @@ Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-06">2.06. Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.06) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.6) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image265.webp" 
-  alt="2.06 Code Together."
+  alt="2.6 Code Together."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5624,7 +5627,7 @@ Here is a site you may find helpful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image282.webp" 
-  alt="2.07 Designing for Accessibility."
+  alt="2.7 Designing for Accessibility."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5635,10 +5638,10 @@ kind of cool, neat things, I sometimes feel the need to rein you back in
 and remind you of the basics of when you&apos;re designing your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. overview (2.07) (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. overview (2.7) (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image283.webp" 
-  alt="Overview (2.07) Designing for Accessibility."
+  alt="Overview (2.7) Designing for Accessibility."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5788,10 +5791,10 @@ onto validator.w3c.org and the wave.webaim.org to validate your code.
 It&apos;s simple, it&apos;s fast, and it&apos;s really going to give you a much
 better page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. review (2.07) (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. review (2.7) (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image289.webp" 
-  alt="Review (2.07) Designing for Accessibility."
+  alt="Review (2.7) Designing for Accessibility."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5837,7 +5840,7 @@ performance of your page, as well as enhance accessibility:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (two) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image293.webp" 
-  alt="2.08. Homework Description (two): Advanced Selectors."
+  alt="2.8. Homework Description (two): Advanced Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5959,7 +5962,6 @@ site. You can watch it in the next video, or link directly here:</i></b>
 </p>
 
 <h4>Homework Description</h4>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293.  (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5972,7 +5974,6 @@ site. You can watch it in the next video, or link directly here:</i></b>
 Hi, everybody. Welcome back, it&apos;s time for another homework example.
 What we&apos;re going to be doing this week is adding even more style to the
 pages that you started styling last week.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5986,7 +5987,6 @@ The objective of this assignment is that I don&apos;t want you to be
 changing the html at all. I want you to either create a new style sheet
 or update last week&apos;s style sheet so it can be used on three different
 html files.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. getting started (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6269,7 +6269,7 @@ of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image309.webp" 
-  alt="3.01 Pseudo Classes and Elements."
+  alt="3.1 Pseudo Classes and Elements."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6350,10 +6350,10 @@ different types of credit cards but have a little before that says, and
 hey, put a picture in here. You can also style just fragments of
 different selections.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. Review (3.01) (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. Review (3.1) (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image313.webp" 
-  alt="Review (3.01 Pseudo Classes and Elements)."
+  alt="Review (3.1 Pseudo Classes and Elements)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6373,7 +6373,7 @@ luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image314.webp" 
-  alt="Week3-2. Transitions."
+  alt="Week3-02. Transitions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6382,7 +6382,6 @@ Hi, everybody. In this lecture we&apos;re going to talk about transitions.
 You&apos;ve seen in different examples that we can change the state of
 elements. Links can go from regular link to visited. You can hover over
 things. You can focus them.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~ 315. transitions - when 1 element transition from 1 state to another (166) ~~~~~~~~~-->
 <p align="center">
@@ -6592,12 +6591,12 @@ always available, and just keep those transitions for something a little
 bit extra to add to your site. Good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-3">3.03. Transforms</h2>
+<h2 id="week3-03">3.03. Transforms</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. transforms (3.03) (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 326.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image326.webp" 
-  alt="3.03. Transforms."
+  alt="."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8298,13 +8297,14 @@ site. You can watch it in the next video, or link directly here:
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-06">04-06 Optional - Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 414. homework description (4.06) - final project (217) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 414. homework description (4.6) - final project (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image414.webp" 
-  alt="4.06 Homework Description - Final Project."
+  alt="4.6 Homework Description - Final Project."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
