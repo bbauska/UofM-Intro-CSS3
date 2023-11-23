@@ -7,9 +7,9 @@
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
-  text-align: left;
+  text-align: center;
   margin-left: 10px;
-  width: 60%;
+  width: 80%;
 }
 
 /* clearfix (clear floats) */
