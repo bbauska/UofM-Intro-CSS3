@@ -1,4 +1,4 @@
-/* styles.css of ibm-intermediate-web-dev/assets/css */
+/* styles.css of uofm-intro-css3/css */
 * {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
@@ -7,7 +7,7 @@
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
-  margin-left: 10px;
+  margin-left: 15px;
   width: 80%;
 }
 
@@ -92,7 +92,7 @@ pre {
   overflow: auto;
   font-family: Consolas, monospace, monospace;
   font-size: 10px;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 pre > code {
   display: block;
