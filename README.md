@@ -42,8 +42,7 @@ jump in ready to make mistakes and typos in this course. The only way
 you will really understand the material is to practice typing it in on
 your own as often as possible.
 
-1.  [**1.01 Course
-    Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0)
+1.  [**1.01 Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0)
 
 2.  **1.02 Cascading Style Sheets**
 
