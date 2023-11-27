@@ -806,21 +806,19 @@ one of those files so you can change the color to red or green.</p>
   alt="External Style Sheet, #1."
   style="width:40%" />
 
-<p>Instead, what you want to use is you want to use something called
-external style sheets. The way it works with an external style sheet is
-that you put your rules in a different file. You open up a file, you're
-going to save it something such as like my style with a .css file
-extension. Now the browser knows, oh everything in HTML, that's the
-content. Everything in .css, that's the layout. When you make your
-external style sheet, it looks just like we just did in the internal,
-except for you don't use a style tag. Then, once you've put your rules
-in a separate file, all you need to do is add a link into the head
-section. In this case, I've gone in, I've put my link, I need to let it
-know the relationship because of the style sheet. And you have to
-remember to put the file name. Once again this is where it's going to be
-really important that you're naming things in ways that they make since
-to you. You can link to as many different style sheets as you want, most
-of the time we start with one.</p>
+<p>Instead, what you want to use is you want to use something called external style 
+sheets. The way it works with an external style sheet is that you put your rules 
+in a different file. You open up a file, you're going to save it something such 
+as like my style with a .css file extension. Now the browser knows, oh everything 
+in HTML, that's the content. Everything in .css, that's the layout. When you make 
+your external style sheet, it looks just like we just did in the internal, except 
+for you don't use a style tag. Then, once you've put your rules in a separate file, 
+all you need to do is add a link into the head section. In this case, I've gone in, 
+I've put my link, I need to let it know the relationship because of the style sheet. 
+And you have to remember to put the file name. Once again this is where it's going 
+to be really important that you're naming things in ways that they make since to 
+you. You can link to as many different style sheets as you want, most of the time 
+we start with one.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. external style sheet, #2 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -828,12 +826,12 @@ of the time we start with one.</p>
   alt="External Style Sheet, #2."
   style="width:40%" />
 
-<p>Now that we've had that style sheet, every single file that links to
-it will all share that style sheet. Remember when I mentioned that you
-might have a site with 10, 20, 1,000 pages to it and you decide to
-change that color from blue to red or green or something like that? This
-is great. All you need to do is open up style.css, change one line of
-code, and you've now just changed potentially thousands of pages.</p>
+<p>Now that we've had that style sheet, every single file that links to it will 
+all share that style sheet. Remember when I mentioned that you might have a site 
+with 10, 20, 1,000 pages to it and you decide to change that color from blue to 
+red or green or something like that? This is great. All you need to do is open 
+up style.css, change one line of code, and you've now just changed potentially 
+thousands of pages.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 22. the 'cascading' part of css, again (20) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -841,27 +839,23 @@ code, and you've now just changed potentially thousands of pages.</p>
   alt="The 'Cascading' part of CSS, again."
   style="width:40%" />
 
-<p>Let's talk for a second about this idea of cascading style sheets.
-What does it mean that we're cascading? Well, when the browser goes to
-make your page, the first thing it's going to look at is go, all right,
-maybe they're not telling me anything. How do I normally make h1
-headings? How big do I make that font? Have its own kind of default
-values. But then it goes and it looks and it says, oh are there any
-external style sheets. Because if so, I'm going to overwrite my browser
-defaults and put in the rules that are in this external style sheet
-instead.</p>
-<p>Next, it's going to check for internal style. That style you have in
-the head section. Because in general, the browser thinks, maybe there's
-something really special about this particular page, and here she wants
-me to do these rules instead.</p>
-<p>Finally, any of those inline styles where you use the attribute tag,
-those are going to have the highest precedence of all. It can be really
-confusing, because you might start writing up different rules, and you
-can't figure out why some are working and some aren't. This is where the
-cascading part comes in again. First it looks at defaults, then
-external, then internal, and then inline. Which is why really you want
-to avoid using any inline style because it pretty much nullifies all
-your styling rules.</p>
+<p>Let's talk for a second about this idea of cascading style sheets. What does 
+it mean that we're cascading? Well, when the browser goes to make your page, the 
+first thing it's going to look at is go, all right, maybe they're not telling me 
+anything. How do I normally make h1 headings? How big do I make that font? Have 
+its own kind of default values. But then it goes and it looks and it says, oh are 
+there any external style sheets. Because if so, I'm going to overwrite my browser
+defaults and put in the rules that are in this external style sheet instead.</p>
+<p>Next, it's going to check for internal style. That style you have in the head 
+section. Because in general, the browser thinks, maybe there's something really 
+special about this particular page, and here she wants me to do these rules instead.</p>
+<p>Finally, any of those inline styles where you use the attribute tag, those are 
+going to have the highest precedence of all. It can be really confusing, because 
+you might start writing up different rules, and you can't figure out why some are 
+working and some aren't. This is where the cascading part comes in again. First 
+it looks at defaults, then external, then internal, and then inline. Which is why 
+really you want to avoid using any inline style because it pretty much nullifies 
+all your styling rules.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. rule precedence, #1 (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -869,24 +863,21 @@ your styling rules.</p>
   alt="Rule Precedence, #1."
   style="width:40%" />
 
-<p>Alright, so we know how those four go, but what if you have a
-selector and, you've linked to two or three different style sheets, and
-that same H1 has been defined to be blue, green, and yellow, but in
-different files. How does the browser know what to do?</p>
-<p>Well, how it works is that the rules from the most recent file have
-precedence. And what I mean by the most recent file, it means it goes up
-into the head section and it goes one, two, three, and it kind of looks
-at what order you listed them, and the last one you listed is the one
-that's going to have precedence.</p>
-<p>Okay? Well, what if you have a selector in the same file, and you've
-written H1 multiple times. This can actually happen quite a bit.
-Especially if you decide to go off and be part of a big development
-company, you write some code, and then someone else writes some code,
-or, as I tell my undergrads, maybe you went out and had a really good
-time one night, and you came home and decided, I'm going to code! And
-you forget that you've already written some rules. Well, if that's the
-case, once again, the browser's going to look at the one it saw
-last.</p>
+<p>Alright, so we know how those four go, but what if you have a selector and, 
+you've linked to two or three different style sheets, and that same H1 has been 
+defined to be blue, green, and yellow, but in different files. How does the browser 
+know what to do?</p>
+<p>Well, how it works is that the rules from the most recent file have precedence. 
+And what I mean by the most recent file, it means it goes up into the head section 
+and it goes one, two, three, and it kind of looks at what order you listed them, 
+and the last one you listed is the one that's going to have precedence.</p>
+<p>Okay? Well, what if you have a selector in the same file, and you've written 
+H1 multiple times. This can actually happen quite a bit. Especially if you decide 
+to go off and be part of a big development company, you write some code, and then 
+someone else writes some code, or, as I tell my undergrads, maybe you went out 
+and had a really good time one night, and you came home and decided, I'm going 
+to code! And you forget that you've already written some rules. Well, if that's 
+the case, once again, the browser's going to look at the one it saw last.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. rule precedence, #2 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -3519,13 +3510,12 @@ also be have them next to them.</p>
   style="width:40%" />
 </p>
 
-<p>Let's go in and adjust the footer code. Down here. All right, if you
-remember if you don't want things to float next to you, we're going to
-use clear: both, which means don't let anything float on either side of
-me. Oh, much better, right? It looks much, much better. And other than
-the fact that I've got weird colors, we're very close to right here. I
-actually like the gray on the header and the footer so I'm going to
-leave it.</p>
+<p>Let's go in and adjust the footer code. Down here. All right, if you remember 
+if you don't want things to float next to you, we're going to use clear: both, 
+which means don't let anything float on either side of me. Oh, much better, right? 
+It looks much, much better. And other than the fact that I've got weird colors, 
+we're very close to right here. I actually like the gray on the header and the 
+footer so I'm going to leave it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191/192. set image 75px (103) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -3720,10 +3710,10 @@ sheets. One, if you're going to use
 It's just this hierarchy that's going on while you're coating your
 pages.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. style 3 links (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image203.webp" 
-  alt="." 
+  alt="Style 3 links." 
   style="width:40%" />
 
 <p>Let's look at an example now of some code and how I'm styling my
@@ -3732,10 +3722,10 @@ I haven't styled in any way. I've got a link to introduction to web
 design, a link to the University of Michigan, and a link to Kent State
 University, which is where I did my undergrad.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. more style 3 links (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image204.webp" 
-  alt="." 
+  alt="More style 3 links." 
   style="width:40%" />
 
 <p>But what happens when I add some CSS to it? Up here on the top I have
@@ -3746,10 +3736,10 @@ each other with a little bit of space in between them. All right, so
 let's take a look at what that looks like and you can see I have each
 links looks really much different, okay.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205. hover, color change (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image205.webp" 
-  alt="." 
+  alt="Hover, color change." 
   style="width:40%" />
 
 <p>And you can see when I see my pen, when I hover over each one of
@@ -3763,10 +3753,10 @@ page. As you tab, you can see Introduction to Web Design goes into
 focus, and then the University of Michigan, and then Kent State, and I'm
 doing that by tabbing through the page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. active rule (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image206.webp" 
-  alt="." 
+  alt="Active rule."
   style="width:40%" />
 
 <p>The last rule, the active rule, is something that I'm going to show
@@ -3784,10 +3774,10 @@ links and that people know that they're there. Once you're done playing
 around with links, let's go ahead and start thinking about styling list
 items.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. styling lists (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. styling lists (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image207.webp" 
-  alt="." 
+  alt="Styling Lists."
   style="width:40%" />
 
 <p>When you style lists, the default properties they all look the same.
@@ -3799,21 +3789,21 @@ list-style-image. The list style position, and just the list style
 itself. The list style type basically says how do you want me to
 indicate the different list items?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. list-style-type, #1 (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. list-style-type, #1 (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>
 <img class="border displayed"
   src="./images/image208.webp" 
-  alt="." 
+  alt="list-style-type, #1." 
   style="width:40%" />
 
 <p>By default, for ordered lists again, we have the one, two, three, but
 you can give different values.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. list-style-type, #2 (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. list-style-type, #2 (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>
 <img class="border displayed"
   src="./images/image209.webp" 
-  alt="." 
+  alt="list-style-type, #2."
   style="width:40%" />
 
 <p>You can say I want it to be lower roman numeral, upper roman numeral,
@@ -3825,10 +3815,10 @@ have, and it depends on your browser, is the little circle or the little
 disk. We can change that, and we can put in exactly what you want to
 make sure it's going to be.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. list styles (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. list styles, #1 (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image210.webp" 
-  alt="." 
+  alt="List styles, #1." 
   style="width:40%" />
 
 <p>Another option that you can play with is this idea of getting rid of
@@ -3838,10 +3828,10 @@ back to this idea of the list-style position. Many times, you're going
 to move your position over, depending on which list-style you're
 using.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211. list styles, #2 (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image211.webp" 
-  alt="." 
+  alt="List styles, #2." 
   style="width:40%" />
 
 <p>Up here I've got an example of where I'm saying I want my list style
@@ -3849,10 +3839,10 @@ image. I've got square first, this says, hey, if you can't find the
 picture go ahead and use square, otherwise I want you to use this
 picture.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212. list.html example (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image212.webp" 
-  alt="." 
+  alt="list.html example."
   style="width:40%" />
 
 <p>Let's look at another example. In the file list.html, what I put in
@@ -3866,33 +3856,32 @@ lists are using the default numbers. Let's play with this now.</p>
 in there said, what I want to do with my list styles is I want to switch
 it to upper-roman and numeral and also use a square instead.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213/214.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213/214. before and after (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>
 <img class="border displayed"
   src="./images/image213.webp" 
-  alt="." 
+  alt="Before."
   style="width:40%" />
 <img class="border displayed"
   src="./images/image214.webp" 
-  alt="." 
+  alt="After."
   style="width:40%" />
 </p>
 
-<p>This is what it looked like before (left), and this is what we look
-like afterwards (right). You can see, there's just a little bit more
-something to it. And, this is a very simple way to change your page up
-from how other people typically do their page.</p>
-<p>One other option I just wanted to show you, because everyone really
-likes this, is that idea of using the list style image. I'm going to go
-down here and uncomment this code out. And if you remember, if you've
-been paying attention to this idea that when you have precedence this
-new rule down here is going to overwrite all the rules above it. Let's
-make sure I've saved my page, and reload.</p>
+<p>This is what it looked like before (left), and this is what we look like afterwards 
+(right). You can see, there's just a little bit more something to it. And, this 
+is a very simple way to change your page up from how other people typically do 
+their page.</p>
+<p>One other option I just wanted to show you, because everyone really likes this, 
+is that idea of using the list style image. I'm going to go down here and uncomment 
+this code out. And if you remember, if you've been paying attention to this idea 
+that when you have precedence this new rule down here is going to overwrite all 
+the rules above it. Let's make sure I've saved my page, and reload.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. add lightening bolts (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image215.webp" 
-  alt="." 
+  alt="Add lightening bolts."
   style="width:40%" />
 
 <p>And now in this case what's happened is that we've removed those
@@ -3903,10 +3892,10 @@ everything written exactly the same way. Typos are really the killer.
 It's not a matter of it being difficult, it's a matter about you just
 being very careful when you're doing these things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 216. review (2.03. styling links and lists) (115) ~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image216.webp" 
-  alt="." 
+  alt="2.03. Review: Styling links and lists." 
   style="width:40%" />
 
 <p>Okay, so let's go ahead and review what we've been talking about so
@@ -3937,10 +3926,10 @@ stick in there. Thanks.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-04">2.04. Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.04.) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image217.webp" 
-  alt="." 
+  alt="2.04. Advanced Selectors."
   style="width:40%" />
 
 <p>Hi, today we're going to be talking about advanced selectors. Up
@@ -3951,10 +3940,10 @@ of that type. But what if you don't want to style all of the links, just
 some of them? Or you don't want to style all of your lists, you just
 want to style some of them?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. css selectors (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image218.webp" 
-  alt="." 
+  alt="CSS Selectors." 
   style="width:40%" />
 
 <p>Well, now we're going to talk about these types of advanced selectors
@@ -3984,10 +3973,10 @@ section that has an h1 and then an ordered list, they would be siblings.
 If you had an h1 and then some other things and that ordered list was
 inside a paragraph, it wouldn't work that way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. id selectors, #1 (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image219.webp" 
-  alt="." 
+  alt="id Selectors, #1." 
   style="width:40%" />
 
 <p>Next, we're going to talk about what we call id selectors. ids are
@@ -4002,10 +3991,10 @@ point in using that because a lot of people just really use this id for
 JavaScript and things like that. But again, this is something you're
 going to be seeing a lot, so I want to introduce you to it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220. id selectors, #2 (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image220.webp" 
-  alt="." 
+  alt="id Selectors, #2."
   style="width:40%" />
 
 <p>Let's see an example really quickly here just on the screen of how it
@@ -4015,10 +4004,10 @@ along with the id name, the browser's going to know, oh, whenever I see
 one of those images, I want to make sure I add this border and this
 margin.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. class selector, #1 (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image221.webp" 
-  alt="." 
+  alt="Class Selectors, #1." 
   style="width:40%" />
 
 <p>Class selectors are similar to ids, but the difference is, that
@@ -4029,10 +4018,10 @@ group of things all in the same way, but I don't want to necessarily
 style all of them that way. You don't want all of your images to be
 thumbnails, but you want a lot of them to be.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. class selector, #2 (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image222.webp" 
-  alt="." 
+  alt="Class Selectors, #2."
   style="width:40%" />
 
 <p>You would write this code in a very similar manner. Over here in my
@@ -4043,10 +4032,10 @@ way, the page is going to go through and know that in addition to any
 styling you just put on images, you also want this styling for the
 thumbnails.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. classes vs ids (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image223.webp" 
-  alt="." 
+  alt="Classes vs ids."
   style="width:40%" />
 
 <p>Just to try to help you make it a little bit clearer, what's the
@@ -4070,20 +4059,20 @@ slightly differently. And that makes sense because you can only be at
 one page at a time, and that's why you might choose to use the id. Let's
 go through a quick example using that navigation bar.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. sample html with 4 links (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image224.webp" 
-  alt="." 
+  alt="Sample HTML with 4 links." 
   style="width:40%" />
 
 <p>Here's a sample HTML file, where all I've done is put in four links
 that don't even really go anywhere. I've commented out the style sheet
 just so you can see what it would look like without any styling.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 225. home, interests, resume and hobbies (120) ~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image225.webp" 
-  alt="." 
+  alt="Home, Interests, Resume, Hobbies." 
   style="width:40%" />
 
 <p>You can see, I've got my Home, Interests, Resume, Hobbies, and I have
@@ -4097,14 +4086,14 @@ anything that's class current, I want to make even different than any
 other link or anything else we've seen that way. Let's uncomment the
 style sheet. Save it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226/227.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 226/227. before/after nav links styled (120) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image226.webp"
-  alt="."
+  alt="Before nav link styled."
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;" />
 <img class="border displayed"
   src="./images/image227.webp"
-  alt="."
+  alt="After nav link styled."
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;" />
 <p style="clear: both;"></p>
 
@@ -4116,10 +4105,10 @@ really simple to use these things, you just need to know about them.</p>
 scope of some of the rules. We only want to apply them to certain
 things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. narrowing the scope (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image228.webp" 
-  alt="." 
+  alt="Narrowing the scope."
   style="width:40%" />
 
 <p>And one of the notations you can use for that is the dot. In your
@@ -4133,10 +4122,10 @@ can also, what we call, expand the scope. Let's say that there's some
 sort of styling you want to apply to both the header and the footer, or
 to the sections and the articles. Not a problem.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. expanding the scope (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image229.webp" 
-  alt="." 
+  alt="Expanding the scope." 
   style="width:40%" />
 
 <p>What you do is you write the element, and you include a comma right
