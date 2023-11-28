@@ -4740,10 +4740,10 @@ ones that end in .org? Make them one color. All the ones that are .edu,
 another color, and all the ones that end in .gov, a third color. Let&apos;s
 see what it looks like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. a[href] org, edu & gov (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image236.webp" 
-  alt="."
+  alt="Set background color depending upon extension of web site (org, edu or gov)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4756,10 +4756,10 @@ You&apos;re going to be using classes, you&apos;re going to be using ids,
 you&apos;re going to be using attributes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. whews!!! (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image237.webp" 
-  alt="."
+  alt="Whew!!!"
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4772,10 +4772,10 @@ is the order that you write your rules in your style sheet. Browsers are
 always going to start to the top, and apply each rule.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. the good news (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image238.webp" 
-  alt="."
+  alt="The Good News."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4789,10 +4789,10 @@ sheets and make it your very own. Just make sure that you link your
 style sheet last.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 239. review (2.04. advanced selectors) (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image239.webp" 
-  alt="."
+  alt="2.04. Review Advanced Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4864,10 +4864,10 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 <h2 id="week2-05">2.05. Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05.) (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.webp" 
-  alt="."
+  alt="2.05. Browser Capabilities."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4877,10 +4877,10 @@ what you can do to make sure that your sites have a consistent
 appearance, regardless of how people are accessing it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. browsers differ (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image241.webp" 
-  alt="."
+  alt="Browsers Differ."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4896,10 +4896,10 @@ accessibility, and different ways to access the web, it even comes down
 to the most basic browser implementations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 242. handling stylistic differences (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image242.webp" 
-  alt="."
+  alt="Handling Stylistic Differences."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4922,10 +4922,10 @@ design your page, and it&apos;s going to be really hard for you to remember
 if you&apos;ve actually checked off each element that you&apos;re using.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 243. handling unsupported properties (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image243.webp" 
-  alt="."
+  alt="Handling Unsupported Properties."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4950,10 +4950,10 @@ it. But I&apos;m here to tell you, it&apos;s actually very, very easy to use
 these prefixes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. browser prefixes (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image244.webp" 
-  alt="."
+  alt="Browser Prefixes."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4966,10 +4966,10 @@ Opera. Each one of these prefixes say, hey, if you&apos;re on this
 particular browser, this is what I need you to do to get the look that
 the designer is going for.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 245. often unsupported properties (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image245.webp" 
-  alt="."
+  alt="Often Unsupported Properties."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5286,10 +5286,10 @@ certain that it is supported by most of the browsers now. I even went to
 [caniuse.com](http://caniuse.com/) to check it out.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. caniuse (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. caniuse, #1 (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image263.webp" 
-  alt="."
+  alt="Caniuse, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5298,10 +5298,10 @@ But when I checked on column-count it showed that the prefixes are still
 needed.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. caniuse, #2 (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. caniuse, #2 (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image264.webp" 
-  alt="."
+  alt="Caniuse, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5350,10 +5350,10 @@ put down whatever else you&apos;re doing, whip up your laptop or whatever
 you&apos;re coding on, and code with me rather than just watching what I&apos;m
 doing.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266.  (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266. before/after web changes (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image266.webp" 
-  alt="."
+  alt="Before/After web changes."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5367,10 +5367,10 @@ sections we&apos;re going to have some sections take up half the page, some
 take up the full page, little things like this. And we&apos;re going to be
 utilizing these new selectors that we&apos;ve been studying. Let&apos;s begin.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267.  (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. header/footer (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image267.webp" 
-  alt="."
+  alt="Linear gradient in header/footer."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5390,10 +5390,10 @@ put header, footer and that means it&apos;s supposed to apply to both of
 these elements. But it only applied to the header. We need to think
 about why that happened.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268.  (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268. clear: both (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image268.webp" 
-  alt="."
+  alt="footer, background and clear: both."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5402,10 +5402,10 @@ The reason is if we scroll down, you can see that further down in the
 page I have said, I want my footer background to be this particular
 color. This overwrites any earlier rules, so I&apos;m going to go in here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269.  (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269. style 2 elements at once (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image269.webp" 
-  alt="."
+  alt="Style two elements at once."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5419,10 +5419,10 @@ work on your browser, but there&apos;s a really good chance it won&apos;t work
 on the other browser. We want to practice this. All right, let&apos;s take a
 look and see what we&apos;ve got. I&apos;ve got the gradient in.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270.  (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270. styling links (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image270.webp" 
-  alt="."
+  alt="Styling the links."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5432,14 +5432,14 @@ not styling all the links in the page, because if you notice, this one
 down here still looks exactly the same. I only want to style the links
 that are inside the navigation section.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 271/272.  (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 271/272. style the nav, and nav a (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image271.webp"
   style="width:40%;"
-  alt="." />
+  alt="Style the nav and nav a code." />
 <img src="./images/image272.webp"
   style="width:40%;"
-  alt="." />
+  alt="Web changes after nav code changes." />
 </p>
 
 I&apos;m going to go right here and, I&apos;ve styled my nav. It looks good.
@@ -5457,14 +5457,14 @@ better luck. Almost too much luck, because the screen doesn&apos;t quite fit
 that. All right? All right. So great, that&apos;s one step closer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273/274.  (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 273/274. update background-color (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image273.webp"
   style="width:40%;"
-  alt="." />
+  alt="Code to be changed." />
 <img src="./images/image274.webp"
   style="width:40%;"
-  alt="." />
+  alt="Background after code changes." />
 </p>
 
 Let&apos;s add that different background color. And I think I made it white.
@@ -5472,14 +5472,14 @@ But you can use anything you want. Boom. We&apos;re definitely getting
 closer. Little tiny steps are getting us much, much closer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275/276.  (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275/276. new style class 45% (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image275.webp"
   style="width:40%;"
-  alt="." />
+  alt="Set 1/2 screen giving 45% width." />
 <img src="./images/image276.webp"
   style="width:40%;"
-  alt="." />
+  alt="After changes show screen." />
 </p>
 
 The next thing I want to tackle as we try to change our page is this
@@ -5496,16 +5496,15 @@ sections, not all of them. If I refresh, it&apos;s not going to work yet
 because the problem is I got rid of my section styling and replaced it
 with this class and nowhere in my HTML did I remember to reference the
 class.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277/278.  (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 277/278. set class="half" screen (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image277.webp"
   style="width:40%;"
-  alt="." />
+  alt="Code on left set class='half'." />
 <img src="./images/image278.webp"
   style="width:40%;"
-  alt="." />
+  alt="Screen after code changes." />
 </p>
 
 For the first time we&apos;re now going to go into our HTML file and start
@@ -5523,14 +5522,14 @@ to be floating, we need to go in and say hey, there&apos;s certain sections
 we want to be whole.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279/280.  (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 279/280. 1/5 and 67/100 in section (144) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image279.webp"
   style="width:40%;"
-  alt="." />
+  alt="Progress in the Specialization 1/5." />
 <img src="./images/image280.webp"
   style="width:40%;"
-  alt="." />
+  alt="Progress in life goals 67/100." />
 </p>
 
 Let&apos;s go back to our style sheet. And I&apos;m going to just do a little
@@ -5623,10 +5622,10 @@ Here is a site you may find helpful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-07">2.07. Designing for Accessibility</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (2.07.) (146) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image282.webp" 
-  alt="2.7 Designing for Accessibility."
+  alt="2.07. Designing for Accessibility."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
