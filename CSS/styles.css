@@ -20,7 +20,7 @@ body {
 img {
   display: block;
   margin: 0 auto;
-  width: 400px;
+  width: 80%;  /* 400px */
 }
   .displayed {
     display: block;
@@ -28,6 +28,10 @@ img {
   }
   .border {
     border: 2px solid #778899;  /* dark grayish blue */
+  }
+  .wrapper {
+    margin: 0 auto;
+    text-align: center;
   }
 
 blockquote {
@@ -139,11 +143,6 @@ h1 {
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
-
-.wrapper {
-  margin: 0 auto;
-  text-align: center;
-}
 
 p {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
