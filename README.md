@@ -1175,7 +1175,7 @@ course. You&apos;re going to be messing up a lot in this course. But I
 can&apos;t wait for you to develop something that really reflects how you
 want your page to look. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-3">1.3. Colors</h2>
+<h2 id="week1-03">1.03. Colors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6017,10 +6017,10 @@ much cleaner because we added some background color, some color fonts,
 and we got rid of those images.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298.  (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 298. add background-images, highlight selected menu option (157) ~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image298.webp" 
-  alt="."
+  alt="Add background-images, highlight selected menu option."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6034,10 +6034,10 @@ necessarily easy to see when you&apos;re just looking at paper, I&apos;ve added
 a new class that highlights which page we&apos;re on right now. If you look,
 the home link is highlighted because we&apos;re on the home page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 299. history link (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 299. history link - background and sources (157) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image299.webp" 
-  alt="."
+  alt="History link - background and sources."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6049,7 +6049,7 @@ styling this to let your viewers know where they are on this page. I&apos;m
 going to go through and talk about each of the tags I want you to look
 at in order to complete this assignment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 300. you must leave the html alone (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 300. you must leave the html alone (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image300.webp" 
   alt="You must leave the HTML alone."
@@ -6111,7 +6111,7 @@ little bit more. Now here again is something that&apos;s new that you
 didn&apos;t learn before. I want you to style the links that are in the
 navigation section but only those links. Not all the links in the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 304. navigation links: style only nav (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 304. navigation links: style only nav (160) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image304.webp" 
   alt="Navigation links: style only nav."
@@ -6123,7 +6123,7 @@ You don&apos;t need to recreate my example exactly, but I do want your links
 to be nicely spaced apart, they should have some background color,
 rounded borders and no underline. Make them look nice.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. create active class (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. create active class (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image305.webp" 
   alt="Create an active class."
@@ -6151,7 +6151,7 @@ change them so that they&apos;re side by side, and change that background
 color for the left class. You may have already done that in the previous
 homework, but if you didn&apos;t make sure it gets done now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. images (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. images (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image307.webp" 
   alt="Images."
@@ -6262,10 +6262,10 @@ of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-01">3.01. Pseudo Classes and Elements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (3.01.) (163) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image309.webp" 
-  alt="3.1 Pseudo Classes and Elements."
+  alt="3.01 Pseudo Classes and Elements."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6275,7 +6275,7 @@ pseudo classes and elements. We&apos;ve been working with different types of
 elements throughout this entire course, and how we can structure them
 and style them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. types of pseudo-classes (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. types of pseudo-classes (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image310.webp" 
   alt="Types of Pseudo-Classes."
@@ -6312,7 +6312,7 @@ Border:1 px. Now, even though there&apos;s no place on the DOM where they have
 p:hover, it should work for you when you put that styling rule in.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 311. pseudo-classes position example (164) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 311. pseudo-classes position example (165) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image311.webp" 
   alt="Pseudo-Classes position example."
@@ -6329,7 +6329,7 @@ element, the colon, and then the name of the pseudo-class that you want
 to style. Pseudo elements aren&apos;t necessarily part of the DOM, but they
 can be used to style specific or unique parts of the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. types of pseudo-elements (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. types of pseudo-elements (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image312.webp" 
   alt="Types of Pseudo-Elements; fancy first letter of paragraph."
@@ -6346,10 +6346,10 @@ different types of credit cards but have a little before that says, and
 hey, put a picture in here. You can also style just fragments of
 different selections.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. Review (3.1) (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. review (3.01) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image313.webp" 
-  alt="Review (3.1 Pseudo Classes and Elements)."
+  alt="Review (3.01. Pseudo Classes and Elements)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6366,10 +6366,10 @@ luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-02">3.02. Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (3.02) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image314.webp" 
-  alt="Week3-02. Transitions."
+  alt="3-02. Transitions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6451,7 +6451,7 @@ you do want to change.</p>
 to combine this step with a pseudo-class. It needs to be along with a hover or a 
 focus or an active.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. steps code (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. steps code (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image318.webp" 
   alt="Steps code."
@@ -6565,10 +6565,10 @@ it doesn&apos;t look like my first example. They&apos;ve probably been using the
 shortcuts.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 325.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 325. review: transitions (3.02.) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image325.webp" 
-  alt="."
+  alt="3.02. Review: Transitions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6589,10 +6589,10 @@ bit extra to add to your site. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-03">3.03. Transforms</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 326.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. transforms (3.03) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image326.webp" 
-  alt="."
+  alt="3.03. Transforms."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6604,10 +6604,10 @@ can change things in both the two dimensional manner and a three
 dimensional manner as people are looking at your site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 327.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. 2d transform options (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image327.webp" 
-  alt="."
+  alt="2d Transform Options."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6625,10 +6625,10 @@ down and if it&apos;s negative you move up. Let&apos;s look at an actual example
 to make it a little bit clearer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 328.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 328. translate (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image328.webp" 
-  alt="."
+  alt="Translate."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6637,10 +6637,10 @@ Here, I&apos;ve got this nice blue element. And what I&apos;m about to say is
 that I want to translate it, 100 and 75. So you&apos;re going to expect to
 see it move off to the right and down a little bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 329.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 329. translate example (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image329.webp" 
-  alt="."
+  alt="Translate example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6652,10 +6652,10 @@ something, you are rotating, or I kind of like to think of it as
 spinning the element, a certain number of degrees. You don&apos;t see the
 spin. You just see the result or what it would look like at the end.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 330.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330. rotate #1 (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image330.webp" 
-  alt="."
+  alt="Rotate, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6663,10 +6663,10 @@ spin. You just see the result or what it would look like at the end.
 Here I have another element and I&apos;m going to tell it to rotate by 30
 degrees.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 331.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. rotate #2 (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image331.webp" 
-  alt="."
+  alt="Rotate, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6677,7 +6677,7 @@ work. In fact, most of them won&apos;t. Make sure you give it the degrees
 you want it to turn, some sort of number, 30, 90, 80, and then use
 degree.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 332.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. scale (175) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image332.webp" 
   alt="."
@@ -6692,10 +6692,10 @@ element. Here I have a smaller block, and I&apos;ve decided I&apos;d like to
 make it two times as wide and three times as high. Here&apos;s a new element
 after the transform scale.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333. skew (175) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image333.webp" 
-  alt="."
+  alt="Skew."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6708,10 +6708,10 @@ element a certain number of degrees around the x angle and a certain
 number of degrees around the y angle. Here I&apos;m going to show you a
 skew, 30 degrees by 15 degrees.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 334.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 334. skew #2 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image334.webp" 
-  alt="."
+  alt="Skew #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6721,10 +6721,10 @@ angle. And it&apos;s very hard to show you this when I&apos;m staring at the
 screen, so I&apos;m hoping you&apos;ll type that in and kind of play with it a
 little bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 335.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 335. matrix (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image335.webp" 
-  alt="."
+  alt="Matrix."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6736,10 +6736,10 @@ one&apos;s scale, which one&apos;s rotate, which one&apos;s skew. Unless you fee
 really confident with your CSS3, I would avoid using matrix and go ahead
 and use each of the other individual transforms one at a time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 336.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 336. 3d rotate (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image336.webp" 
-  alt="."
+  alt="3d Rotate."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6759,10 +6759,10 @@ really do some really interesting things with how you want your elements
 to look. When it comes time to use transforms, there&apos;s a few things to
 think about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 337.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 337. review: transforms (3.03) (177) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image337.webp" 
-  alt="."
+  alt="Review: Transforms (3.03)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6803,12 +6803,12 @@ more confident about what we just learned with transforms. Good luck.
     animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-04">3.04. Transitions</h2>
+<h2 id="week3-04">3.04. Code Together - Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 338.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 338. 3.04. code together - transitions (178) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image338.webp" 
-  alt="."
+  alt="3.04. Code Together - Transitions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7332,7 +7332,7 @@ is a lightning bolt.
   width="5%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-01">04-01 Styling Tables</h2>
+<h2 id="week4-01">4-01 Styling Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In today&apos;s code review, we&apos;re going to talk about making a calendar.
@@ -7502,7 +7502,7 @@ all go together to create a page that can look so much better than just
 plain HTML by itself. So, I&apos;m hoping you&apos;ll use this code and create
 something great for yourself. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-02">04-02 Creating Navigation Menus</h2>
+<h2 id="week4-02">4-02 Creating Navigation Menus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7617,7 +7617,7 @@ we&apos;ve already talked about, display, line height, background URLs, we
 were able to make something that I think looks really cool for a simple,
 vertical navigation bar. Go ahead and try it. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-03">04-03 Accessible Navigation Menu</h2>
+<h2 id="week4-03">4-03 Accessible Navigation Menu</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7911,7 +7911,7 @@ disagrees.
 <https://yoast.com/headings-use/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-04">04-04 Creating Navigation Menus 2</h2>
+<h2 id="week4-04">4-04 Creating Navigation Menus 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 396. creating navigation menus 2 (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8006,7 +8006,7 @@ page that you are trying to create. So go ahead, have some fun, and now
 try to make a navigation bar that goes in all different ways, up and
 down, sideways, or even combinations. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-05">04-05 Creating Navigation Menus #3</h2>
+<h2 id="week4-05">4-05 Creating Navigation Menus #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 401. creating navigation menus #3 (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8293,7 +8293,7 @@ site. You can watch it in the next video, or link directly here:
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-06">04-06 Optional - Homework Description</h2>
+<h2 id="week4-06">4-06 Optional - Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 414. homework description (4.6) - final project (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8551,7 +8551,7 @@ the discussion boards and ask people anything that you&apos;re not quite sure on
 Or just share something cool that you got to work. Good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-07">04-07 Conclusion</h2>
+<h2 id="week4-07">4-07 Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
