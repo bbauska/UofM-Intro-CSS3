@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "12/04/2023 8+pm"
+date last editted: "12/05/2023 2+pm"
 output: 
   markdown:
     with_style
@@ -2905,10 +2905,10 @@ a copy of your code so you don&apos;t lose it!!
 
 <h3>Before</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 129.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129. before menu (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image129.webp" 
-  alt="."
+  alt="Before Menu."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2916,10 +2916,10 @@ a copy of your code so you don&apos;t lose it!!
 <h3>After</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 130.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. after menu (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image130.webp" 
-  alt="."
+  alt="After Menu."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2935,10 +2935,10 @@ that&apos;s what this homework is for. A chance for you to finally go
 through and put down some of this code and see what goes on when you try
 to apply styling to your HTML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 131.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. objective (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image131.webp" 
-  alt="."
+  alt="Objective."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -2946,14 +2946,14 @@ The objective for this homework assignment is for you to show me that
 you can write one CSS file that can go and style three different HTML
 files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 132/133.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 132/133. before/after html and jpg photos (76) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image132.webp"
   style="width:40%;"
-  alt="display: inline-block." />
+  alt="Before: html and jpg photos." />
 <img src="./images/image133.webp"
   style="width:40%;"
-  alt="display: inline-block." />
+  alt="After: html and jpg photos." />
 </p>
 
 Here are shortcuts to some examples of our before and after for this
@@ -2964,10 +2964,10 @@ assignment.
 <http://www.intro-webdesign.com/CSS/assignment-1/index.html>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 134.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. ultimate frisbee (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image134.webp" 
-  alt="."
+  alt="Ultimate Frisbee."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -2978,10 +2978,10 @@ assignment.
 <http://www.intro-webdesign.com/CSS/assignment-1/teams.html>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 135.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. ultimate frisbee teams (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image135.webp" 
-  alt="."
+  alt="Ultimate Frisbee Teams."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -2992,10 +2992,10 @@ assignment.
 <http://www.intro-webdesign.com/CSS/assignment-1/history.html>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 136.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136. ultimate frisbee history (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image136.webp" 
-  alt="."
+  alt="Ultimate Frisbee History."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3006,10 +3006,10 @@ clearer when I show you the homework in action. Let&apos;s take a look at
 it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 137.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. picture in ultimte frisbee (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image137.webp" 
-  alt="."
+  alt="Picture in Ultimate Frisbee."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3020,10 +3020,10 @@ All three pages that you&apos;ll look at, home, teams, and history have
 different content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 138.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 138. ultimate frisbee: before menu changes (79) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image138.webp" 
-  alt="."
+  alt="Ultimate Frisbee: before menu changes."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3036,10 +3036,10 @@ easier to read. Let&apos;s go ahead and step through the different things
 that you&apos;ll need to change in order to achieve this separate look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 139.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 139. you must leave the html alone (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image139.webp" 
-  alt="."
+  alt="You Must Leave the HTML Alone."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3051,10 +3051,10 @@ the section, the links and the images. Let me go through and show you
 exactly what you need to look at.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 140.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. header (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image140.webp" 
-  alt="."
+  alt="Header: Add Background Color."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3062,10 +3062,10 @@ For your header, it&apos;s pretty straightforward. I want you to go in and I
 want you to add a background color.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 141.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. h1 and h2 (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image141.webp" 
-  alt="."
+  alt="h1 and h2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3081,10 +3081,10 @@ The next thing I want you to do is just for the h1 heading I want you to
 center the text.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 142.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. section (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image142.webp" 
-  alt="."
+  alt="section."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3093,10 +3093,10 @@ to style the different section so it has a different background color
 from the other elements in your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 143.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. links (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image143.webp" 
-  alt="."
+  alt="links."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3109,10 +3109,10 @@ to the way that you&apos;re going to the center the texts for the h1
 headings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 144.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. images (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image144.webp" 
-  alt="."
+  alt="Images."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3125,22 +3125,22 @@ to change the html. I want those pictures to be there. I just want you
 to use CSS3 to remove them from the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 145.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. before and after menu (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image145.webp" 
-  alt="."
+  alt="Before and After Menus."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
-So, I hope between looking through this example and looking online, and
+I hope between looking through this example and looking online, and
 looking at my before and after shots, that you&apos;ll be able to do this
 homework assignment.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 146.  () ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. peer grading (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image146.webp" 
-  alt="."
+  alt="Peer grading."
   style="border: 2px solid #000000;" 
   width="40%;" />
 
@@ -3204,7 +3204,7 @@ name of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-01">2.01. Box Model</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.1) (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.1) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image147.webp" 
   alt="2.1 Box Model."
@@ -3217,7 +3217,7 @@ model is, is really a general concept of CSS that helps you size and
 place your element where you want them to go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. height and width (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. height and width (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image148.webp" 
   alt="Height and Width."
@@ -3241,7 +3241,7 @@ Anything else, the browser goes great, I can go ahead and change that
 for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. border (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. border (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image149.webp" 
   alt="Border."
@@ -3266,7 +3266,7 @@ default to black and probably one pixel. But you have to decide what
 kind of style you want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. border with div example (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. border with div example (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image150.webp" 
   alt="Border with div example."
@@ -3280,7 +3280,7 @@ because I&apos;m not quite that geeky yet, but I&apos;d guess something like
 blue.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151. border-style (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151. border-style (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image151.webp" 
   alt="border-style."
@@ -3296,7 +3296,7 @@ your part. I don&apos;t really pay much attention to them because I&apos;ve
 always just used solid myself. Once you&apos;ve decided what kind of style
 you want, you can specify the width and color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. border width and color (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. border width and color (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image152.webp" 
   alt="Border width and color."
@@ -3313,7 +3313,7 @@ been doing all along. You can just use the name, such as blue, the RGB
 value, the hex value, or just so you know, it&apos;s also transparent. It
 can just take the color of whatever&apos;s underneath it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. specifying individual sides (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. specifying individual sides (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image153.webp" 
   alt="Specifying Individual Sides."
@@ -3348,7 +3348,7 @@ people are doing when they&apos;re going on. This is what they&apos;re doing.
 They&apos;re using shorthand's so that they don&apos;t have to have border
 right, border left, border top, border bottom.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 154. margin: positive and negative (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 154. margin: positive and negative (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image154.webp" 
   alt="Margin: positive and negative."
@@ -3365,7 +3365,7 @@ your element to the right or down. If you give it a negative margin,
 you&apos;re actually having it move closer to the neighbor. You are having
 it move left or upward.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 155. padding: positive and negative (89) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 155. padding: positive and negative (88) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image155.webp" 
   alt="Padding: positive and negative."
@@ -3382,7 +3382,7 @@ more space. If you give it a negative padding, you&apos;re actually moving
 the border close to or maybe even on top of the elements that are next
 to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. margin & padding, #1 (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. margin & padding, #1 (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image156.webp" 
   alt="Margin & Padding, #1."
@@ -3397,7 +3397,7 @@ The padding is always going to be the same color as the element, and the
 margin&apos;s always going to be the same color of the parent, probably the
 body of the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. margin & padding, #2 (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. margin & padding, #2 (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image157.webp" 
   alt="Margin & Padding, #2."
@@ -3410,7 +3410,7 @@ If you put margin three pixels, it will be a three pixel margin around
 everything. If you say padding, ten pixels, five pixels, you&apos;ll have
 top, bottom, left and right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. margin & padding, example (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. margin & padding, example (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image158.webp" 
   alt="Margin & Padding, Example."
@@ -3428,7 +3428,7 @@ move your paragraphs down. It might move your divs down and over. So,
 just practice this. And as you play with it more and more, it&apos;ll make
 more sense which one&apos;s a margin and which one is the padding.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. additive height and width (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. additive height and width (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image159.webp" 
   alt="Additive height and width."
@@ -3442,7 +3442,7 @@ height and your width is additive. What that means is if you decide that
 you want the width of your element to be 200 pixels, you probably need
 to take into account how big all those other aspects and properties are.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 160. margin + border + padding + width/height (91) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 160. margin + border + padding + width/height (90) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image160.webp" 
   alt="Margin + border + padding + width/height."
@@ -3457,7 +3457,7 @@ this is going to matter when you&apos;re looking at your page and you&apos;re
 designing it and trying to decide how much space you want each element
 to take up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 161. what is the width and height? (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 161. what is the width and height? (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image161.webp" 
   alt="What is the width and height?"
@@ -3472,7 +3472,7 @@ promise not to give much more math than this, but you&apos;re doing it to
 figure out how much width does this element, does this div, actually
 need on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 162. what is the width and height, #2? (92) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 162. what is the width and height, #2? (91) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image162.webp" 
   alt="What is the width and height, #2?"
@@ -3483,7 +3483,7 @@ need on the page.
 And in this case the width is 132 pixels. The 100, plus 10, plus five,
 plus one, plus one, plus five, plus ten. It all adds up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 163. what is the width and height, #3? (92) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 163. what is the width and height, #3? (91) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image163.webp" 
   alt="What is the width and height, #3?"
@@ -3494,7 +3494,7 @@ plus one, plus one, plus five, plus ten. It all adds up.
 <p>The height, in the same way, is your height plus the top and bottom
 padding, top and bottom margin, and the top and bottom border.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. centering an element (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. centering an element (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image164.webp" 
   alt="Centering an element."
@@ -3545,7 +3545,7 @@ minus the padding and border. One of the last things to remember is that
 we&apos;ll take into account padding and border, it won&apos;t take into account
 margin.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. measurements (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. measurements (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image166.webp" 
   alt="Measurements."
@@ -3581,7 +3581,7 @@ ahead and do that.</p>
 Make sure you play with this code and try to get it to do what I am
 about to do.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 167/168. boxmodel.html/.css - set width (95) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 167/168. boxmodel.html/.css - set width (94) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image167.webp"
   style="width:40%;"
@@ -4123,7 +4123,7 @@ before I do, once again we are coming back to this idea of precedence.
 Cascading style sheets are very big on this.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. precedence of rules (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. precedence of rules (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image202.webp" 
   alt="Precedence of rules; a:hover after a:link, a:visited after a:hover &amp; a:active."
@@ -4152,10 +4152,10 @@ I haven&apos;t styled in any way. I&apos;ve got a link to introduction to web
 design, a link to the University of Michigan, and a link to Kent State
 University, which is where I did my undergrad.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. more style links (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image204.webp" 
-  alt="."
+  alt="More Styling links."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4168,10 +4168,10 @@ top of each other with a little bit of space in between them. All right,
 so let&apos;s take a look at what that looks like and you can see I have
 each links looks really much different, okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205. hover, color change (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image205.webp" 
-  alt="."
+  alt="Hover, color change."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4187,10 +4187,10 @@ Design goes into focus, and then the University of Michigan, and then
 Kent State, and I&apos;m doing that by tabbing through the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. active rule (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image206.webp" 
-  alt="."
+  alt="Active rule."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4211,10 +4211,10 @@ links and that people know that they&apos;re there. Once you&apos;re done
 playing around with links, let&apos;s go ahead and start thinking about
 styling list items.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. styling lists (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image207.webp" 
-  alt="."
+  alt="Styling lists."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4229,10 +4229,10 @@ list-style-image. The list style position, and just the list style
 itself. The list style type basically says how do you want me to
 indicate the different list items?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. list-style-type, #1 (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image208.webp" 
-  alt="."
+  alt="list-style-type, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4241,10 +4241,10 @@ By default, for ordered lists again, we have the one, two, three, but
 you can give different values.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. list-style-type, #2 (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image209.webp" 
-  alt="."
+  alt="list-style-type, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4259,10 +4259,10 @@ have, and it depends on your browser, is the little circle or the little
 disk. We can change that, and we can put in exactly what you want to
 make sure it&apos;s going to be.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. list styles, #1 (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image210.webp" 
-  alt="."
+  alt="List style, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4274,10 +4274,10 @@ brings up back to this idea of the list-style position. Many times,
 you&apos;re going to move your position over, depending on which list-style
 you&apos;re using.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211. list styles, #2 (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image211.webp" 
-  alt="."
+  alt="List style, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4297,10 +4297,10 @@ see that the unordered lists are just using the circles, and the ordered
 lists are using the default numbers. Let&apos;s play with this now.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212. list.html example (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image212.webp" 
-  alt="."
+  alt="list.html example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4309,14 +4309,14 @@ Let&apos;s go ahead and put in a style sheet. In my style sheet, I&apos;ve gone
 in there said, what I want to do with my list styles is I want to switch
 it to upper-roman and numeral and also use a square instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213/214.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213/214. before and after (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image213.webp"
   style="width:40%;"
-  alt="." />
+  alt="Before." />
 <img src="./images/image214.webp"
   style="width:40%;"
-  alt="." />
+  alt="After." />
 </p>
 
 This is what it looked like before, and this is what we look like
@@ -4330,10 +4330,10 @@ you have precedence this new rule down here is going to overwrite all
 the rules above it. Let&apos;s make sure I&apos;ve saved my page, and reload.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. add lightening bolts (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image215.webp" 
-  alt="."
+  alt="Add lightening bolts."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4347,10 +4347,10 @@ killer. It&apos;s not a matter of it being difficult, it&apos;s a matter about
 you just being very careful when you&apos;re doing these things.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216.  (1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 216. review (2.03. styling links and lists) (115) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image216.webp" 
-  alt="."
+  alt="2.03. Review: Styling links and lists."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4385,10 +4385,10 @@ proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-04">2.04. Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.4) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.04) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image217.webp" 
-  alt="2.4 Advanced Selectors."
+  alt="2.04 Advanced Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4405,7 +4405,7 @@ just want to style some of them?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. css selectors (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image218.webp" 
-  alt="."
+  alt="CSS Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4443,7 +4443,7 @@ inside a paragraph, it wouldn&apos;t work that way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. id selectors (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image219.webp" 
-  alt="."
+  alt="id Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4464,7 +4464,7 @@ you&apos;re going to be seeing a lot, so I want to introduce you to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220. id selectors example (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image220.webp" 
-  alt="."
+  alt="id Selectors example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4480,7 +4480,7 @@ margin.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. class selector (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image221.webp" 
-  alt="."
+  alt="Class Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4497,7 +4497,7 @@ but you want a lot of them to be.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. class selector example (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image222.webp" 
-  alt="."
+  alt="Class Selectors, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4514,7 +4514,7 @@ the thumbnails.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. classes vs. ids (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image223.webp" 
-  alt="."
+  alt="Classes vs ids."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4545,7 +4545,7 @@ Let&apos;s go through a quick example using that navigation bar.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. sample html (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image224.webp" 
-  alt="."
+  alt="Sample HTML with 4 links."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4555,10 +4555,10 @@ that don&apos;t even really go anywhere. I&apos;ve commented out the style sheet
 just so you can see what it would look like without any styling.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. add more styling (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. add more styling (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image225.webp" 
-  alt="."
+  alt="Home, Interests, Resume, Hobbies."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4575,14 +4575,14 @@ other link or anything else we&apos;ve seen that way. Let&apos;s uncomment the
 style sheet. Save it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226/227.  (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 226/227. before/after nav links styled (120) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image226.webp"
   style="width:40%;"
-  alt="." />
+  alt="Before nav link styled." />
 <img src="./images/image227.webp"
   style="width:40%;"
-  alt="." />
+  alt="After nav link styled." />
 </p>
 
 Go from this to this. You can see that only the links that are inside my
@@ -4597,7 +4597,7 @@ things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. narrowing the scope (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image228.webp" 
-  alt="."
+  alt="Narrowing the scope."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4616,7 +4616,7 @@ and the articles. Not a problem.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. expanding the scope (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image229.webp" 
-  alt="."
+  alt="Expanding the Scope."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4637,7 +4637,7 @@ earlier ones that don&apos;t conflict.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. more attribute selectors (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image230.webp" 
-  alt="."
+  alt="More Attribute Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4662,10 +4662,10 @@ just certain things you want to style on your page. But first, let&apos;s go
 ahead and look at using these attribute selectors.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. attribute selectors (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image231.webp" 
-  alt="."
+  alt="Attribute Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4679,10 +4679,10 @@ easy for us to find those and go ahead and style them a little
 differently.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. using operators (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image232.webp" 
-  alt="."
+  alt="Using operators."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4697,10 +4697,10 @@ the wildcard, where you&apos;re going and saying if you see umich in any
 part of any hyper reference at all, apply this rule.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. links and extension types (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image233.webp" 
-  alt="."
+  alt="Links and Extension types."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4710,10 +4710,10 @@ different links and each one has a different type of extension that we
 want to style differently.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 234. different extensions: gov, org, edu (124) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image234.webp" 
-  alt="."
+  alt="Different extensions: gove, org, edu."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4725,10 +4725,10 @@ default, it&apos;s just going to show up as your traditional blue links with
 underlined, the text right there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 235. different extension, different background (124) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image235.webp" 
-  alt="."
+  alt="If different extension, make different background-color."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4738,7 +4738,7 @@ ones that end in .org? Make them one color. All the ones that are .edu,
 another color, and all the ones that end in .gov, a third color. Let&apos;s
 see what it looks like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. a[href] org, edu & gov (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. a[href] org, edu & gov (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image236.webp" 
   alt="Set background color depending upon extension of web site (org, edu or gov)."
@@ -4754,10 +4754,10 @@ You&apos;re going to be using classes, you&apos;re going to be using ids,
 you&apos;re going to be using attributes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. whews!!! (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 237. element may have multiple classes and/or id's (125) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image237.webp" 
-  alt="Whew!!!"
+  alt="Elements may have multiple classes and id's."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4770,7 +4770,7 @@ is the order that you write your rules in your style sheet. Browsers are
 always going to start to the top, and apply each rule.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. the good news (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. the good news (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image238.webp" 
   alt="The Good News."
@@ -4787,7 +4787,7 @@ sheets and make it your very own. Just make sure that you link your
 style sheet last.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 239. review (2.04. advanced selectors) (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 239. review (2.04. advanced selectors) (126) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image239.webp" 
   alt="2.04. Review Advanced Selectors."
@@ -4862,7 +4862,7 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 <h2 id="week2-05">2.05. Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05.) (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05.) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.webp" 
   alt="2.05. Browser Capabilities."
@@ -4875,7 +4875,7 @@ what you can do to make sure that your sites have a consistent
 appearance, regardless of how people are accessing it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. browsers differ (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. browsers differ (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image241.webp" 
   alt="Browsers Differ."
@@ -4894,7 +4894,7 @@ accessibility, and different ways to access the web, it even comes down
 to the most basic browser implementations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 242. handling stylistic differences (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 242. handling stylistic differences (128) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image242.webp" 
   alt="Handling Stylistic Differences."
@@ -4920,7 +4920,7 @@ design your page, and it&apos;s going to be really hard for you to remember
 if you&apos;ve actually checked off each element that you&apos;re using.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 243. handling unsupported properties (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 243. handling unsupported properties (128) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image243.webp" 
   alt="Handling Unsupported Properties."
@@ -4948,7 +4948,7 @@ it. But I&apos;m here to tell you, it&apos;s actually very, very easy to use
 these prefixes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. browser prefixes (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. browser prefixes (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image244.webp" 
   alt="Browser Prefixes."
@@ -4964,7 +4964,7 @@ Opera. Each one of these prefixes say, hey, if you&apos;re on this
 particular browser, this is what I need you to do to get the look that
 the designer is going for.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 245. often unsupported properties (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 245. often unsupported properties (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image245.webp" 
   alt="Often Unsupported Properties."
@@ -4994,20 +4994,20 @@ browsers support them and which ones need the prefixes. It&apos;s a good
 idea to check that site out as you start developing your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246/247.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246/247. browser differences (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image246.webp"
   style="width:40%;"
-  alt="." />
+  alt="Browser Differences, #1." />
 <img src="./images/image247.webp"
   style="width:40%;"
-  alt="." />
+  alt="Browser Differences, #2." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248. more browser differences (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image248.webp" 
-  alt="."
+  alt="More Browser Differences."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5021,15 +5021,13 @@ wanted to get rid of that, if I really wanted to make sure that the
 pages look exactly the same, what I can do is add a default style sheet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. set default stylesheet (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image252.webp" 
-  alt="."
+  <img src="./images/image249.webp" 
+  alt="Set default stylesheet."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-![](./images/image249.webp){width="4.0in"
-height="2.2427351268591424in"}
 
 Let&apos;s go down over here, and I&apos;m going to say hey I want to use my
 default style sheet. And what that looks like is it&apos;s a really crazy
@@ -5039,10 +5037,10 @@ If I&apos;ve got lists, get rid of the list style. Make this really as ugly
 as you can.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. browser differences (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image250.webp" 
-  alt="."
+  alt="Browser Differences, slight."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5053,10 +5051,10 @@ slightly. We get rid of a little bit of stuff. And in the same way, when
 I refresh the Safari, they&apos;re going to look a little bit more similar.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. column-count & browsers (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image251.webp" 
-  alt="."
+  alt="Using column-count with different browsers."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5071,10 +5069,10 @@ you tell the browser how many columns you want and how much space you
 want between those columns.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. again, column-count (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image251.webp" 
-  alt="."
+  alt="Using column-count, again."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5083,10 +5081,10 @@ Now, when I refresh, you can see it&apos;s gone from being all one long kind
 of block paragraph to that everything&apos;s split up. And it&apos;s really cool
 because it&apos;s dynamic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 252. support multiple browsers (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image252.webp" 
-  alt="."
+  alt="Support multiple browsers."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5097,10 +5095,10 @@ just as something to look at, is this idea of instead of having a
 square, I want to kind of round the edges a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253. border-radius (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image253.webp" 
-  alt="."
+  alt="border-radius."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5112,10 +5110,10 @@ first started doing this. The border-radius is just a simple property
 that&apos;s been around for a while.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254. (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 254. add prefixes for browser capability (134) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image254.webp" 
-  alt="."
+  alt="Add prefixes for browser capabilities."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5129,10 +5127,10 @@ doing anything too spectacular. I&apos;ve made it 25. And I&apos;m going to go
 ahead and refresh it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255. curve edges (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image255.webp" 
-  alt="."
+  alt="Curve edges."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8632,4 +8630,4 @@ great in CSS 3.
   width="40%;" />
 </p>
 -->
-<h6)Last Updated: 12/04/2023 8:20pm</h6>
+<h6)Last Updated: 12/05/2023 2:17pm</h6>
