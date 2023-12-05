@@ -7429,7 +7429,7 @@ throws off your rows. This is something really powerful that you should
 try to take advantage of.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 369. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 369. sample calendar with appointments (195) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image369.webp" 
   alt="Example plain calendar with appointments."
@@ -7450,10 +7450,10 @@ have fairly simple code for the caption, I went ahead and just added
 some border radius and colors. What I really want to show you is this
 whole idea of when you want to hide things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 370.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 370. sample calendar with span tag (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image370.webp" 
-  alt="."
+  alt="Put all elements inside span tag of calendar."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7464,10 +7464,10 @@ right now and going, why don&apos;t these show up when I first look at the calen
 Why isn&apos;t it there?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 371.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 371. sample calendar, hidden td (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image371.webp" 
-  alt="."
+  alt="Sample calendar, hidden table data (td)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7482,10 +7482,10 @@ and this is exactly why I made this example, so you could see the
 difference. All right, so now it&apos;s hidden.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 372.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 372. click and show hidden table data (196) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image372.webp" 
-  alt="."
+  alt="Click date and display hidden table data (td)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7502,12 +7502,12 @@ all go together to create a page that can look so much better than just
 plain HTML by itself. So, I&apos;m hoping you&apos;ll use this code and create
 something great for yourself. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-02">04-02 Creating Navigation Menus 2</h2>
+<h2 id="week4-02">04-02 Creating Navigation Menus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image373.webp" 
-  alt="4-02. Creating Navigation Menu."
+  alt="4-02. Creating Navigation Menus."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7518,7 +7518,7 @@ use when you&apos;re styling your pages. And in this module, I want to show you
 what happens when you try to make a vertical navigation bar.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 374. navigation bar with four links (196) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 374. navigation bar with four links (197) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image374.webp" 
   alt="Navigation bar with 4 links/menu options."
@@ -7530,9 +7530,8 @@ So over here in my browser, I have what the page is going to look like
 when we&apos;re done. But let&apos;s go ahead and I&apos;ll hit refresh and first
 see what it would look like if I tried to make a navigation bar using
 four simple links.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 375. before nav changes - inline menu (196) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 375. before nav changes - inline menu (198) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image375.webp" 
   alt="The before navigation menu."
@@ -7545,7 +7544,7 @@ There&apos;s nothing going on. And it&apos;s really horrible. So let me put that
 style back in. Refresh the page. And I'm going to show you how I created this 
 navigation bar.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376. the after nav menu (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376. the after nav menu (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image376.webp" 
   alt="The after navigation menu."
@@ -7562,7 +7561,7 @@ up how much width, how much padding, how much border. You don&apos;t have to do
 the math. The browser will do it for you. I put in some simple border, color, 
 background color, etc.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 377. 1st step in creating nav menu bar (197) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 377. 1st step in creating nav menu bar (199) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image377.webp" 
   alt="1st steps - creating a nav menu bar."
@@ -7579,7 +7578,7 @@ navigation to take up the whole height of your page. I&apos;m not hard-coating i
 400 pixels or 200 pixels, cuz I don&apos;t know how big the screen is that you&apos;re 
 looking at.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 378. 2nd step in creating nav menu bar (198) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 378. 2nd step in creating nav menu bar (199) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image378.webp" 
   alt="2nd step - creating a nav menu bar."
@@ -7595,7 +7594,7 @@ trick and I said I want the line height to be 45 pixels. Why would I do that? Th
 reason would be I want to center home photos or I want to center the words within 
 it and this is how I can do it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 379. 3rd step add background image and menu markers (198) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 379. 3rd step add background image and menu markers (200) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image379.webp" 
   alt="3rd step - add background image and menu markers."
@@ -7618,9 +7617,9 @@ we&apos;ve already talked about, display, line height, background URLs, we
 were able to make something that I think looks really cool for a simple,
 vertical navigation bar. Go ahead and try it. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-03">04-03 Accessible Navigation</h2>
+<h2 id="week4-03">04-03 Accessible Navigation Menu</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image380.webp" 
   alt="4-03. Accessible Navigation Menu."
@@ -7636,7 +7635,7 @@ aspect of accessibility. If people can&apos;t navigate through your page and
 get to the content they really need to get to, then you&apos;ve really just
 wasted their time and some of yours.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 381. navigation contents - visual cues (199) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 381. navigation contents - visual cues (201) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image381.webp" 
   alt="Navigation contents - visual cues."
@@ -7651,7 +7650,7 @@ surprising to them that often the main content, in what we call the
 content well, is hidden down lower in a page. And we know this because
 we can see it just as soon as we open up the browser.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 382. navigation contents - low visual-user cues (200) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 382. navigation contents - low visual-user cues (202) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image382.webp" 
   alt="Navigation contents - low visual-user cues."
@@ -7664,10 +7663,10 @@ the page in order to get to what they want to get to. And not just the proper co
 but there are a lot of stylistic issues you need to think about when you&apos;re 
 doing this.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 383. title and heading placement (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383. what if you can't see? (202) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image383.webp" 
-  alt="Title and Heading placement."
+  alt="What if you can't see?"
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7691,10 +7690,10 @@ to the different sites in your page, those descriptions are all that
 people have going for them. So, you don&apos;t want to use Click Me, Follow
 Me Here. You want to give good information in those link descriptions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 384.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384. proper heading hierarchy (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image384.webp" 
-  alt="."
+  alt="Proper heading hierarchy, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7706,10 +7705,10 @@ have one h1 heading. You shouldn&apos;t jump from h2 to h4. Instead, you
 really want to follow a certain kind of order so that people can realize
 that there is meaning behind your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 385.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 385. proper heading hierarch, #2 (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image385.webp" 
-  alt="."
+  alt="Proper heading hierarchy, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7736,10 +7735,10 @@ Find out which font family they use. Find out which font size. Just
 repeat it. Don&apos;t use tags just because you like the way they look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 386.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386. off-page headings (204) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image386.webp" 
-  alt="."
+  alt="Off-page headings."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7751,10 +7750,10 @@ right in the page and have your sighted users also have to deal with it
 all the time.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 387.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387. off-page headings, #2 (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image387.webp" 
-  alt="."
+  alt="Off-page headings, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7766,10 +7765,10 @@ absolute off to the left by -1000px. So, you&apos;ll know that that&apos;s
 pretty far off.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 388.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 388. uofm human resources home page (205) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image388.webp" 
-  alt="."
+  alt="University of Michigan's Human Resources Home Page."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7780,7 +7779,7 @@ corner. But what I&apos;m going to do, is I&apos;m going to go ahead and hit
 Tab. And, what Tab does, is it brings the next element into focus.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 389.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 389. tab to main content (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image389.webp" 
   alt="."
@@ -7791,10 +7790,10 @@ Tab. And, what Tab does, is it brings the next element into focus.
 So, go ahead and Tab, there. And you can see, that now, there&apos;s this
 new thing here that says Skip to main content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 390.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 390. tab to skip additional info (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image390.webp" 
-  alt="."
+  alt="Tab to skip additional info."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7807,10 +7806,10 @@ immediately to what they want to get to. But, by using styling, we&apos;ve
 taken it off the page that you only use it if you really want to.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 391.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 391. off-page headings with example (207) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image391.webp" 
-  alt="."
+  alt="Off-page headings example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7827,15 +7826,15 @@ list all of the links. Now, what you may not realize is the way that
 these links are displayed may not be in the way you expect.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 392.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392. meaningful link text (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image392.webp" 
-  alt="."
+  alt="Meaningful link text."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-So, they may be out of context. You may only be able to access them via
+They may be out of context. You may only be able to access them via
 tabbing or they may be presented in a list. So, you really want to avoid
 using things such as click here, read this and more. The reason being,
 is that maybe the only context some people get in order to go to the
@@ -7849,10 +7848,10 @@ unless you have a very short URL, go ahead and use some sort of textual
 description.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 393.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 393. review: accessible navigation (4.03) (208) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image393.webp" 
-  alt="."
+  alt="Review: Accessible Navigation (4.03.)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7864,10 +7863,10 @@ what would happen if the colors weren&apos;t there, or if somebody could
 only navigate to your page with a mouse.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 394.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 394. old page without style (208) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image394.webp" 
-  alt="."
+  alt="Old page without much styling."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7878,10 +7877,10 @@ Michigan. I just want to show you what happens when I take away the
 style.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 395.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 395. old page accessibility and styling (209) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image395.webp" 
-  alt="."
+  alt="Old page without styling and accessibility."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7914,10 +7913,10 @@ disagrees.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-04">04-04 Creating Navigation Menus 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 396.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 396. creating navigation menus 2 (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image396.webp" 
-  alt="."
+  alt="4.04. Creating Navigation Menus 2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7927,10 +7926,10 @@ that worked vertically. It went up and down. Today, I just want to show
 you how you can use the same HTML code but create a horizontal
 navigation bar, instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 397.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 397. highlight menu option as selected (210) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image397.webp" 
-  alt="."
+  alt="Highlight photos menu option as selected in red."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7943,10 +7942,10 @@ the photos link looks a little bit different from the others. It&apos;s very
 common to do this to kind of indicate to people this is the page that
 you&apos;re looking at right now.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 398.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 398. add nav a to separate links (211) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image398.webp" 
-  alt="."
+  alt="Add nav 'a' to separate select links."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7962,7 +7961,7 @@ decoration. One of the things I added here is a border radius. Border
 radius curves the boxes, so if you look, everything&apos;s a little bit
 curved over here along the side. Nothing too important right there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 399.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 399. add class current (211) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image399.webp" 
   alt="."
@@ -7982,10 +7981,10 @@ margin are very important and they&apos;re very additive. So, when you use
 percents, instead of pixels, it&apos;s going to keep it from being that it
 looks fine on a big screen and then really bad on a small screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 400.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 400. add nav a: hover (212) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image400.webp" 
-  alt="."
+  alt="Add nav a: hover, change color and border-radius."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8009,10 +8008,10 @@ down, sideways, or even combinations. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-05">04-05 Creating Navigation Menus #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 401.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 401. creating navigation menus #3 (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image401.webp" 
-  alt="."
+  alt="04.05. Creating Navigation Menus #3."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8024,17 +8023,16 @@ talk to you about the accessibility of how many people make their
 navigation bars. The new way, I&apos;ve used this way, is to create your
 navigation links as part of lists.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 402.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402. before navigation menu (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image402.webp" 
-  alt="."
+  <img src="./images/image402.webp"
+  alt="Before navigation menu with unordered list items."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
 You can see, we already have it a little bit different over here. I&apos;ve
-got an unordered list with one, two, three, four a list items, and some
+got an unordered list with one, two, three, four 'a' list items, and some
 of those list items have unordered lists themselves. While this is very
 common, there are some usability issues, when you realize, are these
 really lists? Because if not, that&apos;s a semantic tag we&apos;re using, that
@@ -8048,10 +8046,10 @@ been in a webpage and we&apos;re trying to hover over something to click a
 link. And it keeps popping away because our hand is too shaky or we have
 to hover over three things at the same time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 403.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403. before nav menu, again (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image403.webp" 
-  alt="."
+  alt="Before navigation menu with unordered list items, again."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8064,10 +8062,10 @@ So again, let&apos;s start with this plain, kind of boring HTML code, and
 see if we can&apos;t get it to look like something a little bit more
 exciting.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 404.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 404. horizontal nav bar updated/styled (214) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image404.webp" 
-  alt="."
+  alt="Updated horizontal navigation bar styled."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8075,7 +8073,7 @@ exciting.
 What we have here now is a horizontal navigation bar that&apos;s going to
 have drop down elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 405.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 405. horizontal nav bar with line item drop down (215) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image405.webp" 
   alt="."
