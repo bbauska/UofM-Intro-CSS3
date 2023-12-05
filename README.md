@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "11/09/2023 9+am"
+date last editted: "12/04/2023 8+pm"
 output: 
   markdown:
     with_style
@@ -3057,8 +3057,6 @@ exactly what you need to look at.
   alt="."
   style="border: 2px solid #000000;" 
   width="40%;" />
-![](./images/image140.webp){width="4.0in"
-height="2.2427351268591424in"}
 
 For your header, it&apos;s pretty straightforward. I want you to go in and I
 want you to add a background color.
@@ -8636,4 +8634,4 @@ great in CSS 3.
   width="40%;" />
 </p>
 -->
-<h6)Last Updated: 11/09/2023 9:18am</h6>
+<h6)Last Updated: 12/04/2023 8:20pm</h6>
