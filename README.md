@@ -4861,7 +4861,6 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week2-05">2.05. Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05.) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.webp" 
@@ -5095,7 +5094,7 @@ just as something to look at, is this idea of instead of having a
 square, I want to kind of round the edges a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253. border-radius (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253. border-radius (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image253.webp" 
   alt="border-radius."
@@ -5935,32 +5934,31 @@ site. You can watch it in the next video, or link directly here:</i></b>
 </p>
 
 <h4>After</h4>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290/291. after, #1 and #2 (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image290.webp"
   style="width:40%;"
-  alt="After: Watch Your Head." />
+  alt="Ultimate Frisbee (after)." />
 <img src="./images/image291.webp"
   style="width:40%;"
-  alt="After: College Teams." />
+  alt="Ultimate Frisbee Teams." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292. after, #3 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292. ultimate frisbee history (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image292.webp" 
-  alt="Background."
+  alt="Ultimate Frisbee History."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
 <h4>Homework Description</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293.  (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (2.08) (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image293.webp" 
-  alt="."
+  alt="2.08. Homework Description."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5969,7 +5967,7 @@ Hi, everybody. Welcome back, it&apos;s time for another homework example.
 What we&apos;re going to be doing this week is adding even more style to the
 pages that you started styling last week.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image294.webp" 
   alt="Objective."
@@ -6675,10 +6673,10 @@ work. In fact, most of them won&apos;t. Make sure you give it the degrees
 you want it to turn, some sort of number, 30, 90, 80, and then use
 degree.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. scale (175) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. scale (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image332.webp" 
-  alt="."
+  alt="Scale."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6818,10 +6816,10 @@ to sit back and look at some of the code that I&apos;ve written and see how
 the little things that we&apos;ve been learning are adding up together to
 create more complex webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 339.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339. new divs, a thru h - 8 (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image339.webp" 
-  alt="."
+  alt="Add 8 new divs, A thru H."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6833,10 +6831,10 @@ index does is it lets the browser know that if somebody is tabbing
 through your page, you actually want to put different elements in focus
 in a different order.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 340.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 340. tab index new divs (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image340.webp" 
-  alt="."
+  alt="Tab Index New Divs."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6849,10 +6847,10 @@ a little bit different so that you can look at transitions and
 transforms in action.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 341.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 341. transition two seconds ease (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image341.webp" 
-  alt="."
+  alt="Add transition 2 seconds ease."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6872,10 +6870,10 @@ didn&apos;t. That&apos;s because I&apos;d been tabbing before we even started
 typing.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 342.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 342. color change with focus (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image342.webp" 
-  alt="."
+  alt="Change background color with focus."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6887,10 +6885,10 @@ into case, what I&apos;m saying is make the width 200 pixels, it was 100,
 and change the background color.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 343.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 343. highlight smooth transition (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image343.webp" 
-  alt="."
+  alt="Highlight Smooth Transition."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6904,10 +6902,10 @@ changing the size of things dynamically, you can throw everything off
 position. So, make sure you use this sparingly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 344.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 344. div with animate class (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image344.webp" 
-  alt="."
+  alt="Add div with animate class."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6939,11 +6937,10 @@ property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-05">3.05. Positioning</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 345.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 345. positioning (3.05) (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image345.webp" 
-  alt="."
+  alt="3.05 Positioning."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6961,10 +6958,10 @@ positioning elements, or, the different positioning properties, that you
 can use, okay?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 346.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 346. position properties (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image346.webp" 
-  alt="."
+  alt="Position Properties."
   style="border: 2px solid #000000;" 
   width="65%;" />
 </p>
@@ -6978,10 +6975,10 @@ it to be this far from the top or this high off the bottom, or this far
 over from the left.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 347.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 347. static, #1 (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image347.webp" 
-  alt="."
+  alt="Static, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6997,10 +6994,10 @@ left, and right, but the browser&apos;s going to completely ignore it. How
 it&apos;s going to work is something like this.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 348.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 348. static, #2 (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image348.webp" 
-  alt="."
+  alt="Static, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7012,10 +7009,10 @@ span, so it fits right here. Oh, she&apos;s got something that&apos;s block, so
 I need to go down here. So, as you add, it just starts at the top, and
 works its way across, and then down.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 349.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 349. relative, #1 (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image349.webp" 
-  alt="."
+  alt="Relative, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7030,10 +7027,10 @@ The new positioning, the new place that we put the element, it&apos;s not
 going to affect any of its neighbors. Instead, what it may do is leave
 holes where the browser thought it should&apos;ve been in the first place.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 350.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 350. relative, #2 (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image350.webp" 
-  alt="."
+  alt="Relative, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7050,10 +7047,10 @@ So again, we&apos;re just adding little numbers to move things from where
 they would normally go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351. absolute, #1 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image351.webp" 
-  alt="."
+  alt="Absolute, #1."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7067,10 +7064,10 @@ the page behave as if it doesn&apos;t even exist. And what this can lead to,
 is that you can end up with one element on top of another.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 352.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 352. absolute, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image352.webp" 
-  alt="."
+  alt="Absolute, #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7082,12 +7079,11 @@ a 100 over. So it goes right here. All right, well, if we were doing
 relative, the next element would go underneath it. But if we have two
 absolute values, the next one that shows up is going to go, again, right
 on top of it.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 353.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 353. fixed position (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image353.webp" 
-  alt="."
+  alt="Fixed Position."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7112,10 +7108,10 @@ the page, you don&apos;t have to scroll back up to see the navigation bar,
 because it&apos;s always just there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 354.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 354. position properties (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image354.webp" 
-  alt="."
+  alt="Elements and their position properties."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7132,10 +7128,10 @@ default position it would always be. I want to show you what that&apos;s
 going to look like over in the browser.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 355.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 355. two divs (a and b) and a paragraph c (188) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image355.webp" 
-  alt="."
+  alt="Two divs on top (a and b) and a third paragraph below (c)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7152,10 +7148,10 @@ because all the browsers have different default values for where the
 paragraph should be positioned.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 356.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 356. webkit with inspect (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image356.webp" 
-  alt="."
+  alt="webkit with Inspect."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7166,10 +7162,10 @@ margin-before and -webkit-margin-after. This is an example of some
 pseudo classes that they used.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 357.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 357. a, b, and c relative (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image357.webp" 
-  alt="."
+  alt="A, B, and C all relative."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7181,10 +7177,10 @@ B, and C, are all relative. You&apos;re telling the browser, just put it in
 the next available space.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 358.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 358. static and relative element (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image358.webp" 
-  alt="."
+  alt="Static and Relative Elements."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7199,10 +7195,10 @@ can, but go ahead, you can tell it if you want it to move over a little
 bit in either direction.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 359.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 359. stacked a and b (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image359.webp" 
-  alt="."
+  alt="Rectangles A and B stacked."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7217,10 +7213,10 @@ things to be on top of each other. Maybe one of them will be visible,
 and one of them will be hidden, and they&apos;re going to change
 dynamically. But this is what happens with absolute.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 360.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 360. static, relative, absolute and fixed (190) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image360.webp" 
-  alt="."
+  alt="Position: fixed so can't scroll away."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7236,10 +7232,10 @@ it&apos;s static, relative, absolute, and fixed. And I want you to play with
 these, and know your options, before you start laying out your code by
 hand.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 361.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 361. z-index (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image361.webp" 
-  alt="."
+  alt="z-index."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7261,10 +7257,10 @@ people code with, but it&apos;s really helpful when you&apos;re using inspect
 element, if there&apos;s something below, and you want to see what it looks
 like on top.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 362.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 362. review (3.05 positioning) (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image362.webp" 
-  alt="."
+  alt="3.05 Review - Positioning."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
