@@ -42,7 +42,7 @@ jump in ready to make mistakes and typos in this course. The only way
 you will really understand the material is to practice typing it in on
 your own as often as possible.
 
-1. <b><a href="https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0" target="_blank">1.01a Course Welcome</a></b>
+1. <b><a href="https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0" target="_blank">1.01 Course Welcome</a></b>
 
 <!-- 1b. [**1.01b Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0){:target="_blank"} -->
 <!-- 1c. [**1.01c Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcom-zOHP0)[newtab] -->
