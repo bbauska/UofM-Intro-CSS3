@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "12/05/2023 2+pm"
+date last editted: "12/17/2023 1+pm"
 output: 
   markdown:
     with some style
@@ -42,11 +42,10 @@ jump in ready to make mistakes and typos in this course. The only way
 you will really understand the material is to practice typing it in on
 your own as often as possible.
 
-1a. <b><a href="https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0" target="_blank">1.01a Course Welcome</a></b>
+1. <b><a href="https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0" target="_blank">1.01a Course Welcome</a></b>
 
-1b. [**1.01b Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0){:target="_blank"}
-
-1c. [**1.01c Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcom-zOHP0)[newtab]
+<!-- 1b. [**1.01b Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0){:target="_blank"} -->
+<!-- 1c. [**1.01c Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcom-zOHP0)[newtab] -->
 
 2.  **1.02 Cascading Style Sheets**
 
@@ -72,8 +71,7 @@ require a little bit of tweaking to get the desired results. In
 particular we will talk about the Box Model, background images, opacity,
 float, columns, visibility, and designing for different browsers.
 
-1.  [**2-01 Box
-    Model**](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
+1.  [**2-01 Box Model**](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
 
 2.  **2-02 Code Together**
 
@@ -106,8 +104,7 @@ elements to stick to a certain part of your page. Think about annoying
 pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
-1.  [**3-01 Pseudo Classes and
-    Elements**](https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
+1.  [**3-01 Pseudo Classes and Elements**](https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
 
 2.  **3-02 Transitions**
 
@@ -132,8 +129,7 @@ styling guidelines while still putting your own personal touch on the
 project. Just remember, you need to validate your work for proper syntax
 and accessibility.
 
-1.  [**4-01 Styling
-    Tables**](https://www.coursera.org/lecture/introcss/04-01-styling-tables-OGCjp)
+1.  [**4-01 Styling Tables**](https://www.coursera.org/lecture/introcss/04-01-styling-tables-OGCjp)
 
 2.  **4-02 Creating Navigation Menus**
 
