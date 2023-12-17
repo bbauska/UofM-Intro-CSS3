@@ -17,7 +17,7 @@ output:
   <img src="./images/image001.webp" 
   alt="Cascade Style Sheet 3 logo."
   style="border: 2px solid #000000;" 
-  width="400px;" />
+  width="500px;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by university of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
