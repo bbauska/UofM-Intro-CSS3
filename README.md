@@ -4,7 +4,7 @@ author: "bbauska"
 date last editted: "12/05/2023 2+pm"
 output: 
   markdown:
-    with_style
+    with some style
 ---
 
 <h1 align="center">Introduction to CSS3</h1>
