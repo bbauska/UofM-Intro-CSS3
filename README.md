@@ -42,13 +42,11 @@ jump in ready to make mistakes and typos in this course. The only way
 you will really understand the material is to practice typing it in on
 your own as often as possible.
 
-1.  <a href="https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0" target="_blank">1.01 Course Welcome</a>
+1a. <b><a href="https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0" target="_blank">1.01a Course Welcome</a></b>
 
-1b. [**1.01 Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0)
+1b. [**1.01b Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0){:target="_blank"}
 
-1c.  [my link](https://myawesome.link){:target="_blank"}
-
-1d.  [my link](https://myawesome.link)[newtab]
+1c. [**1.01c Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcom-zOHP0)[newtab]
 
 2.  **1.02 Cascading Style Sheets**
 
