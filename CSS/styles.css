@@ -1,5 +1,6 @@
 /* styles.css of uofm-intro-css3/css */
 * {
+  margin-left: 15px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
 }
@@ -167,6 +168,8 @@ ol {
 @media screen and (max-width: 480px) {
   body {
     background-color: #e3fae5;  /* light grayish lime green - phones */
+    text-align: justify;
+    text-justify: inter-word;
   }
 }
 @media screen and (max-width: 850px) {
