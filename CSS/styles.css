@@ -1,16 +1,18 @@
 /* styles.css of uofm-intro-css3 */
 * {
-  margin-left: 15px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-  box-sizing: border-box;
 }
 
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
   width: 100%;
+  margin: 15px;
 }
-
+a {
+  margin: 0;
+  padding: 0;
+  }
 /* clearfix (clear floats) */
 .row::after {
   content: "";
@@ -140,7 +142,8 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 
 p {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  line-height: 110%;
+  margin-left: 15px;
+  padding: 0px;
 }
 
 ul {
@@ -149,13 +152,16 @@ ul {
   margin-bottom: 1 em;
   margin-left: 15px;
   margin-right: 15px;
-  line-height: 130%;
 }
 ol {
   margin-bottom: 1 em;
   margin-left: 15px;
   margin-right: 15px;
 }
+li {
+  line-height: 130%;
+  padding: 10px;
+  }
 
 @media screen and (max-width: 480px) {
   body {
