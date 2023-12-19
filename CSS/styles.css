@@ -6,7 +6,7 @@
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
-  width: 100%;
+  width: 70%;
   margin: 15px;
 }
 a {
@@ -143,6 +143,7 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 p {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   margin-left: 15px;
+  margin-right: 15px;
   padding: 0px;
 }
 
@@ -165,21 +166,21 @@ li {
 
 @media screen and (max-width: 480px) {
   body {
-    background-color: #e3fae5;  /* light grayish lime green - phones */
+    background-color: #90ee90;  /* very soft lime green */
     text-align: justify;
     text-justify: inter-word;
   }
 }
 @media screen and (max-width: 850px) {
   body {
-    background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
+    background-color: #add8e6;  /* very soft cyan */
     text-align: justify;
     text-justify: inter-word;
   }
 }
 @media screen and (max-width: 1330px) {
   body {
-    background-color: #ffb6c1;  /* lt pink - desktop */
+    background-color: #ffffed;  /* lt yellow - desktop */
     text-align: justify;
     text-justify: inter-word;
   }
