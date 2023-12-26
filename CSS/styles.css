@@ -19,6 +19,7 @@ a {
   clear: both;
   display: table;
 }
+
 img {
   display: block;
   margin: 0 auto;
@@ -183,5 +184,7 @@ li {
     background-color: #ffffed;  /* lt yellow - desktop */
     text-align: justify;
     text-justify: inter-word;
+    width: 90%;
+    margin: 10px;
   }
 }
