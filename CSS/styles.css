@@ -6,7 +6,7 @@
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
-  width: 90%;
+/*  width: 90%; */
   margin: 15px;
 }
 a {
@@ -187,6 +187,6 @@ li {
     margin: 15px;
     text-align: justify;
     text-justify: inter-word;
-    width: 90%;
+/*    width: 90%; */
   }
 }
