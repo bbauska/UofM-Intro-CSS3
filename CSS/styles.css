@@ -168,6 +168,7 @@ li {
 @media screen and (max-width: 480px) {
   body {
     background-color: #90ee90;  /* very soft lime green */
+    margin: 15px;
     text-align: justify;
     text-justify: inter-word;
   }
@@ -175,6 +176,7 @@ li {
 @media screen and (max-width: 850px) {
   body {
     background-color: #add8e6;  /* very soft cyan */
+    margin: 15px;
     text-align: justify;
     text-justify: inter-word;
   }
@@ -182,9 +184,9 @@ li {
 @media screen and (max-width: 1330px) {
   body {
     background-color: #ffffed;  /* lt yellow - desktop */
+    margin: 15px;
     text-align: justify;
     text-justify: inter-word;
     width: 90%;
-    margin: 10px;
   }
 }
