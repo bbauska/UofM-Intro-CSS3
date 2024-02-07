@@ -6548,14 +6548,12 @@ long it should take, the type of transition, and how long you want to
 delay. So when you look at other people&apos;s code, don&apos;t be confused if
 it doesn&apos;t look like my first example. They&apos;ve probably been using the
 shortcuts.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 325. review: transitions (3.02.) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image325.webp" 
   alt="3.02. Review: Transitions."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 All right. So hopefully that was a little bit cool and you&apos;re excited
@@ -6570,7 +6568,6 @@ people are going to hover on your page. Don&apos;t require that people are
 going to tab through. You want to make sure that all your content is
 always available, and just keep those transitions for something a little
 bit extra to add to your site. Good luck.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week3-03">3.03. Transforms</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6587,14 +6584,12 @@ Transforms are very similar to transitions, in that they provide another
 option for changing the appearance of elements that are on our page. We
 can change things in both the two dimensional manner and a three
 dimensional manner as people are looking at your site.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. 2d transform options (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image327.webp" 
   alt="2d Transform Options."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Let&apos;s look at some of the two-dimensional transform options. We&apos;re
@@ -6608,14 +6603,12 @@ right or up and down. If x is positive, you move off to the right, if
 it&apos;s negative you move to the left. With y, if it&apos;s positive you move
 down and if it&apos;s negative you move up. Let&apos;s look at an actual example
 to make it a little bit clearer.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 328. translate (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image328.webp" 
   alt="Translate."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Here, I&apos;ve got this nice blue element. And what I&apos;m about to say is
@@ -6626,8 +6619,7 @@ see it move off to the right and down a little bit.
 <p align="center">
   <img src="./images/image329.webp" 
   alt="Translate example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 You can see, again, it&apos;s hard to really tell when things go up and
@@ -6641,8 +6633,7 @@ spin. You just see the result or what it would look like at the end.
 <p align="center">
   <img src="./images/image330.webp" 
   alt="Rotate, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Here I have another element and I&apos;m going to tell it to rotate by 30
@@ -6652,8 +6643,7 @@ degrees.
 <p align="center">
   <img src="./images/image331.webp" 
   alt="Rotate, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 From here, to here. Now it&apos;s really important that remember to put the
