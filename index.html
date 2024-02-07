@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
+  <head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ index.html of uofm-intro-to-css ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8,7 +8,7 @@
   <link rel="shortcut icon" type="image/jpg" href="./images/favicon.ico"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Introduction to CSS3</title>
-  <link rel="stylesheet" href="./CSS/styles.css" />
+  <link rel="stylesheet" href="./css/styles.css" />
   <meta name="title" content="University of Michigan's Intro to CSS3">
   <meta
     name="description"
@@ -17,10 +17,9 @@
       We will focus on both proper syntax (how to write your styling rules) and 
       the importance of accessibility design (making sure that your style enhances 
       your site, not make it harder to navigate).">
-</head>
+  </head>
 <body>
-	
-    <script type="text/javascript" src="jquery.lazy.min.js"></script>
+  <script type="text/javascript" src="jquery.lazy.min.js"></script>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -366,7 +365,7 @@ you.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-01">1.01 Course Welcome/Overview</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. course welcome (01) (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. course welcome (1.01) (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
   src="./images/image002.webp" 
   loading="lazy"
@@ -597,7 +596,7 @@ may not have styled them at all.</p>
 <img class="border displayed"
   src="./images/image011.webp" 
   loading="lazy"
-  alt="The 'Cascading' Part of CSS."
+  alt="The 'Cascading' Part of CSS; External, Internal and Inline."
   style="width:40%" />
 
 <p>What I want you to know before we even begin styling, and you start
@@ -678,15 +677,14 @@ specific heading. We're not talking about a specific tag.</p>
   alt="Cascade Style Sheet: Selector, #3."
   style="width:40%" />
 
-<p>When you write those rules, the syntax is very important. A lot of
-times, when you write HTML, the browser is really nice to you and if you
-forget to close a tag it says, that's okay, I know what she wants me to
-do and it'll go ahead and put the page up anyway. When you're doing CSS,
-if you're sloppy with what we call your syntax, you're going to get in
-trouble. The brackets and the semicolons are very important. Let me show
-you again when we go back here, you can see that I've got a beginning
-bracket and a closing bracket, and I've got this semicolon right at the
-end. You need to remember to include those.</p>
+<p>When you write those rules, the syntax is very important. A lot of times, when you 
+write HTML, the browser is really nice to you and if you forget to close a tag it says, 
+that's okay, I know what she wants me to do and it'll go ahead and put the page up 
+anyway. When you're doing CSS, if you're sloppy with what we call your syntax, you're 
+going to get in trouble. The brackets and the semicolons are very important. Let me show
+you again when we go back here, you can see that I've got a beginning bracket and a 
+closing bracket, and I've got this semicolon right at the end. You need to remember to 
+include those.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. rule syntax (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -695,21 +693,19 @@ end. You need to remember to include those.</p>
   alt="Rule Syntax."
   style="width:40%" />
 
-<p>And one of the reasons I talk about this is that when you start
-writing your code, when you pick a good editor, and most editors are
-pretty good, such as Sublime or TextWrangler, TextEdit, Notepad++, they
-will put colors in for you. So, all of a sudden if you're looking at
-your CSS rules and you're like, woah, I kind of expected things to be
-different colors, but instead everything's white or everything's red. It
-gives you this hint that you've messed up on your rule syntax. In the
-same line, I want to put comments in to help you debug and explain to
-yourself what you're doing. This is how comments are done in CSS. You
-just do the /*, */ again.</p>
-<p>What happens if you want to do more than just one property? What if
-instead of saying just you want the color to be blue, you also want the
-background color to be yellow? Well, no problem. You can have as many
-property value combinations as you want. You just need to remember to
-separate them with semicolons.</p>
+<p>And one of the reasons I talk about this is that when you start writing your code, 
+when you pick a good editor, and most editors are pretty good, such as Sublime or 
+TextWrangler, TextEdit, Notepad++, they will put colors in for you. So, all of a sudden 
+if you're looking at your CSS rules and you're like, woah, I kind of expected things to 
+be different colors, but instead everything's white or everything's red. It gives you 
+this hint that you've messed up on your rule syntax. In the same line, I want to put 
+comments in to help you debug and explain to yourself what you're doing. This is how 
+comments are done in CSS. You just do the /*, */ again.</p>
+
+<p>What happens if you want to do more than just one property? What if instead of saying 
+just you want the color to be blue, you also want the background color to be yellow? 
+Well, no problem. You can have as many property value combinations as you want. You just 
+need to remember to separate them with semicolons.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. multiple properties (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -728,12 +724,11 @@ color to yellow.</p>
   alt="Internal Style Sheet, #1."
   style="width:40%" />
 
-<p>All right so now that you know how to write a rule how do we actually
-get them to work? There's two ways and the first way I'm going to tell
-you about is called using an Internal Style Sheet. As you can see over
-here in my code, I've got the basic template of our file. And inside the
-head tags, I've put this style tag in, that's where you're going to want
-to put your rules, they're defined right within that style.</p>
+<p>All right so now that you know how to write a rule how do we actually get them to 
+work? There's two ways and the first way I'm going to tell you about is called using an 
+Internal Style Sheet. As you can see over here in my code, I've got the basic template 
+of our file. And inside the head tags, I've put this style tag in, that's where you're 
+going to want to put your rules, they're defined right within that style.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. internal style sheet, #2 (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -742,14 +737,12 @@ to put your rules, they're defined right within that style.</p>
   alt="Internal Style Sheet, #2."
   style="width:40%" />
 
-<p>Inside the style tag, I've added the h1, the color blue, and I've
-ended my style tag. What happens now is that when the browser opens your
-page, it gets to the head section it says, oh great, she wrote some
-rules, let's see what she wants me to do. And it's going to know to go
-through your page and apply this rule to all the H1 tags. And if you
-have multiple rules including paragraphs, images, things like that, it's
-going to know, I want to apply this to all instances in the entire
-file.</p>
+<p>Inside the style tag, I've added the h1, the color blue, and I've ended my style tag. 
+What happens now is that when the browser opens your page, it gets to the head section it 
+says, oh great, she wrote some rules, let's see what she wants me to do. And it's going 
+to know to go through your page and apply this rule to all the H1 tags. And if you have 
+multiple rules including paragraphs, images, things like that, it's going to know, I 
+want to apply this to all instances in the entire file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. internal style sheet, #3 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -758,21 +751,19 @@ file.</p>
   alt="Internal Style Sheet, #3."
   style="width:40%" />
 
-<p>There is a really good chance you're going to mess up because I do
-this 80% of the time when I'm developing in class, and what I do is I
-forget to close this style tag. And if you forget to close that style
-tag down at the bottom, well actually your page may end up being blank.
-So don't freak out when you first start doing this if your page is
-blank, it probably means you forgot to close the style tag. All
-right.</p>
-<p>Internal style sheets are really nice when you're just trying to
-style up one page. All right? And I often do it just so I can keep all
-my code in one file instead of going back and forth and back and forth.
-Imagine that you have site where you're going to have 10, 20, 1,000
-different pages and you want them all to have a very consistent look
-about them. You don't want to have to go in and say if you want to
-change a color, you don't want to have to go in and open every single
-one of those files so you can change the color to red or green.</p>
+<p>There is a really good chance you're going to mess up because I do this 80% of the 
+time when I'm developing in class, and what I do is I forget to close this style tag. 
+And if you forget to close that style tag down at the bottom, well actually your page 
+may end up being blank. So don't freak out when you first start doing this if your page 
+is blank, it probably means you forgot to close the style tag. All right.</p>
+
+<p>Internal style sheets are really nice when you're just trying to style up one page. 
+All right? And I often do it just so I can keep all my code in one file instead of going 
+back and forth and back and forth. Imagine that you have site where you're going to have 
+10, 20, 1,000 different pages and you want them all to have a very consistent look about 
+them. You don't want to have to go in and say if you want to change a color, you don't 
+want to have to go in and open every single one of those files so you can change the 
+color to red or green.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. external style sheet, #1 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -841,21 +832,22 @@ all your styling rules.</p>
   alt="Rule Precedence, #1."
   style="width:40%" />
 
-<p>Alright, so we know how those four go, but what if you have a selector and, 
-you've linked to two or three different style sheets, and that same H1 has been 
-defined to be blue, green, and yellow, but in different files. How does the browser 
-know what to do?</p>
-<p>Well, how it works is that the rules from the most recent file have precedence. 
-And what I mean by the most recent file, it means it goes up into the head section 
-and it goes one, two, three, and it kind of looks at what order you listed them, 
-and the last one you listed is the one that's going to have precedence.</p>
-<p>Okay? Well, what if you have a selector in the same file, and you've written 
-H1 multiple times. This can actually happen quite a bit. Especially if you decide 
-to go off and be part of a big development company, you write some code, and then 
-someone else writes some code, or, as I tell my undergrads, maybe you went out 
-and had a really good time one night, and you came home and decided, I'm going 
-to code! And you forget that you've already written some rules. Well, if that's 
-the case, once again, the browser's going to look at the one it saw last.</p>
+<p>Alright, so we know how those four go, but what if you have a selector and, you've 
+linked to two or three different style sheets, and that same H1 has been defined to be 
+blue, green, and yellow, but in different files. How does the browser know what to do?</p>
+
+<p>Well, how it works is that the rules from the most recent file have precedence. And 
+what I mean by the most recent file, it means it goes up into the head section and it 
+goes one, two, three, and it kind of looks at what order you listed them, and the last 
+one you listed is the one that's going to have precedence.</p>
+
+<p>Okay? Well, what if you have a selector in the same file, and you've written H1 
+multiple times. This can actually happen quite a bit. Especially if you decide to go off 
+and be part of a big development company, you write some code, and then someone else 
+writes some code, or, as I tell my undergrads, maybe you went out and had a really good 
+time one night, and you came home and decided, I'm going to code! And you forget that 
+you've already written some rules. Well, if that's the case, once again, the browser's 
+going to look at the one it saw last.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. rule precedence, #2 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -864,14 +856,12 @@ the case, once again, the browser's going to look at the one it saw last.</p>
   alt="Rule Precedence, #2."
   style="width:40%" />
 
-<p>In this case, I have two rules for h1. One writes at the color to
-blue. And I said, hey I want you to use this aerial font family. And
-then later, there might be a whole bunch of stuff in here, might be
-nothing, and I say hey, I want you to use a font family Times. How the
-browser's going to look at this is it's going to go down, and say, I'm
-going to make all the font blue, and I'm going to go ahead and make the
-font family Times. It's just always is going to use the last one it
-saw.</p>
+<p>In this case, I have two rules for h1. One writes at the color to blue. And I said, 
+hey I want you to use this aerial font family. And then later, there might be a whole 
+bunch of stuff in here, might be nothing, and I say hey, I want you to use a font family 
+Times. How the browser's going to look at this is it's going to go down, and say, I'm
+going to make all the font blue, and I'm going to go ahead and make the font family 
+Times. It's just always is going to use the last one it saw.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. rule precedence, #3 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -880,8 +870,8 @@ saw.</p>
   alt="Rule Precedence, #3."
   style="width:40%" />
 
-<p>Again, the most recent rule has precedence, whether it was inside
-your code or it came from different files.</p>
+<p>Again, the most recent rule has precedence, whether it was inside your code or it 
+came from different files.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. !important (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -890,15 +880,13 @@ your code or it came from different files.</p>
   alt="!important."
   style="width:40%" />
 
-<p>There is, however, one way to overwrite this. Suppose you're writing
-something and you know you want something to be that way. You don't care
-if anyone else overwrites it. You really want to make sure people aren't
-using inline style, different things like that. What you can use is you
-can use the <b><mark>!important</mark></b> Attribute right
-here. Right here I've got font-family, Arial, and I've got important
-right here. Even though later I decide to overwrite it with times, the
-browser's going to say nope, I know that she really wanted me to use
-Arial, and it works out.</p>
+<p>There is, however, one way to overwrite this. Suppose you're writing something and 
+you know you want something to be that way. You don't care if anyone else overwrites it. 
+You really want to make sure people aren't using inline style, different things like 
+that. What you can use is you can use the <b><mark>!important</mark></b> Attribute 
+right here. Right here I've got font-family, Arial, and I've got important right here. 
+Even though later I decide to overwrite it with times, the browser's going to say nope, 
+I know that she really wanted me to use Arial, and it works out.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27. styled heading (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
