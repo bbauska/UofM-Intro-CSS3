@@ -8321,9 +8321,9 @@ style three different HTML files.
   width="40%;" />
 </p>
 
-Now, when you get started, I&apos;m going to assume that you have the second
+<p>Now, when you get started, I&apos;m going to assume that you have the second
 peer-graded assignment done. You can feel free to alter that as much as
-you want, but I need to know that those changes are completed.
+you want, but I need to know that those changes are completed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 417/418. before and after web design (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
@@ -8336,8 +8336,8 @@ you want, but I need to know that those changes are completed.
   alt="After." />
 <p style="clear: both;"></p>
 
-All right, so let me show you our before&apos;s and our after&apos;s for where
-we&apos;re going with this final project.
+<p>All right, so let me show you our before&apos;s and our after&apos;s for where
+we&apos;re going with this final project.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 419/420. ultimate frisbee history (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
@@ -8350,8 +8350,8 @@ we&apos;re going with this final project.
   alt="Ultimate Frisbee History menu, #2." />
 <p style="clear: both;"></p>
 
-Let&apos;s look at what we&apos;ve done so far in this course. We had our
-first HTML view. Our next one, we made it really plain.
+<p>Let&apos;s look at what we&apos;ve done so far in this course. We had our
+first HTML view. Our next one, we made it really plain.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421/422. college teams (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border"
@@ -8368,172 +8368,171 @@ first HTML view. Our next one, we made it really plain.
 <p align="center">
   <img src="./images/image423.webp" 
   alt="College teams."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
-Our third one, where we added in some different style. And finally, on
+<p style="font-size: 4rem">Our third one,</p><p> where we added in some different style. And finally, on
 our fourth one, it might not look very different on this first page, but
 where I&apos;m really going to have you focus is on the Teams page, and on
-this table.
+this table.</p>
 
-You&apos;ll be able to see that I have really gone out and put a lot of
+<p>You&apos;ll be able to see that I have really gone out and put a lot of
 styling into this table. And the reason I picked tables is because this
 will be a chance for us to go in and use those pseudo classes. Use those
 pseudo elements, use some gradients, all those little things that can be
 a little bit difficult to achieve, but once you&apos;ve got it done, it
-looks really good.
-
+looks really good.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 424. you must leave the html alone (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image424.webp" 
   alt="You must leave the HTML alone."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-Let&apos;s talk about each one of these little parts. Once again, just a
+<p>Let&apos;s talk about each one of these little parts. Once again, just a
 little reminder, make a single style sheet. I don&apos;t want a different
 style sheet for each page, you want one that&apos;s going to cover
 everybody. And we&apos;re going to be using pseudo-elements and
 pseudo-classes. If you seem a little bit confused about that, don&apos;t
 forget, we&apos;ve got slides that cover this as well as some of our code
-together examples.
+together examples.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425. table (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image425.webp" 
   alt="Table."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-Let&apos;s start with the table because that&apos;s the bulk of the page. At the
+<p>Let&apos;s start with the table because that&apos;s the bulk of the page. At the
 very minimum, I want you to go ahead and style the font, the width, and
 the margin. Now when you style the font, there are a lot of different
 options you can look at. You can have different font families. You can
-change the size, the weight, and the line height.
+change the size, the weight, and the line height.</p>
 
-One of the reasons I recommend line height, is that when you do that,
+<p>One of the reasons I recommend line height, is that when you do that,
 it&apos;s much easier to center the text within the rows if you&apos;ve made the
-line height the same as the text size.
+line height the same as the text size.</p>
 
-For your width, I don&apos;t want your table to take up the whole page. I
+<p>For your width, I don&apos;t want your table to take up the whole page. I
 want it to take up somewhere probably between 75 and 90%. And one of the
 reasons I want you to do that, is because I want you to center the
 table. I want you to play with that margin property. And figure out how
 you can take up just the right amount of space and put it right where
-you want it.
+you want it.</p>
 
-Next, we&apos;re going to look at the table heading. The table heading looks
+<p>Next, we&apos;re going to look at the table heading. The table heading looks
 a little bit different from the other rows, and it really has that
 important semantic meaning. So, by using the table heading tags, we&apos;re
 going to be able to kind of double up on this idea that we&apos;re styling
-it differently and it means something different.
+it differently and it means something different.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426. table heading (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image426.webp" 
   alt="Table heading."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-First, change the background color. Once you get that to work, I want
+<p>First, change the background color. Once you get that to work, I want
 you to try putting in a gradient background color. Now don&apos;t forget in
 order to use gradient, you&apos;re going to need to put in some browser
-prefixes.
+prefixes.</p>
 
-Next, add a border but I only want you to round the top two corners, not
+<p>Next, add a border but I only want you to round the top two corners, not
 the whole thing, and then also make the bottom border thicker. Finally,
 when you&apos;re done with this, go ahead and add just at least one other
-property, something that you think would look cool.
+property, something that you think would look cool.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427. table rows (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image427.webp" 
   alt="Table rows."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-Once you have the table heading done, let&apos;s go ahead and put in some
+<p>Once you have the table heading done, let&apos;s go ahead and put in some
 styling for the table rows. The first thing I want you to do, and
 there&apos;s a reason for this, is I want you to set the opacity of the
 table rows to some value of about 0.8. Somewhere around there. Where you
-can still read the text, but it&apos;s a little bit faded out.
+can still read the text, but it&apos;s a little bit faded out.</p>
 
-Next, I want you to make sure that the first column of every table row
+<p>Next, I want you to make sure that the first column of every table row
 is left-aligned and the other two are centered. Now, you may do this
 styling within your table row elements, or you may be doing it within
 the table elements, those TDs. It really depends upon how you jump in
-and try to style this.
+and try to style this.</p>
 
-Finally, I want you to go ahead and put in another pseudo-class. Where
+<p>Finally, I want you to go ahead and put in another pseudo-class. Where
 when someone hovers over any of the rows, it&apos;s going to change from a
 kind of faded out to a darker color. And I&apos;m going to show you an
-example of that before I go on.
+example of that before I go on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428. table menu form (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image428.webp" 
   alt="Table menu form."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-If you notice in this table, the text is a little bit faded out from being solid 
-black font color. So that&apos;s where the opacity comes in.
+<p>If you notice in this table, the text is a little bit faded out from being solid 
+black font color. So that&apos;s where the opacity comes in.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. table menu form, #2 (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image429.webp" 
   alt="Table menu form, again."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-When I hover over each team name, you&apos;ll see that the font gets a little bit darker. 
+<p>When I hover over each team name, you&apos;ll see that the font gets a little bit darker. 
 I didn&apos;t change the font color here, I didn&apos;t change the font family, or the type, 
-or anything like that. Instead, what I changed is the opacity to set it to 1.
+or anything like that. Instead, what I changed is the opacity to set it to 1.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. td - table data (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image430.webp" 
   alt="TD - table elements."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-When my hover goes off, it goes back to that original kind of faded out value. 
+<p>When my hover goes off, it goes back to that original kind of faded out value. 
 Each of the table elements can take any amount of styling that you want to give 
 it. But what I do want to see you do is I want to see you style the padding, the 
 font color and background color. And I want you to set the border radius to two 
 pixels. You would never be able to see that kind of indistinguishable or subtle 
 difference on the table. I want you to put it in, just so when I tell you to do 
-it, you notice that there is an actual change there.
+it, you notice that there is an actual change there.</p>
 
-Finally, this would be a great chance for you to do something that I haven&apos;t 
+<p>Finally, this would be a great chance for you to do something that I haven&apos;t 
 covered myself. Part of being a web designer is learning to go out there and search 
 for different properties that you can play with. I would encourage you to go out 
 and look at text-shadow. It&apos;s something I use in my example. If you really want 
-to try to replicate it, go ahead and try to use it yourself.
+to try to replicate it, go ahead and try to use it yourself.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 431. peer grading (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image431.webp" 
   alt="Peer grading."
   style="border: 2px solid #000000;" 
-  width="40%;" />
+  width="50%;" />
 </p>
 
-Once again, we&apos;ll be using peer grading for this assignment. And grades will 
+<p>Once again, we&apos;ll be using peer grading for this assignment. And grades will 
 be based on both level of completion and some level of aesthetics. Proper coding 
 standards are always going to apply, but you can specify your preferred screen 
 size. If somebody decides to take your CSS and apply it to the HTML, you can let 
-them know this really looks best on a large screen or small mobile device. Now, 
-there are actually many, many ways that you could change this style sheet around. 
+them know this really looks best on a large screen or small mobile device.</p>
+
+<p>Now, there are actually many, many ways that you could change this style sheet around. 
 And so, I don&apos;t want you worrying about hitting off every single standard. 
 But if you do decide to something a little crazy, a little different, and something
 that other people might not understand. I really recommend that you put that near 
@@ -8542,28 +8541,27 @@ focus on the actual requirements and then afterwards be amazed at your really co
 innovations. I&apos;m hoping that this is something that will really help solidify 
 your understanding of CSS. If you run into problems, you should feel free to use 
 the discussion boards and ask people anything that you&apos;re not quite sure on. 
-Or just share something cool that you got to work. Good luck.
-
+Or just share something cool that you got to work. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-07">4-07 Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (4.07) (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image432.webp" 
-  alt="In closing, 'Intro to CSS3'."
+  alt="4.07 In closing, 'Intro to CSS3'."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
 
-I am so happy to say congratulations, that you&apos;ve made it this far in the 
+<p>I am so happy to say congratulations, that you&apos;ve made it this far in the 
 class, and that you&apos;ve hopefully completed the final project. We have all come 
 a really long way from the plain pages that we began with to something that&apos;s 
 really styled. I hope you&apos;ve learned a little bit of theory and a little bit 
-of practice, and you&aposre putting it together to create something really unique.
+of practice, and you&aposre putting it together to create something really unique.</p>
 
-At this point, you might be wondering, what next? I&apos;ve gone to the HTML class 
+<p>At this point, you might be wondering, what next? I&apos;ve gone to the HTML class 
 maybe, and I&apos;ve definitely just finished the CSS class. What can I do to continue 
-my own progress as a web designer?
+my own progress as a web designer?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 433. what's next? (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8573,48 +8571,48 @@ my own progress as a web designer?
   width="40%;" />
 </p>
 
-Well first, I would really encourage you to consider creating your own
+<p>Well first, I would really encourage you to consider creating your own
 site from scratch. Draw it out, style it, do all the little things that
 you wanted to do, but you didn&apos;t because you were too busy doing the
-assignments.
+assignments.</p>
 
-Once you&apos;ve done that, you can continue to practice your skills. One of
+<p>Once you&apos;ve done that, you can continue to practice your skills. One of
 the things people often ask me is, I want to get a job as a web
 designer. What should I do? Well, when you go and you talk to other
 people about web design, they&apos;re going to want to know, what are you
 working on right now? So whether it may be just working on transitions,
 transforms, accessibility, you should always have something that you&apos;re
-thinking about about your site to work on right now.
+thinking about about your site to work on right now.</p>
 
-You&apos;re also probably at this point ready to join a Meet Up or different
+<p>You&apos;re also probably at this point ready to join a Meet Up or different
 workshops. You&apos;re not at web developer status yet. You&apos;re not really
 close because you need more practice. You need more experience. But what
 you can do is, you know enough that you can meet up with other web
 designers and talk to them about what they&apos;re doing. It&apos;s a great way
 to find out what&apos;s happening right now and to make connections, because
-connections are so important.
+connections are so important.</p>
 
-There&apos;s also a group called Girls Develop It that&apos;s nationwide, and
+<p>There&apos;s also a group called Girls Develop It that&apos;s nationwide, and
 they often hold workshops. You are definitely ready to volunteer to be a
 TA and work with others as they build their own HTML and CSS skills.
 Also, if you&apos;re really interested in continuing your knowledge, you&apos;re
 going to want to learn about using JavaScript to add some interactivity
-to your site.
+to your site.</p>
 
-The last thing you may want to think about is learning more about
+<p>The last thing you may want to think about is learning more about
 what&apos;s called responsive design. Responsive design will use the CSS
 that you&apos;ve been learning all this time and tailor it to the different
 viewports. You might want your page to look different on a mobile
 platform versus a laptop versus a tablet. Responsive design does more
 than just show you, hey, you can make things small or bigger. You think
 about what really belongs on the page to best make your page accessible
-to others.
+to others.</p>
 
-Again, congratulations and thank you for helping each other out on
+<p>Again, congratulations and thank you for helping each other out on
 the discussion boards and in other ways as you all created something
-great in CSS 3.
+great in CSS 3.</p>
 
-..the end
+<h5>..the end</h5>
 <!-- template for images -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ ###.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
