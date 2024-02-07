@@ -8326,6 +8326,7 @@ peer-graded assignment done. You can feel free to alter that as much as
 you want, but I need to know that those changes are completed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 417/418. before and after web design (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
 <img class="border"
   src="./images/image417.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
@@ -8335,6 +8336,7 @@ you want, but I need to know that those changes are completed.</p>
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="After." />
 <p style="clear: both;"></p>
+</p>
 
 <p>All right, so let me show you our before&apos;s and our after&apos;s for where
 we&apos;re going with this final project.</p>
