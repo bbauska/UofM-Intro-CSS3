@@ -361,8 +361,7 @@ you.
 <p align="center">
   <img src="./images/image002.webp" 
   alt="University of Michigan - Intro to CSS3." 
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hello, everybody. Welcome to Introduction to CSS3. In the next four
@@ -373,8 +372,7 @@ turn it into something really beautiful.
 <p align="center">
   <img src="./images/image004.webp" 
   alt="What This Course Will Cover."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 What will be doing over the next four weeks? Well, the main focus will
@@ -403,8 +401,7 @@ page.
 <p align="center">
   <img src="./images/image005.webp" 
   alt="Week 1: Getting Your Feet Wet."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Let&apos;s talk about what we&apos;re going to do on each of the four weeks.
@@ -431,8 +428,7 @@ but that&apos;s okay. Because we&apos;re going to repeat it week after week.
 <p align="center">
   <img src="./images/image006.webp" 
   alt="Week 2: Box Model."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 In week two, we will discuss the box model. This is a very common
@@ -458,8 +454,7 @@ And I want you to know how to best react to that.
 <p align="center">
   <img src="./images/image007.webp" 
   alt="Week 3: Pseudo-Classes and Elements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 In week three, we talk about pseudo classes and elements. These are this
@@ -483,8 +478,7 @@ own annoying pop-up ad.
 <p align="center">
   <img src="./images/image008.webp" 
   alt="Week 4: Style a Table Sample."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 In week four, we&apos;re not really going to cover new material. Instead,
@@ -500,20 +494,19 @@ you&apos;re ready and are interested in taking it.
 <p align="center">
   <img src="./images/image009.webp" 
   alt="Who is this class for?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
-First of all, you don&apos;t want to take this class unless you know about
+<p>First of all, you don&apos;t want to take this class unless you know about
 HTML5 already. You may be taking a course on it. You may be just going
 online and reading about it, but you need to feel comfortable if I
-mention things such as tags or elements or validation.
+mention things such as tags or elements or validation.</p>
 
-Next, this class is for people who have persistence. You will never code
+<p>Next, this class is for people who have persistence. You will never code
 your pages the right way the first time. Even the second time, sometimes
 the third, fourth, and fifth time. It&apos;s really about enjoying the whole
 process of really wanting to get something to work and feeling little
-victories when it does happen.
+victories when it does happen.</p>
 
 Finally, this class is for those who are willing to do more than what
 I&apos;m going to do in these lectures. There&apos;s only so much information I
@@ -642,8 +635,7 @@ you can change the pages.
 <p align="center">
   <img src="./images/image010.webp" 
   alt="1.02 Introduction to Cascading Style Sheets v3."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Welcome to our first truly technical lecture in our CSS course. It&apos;s about 
@@ -655,8 +647,7 @@ until now, you may not have styled them at all.</p>
 <p align="center">
   <img src="./images/image011.webp" 
   alt="The Cascading part of CSS."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 What I want you to know before we even begin styling, and you start
@@ -707,8 +698,7 @@ choices. And the rules are set up like this.
 <p align="center">
   <img src="./images/image012.webp" 
   alt="CSS: Selector, Property &amp; Value."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 First you have to put up your selector, and selector is just kind of a
@@ -723,8 +713,7 @@ to cover all of those.
 <p align="center">
   <img src="./images/image013.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 But for right now, we&apos;re going to start off really simple and deal with
@@ -740,8 +729,7 @@ heading. We&apos;re not talking about a specific tag.
 <p align="center">
   <img src="./images/image014.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 When you write those rules, the syntax is very important. A lot of
@@ -758,8 +746,7 @@ right at the end. You need to remember to include those.
 <p align="center">
   <img src="./images/image015.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 And one of the reasons I talk about this is that when you start writing
@@ -783,8 +770,7 @@ separate them with semicolons.
 <p align="center">
   <img src="./images/image016.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 In this case, again, I&apos;ve set the color to blue and the background
@@ -794,8 +780,7 @@ color to yellow.
 <p align="center">
   <img src="./images/image017.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 All right so now that you know how to write a rule how do we actually
@@ -809,8 +794,7 @@ to want to put your rules, they&apos;re defined right within that style.
 <p align="center">
   <img src="./images/image018.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Inside the style tag, I&apos;ve added the h1, the color blue, and I&apos;ve
@@ -826,8 +810,7 @@ file.
 <p align="center">
   <img src="./images/image019.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 There is a really good chance you&apos;re going to mess up because I do this
@@ -850,8 +833,7 @@ files so you can change the color to red or green.
 <p align="center">
   <img src="./images/image020.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Instead, what you want to use is you want to use something called
@@ -874,8 +856,7 @@ want, most of the time we start with one.
 <p align="center">
   <img src="./images/image021.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Now that we&apos;ve had that style sheet, every single file that links to it
@@ -889,8 +870,7 @@ code, and you&apos;ve now just changed potentially thousands of pages.
 <p align="center">
   <img src="./images/image022.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Let&apos;s talk for a second about this idea of cascading style sheets. What
