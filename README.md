@@ -4345,7 +4345,6 @@ bit of time, especially if you&apos;re using images, to make sure you&apos;ve
 got everything written exactly the same way. Typos are really the
 killer. It&apos;s not a matter of it being difficult, it&apos;s a matter about
 you just being very careful when you&apos;re doing these things.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 216. review (2.03. styling links and lists) (115) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4400,7 +4399,6 @@ We&apos;ve just focused on one thing that covers all the different elements
 of that type. But what if you don&apos;t want to style all of the links,
 just some of them? Or you don&apos;t want to style all of your lists, you
 just want to style some of them?
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. css selectors (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4438,7 +4436,6 @@ be what we call the same level and follow each other. If you have a
 section that has an h1 and then an ordered list, they would be siblings.
 If you had an h1 and then some other things and that ordered list was
 inside a paragraph, it wouldn&apos;t work that way.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. id selectors (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4475,7 +4472,6 @@ but also id=&quot;mainLogo&quot;. Then, in my style sheet, using the &#35; symbo
 along with the id name, the browser&apos;s going to know, oh, whenever I see
 one of those images, I want to make sure I add this border and this
 margin.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. class selector (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4492,7 +4488,6 @@ idea that, you know what, I want to be able to style a big group of
 things all in the same way, but I don&apos;t want to necessarily style all
 of them that way. You don&apos;t want all of your images to be thumbnails,
 but you want a lot of them to be.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. class selector example (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4509,7 +4504,6 @@ or dot, along with the class name, and then you can give it any rules.
 And this way, the page is going to go through and know that in addition
 to any styling you just put on images, you also want this styling for
 the thumbnails.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. classes vs. ids (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4540,7 +4534,6 @@ navigation bar, and the page that you&apos;re currently on is styled just
 slightly differently. And that makes sense because you can only be at
 one page at a time, and that&apos;s why you might choose to use the id.
 Let&apos;s go through a quick example using that navigation bar.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. sample html (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4553,7 +4546,6 @@ Let&apos;s go through a quick example using that navigation bar.
 Here&apos;s a sample HTML file, where all I&apos;ve done is put in four links
 that don&apos;t even really go anywhere. I&apos;ve commented out the style sheet
 just so you can see what it would look like without any styling.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. add more styling (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4573,7 +4565,6 @@ background color, a different width, things like that. In addition,
 anything that&apos;s class current, I want to make even different than any
 other link or anything else we&apos;ve seen that way. Let&apos;s uncomment the
 style sheet. Save it.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 226/227. before/after nav links styled (120) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4611,7 +4602,6 @@ really reduce what&apos;s being styled. On the same hand, you can also, what
 we call, expand the scope. Let&apos;s say that there&apos;s some sort of styling
 you want to apply to both the header and the footer, or to the sections
 and the articles. Not a problem.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. expanding the scope (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4632,7 +4622,6 @@ that somewhere below, it&apos;s going to override and combine with anything
 that&apos;s higher up. Unless a rule has the exclamation point important
 after it, it always just uses the last one it saw, along with the
 earlier ones that don&apos;t conflict.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. more attribute selectors (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6956,14 +6945,12 @@ them together, as you add more and more to your page, where things can
 get a little bit tricky. So let&apos;s begin talking about the different
 positioning elements, or, the different positioning properties, that you
 can use, okay?
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 346. position properties (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image346.webp" 
   alt="Position Properties."
-  style="border: 2px solid #000000;" 
-  width="65%;" />
+  style="border: 2px solid #000000; width:65%;" />
 </p>
 
 The four position properties are static, relative, absolute, and fixed,
