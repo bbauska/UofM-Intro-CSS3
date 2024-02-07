@@ -8435,8 +8435,7 @@ example of that before I go on.</p>
 <p align="center">
   <img src="./images/image428.webp" 
   alt="Table menu form."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>If you notice in this table, the text is a little bit faded out from being solid 
@@ -8446,8 +8445,7 @@ black font color. So that&apos;s where the opacity comes in.</p>
 <p align="center">
   <img src="./images/image429.webp" 
   alt="Table menu form, again."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>When I hover over each team name, you&apos;ll see that the font gets a little bit darker. 
@@ -8458,8 +8456,7 @@ or anything like that. Instead, what I changed is the opacity to set it to 1.</p
 <p align="center">
   <img src="./images/image430.webp" 
   alt="TD - table elements."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>When my hover goes off, it goes back to that original kind of faded out value. 
@@ -8480,8 +8477,7 @@ to try to replicate it, go ahead and try to use it yourself.</p>
 <p align="center">
   <img src="./images/image431.webp" 
   alt="Peer grading."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>Once again, we&apos;ll be using peer grading for this assignment. And grades will 
@@ -8507,8 +8503,7 @@ Or just share something cool that you got to work. Good luck.</p>
 <p align="center">
   <img src="./images/image432.webp" 
   alt="4.07 In closing, 'Intro to CSS3'."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width: 40%;" />
 </p>
 
 <p>I am so happy to say congratulations, that you&apos;ve made it this far in the 
@@ -8525,8 +8520,7 @@ my own progress as a web designer?</p>
 <p align="center">
   <img src="./images/image433.webp" 
   alt="What's next?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Well first, I would really encourage you to consider creating your own
