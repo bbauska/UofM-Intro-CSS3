@@ -8304,6 +8304,7 @@ you want, but I need to know that those changes are completed.</p>
 we&apos;re going with this final project.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 419/420. ultimate frisbee history (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
 <img class="border"
   src="./images/image419.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
@@ -8313,11 +8314,13 @@ we&apos;re going with this final project.</p>
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="Ultimate Frisbee History menu, #2." />
 <p style="clear: both;"></p>
+</p>
 
 <p>Let&apos;s look at what we&apos;ve done so far in this course. We had our
 first HTML view. Our next one, we made it really plain.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421/422. college teams (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
 <img class="border"
   src="./images/image421.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
@@ -8327,6 +8330,7 @@ first HTML view. Our next one, we made it really plain.</p>
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   alt="More on examples of proprietary and open-source CMS software." />
 <p style="clear: both;"></p>
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423. college teams (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8335,7 +8339,7 @@ first HTML view. Our next one, we made it really plain.</p>
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
-<p style="font-size: 4rem">Our third one,</p><p> where we added in some different style. And finally, on
+<p style="font-size: 17px">Our third one,</p><p> where we added in some different style. And finally, on
 our fourth one, it might not look very different on this first page, but
 where I&apos;m really going to have you focus is on the Teams page, and on
 this table.</p>
