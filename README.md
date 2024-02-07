@@ -6950,7 +6950,7 @@ can use, okay?
 <p align="center">
   <img src="./images/image346.webp" 
   alt="Position Properties."
-  style="border: 2px solid #000000; width:65%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 The four position properties are static, relative, absolute, and fixed,
@@ -6960,14 +6960,12 @@ properties such as top, right, bottom, and left. So, you say what kind
 of position you want the element to be, and then you can say, but I want
 it to be this far from the top or this high off the bottom, or this far
 over from the left.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 347. static, #1 (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image347.webp" 
   alt="Static, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Let&apos;s start with static, and the reason we&apos;re going to start with
@@ -6979,14 +6977,12 @@ How it works is that the browser is going to place each element in just
 the next available position. You can give it values such as top, bottom,
 left, and right, but the browser&apos;s going to completely ignore it. How
 it&apos;s going to work is something like this.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 348. static, #2 (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image348.webp" 
   alt="Static, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Let me see if I can draw this up here. Is you&apos;ve got your screen. And
@@ -7000,8 +6996,7 @@ works its way across, and then down.
 <p align="center">
   <img src="./images/image349.webp" 
   alt="Relative, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 But we can go beyond that. We can change how the browser positions
@@ -7018,8 +7013,7 @@ holes where the browser thought it should&apos;ve been in the first place.
 <p align="center">
   <img src="./images/image350.webp" 
   alt="Relative, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Usually, relatively positioned elements are used as containers or blocks
@@ -7032,14 +7026,12 @@ going to go underneath where it should be.
 
 So again, we&apos;re just adding little numbers to move things from where
 they would normally go.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351. absolute, #1 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image351.webp" 
   alt="Absolute, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 The next position is what we call absolute. And this one can really
@@ -7049,14 +7041,12 @@ and really just looks at the main container it was in. In this case,
 we&apos;re going to show one example with the browser. The other elements on
 the page behave as if it doesn&apos;t even exist. And what this can lead to,
 is that you can end up with one element on top of another.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 352. absolute, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image352.webp" 
   alt="Absolute, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 So, let&apos;s try this. I&apos;ve got my browser. Don&apos;t have a lot of room,
@@ -7071,8 +7061,7 @@ on top of it.
 <p align="center">
   <img src="./images/image353.webp" 
   alt="Fixed Position."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 All right, the final position that I&apos;m going to talk about is called
@@ -7093,14 +7082,12 @@ something more useful which is when you&apos;re on a page, and you might
 have that navigation bar that&apos;s on the top, and as you scroll through
 the page, you don&apos;t have to scroll back up to see the navigation bar,
 because it&apos;s always just there.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 354. position properties (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image354.webp" 
   alt="Elements and their position properties."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Let&apos;s go ahead and look at an example where I&apos;ve got some different
@@ -7113,14 +7100,12 @@ For the paragraphs, I gave it a border of a different color, gave it a
 top and left, and I left it as position static, because that&apos;s the
 default position it would always be. I want to show you what that&apos;s
 going to look like over in the browser.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 355. two divs (a and b) and a paragraph c (188) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image355.webp" 
   alt="Two divs on top (a and b) and a third paragraph below (c)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 If you look, you can see I&apos;ve got two divs, one up here and down here,
@@ -7133,28 +7118,24 @@ putting this paragraph all the way at the top, it&apos;s actually pushed
 down a little bit. Same for the B and the C. The reason that happens is
 because all the browsers have different default values for where the
 paragraph should be positioned.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 356. webkit with inspect (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image356.webp" 
   alt="webkit with Inspect."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 So, let me scroll over here for a second. I&apos;m going to go down. And you
 can see that there&apos;s this weird code right here that says, -webkit-
 margin-before and -webkit-margin-after. This is an example of some
 pseudo classes that they used.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 357. a, b, and c relative (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image357.webp" 
   alt="A, B, and C all relative."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 I don&apos;t want these different default things to be coming into play.
@@ -7162,7 +7143,6 @@ I&apos;m going to get rid of them. After I comment those out and comment
 that back in, I refresh, and now we&apos;ve got our A, B and C. So again, A,
 B, and C, are all relative. You&apos;re telling the browser, just put it in
 the next available space.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 358. static and relative element (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7180,14 +7160,12 @@ this to 59. You can see doesn&apos;t move over quite as much. So, static
 just go in the first place you can. Relative, go in the first place you
 can, but go ahead, you can tell it if you want it to move over a little
 bit in either direction.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 359. stacked a and b (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image359.webp" 
   alt="Rectangles A and B stacked."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 The next one that we&apos;re going to do is absolute. Maybe. There we go, so
@@ -7204,8 +7182,7 @@ dynamically. But this is what happens with absolute.
 <p align="center">
   <img src="./images/image360.webp" 
   alt="Position: fixed so can't scroll away."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Now, if I scroll, I&apos;m going to make this screen a little bit smaller,
@@ -7223,8 +7200,7 @@ hand.
 <p align="center">
   <img src="./images/image361.webp" 
   alt="z-index."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Now, one of the things I showed you is that it&apos;s possible for multiple
@@ -7244,12 +7220,11 @@ people code with, but it&apos;s really helpful when you&apos;re using inspect
 element, if there&apos;s something below, and you want to see what it looks
 like on top.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 362. review (3.05 positioning) (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 362. review of 3.05 positioning (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image362.webp" 
-  alt="3.05 Review - Positioning."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  alt="Review 3.05 - Positioning."
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 Let&apos;s go ahead and review. Positioning your element is the key to
