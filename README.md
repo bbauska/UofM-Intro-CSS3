@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "12/17/2023 1+pm"
+date last editted: "2/07/2023 10+am"
 output: 
   markdown:
     with some style
@@ -355,10 +355,9 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-01">1.01. Course Welcome/Overview</h2>
+<h2 id="week1-01">1.01 Course Welcome/Overview</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.webp" 
   alt="University of Michigan - Intro to CSS3." 
@@ -637,12 +636,12 @@ lectures. Or better yet, read this first, watch the lectures, and then
 review the material again, but this time play with the code to see if
 you can change the pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-02">1.02. Cascade Style Sheets</h2>
+<h2 id="week1-02">1.02 Cascade Style Sheets</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 10. intro to cascading style sheets 3 (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 10. intro to cascading style sheets v3 (1.02) (14) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image010.webp" 
-  alt="Introduction to Cascading Style Sheets 3."
+  alt="1.02 Introduction to Cascading Style Sheets v3."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1175,12 +1174,12 @@ course. You&apos;re going to be messing up a lot in this course. But I
 can&apos;t wait for you to develop something that really reflects how you
 want your page to look. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-03">1.03. Colors</h2>
+<h2 id="week1-03">1.03 Colors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (1.03) (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image039.webp"
-  alt="Module 01-03: Colors"
+  alt="1.03 Colors"
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1544,12 +1543,12 @@ to play with these different design elements of your page. And I hope
 that you&apos;ve learned something here that&apos;s useful as you continue
 programming, and keep styling your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-04">1.04. Styling Your Text</h2>
+<h2 id="week1-04">1.04 Styling Your Text</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. 1.4 styling your text (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. styling your text (1.04) (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image062.webp" 
-  alt="1.4 Styling Your Text."
+  alt="1.04 Styling Your Text."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1958,12 +1957,12 @@ Un-styled code: <http://codepen.io/ColleenEMc/pen/MaOrmE>
 Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-05">1.05. Code Together</h2>
+<h2 id="week1-05">1.05 Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. code together (1.5) (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. code together (1.05) (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image083.webp" 
-  alt="1.5. Code Together."
+  alt="1.05 Code Together."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -2167,13 +2166,13 @@ you&apos;re going to need to do for the homework in this section. Practice
 here, come back and watch me, if it helps you out a little bit getting
 over humps. But the important thing is, code, code, code, good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-06a">1.06a. Display and Visibility, Part 1</h2>
+<h2 id="week1-06a">1.06a Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 93. 1.6a. display and visibility (part 1) (55) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 93. display and visibility, part 1 (1.06a) (55) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image093.webp"
   style="width:40%;"
-  alt="Display and Visibility (part 1)." />
+  alt="1.06a Display and Visibility (part 1)." />
 </p>
 
 <p>Hi, today we&apos;re going to be talking about Display and Visibility on
@@ -2538,13 +2537,13 @@ So go ahead, do what we&apos;ve always been doing and just play with these a lit
 bit until you get the idea of what they do. As time goes on, you&apos;ll start to 
 figure out when you want them to actually do these kinds of actions.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-06b">1.06b. Display and Visibility, Part 2</h2>
+<h2 id="week1-06b">1.06b Display and Visibility, Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 94. 1.6b. display and visibility (part 2) (65) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 94. display and visibility, part 2 (1.06b) (65) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image094.webp"
   style="width:40%;"
-  alt="Display and Visibility (part 2)." />
+  alt="1.06b Display and Visibility (part 2)." />
 </p>
 
 One of the things you may have noticed as you&apos;ve been going through
@@ -2779,7 +2778,7 @@ easier. We want to avoid save refresh, save refresh. Instead, use those
 tools and you&apos;ll find that you&apos;re making really good decisions in your
 design and your code. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-07">1.07. Homework Description - Code Placement</h2>
+<h2 id="week1-07a">1.07a Homework Description - Code Placement</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
@@ -2833,12 +2832,13 @@ computers it matters and this would not work:
 
 &lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week1-07b">1.07b, cont'd: Homework One Description - Creating an External Style Sheet</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (73) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (1.07b) (73) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image128.webp" 
-  alt="Homework Description (1.7) - Creating an External Style Sheet."
+  alt="1.07b Homework Description - Creating an External Style Sheet."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -3202,12 +3202,12 @@ name of each file that they use:
 -   Coding together 3 with No CSS - Classes
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-01">2.01. Box Model</h2>
+<h2 id="week2-01">2.01 Box Model</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.1) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.01) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image147.webp" 
-  alt="2.1 Box Model."
+  alt="2.01 Box Model."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -3702,12 +3702,12 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/yYPppz>
 Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-02">2.02. Code Together</h2>
+<h2 id="week2-02">2.02 Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. code together (2.2) (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. code together (2.02) (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image174.webp" 
-  alt="2.2 Code Together."
+  alt="2.02 Code Together."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -3987,12 +3987,12 @@ I want your confidence to be very, very high by the end of week four that you ca
 do this. So good luck.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-03">2.03. Styling Links and Lists</h2>
+<h2 id="week2-03">2.03 Styling Links and Lists</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 196. styling links and lists (2.3) (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 196. styling links and lists (2.03) (106) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image196.webp" 
-  alt="2.3 Styling Links and Lists."
+  alt="2.03 Styling Links and Lists."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -4382,7 +4382,7 @@ more and more web design, I&apos;m hoping that you&apos;re gaining the
 confidence to help make something really cool that you&apos;re going to
 proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-04">2.04. Advanced Selectors</h2>
+<h2 id="week2-04">2.04 Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.04) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4848,12 +4848,12 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 -   background-position
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-05">2.05. Browser Capabilities</h2>
+<h2 id="week2-05">2.05 Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05.) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.webp" 
-  alt="2.05. Browser Capabilities."
+  alt="2.05 Browser Capabilities."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5315,12 +5315,12 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/QjOaVg>
 Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-06">2.06. Code Together</h2>
+<h2 id="week2-06">2.06 Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.6) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.06) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image265.webp" 
-  alt="2.6 Code Together."
+  alt="2.06 Code Together."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5604,12 +5604,12 @@ Here is a site you may find helpful.
 <https://css-tricks.com/almanac/properties/o/opacity/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-07">2.07. Designing for Accessibility</h2>
+<h2 id="week2-07">2.07 Designing for Accessibility</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (2.07.) (146) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (2.07) (146) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image282.webp" 
-  alt="2.07. Designing for Accessibility."
+  alt="2.07 Designing for Accessibility."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -5817,12 +5817,12 @@ performance of your page, as well as enhance accessibility:
 [http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era&#45;-webdesign-16824.](%20http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-08">2.08. Homework Two Description - Advanced Selectors</h2>
+<h2 id="week2-08">2.08 Homework Two Description - Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (two) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 293. homework two description - advanced selectors (2.08) (154) ~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image293.webp" 
-  alt="2.8. Homework Description (two): Advanced Selectors."
+  alt="2.08 Homework Two Description: Advanced Selectors."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6245,9 +6245,9 @@ of each file that they use:
 -   Positioning
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-01">3.01. Pseudo Classes and Elements</h2>
+<h2 id="week3-01">3.01 Pseudo Classes and Elements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (3.01.) (163) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (3.01) (163) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image309.webp" 
   alt="3.01 Pseudo Classes and Elements."
@@ -6295,7 +6295,6 @@ above, higher in, they tend to gray it out. The way you would do this is you cou
 say, you know what? If someone hovers over my paragraph, I want to just do a border. 
 Border:1 px. Now, even though there&apos;s no place on the DOM where they have 
 p:hover, it should work for you when you put that styling rule in.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 311. pseudo-classes position example (165) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6334,7 +6333,7 @@ different selections.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. review (3.01) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image313.webp" 
-  alt="Review (3.01. Pseudo Classes and Elements)."
+  alt="Review (3.01 Pseudo Classes and Elements)."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6349,12 +6348,12 @@ about. But I do want to give you the tools so that you can go out and
 investigate how you can add some cool new styles to your page. Good
 luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-02">3.02. Transitions</h2>
+<h2 id="week3-02">3.02 Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (3.02) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image314.webp" 
-  alt="3-02. Transitions."
+  alt="3-02 Transitions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6549,10 +6548,10 @@ delay. So when you look at other people&apos;s code, don&apos;t be confused if
 it doesn&apos;t look like my first example. They&apos;ve probably been using the
 shortcuts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 325. review: transitions (3.02.) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 325. review: transitions (3.02) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image325.webp" 
-  alt="3.02. Review: Transitions."
+  alt="Review: Transitions (3.02)."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -6569,12 +6568,12 @@ going to tab through. You want to make sure that all your content is
 always available, and just keep those transitions for something a little
 bit extra to add to your site. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-03">3.03. Transforms</h2>
+<h2 id="week3-03">3.03 Transforms</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. transforms (3.03) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image326.webp" 
-  alt="3.03. Transforms."
+  alt="3.03 Transforms."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6759,9 +6758,9 @@ using transitions, transforms, and some of the other things we&apos;ve been
 learning all along. I hope you&apos;ll take a look at it and feel a little
 more confident about what we just learned with transforms. Good luck.
 
-<h4>OPTIONAL READINGS - Transitions, Transforms, and Animation</h4>
+<h4>READINGS - Transitions, Transforms, and Animation</h4>
 
-<h4>Optional Readings:</h4>
+<h4>Readings:</h4>
 
 1.  [CSS3
     Transitions](http://www.w3schools.com/css/css3_transitions.asp) -
@@ -6778,12 +6777,12 @@ more confident about what we just learned with transforms. Good luck.
     animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-04">3.04. Code Together - Transitions</h2>
+<h2 id="week3-04">3.04 Code Together - Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 338. 3.04. code together - transitions (178) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 338. code together - transitions (3.04) (178) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image338.webp" 
-  alt="3.04. Code Together - Transitions."
+  alt="3.04 Code Together - Transitions."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -6914,7 +6913,7 @@ very own version of those annoying ads. Using the box model principals,
 you learned earlier, you will learn to manipulate the positioning
 property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-05">3.05. Positioning</h2>
+<h2 id="week3-05">3.05 Positioning</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 345. positioning (3.05) (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7268,7 +7267,6 @@ of each file that they use:</p>
 
 Someone also asked for a link to one of the images I use in a video. It
 is a lightning bolt.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 363. lightening bolt as sample list item marker (190) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7278,9 +7276,8 @@ is a lightning bolt.
   width="5%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-01">4-01 Styling Tables</h2>
+<h2 id="week4-01">4.01 Styling Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In today&apos;s code review, we&apos;re going to talk about making a calendar.
 Because what I really like about calendars is that there are all these little, 
 tiny things you need to think about to really make your page look professional.
@@ -7334,7 +7331,6 @@ with me with this code and know exactly what I&apos;m doing. Instead, I&apos;m
 giving it to you as a resource to kind of pick through and understand
 the different parts as you need to and as you want to incorporate them
 into your page.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 367. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7350,7 +7346,6 @@ different things instead of trying to read the code. I&apos;ve gone in and I
 wanted to make my calendar with a very nice border radius so I&apos;d have
 something around the top. The thing is, the table itself is really only
 this part. It&apos;s not the caption.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 368. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7373,7 +7368,6 @@ table and putting class equals even, class equals odd, class equals
 even, especially if later you decide to add more information and it
 throws off your rows. This is something really powerful that you should
 try to take advantage of.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 369. sample calendar with appointments (195) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7408,7 +7402,6 @@ Let&apos;s go back to the HTML. I have put all of my elements inside a span tag.
 So here, I&apos;ve got span library helper. I&apos;m hoping that you are thinking 
 right now and going, why don&apos;t these show up when I first look at the calendar? 
 Why isn&apos;t it there?
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 371. sample calendar, hidden td (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7426,7 +7419,6 @@ there. Visibility hidden says, I want to leave all that space, but I
 don&apos;t want to show what&apos;s in there. It&apos;s a very little nuanced thing,
 and this is exactly why I made this example, so you could see the
 difference. All right, so now it&apos;s hidden.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 372. click and show hidden table data (196) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7448,28 +7440,25 @@ all go together to create a page that can look so much better than just
 plain HTML by itself. So, I&apos;m hoping you&apos;ll use this code and create
 something great for yourself. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-02">4-02 Creating Navigation Menus</h2>
+<h2 id="week4-02">4.02 Creating Navigation Menus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (4.02) (197) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image373.webp" 
-  alt="4-02. Creating Navigation Menus."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  alt="4.02 Creating Navigation Menus."
+  style="border: 2px solid #000000; width: 40%;" />
 </p>
 
 Welcome back. Since it&apos;s week four and you&apos;re working on your final
 project, what I want to do is show you some of the different options that you can 
 use when you&apos;re styling your pages. And in this module, I want to show you 
 what happens when you try to make a vertical navigation bar.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 374. navigation bar with four links (197) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image374.webp" 
   alt="Navigation bar with 4 links/menu options."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 So over here in my browser, I have what the page is going to look like
@@ -7481,8 +7470,7 @@ four simple links.
 <p align="center">
   <img src="./images/image375.webp" 
   alt="The before navigation menu."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>Again, links are inline, so they go next to each other. There&apos;s no color. 
@@ -7494,8 +7482,7 @@ navigation bar.</p>
 <p align="center">
   <img src="./images/image376.webp" 
   alt="The after navigation menu."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>Let's start by talking about the body. I just put in some background color, padding, 
@@ -7511,8 +7498,7 @@ background color, etc.</p>
 <p align="center">
   <img src="./images/image377.webp" 
   alt="1st steps - creating a nav menu bar."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 The first thing I did, though, is I made it inline-block, because I want my navigation 
@@ -7563,12 +7549,12 @@ we&apos;ve already talked about, display, line height, background URLs, we
 were able to make something that I think looks really cool for a simple,
 vertical navigation bar. Go ahead and try it. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-03">4-03 Accessible Navigation Menu</h2>
+<h2 id="week4-03">4.03 Accessible Navigation Menu</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (4.03) (201) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image380.webp" 
-  alt="4-03. Accessible Navigation Menu."
+  alt="4.03 Accessible Navigation Menu."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7679,7 +7665,6 @@ instead, if you really like the look of that h3 heading, instead of
 using the tag, you should be styling other tags to replicate that look.
 Find out which font family they use. Find out which font size. Just
 repeat it. Don&apos;t use tags just because you like the way they look.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386. off-page headings (204) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7694,7 +7679,6 @@ off-page headings. It&apos;s useful to do when you want to give the screen
 reader user some sort of navigational aid, but you don&apos;t want to put it
 right in the page and have your sighted users also have to deal with it
 all the time.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387. off-page headings, #2 (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7709,7 +7693,6 @@ sheets to basically set something offpage, we&apos;ve given it the name of
 offpage, and we&apos;ve said, hey, I want to place this in a position
 absolute off to the left by -1000px. So, you&apos;ll know that that&apos;s
 pretty far off.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 388. uofm human resources home page (205) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7723,7 +7706,6 @@ I have here the University of Michigan Human Resources page. And if you
 look up near the top, there&apos;s really nothing there, up here in the top
 corner. But what I&apos;m going to do, is I&apos;m going to go ahead and hit
 Tab. And, what Tab does, is it brings the next element into focus.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 389. tab to main content (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7750,7 +7732,6 @@ more just marketing and different things like that. So, these different
 off screen navigation links are extremely useful to allow people to jump
 immediately to what they want to get to. But, by using styling, we&apos;ve
 taken it off the page that you only use it if you really want to.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 391. off-page headings with example (207) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7770,7 +7751,6 @@ At the start of the lecture, I mentioned that meaningful link text is
 very important for accessibility because screen readers can find and
 list all of the links. Now, what you may not realize is the way that
 these links are displayed may not be in the way you expect.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392. meaningful link text (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7792,7 +7772,6 @@ entire URL, www.umich.edu/etc. It may look very descriptive, but if you
 have to listen to the description, it can be very confusing. Instead,
 unless you have a very short URL, go ahead and use some sort of textual
 description.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 393. review: accessible navigation (4.03) (208) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7807,7 +7786,6 @@ you finish making your page, it&apos;s not enough for it to look good. You
 need to think about how easy it is to navigate your page. Think about
 what would happen if the colors weren&apos;t there, or if somebody could
 only navigate to your page with a mouse.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 394. old page without style (208) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7821,7 +7799,6 @@ I want to show you really quickly what I&apos;m talking about here. Here&apos;s
 an old page of mine, and, at the bottom, I have the University of
 Michigan. I just want to show you what happens when I take away the
 style.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 395. old page accessibility and styling (209) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7840,7 +7817,7 @@ Make great use of headings. Make great use of link text. And make sure
 that you&apos;re giving people the tools they need to navigate your page
 successfully. Thanks.
 
-### OPTIONAL: A Change to the Accessibility of Headings
+### A Change to the Accessibility of Headings
 
 It used to be that the general rule was one &lt;h1&gt; heading per page.
 However, with the advent of HTML5 and its many container elements
@@ -7857,12 +7834,12 @@ disagrees.
 <https://yoast.com/headings-use/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-04">4-04 Creating Navigation Menus 2</h2>
+<h2 id="week4-04">4.04 Creating Navigation Menus #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 396. creating navigation menus 2 (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 396. creating navigation menus #2 (4.04) (210) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image396.webp" 
-  alt="4.04. Creating Navigation Menus 2."
+  alt="4.04 Creating Navigation Menus #2."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -7952,14 +7929,13 @@ page that you are trying to create. So go ahead, have some fun, and now
 try to make a navigation bar that goes in all different ways, up and
 down, sideways, or even combinations. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-05">4-05 Creating Navigation Menus #3</h2>
+<h2 id="week4-05">4.05 Creating Navigation Menus #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 401. creating navigation menus #3 (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 401. creating navigation menus #3 (4.05) (213) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image401.webp" 
-  alt="04.05. Creating Navigation Menus #3."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  alt="4.05 Creating Navigation Menus #3."
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Guess what? We&apos;re going to do another, and our final, navigation bar
@@ -7973,8 +7949,7 @@ navigation links as part of lists.
 <p align="center">
   <img src="./images/image402.webp"
   alt="Before navigation menu with unordered list items."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 You can see, we already have it a little bit different over here. I&apos;ve
@@ -7996,8 +7971,7 @@ to hover over three things at the same time.
 <p align="center">
   <img src="./images/image403.webp" 
   alt="Before navigation menu with unordered list items, again."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 So again, while this is a technique, I want to share with you and help
@@ -8012,8 +7986,7 @@ exciting.
 <p align="center">
   <img src="./images/image404.webp" 
   alt="Updated horizontal navigation bar styled."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 What we have here now is a horizontal navigation bar that&apos;s going to
@@ -8022,9 +7995,8 @@ have drop down elements.
 <!--~~~~~~~~~~~~~~~~~ 405. horizontal nav bar with line item drop down (215) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image405.webp" 
-  alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  alt="Horizontal nav bar with line item drop down menu."
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 So, when I go over Home, there&apos;s nothing extra to see, but, when I go
@@ -8038,12 +8010,11 @@ navigation because I think you know how to do all this. Instead, let&apos;s
 talk about the different lists themselves. So sorry, list items
 themselves in the links.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 406.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 406. horizontal nav bar; recipes (21x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image406.webp" 
-  alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  alt="Horizontal nav bar; Recipes."
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 So, what I&apos;ve done is I&apos;ve gone in here, kind of so you can see both
@@ -8052,10 +8023,10 @@ different color now. But I have a border between each one of these
 options. Now, it would have looked a little bit weird for me to have a
 border right here along the side.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 407.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 407. horizontal nav bar; recipes, again (21x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image407.webp" 
-  alt="."
+  alt="Horizontal nav bar; Recipes, again."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8067,10 +8038,10 @@ little bit more professional. We also don&apos;t want borders on the sub
 items, right? Because there&apos;s nothing. Since those are blocked, we
 don&apos;t need borders on the side.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 408.  () ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 408. horizontal nav bar with drop down (21x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image408.webp" 
-  alt="."
+  alt="Horizontal nav bar; Recipes with drop down menu."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8237,14 +8208,13 @@ site. You can watch it in the next video, or link directly here:
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-06">4-06 Optional - Homework Description</h2>
+<h2 id="week4-06">4.06 Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 414. homework description (4.6) - final project (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 414. homework description (4.06) - final project (217) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image414.webp" 
-  alt="4.6 Homework Description - Final Project."
+  alt="4.06 Homework Description - Final Project."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -8497,7 +8467,7 @@ your understanding of CSS. If you run into problems, you should feel free to use
 the discussion boards and ask people anything that you&apos;re not quite sure on. 
 Or just share something cool that you got to work. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-07">4-07 Conclusion</h2>
+<h2 id="week4-07">4.07 Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (4.07) (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8576,4 +8546,4 @@ great in CSS 3.</p>
   width="40%;" />
 </p>
 -->
-<h6>Last Updated: 12/05/2023 2:17pm</h6>
+<h6>Last Updated: 2/07/2023 10:17am</h6>
