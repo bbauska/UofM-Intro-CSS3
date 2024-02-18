@@ -16,16 +16,14 @@ output:
 <p align="center">
   <img src="./images/image001.webp" 
   alt="Cascade Style Sheet 3 logo."
-  style="border: 2px solid #000000;" 
-  width="500px;" />
+  style="border: 2px solid #000000; width:500px;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by university of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.webp" 
   alt="offered by University of Michigan."
-  style="border: 2px solid #000000;" 
-  width="200px;" />
+  style="border: 2px solid #000000; width:200px;" />
 </p>
 
 
@@ -901,8 +899,7 @@ your styling rules.
 <p align="center">
   <img src="./images/image023.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Alright, so we know how those four go, but what if you have a selector
@@ -928,8 +925,7 @@ to look at the one it saw last.
 <p align="center">
   <img src="./images/image024.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In this case, I have two rules for h1. One writes at the color to blue.
@@ -944,8 +940,7 @@ family Times. It&apos;s just always is going to use the last one it saw.
 <p align="center">
   <img src="./images/image025.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Again, the most recent rule has precedence, whether it was inside your
@@ -955,8 +950,7 @@ code or it came from different files.
 <p align="center">
   <img src="./images/image026.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 There is, however, one way to overwrite this. Suppose you&apos;re writing
@@ -973,8 +967,7 @@ works out.
 <p align="center">
   <img src="./images/image027.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s go ahead and look at an example of what I mean by all those
@@ -998,8 +991,7 @@ okay.
 <p align="center">
   <img src="./images/image028.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In our next example we have an internal style. In this case, I&apos;ve put
@@ -1012,8 +1004,7 @@ go over here.
 <p align="center">
   <img src="./images/image029.webp" 
   alt="Internal style example with red paragraphs and blue h1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can see that now, even though my HTML doesn&apos;t have any type of
@@ -1024,8 +1015,7 @@ the heading. All right?
 <p align="center">
   <img src="./images/image030.webp" 
   alt="External style example with red paragraphs and blue h1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The last example I had for you is, I took these exact same rules and I
@@ -1045,8 +1035,7 @@ to kind of play with it as much as you can.
 <p align="center">
   <img src="./images/image031.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But I want to use this final example to help you understand how the
@@ -1057,8 +1046,7 @@ to go over here for just a second. Go to my, and I&apos;m going to add,
 <p align="center">
   <img src="./images/image032.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One last thing. Sorry, this is going to be awkward. And I&apos;m going to
@@ -1072,8 +1060,7 @@ want to make sure you include that style tag. Do it.
 <p align="center">
   <img src="./images/image033.webp" 
   alt="Both external and internal style sheet example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Make sure you close it up. All right. Now what I have going on here is
@@ -1106,8 +1093,7 @@ home the idea that CSS can be very powerful. Let&apos;s take a look.
 <p align="center">
   <img src="./images/image035.webp"
   alt="CSS Zen Garden example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 At this site, CSS Zen Garden, they&apos;ve actually done a really great job
@@ -1118,8 +1104,7 @@ in different ways.
 <p align="center">
   <img src="./images/image036.webp"
   alt="CSS Zen Garden example, #2"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Up here, if you take a look, you can see that this is one person&apos;s
@@ -1131,8 +1116,7 @@ know what, that&apos;s nice, but I&apos;m going to style it this way.
 <p align="center">
   <img src="./images/image037.webp"
   alt="CSS Zen Garden example, #3."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 It looks completely different. It&apos;s the same exact HTML but it looks
@@ -1142,8 +1126,7 @@ completely different.
 <p align="center">
   <img src="./images/image038.webp"
   alt="CSS Zen Garden example, #4."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In the same way, we&apos;ve got this one right here, same exact HTML. But
@@ -1160,8 +1143,7 @@ want your page to look. Thanks.
 <p align="center">
   <img src="./images/image039.webp"
   alt="1.03 Colors"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi. In today&apos;s lecture, we&apos;re going to be talking about colors. Before
@@ -1179,8 +1161,7 @@ on your web page.
 <p align="center">
   <img src="./images/image040.webp"
   alt="Color Conventions."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 We talk about the three different basic color conventions, the main ones
@@ -1202,8 +1183,7 @@ other two conventions I&apos;m going to talk about.
 <p align="center">
   <img src="./images/image041.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The first one is called hexadecimal. Hexadecimal you might recognize the
@@ -1220,8 +1200,7 @@ the number you put in there, the more red, green, or blue you&apos;ll see.
 <p align="center">
   <img src="./images/image042.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here&apos;s my example. I have an example of blue, red, but also yellow
@@ -1232,8 +1211,7 @@ it&apos;s can change the color that&apos;s going to show up on your screen.
 <p align="center">
   <img src="./images/image043.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now hexadecimal is probably the most common way of doing colors when you
@@ -1249,8 +1227,7 @@ strength of the color.
 <p align="center">
   <img src="./images/image044.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here I have rgb (0,0,1). One of the reasons that people have been
@@ -1260,8 +1237,7 @@ switching over to rgb is that there&apos;s another option called rgba.
 <p align="center">
   <img src="./images/image045.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And for the longest time I really had to think about what that a meant
@@ -1273,8 +1249,7 @@ want to kind of make it a little bit see through.
 <p align="center">
   <img src="./images/image046.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When it comes up, if I were to actually make it zero it would be
@@ -1292,8 +1267,7 @@ working.
 <p align="center">
   <img src="./images/image047.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What I brought up here is my course webpage and it&apos;s okay if you can&apos;t
@@ -1306,8 +1280,7 @@ it look different.
 <p align="center">
   <img src="./images/image048.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I have my mouse, right here. I&apos;m going to right-click, and I'm going to
@@ -1318,8 +1291,7 @@ to the side or underneath.
 <p align="center">
   <img src="./images/image049.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can move it around by clicking on this button over here. But as you
@@ -1329,8 +1301,7 @@ can see, I&apos;m going to highlight my h1 and go down here to the span.
 <p align="center">
   <img src="./images/image050.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And you can be like oh, there&apos;s the color I&apos;m using.
@@ -1339,8 +1310,7 @@ And you can be like oh, there&apos;s the color I&apos;m using.
 <p align="center">
   <img src="./images/image051.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I&apos;m going to go ahead and click on this, and as you can see I can
@@ -1355,8 +1325,7 @@ my style sheet.
 <p align="center">
   <img src="./images/image052.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 They also give you the option of the RGBA value as well so you can do it
@@ -1368,8 +1337,7 @@ happening as you&apos;re designing it.
 <p align="center">
   <img src="./images/image053.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If you want to check something else, I can even go down here, each thing
@@ -1381,8 +1349,7 @@ color.
 <p align="center">
   <img src="./images/image054.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And as you can see, they have the actual names. Because it&apos;s very
@@ -1399,8 +1366,7 @@ with it, and keep going with it. But let&apos;s go back.
 <p align="center">
   <img src="./images/image055.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One of the things that happens when people are using color is there&apos;s
@@ -1431,8 +1397,7 @@ really exact level is of where you need to go.
 <p align="center">
   <img src="./images/image056.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What you can do is use different tools to help you quantify the contrast
@@ -1447,8 +1412,7 @@ UMISH, which may change by the time this comes up.
 <p align="center">
   <img src="./images/image057.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And, as you can see, you can go over here and it&apos;ll check your styles,
@@ -1458,8 +1422,7 @@ it&apos;ll check your different HTML.
 <p align="center">
   <img src="./images/image058.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But if you check where my mouse is, you can also check on the contrast.
@@ -1473,8 +1436,7 @@ with it. But you want to take their suggestions with a grain of salt.
 <p align="center">
   <img src="./images/image059.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The one thing I really wanted to talk to you about again, is just this
@@ -1486,8 +1448,7 @@ share is Apple iPhone, the Pre Palm, different things along that line.
 <p align="center">
   <img src="./images/image060.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, let&apos;s look at that same graph but in grayscale. And suddenly you
@@ -1502,8 +1463,7 @@ someplace else where people can link to get this information.
 <p align="center">
   <img src="./images/image061.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, so I know I didn&apos;t talk a lot about the different colors
@@ -1529,8 +1489,7 @@ programming, and keep styling your site.
 <p align="center">
   <img src="./images/image062.webp" 
   alt="1.04 Styling Your Text."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, in today&apos;s lecture, we&apos;re going to talk about styling your text on
@@ -1544,8 +1503,7 @@ options and we&apos;re going to talk about some of them today.
   <img src="./images/image063.webp" 
   alt="Options for styling your text include font, color, background, alignment 
     &amp; line-height."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One of those options is to think about basically your font. Some of the
@@ -1560,8 +1518,7 @@ emphasize the different things you would like your style to bring about.
 <p align="center">
   <img src="./images/image064.webp" 
   alt="font-family."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 First let&apos;s talk about font family. Font families are just different types 
@@ -1582,8 +1539,7 @@ inside quotes. All right.
 <p align="center">
   <img src="./images/image065.webp" 
   alt="font-family: arial."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 How it works is, again, you use your syntax rule. You have your
@@ -1596,8 +1552,7 @@ to look like this example here.
 <p align="center">
   <img src="./images/image066.webp" 
   alt="font-family: Courier, Impact, Arial."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now every single browser doesn&apos;t support everything. We&apos;ve seen this
@@ -1619,8 +1574,7 @@ bad font family. It&apos;ll always come through.
 <p align="center">
   <img src="./images/image067.webp" 
   alt="font-family: two categories; serif and sans-serif."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When you pick your font families, there&apos;s a few things you should think
@@ -1638,8 +1592,7 @@ possible.
 <p align="center">
   <img src="./images/image068.webp" 
   alt="font-family: custom."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>I personally don&apos;t use custom fonts myself, but I&apos;ve never been an
@@ -1660,8 +1613,7 @@ you&apos;re going to use mySpecialFont.</p>
 <p align="center">
   <img src="./images/image069.webp" 
   alt="font-style: italic, normal, oblique."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s talk about font style. It&apos;s a much fancier word than you might
@@ -1680,8 +1632,7 @@ towards.
 <p align="center">
   <img src="./images/image070.webp" 
   alt="font-variant: normal, small-caps."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>The font variant, we really only have two options here. We have normal and we have 
@@ -1694,8 +1645,7 @@ down at the bottom, I&apos;ve written &lt;h1&gt;Small caps variation.</p>
 <p align="center">
   <img src="./images/image071.webp" 
   alt="font-variant: small-caps."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But when the browser displays it, it&apos;s going to display it in small
@@ -1707,8 +1657,7 @@ you write it; the browser will always show it in uppercase.
 <p align="center">
   <img src="./images/image072.webp" 
   alt="font-size: xx-small to xx-large &amp; pixels."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now font size is something that we&apos;ll be talking about pretty much
@@ -1720,7 +1669,9 @@ extra-small, small, and smaller. I don&apos;t really like those very much,
 because it doesn&apos;t really give me a frame of reference. You can have
 medium, you can have large, extra-large, xx-large, and larger. Very few
 people use these options, but they&apos;re out there so I wanted to tell you
-what they were. Instead, what many people use is pixels. I&apos;m
+what they were. 
+
+Instead, what many people use is pixels. I&apos;m
 going to include on the website this nice table that relates how many pixels to 
 an inch, how many pixels to picos, so you can get a feel for it. But most people 
 do something along the lines of 20 pixels, 35 pixels, 80 pixels. And this is a 
@@ -1735,8 +1686,7 @@ size. If you say use 110% it will be slightly larger. If you were to use
 <p align="center">
   <img src="./images/image073.webp" 
   alt="color (foreground) and background-color."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, let&apos;s talk about color and background color. The color attribute
@@ -1749,8 +1699,7 @@ kind of text you&apos;re styling; it can look very different.
 <p align="center">
   <img src="./images/image074.webp" 
   alt="colors example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, here I&apos;ve done one rule, and you haven&apos;t seen this before. I&apos;m
@@ -1772,8 +1721,7 @@ color only goes around just the element and the text itself.
 <p align="center">
   <img src="./images/image075.webp" 
   alt="text-align: left, right, center, justify."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next let&apos;s talk about aligning text. Aligning text is simple. It&apos;s
@@ -1792,8 +1740,7 @@ possible.
 <p align="center">
   <img src="./images/image076.webp" 
   alt="Text left-align example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So let me show you some examples because that&apos;s really the best way to
@@ -1805,8 +1752,7 @@ Everything lines up along the left-hand side of the screen.
 <p align="center">
   <img src="./images/image077.webp" 
   alt="Text inline equals right example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next one I&apos;ve used text in line equals right. And you can see that
@@ -1819,8 +1765,7 @@ else kind of going along in the side 7in the middle here.
 <p align="center">
   <img src="./images/image078.webp" 
   alt="Text inline center example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next one we&apos;re going to do is center. People use center quite a
@@ -1832,8 +1777,7 @@ up your text and have it look a little bit different.
 <p align="center">
   <img src="./images/image079.webp" 
   alt="Text justified means width is same all around."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Justify is really hard to explain, and even when you first look at it,
@@ -1846,8 +1790,7 @@ so it has the exact same width all the way along.
 <p align="center">
   <img src="./images/image080.webp" 
   alt="Text justified vs. left example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I&apos;m going to show you the justified with the left. And I think that&apos;s
@@ -1860,8 +1803,7 @@ no one place has too much blank space.
 <p align="center">
   <img src="./images/image081.webp" 
   alt="line-height."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Next, we&apos;re going to talk about line height, and line height is really
@@ -1885,8 +1827,7 @@ rules affect the text.</p>
 <p align="center">
   <img src="./images/image082.webp" 
   alt="Review (1.4)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s review. I know I went over a lot of things, and it can be
@@ -1943,8 +1884,7 @@ Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 <p align="center">
   <img src="./images/image083.webp" 
   alt="1.05 Code Together."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, everybody, welcome back. One of the things I really want to stress
@@ -1962,8 +1902,7 @@ to type it in and make mistakes as we go along together.
 <p align="center">
   <img src="./images/image084.webp" 
   alt="Practice Coding; Styling."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Okay, so let&apos;s go ahead and begin. What I&apos;m going to do in this section
@@ -1977,8 +1916,7 @@ one now, go up here to file, new file, or you can do command N.
 <p align="center">
   <img src="./images/image085.webp" 
   alt="Create .css file."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And the first thing you want to do is you want to save this as a .CSS
@@ -1996,8 +1934,7 @@ file extension, or things aren&apos;t going to work.
 <p align="center">
   <img src="./images/image086.webp" 
   alt="Practice Styling; Style Header."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Here&apos;s my old, boring page. What people typically do is they style from 
@@ -2017,8 +1954,7 @@ called CSS? I need to include that. All right, come back. Reload.</p>
 <p align="center">
   <img src="./images/image087.webp" 
   alt="Update background-color and text-align: center."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Oh, hey! I've got a little bit of something going on there. All right?
@@ -2035,8 +1971,7 @@ going to call it text-align: center. Save, refresh.
 <p align="center">
   <img src="./images/image088.webp" 
   alt="Update h1 font color and font-variant."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The page is starting to look slightly different all the time. Now the
@@ -2064,8 +1999,7 @@ happened.
 <p align="center">
   <img src="./images/image089.webp" 
   alt="Update style.css rules."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>You can see I&apos;m going to make it a little bit bigger, we&apos;re starting
@@ -2087,8 +2021,7 @@ because when I put in that font size 150%, it makes a big difference.</p>
 <p align="center">
   <img src="./images/image090.webp" 
   alt="Style summary in italics."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>All right. One last thing I&apos;d like you to try to do is go ahead and try
@@ -2116,8 +2049,7 @@ So that&apos;s it.</p>
 <p align="center">
   <img src="./images/image091.webp" 
   alt="Style header and Footer same."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Now we&apos;ve got this part in italics and this part in bold. For the most
@@ -2134,8 +2066,7 @@ of font size, a few different things like that.</p>
 <p align="center">
   <img src="./images/image092.webp" 
   alt="Old and new styles side-by-side."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let me show you what the original file looked like again and we&apos;ll look
@@ -2164,8 +2095,7 @@ is key to a really effective page.</p>
 <p align="center">
   <img src="./images/image095.webp" 
   alt="Display is Key to Layout."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>One of the things you need to remember is that every element we look
@@ -2183,8 +2113,7 @@ that.</p>
   <img src="./images/image096.webp" 
   alt="Common Values; Inline: sits next to other elements &amp; takes up 'just 
     enough' width and height."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When we talk about display, there&apos;s some common values that pretty much
@@ -2200,8 +2129,7 @@ They&apos;re going to get along.
 <p align="center">
   <img src="./images/image097.webp" 
   alt="Display: block; default takes up all width but just enough height."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The other type of display is block. And what block does is it forces a
@@ -2215,8 +2143,7 @@ driving in the car.
 <p align="center">
   <img src="./images/image098.webp" 
   alt="Display: block; forces line break."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What&apos;s nice about block elements is, while they take up all of the
@@ -2235,8 +2162,7 @@ something that takes the best of both.
 <p align="center">
   <img src="./images/image099.webp" 
   alt="Display: inline-block; same as inline but also accepts height and width."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And this is inline-block. Elements that have display inline-block are
@@ -2253,8 +2179,7 @@ and height.
 <p align="center">
   <img src="./images/image100.webp" 
   alt="Display: none; removed from page."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The fourth one which we don&apos;t really use as much is the idea of display
@@ -2269,8 +2194,7 @@ ones that we&apos;re really going to start playing with at the beginning.
 <p align="center">
   <img src="./images/image101.webp" 
   alt="Example; 3 span, 3 div and 3 paragraph elements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What I have right here is just a simple file that&apos;s going to have three
@@ -2288,8 +2212,7 @@ a different background color.
 <p align="center">
   <img src="./images/image102.webp" 
   alt="Example; span is green, div is blue, and paragraph is pinkish."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>If we&apos;re to look at it right now. You would see that I&apos;ve made all my
@@ -2312,8 +2235,7 @@ refresh.</p>
 <p align="center">
   <img src="./images/image103.webp" 
   alt="Example; use inspect element."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I got to inspect element over here by right-clicking, and what I&apos;m
@@ -5370,8 +5292,7 @@ color. This overwrites any earlier rules, so I&apos;m going to go in here.
 <p align="center">
   <img src="./images/image269.webp" 
   alt="Style two elements at once."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And I&apos;m going to delete this, and say, let&apos;s get rid of that. Refresh,
@@ -5530,8 +5451,7 @@ this:
 <p align="center">
   <img src="./images/image281.webp" 
   alt="Subfolders; CSS and images."
-  style="border: 2px solid #000000;" 
-  width="20%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But if your style sheet is trying to link to a picture called
@@ -5590,8 +5510,7 @@ Here is a site you may find helpful.
 <p align="center">
   <img src="./images/image282.webp" 
   alt="2.07 Designing for Accessibility."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, and welcome back as we go back and we talk about designing for
@@ -5604,8 +5523,7 @@ and remind you of the basics of when you&apos;re designing your page.
 <p align="center">
   <img src="./images/image283.webp" 
   alt="Overview (2.7) Designing for Accessibility."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And part of that basics is that I want to remind you that the content of
@@ -5625,8 +5543,7 @@ really kind of match up with what you&apos;re doing with your CSS.
 <p align="center">
   <img src="./images/image284.webp" 
   alt="Perceivable."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In order for things to be perceivable, I just want you to remember a
@@ -5654,8 +5571,7 @@ what you&apos;ve put up there.
 <p align="center">
   <img src="./images/image285.webp" 
   alt="Operable."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, let&apos;s talk about what it means for your page to be operable. What
@@ -5687,8 +5603,7 @@ them to find content and figure out where they are on your page.
 <p align="center">
   <img src="./images/image286.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here&apos;s just a few quick examples of different ways that people
@@ -5700,8 +5615,7 @@ that they can use to navigate through the web.
 <p align="center">
   <img src="./images/image287.webp" 
   alt="Understandable."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, let&apos;s talk about what I mean when a page is understandable.
@@ -5730,8 +5644,7 @@ to figure out how to access the information.
 <p align="center">
   <img src="./images/image288.webp" 
   alt="Robust."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Finally, the R, the robust in the POUR. Is your site functional across
@@ -5757,8 +5670,7 @@ better page.
 <p align="center">
   <img src="./images/image289.webp" 
   alt="Review (2.7) Designing for Accessibility."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Just to review, I&apos;m not asking you to make great strides. I just want
@@ -5803,8 +5715,7 @@ performance of your page, as well as enhance accessibility:
 <p align="center">
   <img src="./images/image293.webp" 
   alt="2.08 Homework Two Description: Advanced Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <h4>Homework Two: Advanced Selectors</h4>
@@ -5816,8 +5727,7 @@ watch it to get a better feel for what I am looking for.</h5>
 <p align="center">
   <img src="./images/image294.webp" 
   alt="Objective."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <h4>Objectives:</h4>
@@ -5898,8 +5808,7 @@ site. You can watch it in the next video, or link directly here:</i></b>
 <p align="center">
   <img src="./images/image130.webp" 
   alt="Ultimate Frisbee: Watch Your Head; Before changes."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <h4>After</h4>
@@ -5918,8 +5827,7 @@ site. You can watch it in the next video, or link directly here:</i></b>
 <p align="center">
   <img src="./images/image292.webp" 
   alt="Ultimate Frisbee History."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <h4>Homework Description</h4>
@@ -5928,8 +5836,7 @@ site. You can watch it in the next video, or link directly here:</i></b>
 <p align="center">
   <img src="./images/image293.webp" 
   alt="2.08. Homework Description."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, everybody. Welcome back, it&apos;s time for another homework example.
@@ -5940,8 +5847,7 @@ pages that you started styling last week.
 <p align="center">
   <img src="./images/image294.webp" 
   alt="Objective."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The objective of this assignment is that I don&apos;t want you to be
@@ -5953,8 +5859,7 @@ html files.
 <p align="center">
   <img src="./images/image295.webp" 
   alt="Getting Started."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When you get started it&apos;s very important that you&apos;ve completed the
@@ -5986,8 +5891,7 @@ and we got rid of those images.
 <p align="center">
   <img src="./images/image298.webp" 
   alt="Add background-images, highlight selected menu option."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What I want you to work on this week is really changing things and
@@ -6003,8 +5907,7 @@ the home link is highlighted because we&apos;re on the home page.
 <p align="center">
   <img src="./images/image299.webp" 
   alt="History link - background and sources."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If I click on history, the history link is how that it because we&apos;re on
@@ -6018,8 +5921,7 @@ at in order to complete this assignment.
 <p align="center">
   <img src="./images/image300.webp" 
   alt="You must leave the HTML alone."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When you get started, you&apos;re going to leave that HTML code alone, and
@@ -6037,8 +5939,7 @@ left-hand side of the page.
 <p align="center">
   <img src="./images/image301.webp" 
   alt="body: change padding and margin."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So first, let&apos;s talk about the body. By default, your browsers put in
@@ -6052,8 +5953,7 @@ I know I did because I just found the text a little bit too small.
 <p align="center">
   <img src="./images/image302.webp" 
   alt="header: change background-color and add background-image."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, go to the header. The first step is to change the background color
@@ -6067,8 +5967,7 @@ check in some of the other resources if you get stuck on this part.
 <p align="center">
   <img src="./images/image303.webp" 
   alt="h1: change font-size and color."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, I want you to change the font color and increase that font size a
@@ -6080,8 +5979,7 @@ navigation section but only those links. Not all the links in the page.
 <p align="center">
   <img src="./images/image304.webp" 
   alt="Navigation links: style only nav."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You don&apos;t need to recreate my example exactly, but I do want your links
@@ -6092,8 +5990,7 @@ rounded borders and no underline. Make them look nice.
 <p align="center">
   <img src="./images/image305.webp" 
   alt="Create an active class."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next make sure you saw that active class I talked about. That&apos;s how
@@ -6104,8 +6001,7 @@ having to look at the URL.
 <p align="center">
   <img src="./images/image306.webp" 
   alt="Page has a left and right class."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Now another thing that you're going to need to work on is this idea that
@@ -6120,8 +6016,7 @@ homework, but if you didn&apos;t make sure it gets done now.</p>
 <p align="center">
   <img src="./images/image307.webp" 
   alt="Images."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Finally, we want to get back to those images. First, you need to put the
@@ -6138,8 +6033,7 @@ the top and bottom, too.
 <p align="center">
   <img src="./images/image308.webp" 
   alt="Peer Grading."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Once again, we&apos;ll be using the peer grader to evaluate your work.
@@ -6231,8 +6125,7 @@ of each file that they use:
 <p align="center">
   <img src="./images/image309.webp" 
   alt="3.01 Pseudo Classes and Elements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Welcome back everybody. Today we&apos;re going to talk very briefly about
@@ -6244,8 +6137,7 @@ and style them.
 <p align="center">
   <img src="./images/image310.webp" 
   alt="Types of Pseudo-Classes."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well, pseudo elements are kind of different from the other things we&apos;ve
@@ -6280,8 +6172,7 @@ p:hover, it should work for you when you put that styling rule in.
 <p align="center">
   <img src="./images/image311.webp" 
   alt="Pseudo-Classes position example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can also style based on the structural position of the different
@@ -6297,8 +6188,7 @@ can be used to style specific or unique parts of the page.
 <p align="center">
   <img src="./images/image312.webp" 
   alt="Types of Pseudo-Elements; fancy first letter of paragraph."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Some examples might if you have a paragraph and you want to put in that
@@ -6314,8 +6204,7 @@ different selections.
 <p align="center">
   <img src="./images/image313.webp" 
   alt="Review (3.01 Pseudo Classes and Elements)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now I didn&apos;t give you much code when we went through here because
@@ -6334,8 +6223,7 @@ luck.
 <p align="center">
   <img src="./images/image314.webp" 
   alt="3-02 Transitions."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, everybody. In this lecture we&apos;re going to talk about transitions.
@@ -6347,8 +6235,7 @@ things. You can focus them.
 <p align="center">
   <img src="./images/image315.webp" 
   alt="Transitions - When 1 element transitions from 1 state to another."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well, what if you want to actually have a little bit of almost animation
@@ -6368,8 +6255,7 @@ there&apos;s four properties that you&apos;re going to want to look at.
 <p align="center">
   <img src="./images/image316.webp" 
   alt="The Properties."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The first is the actual transition property. What is it that you want to
@@ -6400,8 +6286,7 @@ really need to be focusing in on that one element.
 <p align="center">
   <img src="./images/image317.webp" 
   alt="Setting up."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>All right. Let&apos;s go ahead and get started. If you want to use transitions, 
@@ -6419,8 +6304,7 @@ focus or an active.</p>
 <p align="center">
   <img src="./images/image318.webp" 
   alt="Steps code."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s look at some code just on the screen, and then I&apos;ll run you
@@ -6434,8 +6318,7 @@ pixels.
 <p align="center">
   <img src="./images/image319.webp" 
   alt="Steps, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, I went in and I said, you know what, I&apos;m going to go ahead and
@@ -6450,8 +6333,7 @@ to wait a half a second before you start that transition.
 <p align="center">
   <img src="./images/image320.webp" 
   alt="Steps, #3."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The last step, the one that had to do with the pseudo-class, was adding
@@ -6465,8 +6347,7 @@ and a much bigger border radius. All right?
 <p align="center">
   <img src="./images/image321.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s go ahead and look at an example that I have. I already coded up
@@ -6483,8 +6364,7 @@ recall, is when you&apos;re clicking down on a state.
 <p align="center">
   <img src="./images/image322.webp" 
   alt="Example Transition."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s take a look. Here&apos;s my transition, just by default, when you&apos;re
@@ -6498,8 +6378,7 @@ circle.
 <p align="center">
   <img src="./images/image323.webp" 
   alt="Example Transition, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The final one is now I&apos;m going to hold the mouse down and we&apos;re going
@@ -6513,8 +6392,7 @@ your page.
 <p align="center">
   <img src="./images/image324.webp" 
   alt="Using Shorthands."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 It is possible and very common to use shorthand when you&apos;re writing out
@@ -6554,8 +6432,7 @@ bit extra to add to your site. Good luck.
 <p align="center">
   <img src="./images/image326.webp" 
   alt="3.03 Transforms."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hello everyone. Today we&apos;re going to talk briefly about transforms.
@@ -6635,8 +6512,7 @@ degree.
 <p align="center">
   <img src="./images/image332.webp" 
   alt="Scale."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, let&apos;s talk about scale. And scale is just a fancy way of saying,
@@ -6650,8 +6526,7 @@ after the transform scale.
 <p align="center">
   <img src="./images/image333.webp" 
   alt="Skew."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Skew is very hard for me to explain what it does, and it&apos;s even harder
@@ -6666,8 +6541,7 @@ skew, 30 degrees by 15 degrees.
 <p align="center">
   <img src="./images/image334.webp" 
   alt="Skew #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You start off here and you end up kind of turned at a very kind of weird
@@ -6679,8 +6553,7 @@ little bit.
 <p align="center">
   <img src="./images/image335.webp" 
   alt="Matrix."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next and final option is matrix. And when you use the matrix, you
@@ -6694,8 +6567,7 @@ and use each of the other individual transforms one at a time.
 <p align="center">
   <img src="./images/image336.webp" 
   alt="3d Rotate."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The other ones that we just talked about were two dimensional
@@ -6717,8 +6589,7 @@ think about.
 <p align="center">
   <img src="./images/image337.webp" 
   alt="Review: Transforms (3.03)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Typically, when you use transforms, you&apos;re going to use them with state
@@ -6763,8 +6634,7 @@ more confident about what we just learned with transforms. Good luck.
 <p align="center">
   <img src="./images/image338.webp" 
   alt="3.04 Code Together - Transitions."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In the past, we&apos;ve done code together segments, where I&apos;ve coded,
@@ -6778,8 +6648,7 @@ create more complex webpages.
 <p align="center">
   <img src="./images/image339.webp" 
   alt="Add 8 new divs, A thru H."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s start with some HTML. Over here, I have code that&apos;s just going
@@ -6793,8 +6662,7 @@ in a different order.
 <p align="center">
   <img src="./images/image340.webp" 
   alt="Tab Index New Divs."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In this case, the first thing would be A, and then C, and then B, etc.
@@ -6809,8 +6677,7 @@ transforms in action.
 <p align="center">
   <img src="./images/image341.webp" 
   alt="Add transition 2 seconds ease."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, let&apos;s go ahead and look at the CSS, and play with the browser. Now,
@@ -6832,8 +6699,7 @@ typing.
 <p align="center">
   <img src="./images/image342.webp" 
   alt="Change background color with focus."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So here we go. A changes color, and then C, and then B. This is you
@@ -6847,8 +6713,7 @@ and change the background color.
 <p align="center">
   <img src="./images/image343.webp" 
   alt="Highlight Smooth Transition."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s take a look. I&apos;m going to highlight over C right here, and then
@@ -6864,8 +6729,7 @@ position. So, make sure you use this sparingly.
 <p align="center">
   <img src="./images/image344.webp" 
   alt="Add div with animate class."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, let&apos;s get to the cool one, the last one. If you remember, I
@@ -6899,8 +6763,7 @@ property.
 <p align="center">
   <img src="./images/image345.webp" 
   alt="3.05 Positioning."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi everybody, welcome back. Today, we&apos;re going to be talking about
@@ -7117,8 +6980,7 @@ the next available space.
 <p align="center">
   <img src="./images/image358.webp" 
   alt="Static and Relative Elements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s see what&apos;s going to happen now if I change my element from
@@ -7252,8 +7114,7 @@ is a lightning bolt.
 <p align="center">
   <img src="./images/image363.webp" 
   alt="Lightening bolt - sample list item marker."
-  style="border: 2px solid #000000;" 
-  width="5%;" />
+  style="border: 2px solid #000000; width:5%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-01">4.01 Styling Tables</h2>
@@ -7266,8 +7127,7 @@ tiny things you need to think about to really make your page look professional.
 <p align="center">
   <img src="./images/image364.webp" 
   alt="Example plain calendar with appointments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What I have right here on the screen is a very, very plain calendar,
@@ -7281,8 +7141,7 @@ from our HTML5, and turn it into something that&apos;s really pleasing?
 <p align="center">
   <img src="./images/image365.webp" 
   alt="Example plain calendar with appointments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well let&apos;s take a look at what I&apos;ve done with it. Here, I&apos;ve used CSS
@@ -7298,8 +7157,7 @@ different.
 <p align="center">
   <img src="./images/image366.webp" 
   alt="Example plain calendar with appointments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The other thing I&apos;ve added is that on days that have these little
@@ -7316,8 +7174,7 @@ into your page.
 <p align="center">
   <img src="./images/image367.webp" 
   alt="Example plain calendar with appointments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s take a look at the CSS. You can see this is a very, very busy
@@ -7331,8 +7188,7 @@ this part. It&apos;s not the caption.
 <p align="center">
   <img src="./images/image368.webp" 
   alt="Example plain calendar with appointments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What I&apos;ve done is I said, don&apos;t worry about the top two corners, here
@@ -7353,8 +7209,7 @@ try to take advantage of.
 <p align="center">
   <img src="./images/image369.webp" 
   alt="Example plain calendar with appointments."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What about when you try to make your page look really professional, the
@@ -7374,8 +7229,7 @@ whole idea of when you want to hide things.
 <p align="center">
   <img src="./images/image370.webp" 
   alt="Put all elements inside span tag of calendar."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s go back to the HTML. I have put all of my elements inside a span tag. 
@@ -7387,8 +7241,7 @@ Why isn&apos;t it there?
 <p align="center">
   <img src="./images/image371.webp" 
   alt="Sample calendar, hidden table data (td)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well, the reason would be because by default, I&apos;m going to go ahead and
@@ -7404,8 +7257,7 @@ difference. All right, so now it&apos;s hidden.
 <p align="center">
   <img src="./images/image372.webp" 
   alt="Click date and display hidden table data (td)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But as soon as I make it active, and active means as soon as you&apos;re
@@ -7494,8 +7346,7 @@ looking at.
 <p align="center">
   <img src="./images/image378.webp" 
   alt="2nd step - creating a nav menu bar."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, let&apos;s talk about the actual lengths themselves. What I&apos;ve gone in 
@@ -7510,8 +7361,7 @@ it and this is how I can do it.
 <p align="center">
   <img src="./images/image379.webp" 
   alt="3rd step - add background image and menu markers."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>The next kind of cool thing I&apos;ve done is I&apos;ve added a background
@@ -7535,8 +7385,7 @@ vertical navigation bar. Go ahead and try it. Good luck.</p>
 <p align="center">
   <img src="./images/image380.webp" 
   alt="4.03 Accessible Navigation Menu."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>In this lecture we&apos;re going to be talking about accessible navigation.
@@ -7551,8 +7400,7 @@ wasted their time and some of yours.</p>
 <p align="center">
   <img src="./images/image381.webp" 
   alt="Navigation contents - visual cues."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>So, cited users have these kind of tried and true things that they look
@@ -7566,8 +7414,7 @@ we can see it just as soon as we open up the browser.</p>
 <p align="center">
   <img src="./images/image382.webp" 
   alt="Navigation contents - low visual-user cues."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>But for blind or low vision-users, they really need to rely on proper coding of 
@@ -7579,8 +7426,7 @@ doing this.</p>
 <p align="center">
   <img src="./images/image383.webp" 
   alt="What if you can't see?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What if you can&apos;t see? The first place that you get information is from
@@ -7606,8 +7452,7 @@ Me Here. You want to give good information in those link descriptions.
 <p align="center">
   <img src="./images/image384.webp" 
   alt="Proper heading hierarchy, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, we need to talk about proper heading hierarchy, okay? Headings
@@ -7621,8 +7466,7 @@ that there is meaning behind your page.
 <p align="center">
   <img src="./images/image385.webp" 
   alt="Proper heading hierarchy, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here&apos;s an example right here. I have my single h1 heading, and then in
@@ -7650,8 +7494,7 @@ repeat it. Don&apos;t use tags just because you like the way they look.
 <p align="center">
   <img src="./images/image386.webp" 
   alt="Off-page headings."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The other thing you can think about to help navigation, is this idea of
@@ -7664,8 +7507,7 @@ all the time.
 <p align="center">
   <img src="./images/image387.webp" 
   alt="Off-page headings, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, let me give you an example of this one. We&apos;re going to use styling
@@ -7678,8 +7520,7 @@ pretty far off.
 <p align="center">
   <img src="./images/image388.webp" 
   alt="University of Michigan's Human Resources Home Page."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I have here the University of Michigan Human Resources page. And if you
@@ -7691,8 +7532,7 @@ Tab. And, what Tab does, is it brings the next element into focus.
 <p align="center">
   <img src="./images/image389.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, go ahead and Tab, there. And you can see, that now, there&apos;s this
@@ -7702,8 +7542,7 @@ new thing here that says Skip to main content.
 <p align="center">
   <img src="./images/image390.webp" 
   alt="Tab to skip additional info."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If I click on it, I go all the way down, and I was able to skip a lot of
@@ -7717,8 +7556,7 @@ taken it off the page that you only use it if you really want to.
 <p align="center">
   <img src="./images/image391.webp" 
   alt="Off-page headings example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One of the things I wanted to mention is, if you&apos;re going to do
@@ -7736,8 +7574,7 @@ these links are displayed may not be in the way you expect.
 <p align="center">
   <img src="./images/image392.webp" 
   alt="Meaningful link text."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 They may be out of context. You may only be able to access them via
@@ -7757,8 +7594,7 @@ description.
 <p align="center">
   <img src="./images/image393.webp" 
   alt="Review: Accessible Navigation (4.03.)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, just to review, let&apos;s think about what we&apos;ve learned today. When
@@ -7771,8 +7607,7 @@ only navigate to your page with a mouse.
 <p align="center">
   <img src="./images/image394.webp" 
   alt="Old page without much styling."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I want to show you really quickly what I&apos;m talking about here. Here&apos;s
@@ -7784,8 +7619,7 @@ style.
 <p align="center">
   <img src="./images/image395.webp" 
   alt="Old page without styling and accessibility."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The page now, you can&apos;t even see the text anymore. These are the kind
@@ -7820,8 +7654,7 @@ disagrees.
 <p align="center">
   <img src="./images/image396.webp" 
   alt="4.04 Creating Navigation Menus #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Welcome back to another code review. Earlier, I created a navigation bar
@@ -7833,8 +7666,7 @@ navigation bar, instead.
 <p align="center">
   <img src="./images/image397.webp" 
   alt="Highlight photos menu option as selected in red."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s take a look. I want to go to something that looks a little bit
@@ -7849,8 +7681,7 @@ you&apos;re looking at right now.
 <p align="center">
   <img src="./images/image398.webp" 
   alt="Add nav 'a' to separate select links."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s take a look at the CSS and see how I&apos;ve taken plain HTML and
@@ -7867,9 +7698,9 @@ curved over here along the side. Nothing too important right there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 399. add class current (211) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image399.webp" 
-  alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Add Class Current"
+  alt="Add Class Current."
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next thing I have, the new one, is this idea of having a class
@@ -7888,8 +7719,6 @@ looks fine on a big screen and then really bad on a small screen.
 <p align="center">
   <img src="./images/image400.webp" 
   alt="Add nav a: hover, change color and border-radius."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
 </p>
 
 The last thing, I kind of put in here just to have some fun and to help
@@ -8007,8 +7836,7 @@ border right here along the side.
 <p align="center">
   <img src="./images/image407.webp" 
   alt="Horizontal nav bar; Recipes, again."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What I needed to do is I went and I said you know what? For that last
@@ -8022,8 +7850,7 @@ don&apos;t need borders on the side.
 <p align="center">
   <img src="./images/image408.webp" 
   alt="Horizontal nav bar; Recipes with drop down menu."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I did the same thing over here, where I said, you know what? I don&apos;t
@@ -8035,8 +7862,7 @@ right?
 <p align="center">
   <img src="./images/image409.webp" 
   alt="Hover will display block."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The one thing I did put in is, again, I wanted to show you an example of
@@ -8049,8 +7875,7 @@ like last time.
 <p align="center">
   <img src="./images/image410.webp"
   alt="Hover will display block."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now, here&apos;s the interesting part. We&apos;re going to talk about the sub
@@ -8071,8 +7896,7 @@ get it so that it suddenly does show up if we want to do something along that li
 <p align="center">
   <img src="./images/image411.webp" 
   alt="Hover will display block."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well, we want to find out how to change it here, when I hover over a
@@ -8084,8 +7908,7 @@ setting it up.
 <p align="center">
   <img src="./images/image412.webp" 
   alt="Hover will display block, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So that when I go over here, by default, display is none, but when I
@@ -8174,8 +7997,8 @@ site. You can watch it in the next video, or link directly here:
 <p align="center">
   <img src="./images/image412.webp" 
   alt="Before."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
+
 </p>
 
 ### After
@@ -8185,8 +8008,8 @@ site. You can watch it in the next video, or link directly here:
 <p align="center">
   <img src="./images/image413.webp"
   alt="After."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
+
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-06">4.06 Homework Description</h2>
@@ -8195,8 +8018,7 @@ site. You can watch it in the next video, or link directly here:
 <p align="center">
   <img src="./images/image414.webp" 
   alt="4.06 Homework Description - Final Project."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Welcome back. It&apos;s time for us to start our final project. I&apos;m really
@@ -8208,8 +8030,7 @@ something that you feel really proud of and that you&apos;ll want to share.
 <p align="center">
   <img src="./images/image415.webp" 
   alt="Objective."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Again, our objective is that we&apos;re going to write one style sheet and
@@ -8219,8 +8040,7 @@ style three different HTML files.
 <p align="center">
   <img src="./images/image416.webp"
   alt="Getting started."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Now, when you get started, I&apos;m going to assume that you have the second
@@ -8295,8 +8115,7 @@ looks really good.</p>
 <p align="center">
   <img src="./images/image424.webp" 
   alt="You must leave the HTML alone."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>Let&apos;s talk about each one of these little parts. Once again, just a
@@ -8310,9 +8129,9 @@ together examples.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425. table (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image425.webp" 
+  title="Table"
   alt="Table."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>Let&apos;s start with the table because that&apos;s the bulk of the page. At the
@@ -8342,8 +8161,7 @@ it differently and it means something different.</p>
 <p align="center">
   <img src="./images/image426.webp" 
   alt="Table heading."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>First, change the background color. Once you get that to work, I want
@@ -8359,9 +8177,9 @@ property, something that you think would look cool.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427. table rows (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image427.webp" 
+  title="Table rows"
   alt="Table rows."
-  style="border: 2px solid #000000;" 
-  width="50%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 <p>Once you have the table heading done, let&apos;s go ahead and put in some
@@ -8384,6 +8202,7 @@ example of that before I go on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428. table menu form (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image428.webp" 
+  title="Table menu form"
   alt="Table menu form."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -8394,6 +8213,7 @@ black font color. So that&apos;s where the opacity comes in.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. table menu form, #2 (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image429.webp" 
+  title="Table menu form, again"
   alt="Table menu form, again."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -8405,7 +8225,8 @@ or anything like that. Instead, what I changed is the opacity to set it to 1.</p
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. td - table data (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image430.webp" 
-  alt="TD - table elements."
+  title="TD - table data"
+  alt="TD - table data."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -8426,6 +8247,7 @@ to try to replicate it, go ahead and try to use it yourself.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 431. peer grading (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image431.webp" 
+  title="Peer grading"
   alt="Peer grading."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -8452,6 +8274,7 @@ Or just share something cool that you got to work. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (4.07) (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image432.webp" 
+  title="4.07 In closing, 'Intro to CSS3'"
   alt="4.07 In closing, 'Intro to CSS3'."
   style="border: 2px solid #000000; width: 40%;" />
 </p>
@@ -8469,6 +8292,7 @@ my own progress as a web designer?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 433. what's next? (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image433.webp" 
+  title="What's next?"
   alt="What's next?"
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -8522,8 +8346,7 @@ great in CSS 3.</p>
 <p align="center">
   <img src="./images/image###.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 -->
 <h6>Last Updated: 2/07/2023 10:17am</h6>
