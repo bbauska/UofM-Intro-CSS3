@@ -7505,7 +7505,8 @@ all the time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387. off-page headings, #2 (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image387.webp" 
+  <img src="./images/image387.webp"
+  title="Off-page headings, #2"
   alt="Off-page headings, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7518,7 +7519,8 @@ pretty far off.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 388. uofm human resources home page (205) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image388.webp" 
+  <img src="./images/image388.webp"
+  title="University of Michigan's Human Resources Home Page"
   alt="University of Michigan's Human Resources Home Page."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7530,8 +7532,9 @@ Tab. And, what Tab does, is it brings the next element into focus.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 389. tab to main content (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image389.webp" 
-  alt="."
+  <img src="./images/image389.webp"
+  title="Tab to main content"
+  alt="Tab to main content."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -7540,7 +7543,8 @@ new thing here that says Skip to main content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 390. tab to skip additional info (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image390.webp" 
+  <img src="./images/image390.webp"
+  title="Tab to skip additional info"
   alt="Tab to skip additional info."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7554,7 +7558,8 @@ taken it off the page that you only use it if you really want to.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 391. off-page headings with example (207) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image391.webp" 
+  <img src="./images/image391.webp"
+  title="Off-page headings example"
   alt="Off-page headings example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7573,6 +7578,7 @@ these links are displayed may not be in the way you expect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392. meaningful link text (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image392.webp" 
+  title="Meaningful link text"
   alt="Meaningful link text."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7593,7 +7599,8 @@ description.
 <!--~~~~~~~~~~~~~~~~~~~~~ 393. review: accessible navigation (4.03) (208) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image393.webp" 
-  alt="Review: Accessible Navigation (4.03.)."
+  title="Review: Accessible Navigation (4.03)"
+  alt="Review: Accessible Navigation (4.03)."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -7605,7 +7612,8 @@ only navigate to your page with a mouse.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 394. old page without style (208) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image394.webp" 
+  <img src="./images/image394.webp"
+  title="Old page without much styling"
   alt="Old page without much styling."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7618,6 +7626,7 @@ style.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 395. old page accessibility and styling (209) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image395.webp" 
+  title="Old page without styling and accessibility"
   alt="Old page without styling and accessibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7653,6 +7662,7 @@ disagrees.
 <!--~~~~~~~~~~~~~~~~~~~~~ 396. creating navigation menus #2 (4.04) (210) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image396.webp" 
+  title="4.04 Creating Navigation Menus #2"
   alt="4.04 Creating Navigation Menus #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7665,6 +7675,7 @@ navigation bar, instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 397. highlight menu option as selected (210) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image397.webp" 
+  title="Highlight photos menu option as selected in red"
   alt="Highlight photos menu option as selected in red."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7680,6 +7691,7 @@ you&apos;re looking at right now.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 398. add nav a to separate links (211) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image398.webp" 
+  title="Add nav 'a' to separate select links"
   alt="Add nav 'a' to separate select links."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7718,6 +7730,7 @@ looks fine on a big screen and then really bad on a small screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 400. add nav a: hover (212) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image400.webp" 
+  title="Add nav a: hover, change color and border-radius"
   alt="Add nav a: hover, change color and border-radius."
 </p>
 
@@ -7743,6 +7756,7 @@ down, sideways, or even combinations. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~ 401. creating navigation menus #3 (4.05) (213) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image401.webp" 
+  title="4.05 Creating Navigation Menus #3"
   alt="4.05 Creating Navigation Menus #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7757,6 +7771,7 @@ navigation links as part of lists.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402. before navigation menu (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image402.webp"
+  title="Before navigation menu with unordered list items"
   alt="Before navigation menu with unordered list items."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7779,6 +7794,7 @@ to hover over three things at the same time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403. before nav menu, again (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image403.webp" 
+  title="Before navigation menu with unordered list items, again"
   alt="Before navigation menu with unordered list items, again."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7794,6 +7810,7 @@ exciting.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 404. horizontal nav bar updated/styled (214) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image404.webp" 
+  title="Updated horizontal navigation bar styled"
   alt="Updated horizontal navigation bar styled."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7804,6 +7821,7 @@ have drop down elements.
 <!--~~~~~~~~~~~~~~~~~ 405. horizontal nav bar with line item drop down (215) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image405.webp" 
+  title="Horizontal nav bar with line item drop down menu"
   alt="Horizontal nav bar with line item drop down menu."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7822,6 +7840,7 @@ themselves in the links.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 406. horizontal nav bar; recipes (21x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image406.webp" 
+  title="Horizontal nav bar; Recipes"
   alt="Horizontal nav bar; Recipes."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7835,6 +7854,7 @@ border right here along the side.
 <!--~~~~~~~~~~~~~~~~~~~~~ 407. horizontal nav bar; recipes, again (21x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image407.webp" 
+  title="Horizontal nav bar; Recipes, again"
   alt="Horizontal nav bar; Recipes, again."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7849,6 +7869,7 @@ don&apos;t need borders on the side.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 408. horizontal nav bar with drop down (21x) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image408.webp" 
+  title="Horizontal nav bar; Recipes with drop down menu"
   alt="Horizontal nav bar; Recipes with drop down menu."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7861,6 +7882,7 @@ right?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409. using transition (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image409.webp" 
+  title="Hover will display block"
   alt="Hover will display block."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7874,6 +7896,7 @@ like last time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 410. sub menu transition (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image410.webp"
+  title="Hover will display block"
   alt="Hover will display block."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7895,6 +7918,7 @@ get it so that it suddenly does show up if we want to do something along that li
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411. hover menu (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image411.webp" 
+  title="Hover will display block"
   alt="Hover will display block."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7907,6 +7931,7 @@ setting it up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 412. hover display becomes block (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image412.webp" 
+  title="Hover will display block, #2"
   alt="Hover will display block, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7996,9 +8021,9 @@ site. You can watch it in the next video, or link directly here:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412. before (216) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image412.webp" 
+  title="Before"
   alt="Before."
   style="border: 2px solid #000000; width:40%;" />
-
 </p>
 
 ### After
@@ -8007,9 +8032,9 @@ site. You can watch it in the next video, or link directly here:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 413. after (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image413.webp"
+  title="After"
   alt="After."
   style="border: 2px solid #000000; width:40%;" />
-
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="week4-06">4.06 Homework Description</h2>
@@ -8017,6 +8042,7 @@ site. You can watch it in the next video, or link directly here:
 <!--~~~~~~~~~~~~~~~~~ 414. homework description (4.06) - final project (217) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image414.webp" 
+  title="4.06 Homework Description - Final Project"
   alt="4.06 Homework Description - Final Project."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -8029,6 +8055,7 @@ something that you feel really proud of and that you&apos;ll want to share.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415. objective (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image415.webp" 
+  title="Objective"
   alt="Objective."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -8039,6 +8066,7 @@ style three different HTML files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416. getting started (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image416.webp"
+  title="Getting started"
   alt="Getting started."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -8052,10 +8080,12 @@ you want, but I need to know that those changes are completed.</p>
 <img class="border"
   src="./images/image417.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  title="Before"
   alt="Before." />
 <img class="border"
   src="./images/image418.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  title="After"
   alt="After." />
 <p style="clear: both;"></p>
 </p>
@@ -8068,10 +8098,12 @@ we&apos;re going with this final project.</p>
 <img class="border"
   src="./images/image419.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  title="Ultimate Frisbee History menu"
   alt="Ultimate Frisbee History menu." />
 <img class="border"
   src="./images/image420.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  title="Ultimate Frisbee History menu, #2"
   alt="Ultimate Frisbee History menu, #2." />
 <p style="clear: both;"></p>
 </p>
@@ -8084,10 +8116,12 @@ first HTML view. Our next one, we made it really plain.</p>
 <img class="border"
   src="./images/image421.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  title="Examples of proprietary and open-source CMS software"
   alt="Examples of proprietary and open-source CMS software." />
 <img class="border"
   src="./images/image422.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  title="More on examples of proprietary and open-source CMS software"
   alt="More on examples of proprietary and open-source CMS software." />
 <p style="clear: both;"></p>
 </p>
@@ -8095,6 +8129,7 @@ first HTML view. Our next one, we made it really plain.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423. college teams (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image423.webp" 
+  title="College teams"
   alt="College teams."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -8114,6 +8149,7 @@ looks really good.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 424. you must leave the html alone (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image424.webp" 
+  title="You must leave the HTML alone"
   alt="You must leave the HTML alone."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -8160,6 +8196,7 @@ it differently and it means something different.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426. table heading (221) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image426.webp" 
+  title="Table heading"
   alt="Table heading."
   style="border: 2px solid #000000; width:50%;" />
 </p>
