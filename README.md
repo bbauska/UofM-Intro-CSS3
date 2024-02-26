@@ -15,6 +15,7 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. cascade style sheet logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.webp" 
+  title="Cascade Style Sheet 3 logo"
   alt="Cascade Style Sheet 3 logo."
   style="border: 2px solid #000000; width:500px;" />
 </p>
@@ -22,6 +23,7 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by university of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.webp" 
+  title="offered by University of Michigan"
   alt="offered by University of Michigan."
   style="border: 2px solid #000000; width:200px;" />
 </p>
@@ -358,6 +360,7 @@ you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.webp" 
+  title="University of Michigan - Intro to CSS3" 
   alt="University of Michigan - Intro to CSS3." 
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -369,6 +372,7 @@ turn it into something really beautiful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image004.webp" 
+  title="What This Course Will Cover"
   alt="What This Course Will Cover."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -398,6 +402,7 @@ page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 05. week 1 - getting your feet wet (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image005.webp" 
+  title="Week 1: Getting Your Feet Wet"
   alt="Week 1: Getting Your Feet Wet."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -425,6 +430,7 @@ but that&apos;s okay. Because we&apos;re going to repeat it week after week.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. week 2 - box model (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image006.webp" 
+  title="Week 2: Box Model"
   alt="Week 2: Box Model."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -451,6 +457,7 @@ And I want you to know how to best react to that.
 <!--~~~~~~~~~~~~~~~~~~~~~ 07. week 3 - pseudo-classes and elements (10) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image007.webp" 
+  title="Week 3: Pseudo-Classes and Elements"
   alt="Week 3: Pseudo-Classes and Elements."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -475,6 +482,7 @@ own annoying pop-up ad.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 4 - style a table sample (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image008.webp" 
+  title="Week 4: Style a Table Sample"
   alt="Week 4: Style a Table Sample."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -491,6 +499,7 @@ you&apos;re ready and are interested in taking it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. who is this class for? (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image009.webp" 
+  title="Who is this class for?"
   alt="Who is this class for?"
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -632,6 +641,7 @@ you can change the pages.
 <!--~~~~~~~~~~~~~~~~~~~ 10. intro to cascading style sheets v3 (1.02) (14) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image010.webp" 
+  title="1.02 Introduction to Cascading Style Sheets v3"
   alt="1.02 Introduction to Cascading Style Sheets v3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -644,6 +654,7 @@ until now, you may not have styled them at all.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the cascading part of css (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image011.webp" 
+  title="The Cascading part of CSS"
   alt="The Cascading part of CSS."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -695,6 +706,7 @@ choices. And the rules are set up like this.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 12. css: selector, property &amp; value (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image012.webp" 
+  title="CSS: Selector, Property &amp; Value"
   alt="CSS: Selector, Property &amp; Value."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -1075,6 +1087,7 @@ can do that formatting.
 <!--~~~~~~~~~~~~~~~~~~~~ 34. review style sheets - internal & external (26) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image034.webp" 
+  title="Review - Both external and internal style sheet example"
   alt="Review - Both external and internal style sheet example."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -1092,6 +1105,7 @@ home the idea that CSS can be very powerful. Let&apos;s take a look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. css zen garden (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image035.webp"
+  title="CSS Zen Garden example"
   alt="CSS Zen Garden example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1103,7 +1117,8 @@ in different ways.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. css zen garden, #2 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image036.webp"
-  alt="CSS Zen Garden example, #2"
+  title="CSS Zen Garden example, #2"
+  alt="CSS Zen Garden example, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1115,6 +1130,7 @@ know what, that&apos;s nice, but I&apos;m going to style it this way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. css zen garden, #3 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image037.webp"
+  title="CSS Zen Garden example, #3"
   alt="CSS Zen Garden example, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1125,6 +1141,7 @@ completely different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. css zen garden, #4 (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image038.webp"
+  title="CSS Zen Garden example, #4"
   alt="CSS Zen Garden example, #4."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1142,7 +1159,8 @@ want your page to look. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (1.03) (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image039.webp"
-  alt="1.03 Colors"
+  title="1.03 Colors"
+  alt="1.03 Colors."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1160,6 +1178,7 @@ on your web page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40. color conventions (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image040.webp"
+  title="Color Conventions"
   alt="Color Conventions."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1488,6 +1507,7 @@ programming, and keep styling your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. styling your text (1.04) (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image062.webp" 
+  title="1.04 Styling Your Text"
   alt="1.04 Styling Your Text."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1500,7 +1520,9 @@ options and we&apos;re going to talk about some of them today.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. options for styling text (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image063.webp" 
+  <img src="./images/image063.webp"
+  title="Options for styling your text include font, color, background, alignment 
+    &amp; line-height"
   alt="Options for styling your text include font, color, background, alignment 
     &amp; line-height."
   style="border: 2px solid #000000; width:40%;" />
@@ -1517,6 +1539,7 @@ emphasize the different things you would like your style to bring about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 64. font-family (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image064.webp" 
+  title="font-family"
   alt="font-family."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1538,6 +1561,7 @@ inside quotes. All right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65. font-family: arial (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image065.webp" 
+  title="font-family: arial"
   alt="font-family: arial."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1551,6 +1575,7 @@ to look like this example here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 66. font-family alternatives (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image066.webp" 
+  title="font-family: Courier, Impact, Arial"
   alt="font-family: Courier, Impact, Arial."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1573,6 +1598,7 @@ bad font family. It&apos;ll always come through.
 <!--~~~~~~~~~~~~~~~~~~~ 67. font-family: use sans-serif when possible (41) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image067.webp" 
+  title="font-family: two categories; serif and sans-serif"
   alt="font-family: two categories; serif and sans-serif."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1591,6 +1617,7 @@ possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 68. font-family: custom fonts (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image068.webp" 
+  title="font-family: custom"
   alt="font-family: custom."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1612,6 +1639,7 @@ you&apos;re going to use mySpecialFont.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 69. font-style: italic, normal, oblique (42) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image069.webp" 
+  title="font-style: italic, normal, oblique"
   alt="font-style: italic, normal, oblique."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1631,6 +1659,7 @@ towards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 70. font-variant: normal, small-caps (43) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image070.webp" 
+  title="font-variant: normal, small-caps"
   alt="font-variant: normal, small-caps."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1644,6 +1673,7 @@ down at the bottom, I&apos;ve written &lt;h1&gt;Small caps variation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 71. font-variant: small-caps example (43) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image071.webp" 
+  title="font-variant: small-caps"
   alt="font-variant: small-caps."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1656,6 +1686,7 @@ you write it; the browser will always show it in uppercase.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. font-size (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image072.webp" 
+  title="font-size: xx-small to xx-large &amp; pixels"
   alt="font-size: xx-small to xx-large &amp; pixels."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1685,6 +1716,7 @@ size. If you say use 110% it will be slightly larger. If you were to use
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73. color and background-color (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image073.webp" 
+  title="color (foreground) and background-color"
   alt="color (foreground) and background-color."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1698,6 +1730,7 @@ kind of text you&apos;re styling; it can look very different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 74. colors example (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image074.webp" 
+  title="colors example"
   alt="colors example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1720,6 +1753,7 @@ color only goes around just the element and the text itself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. text-align (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image075.webp" 
+  title="text-align: left, right, center, justify"
   alt="text-align: left, right, center, justify."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1739,6 +1773,7 @@ possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 76. left-align example (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image076.webp" 
+  title="Text left-align example"
   alt="Text left-align example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1751,6 +1786,7 @@ Everything lines up along the left-hand side of the screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 77. text inline right example (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image077.webp" 
+  title="Text inline equals right example"
   alt="Text inline equals right example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1764,6 +1800,7 @@ else kind of going along in the side 7in the middle here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78. text center example (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image078.webp" 
+  title="Text inline center example"
   alt="Text inline center example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6966,6 +7003,7 @@ pseudo classes that they used.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 357. a, b, and c relative (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image357.webp" 
+  title="A, B, and C all relative"
   alt="A, B, and C all relative."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6979,6 +7017,7 @@ the next available space.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 358. static and relative element (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image358.webp" 
+  title="Static and Relative Elements"
   alt="Static and Relative Elements."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6995,6 +7034,7 @@ bit in either direction.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 359. stacked a and b (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image359.webp" 
+  title="Rectangles A and B stacked"
   alt="Rectangles A and B stacked."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7012,6 +7052,7 @@ dynamically. But this is what happens with absolute.
 <!--~~~~~~~~~~~~~~~~~~~~~ 360. static, relative, absolute and fixed (190) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image360.webp" 
+  title="Position: fixed so can't scroll away"
   alt="Position: fixed so can't scroll away."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7030,6 +7071,7 @@ hand.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 361. z-index (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image361.webp" 
+  title="z-index"
   alt="z-index."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7054,6 +7096,7 @@ like on top.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 362. review of 3.05 positioning (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image362.webp" 
+  title="Review 3.05 - Positioning"
   alt="Review 3.05 - Positioning."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7113,6 +7156,7 @@ is a lightning bolt.
 <!--~~~~~~~~~~~~~~~~~ 363. lightening bolt as sample list item marker (190) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image363.webp" 
+  title="Lightening bolt - sample list item marker"
   alt="Lightening bolt - sample list item marker."
   style="border: 2px solid #000000; width:5%;" />
 </p>
@@ -7126,6 +7170,7 @@ tiny things you need to think about to really make your page look professional.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 364. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image364.webp" 
+  title="Example plain calendar with appointments"
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7140,6 +7185,7 @@ from our HTML5, and turn it into something that&apos;s really pleasing?
 <!--~~~~~~~~~~~~~~~~~~~~~~ 365. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image365.webp" 
+  title="Example plain calendar with appointments"
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7156,6 +7202,7 @@ different.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 366. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image366.webp" 
+  title="Example plain calendar with appointments"
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7173,6 +7220,7 @@ into your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 367. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image367.webp" 
+  title="Example plain calendar with appointments"
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7187,6 +7235,7 @@ this part. It&apos;s not the caption.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 368. sample calendar with appointments (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image368.webp" 
+  title="Example plain calendar with appointments"
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7208,6 +7257,7 @@ try to take advantage of.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 369. sample calendar with appointments (195) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image369.webp" 
+  title="Example plain calendar with appointments"
   alt="Example plain calendar with appointments."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7228,6 +7278,7 @@ whole idea of when you want to hide things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 370. sample calendar with span tag (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image370.webp" 
+  title="Put all elements inside span tag of calendar"
   alt="Put all elements inside span tag of calendar."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7240,6 +7291,7 @@ Why isn&apos;t it there?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 371. sample calendar, hidden td (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image371.webp" 
+  title="Sample calendar, hidden table data (td)"
   alt="Sample calendar, hidden table data (td)."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7256,6 +7308,7 @@ difference. All right, so now it&apos;s hidden.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 372. click and show hidden table data (196) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image372.webp" 
+  title="Click date and display hidden table data (td)"
   alt="Click date and display hidden table data (td)."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7277,6 +7330,7 @@ something great for yourself. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (4.02) (197) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image373.webp" 
+  title="4.02 Creating Navigation Menus"
   alt="4.02 Creating Navigation Menus."
   style="border: 2px solid #000000; width: 40%;" />
 </p>
@@ -7289,6 +7343,7 @@ what happens when you try to make a vertical navigation bar.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 374. navigation bar with four links (197) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image374.webp" 
+  title="Navigation bar with 4 links/menu options"
   alt="Navigation bar with 4 links/menu options."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -8386,4 +8441,4 @@ great in CSS 3.</p>
   style="border: 2px solid #000000; width:40%;" />
 </p>
 -->
-<h6>Last Updated: 2/07/2023 10:17am</h6>
+<h6>Last Updated: 2/25/2024 8:53pm</h6>
