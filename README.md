@@ -1,7 +1,7 @@
 ---
 title: "2. University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "2/07/2023 10+am"
+date last editted: "3/13/2023 10+am"
 output: 
   markdown:
     with some style
@@ -6224,6 +6224,7 @@ can be used to style specific or unique parts of the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. types of pseudo-elements (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image312.webp" 
+  title="Types of Pseudo-Elements; fancy first letter of paragraph"
   alt="Types of Pseudo-Elements; fancy first letter of paragraph."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6240,6 +6241,7 @@ different selections.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. review (3.01) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image313.webp" 
+  title="Review (3.01 Pseudo Classes and Elements)"
   alt="Review (3.01 Pseudo Classes and Elements)."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6258,8 +6260,9 @@ luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (3.02) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image314.webp" 
-  alt="3-02 Transitions."
+  <img src="./images/image314.webp"
+  title="3.02 Transitions"
+  alt="3.02 Transitions."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -6271,6 +6274,7 @@ things. You can focus them.
 <!--~~~~~~~ 315. transitions - when 1 element transition from 1 state to another (166) ~~~~~~~~~-->
 <p align="center">
   <img src="./images/image315.webp" 
+  title="Transitions - When 1 element transitions from 1 state to another"
   alt="Transitions - When 1 element transitions from 1 state to another."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6290,7 +6294,8 @@ there&apos;s four properties that you&apos;re going to want to look at.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316. the properties (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image316.webp" 
+  <img src="./images/image316.webp"
+  title="The Properties"
   alt="The Properties."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6322,6 +6327,7 @@ really need to be focusing in on that one element.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317. setting up (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image317.webp" 
+  title="Setting up"
   alt="Setting up."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6340,6 +6346,7 @@ focus or an active.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. steps code (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image318.webp" 
+  title="Steps code"
   alt="Steps code."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6354,6 +6361,7 @@ pixels.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319. steps, #2 (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image319.webp" 
+  title="Steps, #2"
   alt="Steps, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6369,6 +6377,7 @@ to wait a half a second before you start that transition.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320. steps #3 (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image320.webp" 
+  title="Steps, #3"
   alt="Steps, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6383,7 +6392,8 @@ and a much bigger border radius. All right?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. internal style sheet (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image321.webp" 
-  alt="."
+  title="Internal Style Sheet"
+  alt="Internal Style Sheet."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -6400,6 +6410,7 @@ recall, is when you&apos;re clicking down on a state.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322. example transition (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image322.webp" 
+  title="Example Transition"
   alt="Example Transition."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6414,6 +6425,7 @@ circle.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. example transition, #2 (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image323.webp" 
+  title="Example Transition, #2"
   alt="Example Transition, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6428,6 +6440,7 @@ your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324. using shorthands (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image324.webp" 
+  title="Using Shorthands"
   alt="Using Shorthands."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6446,6 +6459,7 @@ shortcuts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 325. review: transitions (3.02) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image325.webp" 
+  title="Review: Transitions (3.02)"
   alt="Review: Transitions (3.02)."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6467,7 +6481,8 @@ bit extra to add to your site. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. transforms (3.03) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image326.webp" 
+  <img src="./images/image326.webp"
+  title="3.03 Transforms"
   alt="3.03 Transforms."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6481,6 +6496,7 @@ dimensional manner as people are looking at your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. 2d transform options (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image327.webp" 
+  title="2d Transform Options"
   alt="2d Transform Options."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6500,6 +6516,7 @@ to make it a little bit clearer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 328. translate (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image328.webp" 
+  title="Translate"
   alt="Translate."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6511,6 +6528,7 @@ see it move off to the right and down a little bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 329. translate example (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image329.webp" 
+  title="Translate example"
   alt="Translate example."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6525,6 +6543,7 @@ spin. You just see the result or what it would look like at the end.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330. rotate #1 (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image330.webp" 
+  title="Rotate, #1"
   alt="Rotate, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6535,6 +6554,7 @@ degrees.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. rotate #2 (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image331.webp" 
+  title="Rotate, #2"
   alt="Rotate, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6548,6 +6568,7 @@ degree.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. scale (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image332.webp" 
+  title="Scale"
   alt="Scale."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6562,6 +6583,7 @@ after the transform scale.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333. skew (175) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image333.webp" 
+  title="Skew"
   alt="Skew."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6577,6 +6599,7 @@ skew, 30 degrees by 15 degrees.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 334. skew #2 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image334.webp" 
+  title="Skew #2"
   alt="Skew #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6589,6 +6612,7 @@ little bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 335. matrix (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image335.webp" 
+  title="Matrix"
   alt="Matrix."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6603,6 +6627,7 @@ and use each of the other individual transforms one at a time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 336. 3d rotate (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image336.webp" 
+  title="3d Rotate"
   alt="3d Rotate."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6625,6 +6650,7 @@ think about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 337. review: transforms (3.03) (177) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image337.webp" 
+  title="Review: Transforms (3.03)"
   alt="Review: Transforms (3.03)."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6670,6 +6696,7 @@ more confident about what we just learned with transforms. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~ 338. code together - transitions (3.04) (178) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image338.webp" 
+  title="3.04 Code Together - Transitions"
   alt="3.04 Code Together - Transitions."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6684,6 +6711,7 @@ create more complex webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339. new divs, a thru h - 8 (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image339.webp" 
+  title="Add 8 new divs, A thru H"
   alt="Add 8 new divs, A thru H."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6698,6 +6726,7 @@ in a different order.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 340. tab index new divs (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image340.webp" 
+  title="Tab Index New Divs"
   alt="Tab Index New Divs."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6708,11 +6737,11 @@ you in our code. The only other thing I wanted you to know in this HTML
 is that the very last div has a class animate in it. I&apos;ve made this one
 a little bit different so that you can look at transitions and
 transforms in action.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 341. transition two seconds ease (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image341.webp" 
+  title="Add transition 2 seconds ease"
   alt="Add transition 2 seconds ease."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6730,11 +6759,11 @@ elements. And when I do, you can see that they all light up. I&apos;m going
 to refresh the page, because the one that I expected to go first
 didn&apos;t. That&apos;s because I&apos;d been tabbing before we even started
 typing.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 342. color change with focus (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image342.webp" 
+  title="Change background color with focus"
   alt="Change background color with focus."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6749,6 +6778,7 @@ and change the background color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 343. highlight smooth transition (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image343.webp" 
+  title="Highlight Smooth Transition"
   alt="Highlight Smooth Transition."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6765,6 +6795,7 @@ position. So, make sure you use this sparingly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 344. div with animate class (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image344.webp" 
+  title="Add div with animate class"
   alt="Add div with animate class."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6799,6 +6830,7 @@ property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 345. positioning (3.05) (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image345.webp" 
+  title="3.05 Positioning"
   alt="3.05 Positioning."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6818,6 +6850,7 @@ can use, okay?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 346. position properties (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image346.webp" 
+  title="Position Properties"
   alt="Position Properties."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6833,6 +6866,7 @@ over from the left.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 347. static, #1 (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image347.webp" 
+  title="Static, #1"
   alt="Static, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6850,6 +6884,7 @@ it&apos;s going to work is something like this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 348. static, #2 (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image348.webp" 
+  title="Static, #2"
   alt="Static, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -8442,3 +8477,4 @@ great in CSS 3.</p>
 </p>
 -->
 <h6>Last Updated: 2/25/2024 8:53pm</h6>
+<h6>Last Updated: 3/13/2024 10:17am</h6>
