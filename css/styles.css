@@ -1,4 +1,4 @@
-/* styles.css for w3cx-4of5 */
+/* css/styles.css for UofM-Intro-CSS3 */
 img.displayed {
   display: block;
   margin: 0 auto;
@@ -15,7 +15,6 @@ p { font-size: 15px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif;
     text-align: left; 
     margin-left: 5px; }
-	
 p.em1 {
   margin-left: 1em; }
 p.em2 {
@@ -76,7 +75,6 @@ body {
     padding: 10px;  /* 15px */
     border-radius: 1px;  /* 4px */
   }
-
   #myBtn:hover {
     background-color: #555;  /* very dark gray */
   }
@@ -85,7 +83,6 @@ details {
   font: 11px Inter, sans-serif, Bahnschrift, Calibri;
   width: min-content;  /* 75%; */
 }
-
 details > summary {
   padding: 2px 6px;
   width: max-content;  /* 12em */
@@ -94,7 +91,6 @@ details > summary {
   box-shadow: 3px 3px 4px #00008b;  /* dark blue */
   cursor: pointer;
 }
-
 details > p {
   border-radius: 0 0 10px 10px;
   background-color: #fff;  /* white */
@@ -103,7 +99,6 @@ details > p {
   box-shadow: 3px 3px 4px #0008b;  /* dark blue */
   cursor: pointer;
 }
-
 details[open] > summary {
   background-color: yellow;
 }
@@ -122,7 +117,6 @@ pre > code {
   padding: 1rem;
   word-wrap: normal;
 }
-
 pre[href]:hover {
   text-decoration: none;
   }
