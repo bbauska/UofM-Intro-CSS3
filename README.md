@@ -7489,6 +7489,7 @@ wasted their time and some of yours.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 381. navigation contents - visual cues (201) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image381.webp" 
+  title="Navigation contents - visual cues"
   alt="Navigation contents - visual cues."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7503,6 +7504,7 @@ we can see it just as soon as we open up the browser.</p>
 <!--~~~~~~~~~~~~~~~~~~ 382. navigation contents - low visual-user cues (202) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image382.webp" 
+  title="Navigation contents - low visual-user cues"
   alt="Navigation contents - low visual-user cues."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7515,6 +7517,7 @@ doing this.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383. what if you can't see? (202) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image383.webp" 
+  title="What if you can't see?"
   alt="What if you can't see?"
   style="border: 2px solid #000000; width:40%;" />
 </p>
