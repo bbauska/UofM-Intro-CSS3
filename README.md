@@ -5278,7 +5278,7 @@ doing.
   <img src="./images/image266.webp" 
   title="Before/After web changes"
   alt="Before/After web changes."
-  style="border: 2px solid #000000; width:40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 When we last were coding together, hopefully you created something that
@@ -5295,7 +5295,7 @@ utilizing these new selectors that we&apos;ve been studying. Let&apos;s begin.
   <img src="./images/image267.webp" 
   title="Linear gradient in header/footer"
   alt="Linear gradient in header/footer."
-  style="border: 2px solid #000000; width:40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 The first thing that I want to do is put in that linear gradient or that
@@ -5318,8 +5318,7 @@ about why that happened.
   <img src="./images/image268.webp" 
   title="footer, background and clear: both"
   alt="footer, background and clear: both."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 The reason is if we scroll down, you can see that further down in the
@@ -5331,7 +5330,7 @@ color. This overwrites any earlier rules, so I&apos;m going to go in here.
   <img src="./images/image269.webp" 
   title="Style two elements at once"
   alt="Style two elements at once."
-  style="border: 2px solid #000000; width:40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 And I&apos;m going to delete this, and say, let&apos;s get rid of that. Refresh,
@@ -5348,7 +5347,7 @@ look and see what we&apos;ve got. I&apos;ve got the gradient in.
   <img src="./images/image270.webp" 
   title="Styling the links"
   alt="Styling the links."
-  style="border: 2px solid #000000; width:40%;" />
+  style="border: 2px solid #000000; width:50%;" />
 </p>
 
 The next thing I want to tackle is styling these links, and again, I&apos;m
@@ -5501,7 +5500,7 @@ this:
   <img src="./images/image281.webp" 
   title="Subfolders; CSS and images"
   alt="Subfolders; CSS and images."
-  style="border: 2px solid #000000; width:40%;" />
+  style="border: 2px solid #000000; width:30%;" />
 </p>
 
 But if your style sheet is trying to link to a picture called
