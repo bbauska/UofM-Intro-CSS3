@@ -3674,8 +3674,7 @@ started.
 <p align="center">
   <img src="./images/image176.webp" 
   alt="Style sheet."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The first thing I want to do is use the exact same style sheet I used
@@ -3691,8 +3690,7 @@ meant to do was I meant to style the body tag.
 <p align="center">
   <img src="./images/image177.webp" 
   alt="Starting point."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>So, let&apos;s take a look at what it looks like right now. And let&apos;s go
@@ -3705,8 +3703,7 @@ different things we can style in our page, all right?</p>
 <p align="center">
   <img src="./images/image178.webp" 
   alt="Start point, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>One of the first things I want to do is I want to add a little bit of
@@ -3728,8 +3725,7 @@ appealing to your users, all right?</p>
 <p align="center">
   <img src="./images/image179.webp" 
   alt="Add margin and padding to style sheet."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s think of some other things that we want to do. Clearly, I
@@ -3748,8 +3744,7 @@ space between the border and the bottom. Make sure I save.
 <p align="center">
   <img src="./images/image180.webp" 
   alt="Add margin and padding to style sheet, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>And refresh, and you can see I&apos;ve added padding all the way around the
@@ -3767,9 +3762,9 @@ you can include a height and a width.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. add new section tag (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image181.webp" 
+  title="Add new section tag"
   alt="Add new section tag."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, go back to my CSS file. I don&apos;t want to change the header. I
@@ -3783,12 +3778,12 @@ be really skinny even if they don&apos;t need to be. Let&apos;s use percentages.
 I&apos;m going to use 30%, not 33%, because I want to give a little bit of
 elbow room for paddings, margins, borders, etc.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182.  (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 182. at 30% but not next to each other (102) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image182.webp" 
-  alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="At 30%, but still not next to each other"
+  alt="At 30%, but still not next to each other."
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, let&apos;s go ahead and look at it right now, I want to see what
@@ -3834,9 +3829,11 @@ it&apos;s margin.
 <p align="center">
 <img src="./images/image187.webp"
   style="width:40%;"
+  title="Add margin to add space between items"
   alt="Add margin to add space between items." />
 <img src="./images/image188.webp"
   style="width:40%;"
+  title="Add margin to add space between items"
   alt="Add margin to add space between items." />
 </p>
 
@@ -3854,9 +3851,11 @@ footer to also be have them next to them.
 <p align="center">
 <img src="./images/image189.webp"
   style="width:40%;"
+  title="Footer: clear both"
   alt="Footer: clear both." />
 <img src="./images/image190.webp"
   style="width:40%;"
+  title="Footer: clear both"
   alt="Footer: clear both." />
 </p>
 
@@ -3872,9 +3871,11 @@ going to leave it.</p>
 <p align="center">
 <img src="./images/image191.webp"
   style="width:40%;"
+  title="Set img width"
   alt="Set img width." />
 <img src="./images/image192.webp"
   style="width:40%;"
+  title="Set img width"
   alt="Set img width." />
 </p>
 
@@ -3890,9 +3891,9 @@ it, I wouldn&apos;t go in here and try 100 and then 80 and then 52.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193. inspect element (105) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image193.webp" 
+  title="Inspect element"
   alt="Inspect element."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;"
 </p>
 
 What I would do is I&apos;d go in here and do Inspect Element again. And I
