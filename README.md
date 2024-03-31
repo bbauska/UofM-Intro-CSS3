@@ -1813,6 +1813,7 @@ up your text and have it look a little bit different.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 79. text justify - same width all around (47) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image079.webp" 
+  title="Text justified means width is same all around"
   alt="Text justified means width is same all around."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1826,6 +1827,7 @@ so it has the exact same width all the way along.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. justified vs left example (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image080.webp" 
+  title="Text justified vs. left example"
   alt="Text justified vs. left example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1839,6 +1841,7 @@ no one place has too much blank space.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. line-height (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image081.webp" 
+  title="line-height"
   alt="line-height."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1863,6 +1866,7 @@ rules affect the text.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82. review (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image082.webp" 
+  title="Review (1.4)"
   alt="Review (1.4)."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1920,6 +1924,7 @@ Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. code together (1.05) (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image083.webp" 
+  title="1.05 Code Together"
   alt="1.05 Code Together."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1938,6 +1943,7 @@ to type it in and make mistakes as we go along together.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 84. practice coding; styling (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image084.webp" 
+  title="Practice Coding; Styling"
   alt="Practice Coding; Styling."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1952,6 +1958,7 @@ one now, go up here to file, new file, or you can do command N.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. create .css file (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image085.webp" 
+  title="Create .css file"
   alt="Create .css file."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1970,6 +1977,7 @@ file extension, or things aren&apos;t going to work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 86. style header (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image086.webp" 
+  title="Practice Styling; Style Header"
   alt="Practice Styling; Style Header."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1990,6 +1998,7 @@ called CSS? I need to include that. All right, come back. Reload.</p>
 <!--~~~~~~~~~~~~~~~~~~~~ 87. background-color and text-align: center (52) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image087.webp" 
+  title="Update background-color and text-align: center"
   alt="Update background-color and text-align: center."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2007,6 +2016,7 @@ going to call it text-align: center. Save, refresh.
 <!--~~~~~~~~~~~~~~~~~~~~~ 88. h1 color, font-variant, and font-color (52) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image088.webp" 
+  title="Update h1 font color and font-variant"
   alt="Update h1 font color and font-variant."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2035,6 +2045,7 @@ happened.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. update and add style rules (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image089.webp" 
+  title="Update style.css rules"
   alt="Update style.css rules."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2057,6 +2068,7 @@ because when I put in that font size 150%, it makes a big difference.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. style summary in details (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image090.webp" 
+  title="Style summary in italics"
   alt="Style summary in italics."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2085,6 +2097,7 @@ So that&apos;s it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 91. style header and footer same (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image091.webp" 
+  title="Style header and Footer same"
   alt="Style header and Footer same."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2102,6 +2115,7 @@ of font size, a few different things like that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. old and new styles (55) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image092.webp" 
+  title="Old and new styles side-by-side"
   alt="Old and new styles side-by-side."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2120,6 +2134,7 @@ over humps. But the important thing is, code, code, code, good luck.
 <p align="center">
 <img src="./images/image093.webp"
   style="width:40%;"
+  title="1.06a Display and Visibility (part 1)"
   alt="1.06a Display and Visibility (part 1)." />
 </p>
 
@@ -2131,6 +2146,7 @@ is key to a really effective page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 95. display is key to layout (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image095.webp" 
+  title="Display is Key to Layout"
   alt="Display is Key to Layout."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2148,6 +2164,8 @@ that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. display: inline (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image096.webp" 
+  title="Common Values; Inline: sits next to other elements &amp; takes up 'just 
+    enough' width and height"
   alt="Common Values; Inline: sits next to other elements &amp; takes up 'just 
     enough' width and height."
   style="border: 2px solid #000000; width:40%;" />
@@ -2165,6 +2183,7 @@ They&apos;re going to get along.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97. display: block; default (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image097.webp" 
+  title="Display: block; default takes up all width but just enough height"
   alt="Display: block; default takes up all width but just enough height."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2179,6 +2198,7 @@ driving in the car.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 98. display: block; forces line break (57) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image098.webp" 
+  title="Display: block; forces line break"
   alt="Display: block; forces line break."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2198,6 +2218,7 @@ something that takes the best of both.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99. display: inline-block (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image099.webp" 
+  title="Display: inline-block; same as inline but also accepts height and width"
   alt="Display: inline-block; same as inline but also accepts height and width."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2215,6 +2236,7 @@ and height.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 100. display: none; removed from page (58) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image100.webp" 
+  title="Display: none; removed from page"
   alt="Display: none; removed from page."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2230,6 +2252,7 @@ ones that we&apos;re really going to start playing with at the beginning.
 <!--~~~~~~~~~~~~~~~~~ 101. example; 3 span, div and paragraph elements (59) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image101.webp" 
+  title="Example; 3 span, 3 div and 3 paragraph elements"
   alt="Example; 3 span, 3 div and 3 paragraph elements."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2248,6 +2271,7 @@ a different background color.
 <!--~~~~~~~~~~~~~ 102. example; span is green, div is blue and p is pinkish (59) ~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image102.webp" 
+  title="Example; span is green, div is blue, and paragraph is pinkish"
   alt="Example; span is green, div is blue, and paragraph is pinkish."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2271,6 +2295,7 @@ refresh.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 103. example; use inspect element (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image103.webp" 
+  title="Example; use inspect element"
   alt="Example; use inspect element."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -2289,9 +2314,9 @@ go here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 104. change spans to inline-block (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image104.webp" 
+  title="Change spans to inline-block"
   alt="Change spans to inline-block."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>And I&apos;m going to try inline-block. Boom, right away my spans have taken
@@ -2301,9 +2326,9 @@ When they&apos;re inline block, I can shape them really nicely.</p>
 <!--~~~~~~~~~~~~~~ 105. block elements don't like to be next to each other (61) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image105.webp" 
+  title="Example; block elements don't like to be next to each other"
   alt="Example; block elements don't like to be next to each other."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And if I&apos;m changing them to just block, you can see now they&apos;re on top
@@ -2319,9 +2344,9 @@ and not others but you don&apos;t want to leave a big white space.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. div; inline block (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image106.webp" 
+  title="Make div: inline-block and check neighbors"
   alt="Make div: inline-block and check neighbors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Go ahead and take a second and I&apos;m just going to click on a few of the
@@ -2347,9 +2372,9 @@ let&apos;s go ahead and talk a little bit more.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107. complementary properties (62) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image107.webp" 
+  title="Complementary Properties; float and clear"
   alt="Complementary Properties; float and clear."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When we&apos;re talking about display, it&apos;s pretty common to also talk
@@ -2393,9 +2418,11 @@ well.
 <p align="center">
 <img src="./images/image108.webp"
   style="width:40%;"
+  title="Code example, before"
   alt="Code example, before." />
 <img src="./images/image109.webp"
   style="width:40%;"
+  title="Code example, after"
   alt="Code example, after." />
 </p>
 
@@ -2410,9 +2437,9 @@ here, go to my float. Say float.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 110. float left, space goes away (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image110.webp" 
+  title="Float left, space goes away"
   alt="Float left, space goes away."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Now, the first thing I&apos;m going to do is I&apos;m just going to float it to 
@@ -2425,9 +2452,9 @@ it and floating it right.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 111. float right, right next to each other (64) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image111.webp" 
+  title="Float right, now right next to each other"
   alt="Float right, now right next to each other."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When I float it right, I want you to notice that not only do they not
@@ -2442,9 +2469,9 @@ the left, the divs would overlap them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 112. change all divs to float left (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image112.webp" 
+  title="Change all divs to float left"
   alt="Change all divs to float left."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, so let&apos;s go ahead and do a few more of these things. And
@@ -2458,9 +2485,9 @@ here to my paragraphs.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 113. clear both sides (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image113.webp" 
+  title="Clear both sides"
   alt="Clear both sides."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>I&apos;m going to say, I&apos;m not going to float these. Instead, I&apos;m going to
@@ -2482,6 +2509,7 @@ figure out when you want them to actually do these kinds of actions.</p>
 <p align="center">
 <img src="./images/image094.webp"
   style="width:40%;"
+  title="1.06b Display and Visibility (part 2)"
   alt="1.06b Display and Visibility (part 2)." />
 </p>
 
@@ -2494,9 +2522,11 @@ the text that you wanted to show.
 <p align="center">
 <img src="./images/image114.webp"
   style="width:40%;"
+  title="Element Overflow; visible, hidden, scroll and auto"
   alt="Element Overflow; visible, hidden, scroll and auto." />
 <img src="./images/image115.webp"
   style="width:40%;"
+  title="Element Overflow; visible, hidden, scroll and auto"
   alt="Element Overflow; visible, hidden, scroll and auto." />
 </p>
 
@@ -2539,9 +2569,9 @@ browser. So inline, inline block, block and none will work everywhere.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116. table, grid, flexbox (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image116.webp" 
+  title="Table, grid and flexbox"
   alt="Table, grid and flexbox."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But here are a few more that are slowly beginning to gain acceptance.
@@ -2553,9 +2583,9 @@ helpful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117. display: table (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image117.webp" 
+  title="display: table and table-cell"
   alt="display: table and table-cell."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 How a table display works is that you don&apos;t make an actual table with
@@ -2572,9 +2602,9 @@ content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118. divs next to each other (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image118.webp" 
+  title="divs next to each other"
   alt="divs next to each other."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 As you can see, each of the divs is now next to each other because
@@ -2585,9 +2615,9 @@ really isn&apos;t what you were hoping for it to look like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. divs float left (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image119.webp" 
+  title="divs float left"
   alt="divs float left."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s go ahead and try adding that float left. Save, I&apos;m going to go
@@ -2601,9 +2631,9 @@ resize it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. example overflow (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image120.webp" 
+  title="Example overflow"
   alt="Example overflow."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now you can see this idea of that the overflow might be really important
@@ -2620,9 +2650,9 @@ need to know that they can scroll.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. set width of div to 30% (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image121.webp" 
+  title="Set width of 3 divs to 30% each"
   alt="Set width of 3 divs to 30% each."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 We&apos;re going to try something new here, instead what I&apos;m going to do is
@@ -2641,9 +2671,9 @@ own particular height because we really want it to just fit that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. another div change (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image122.webp" 
+  title="Another div change"
   alt="Another div change."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 This is where table cell comes in. I&apos;m going to change my display from
@@ -2658,9 +2688,9 @@ body and say display.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. still another div change (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image123.webp" 
+  title="Still another div change"
   alt="Still another div change."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right and I&apos;m going to refresh and it&apos;s going to look the same,
@@ -2678,9 +2708,9 @@ making sure that everything looks good on every browser.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. visibility (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image124.webp" 
-  alt="Visibility."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Visibility"
+  alt="Visibility"
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The last thing I want to mention very quickly was this idea of
@@ -2699,9 +2729,9 @@ space that that element would take up, it just doesn&apos;t show it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. review (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image125.webp" 
+  title="Review (1.6)"
   alt="Review (1.6)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So finally, let&apos;s go ahead and review. Display is just one tool of the
@@ -2733,9 +2763,9 @@ JavaScript files.)
 <!--~~~~~~~~~~~~~~~~~~~~~ 126. folder with subfolders nested within (72) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image126.webp" 
+  title="Folder with subfolders nested within"
   alt="Folder with subfolders nested within."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When we use CodePen we use that idea of separating our code. However, be
@@ -2755,9 +2785,9 @@ I am going to end with a screen shot of my computer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 127. screenshot: homework, css, style (72) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image127.webp" 
+  title="Screenshot: homework, css, and style"
   alt="Screenshot: homework, css, and style."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 My css folder is in the SAME directory as my html files.
@@ -2777,9 +2807,9 @@ computers it matters and this would not work:
 <!--~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (1.07b) (73) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image128.webp" 
+  title="1.07b Homework Description - Creating an External Style Sheet"
   alt="1.07b Homework Description - Creating an External Style Sheet."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 This homework is also described in a video lecture. Make sure to
@@ -2847,9 +2877,9 @@ a copy of your code so you don&apos;t lose it!!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129. before menu (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image129.webp" 
+  title="Before Menu"
   alt="Before Menu."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <h3>After</h3>
@@ -2858,9 +2888,9 @@ a copy of your code so you don&apos;t lose it!!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. after menu (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image130.webp" 
+  title="After Menu"
   alt="After Menu."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi everybody welcome back. It&apos;s time for us to start coding. One of the
@@ -2877,9 +2907,9 @@ to apply styling to your HTML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. objective (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image131.webp" 
-  alt="Objective."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Objective"
+  alt="Objective"
+  style="border: 2px solid #000000; width:40%;" />
 
 The objective for this homework assignment is for you to show me that
 you can write one CSS file that can go and style three different HTML
@@ -2906,9 +2936,9 @@ assignment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. ultimate frisbee (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image134.webp" 
+  title="Ultimate Frisbee"
   alt="Ultimate Frisbee."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 <http://www.intro-webdesign.com/CSS/assignment-1/index.jpg>
 
@@ -2920,9 +2950,9 @@ assignment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. ultimate frisbee teams (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image135.webp" 
+  title="Ultimate Frisbee Teams"
   alt="Ultimate Frisbee Teams."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 <http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg>
 
@@ -2934,9 +2964,9 @@ assignment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136. ultimate frisbee history (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image136.webp" 
+  title="Ultimate Frisbee History"
   alt="Ultimate Frisbee History."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 <http://www.intro-webdesign.com/CSS/assignment-1/history.jpg>
 
@@ -2948,9 +2978,9 @@ it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. picture in ultimte frisbee (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image137.webp" 
+  title="Picture in Ultimate Frisbee"
   alt="Picture in Ultimate Frisbee."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 When we start, I&apos;m going to give you three HTML files that are really
 not well styled. They start off, they have a navigation, they have three
@@ -2962,9 +2992,9 @@ different content.
 <!--~~~~~~~~~~~~~~~~~~~~~ 138. ultimate frisbee: before menu changes (79) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image138.webp" 
+  title="Ultimate Frisbee: before menu changes"
   alt="Ultimate Frisbee: before menu changes."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 What I want you to do is write your own CSS rules that will take these
 types of pages, and turn it into something that looks like this (above).
@@ -2978,9 +3008,9 @@ that you&apos;ll need to change in order to achieve this separate look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 139. you must leave the html alone (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image139.webp" 
+  title="You Must Leave the HTML Alone"
   alt="You Must Leave the HTML Alone."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 The most important thing to understand is that you must leave the HTML
 alone. I don&apos;t want you to change it at all, instead I only want you to
@@ -2993,9 +3023,9 @@ exactly what you need to look at.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. header (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image140.webp" 
+  title="Header: Add Background Color"
   alt="Header: Add Background Color."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 For your header, it&apos;s pretty straightforward. I want you to go in and I
 want you to add a background color.
@@ -3004,9 +3034,9 @@ want you to add a background color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. h1 and h2 (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image141.webp" 
+  title="h1 and h2"
   alt="h1 and h2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 For your headings, both h1 and h2, I want you to change the font color.
 Now remember, this is different from the background color. It&apos;s the
@@ -3023,9 +3053,9 @@ center the text.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. section (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image142.webp" 
-  alt="section."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="section"
+  alt="section"
+  style="border: 2px solid #000000; width:40%;" />
 
 Next make one quick change to the section part of your HTML. I want you
 to style the different section so it has a different background color
@@ -3035,9 +3065,9 @@ from the other elements in your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. links (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image143.webp" 
-  alt="links."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="links"
+  alt="links"
+  style="border: 2px solid #000000; width:40%;" />
 
 Next, let&apos;s take a look at the links. The changes you&apos;re going to make
 here are very subtle. They&apos;re not very obvious if I didn&apos;t
@@ -3051,9 +3081,9 @@ headings.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. images (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image144.webp" 
-  alt="Images."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Images"
+  alt="Images"
+  style="border: 2px solid #000000; width:40%;" />
 
 Finally, the last thing that really kind of messes up our HTML page
 initial example is these huge pictures that just get in the way. For
@@ -3067,9 +3097,9 @@ to use CSS3 to remove them from the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. before and after menu (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image145.webp" 
+  title="Before and After Menus"
   alt="Before and After Menus."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 I hope between looking through this example and looking online, and
 looking at my before and after shots, that you&apos;ll be able to do this
@@ -3079,9 +3109,9 @@ homework assignment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. peer grading (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image146.webp" 
+  title="Peer grading"
   alt="Peer grading."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 
 When you&apos;re done, we&apos;re going to be using peer grading. When we do
 this, grades are going to be based on basically how well you were able
@@ -3146,9 +3176,9 @@ name of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.01) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image147.webp" 
+  title="2.01 Box Model"
   alt="2.01 Box Model."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi. Today we&apos;re going to talk about the box model. And what the box
@@ -3159,9 +3189,9 @@ place your element where you want them to go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. height and width (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image148.webp" 
+  title="Height and Width"
   alt="Height and Width."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One of the first things we&apos;re going to talk about is height and width.
@@ -3183,9 +3213,9 @@ for you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. border (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image149.webp" 
-  alt="Border."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Border"
+  alt="Border"
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Some of the other things we want to think about then, when we have
@@ -3208,9 +3238,9 @@ kind of style you want.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. border with div example (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image150.webp" 
+  title="Border with div example"
   alt="Border with div example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In this case, I&apos;ve said, for all my divs, I want them to have a solid
@@ -3222,9 +3252,9 @@ blue.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151. border-style (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image151.webp" 
+  title="border-style"
   alt="border-style."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The border style that you want to specify, while most people always use
