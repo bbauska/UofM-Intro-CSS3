@@ -1015,6 +1015,7 @@ go over here.
 <!--~~~~~~~~~~~~~~~ 29. internal style example - red paragraphs and blue h1 (24) ~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image029.webp" 
+  title="Internal style example with red paragraphs and blue h1"
   alt="Internal style example with red paragraphs and blue h1."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1026,6 +1027,7 @@ the heading. All right?
 <!--~~~~~~~~~~~~~~~ 30. external style example - red paragraphs and blue h1 (24) ~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image030.webp" 
+  title="External style example with red paragraphs and blue h1"
   alt="External style example with red paragraphs and blue h1."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1867,7 +1869,7 @@ rules affect the text.</p>
 <p align="center">
   <img src="./images/image082.webp" 
   title="Review (1.4)"
-  alt="Review (1.4)."
+  alt="Review (1.4)"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -3268,9 +3270,9 @@ you want, you can specify the width and color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. border width and color (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image152.webp" 
+  title="Border width and color"
   alt="Border width and color."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When it comes time to set the width, if you decide to, is you can set it
@@ -3285,9 +3287,9 @@ can just take the color of whatever&apos;s underneath it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. specifying individual sides (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image153.webp" 
+  title="Specifying Individual Sides"
   alt="Specifying Individual Sides."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When it comes time for you to specify how big you want your border to
@@ -3320,9 +3322,9 @@ right, border left, border top, border bottom.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 154. margin: positive and negative (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image154.webp" 
+  title="Margin: positive and negative"
   alt="Margin: positive and negative."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Margin is basically that space that&apos;s outside of your border. It&apos;s
@@ -3337,9 +3339,9 @@ it move left or upward.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 155. padding: positive and negative (88) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image155.webp" 
+  title="Padding: positive and negative"
   alt="Padding: positive and negative."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Padding is very similar in concept to margin, but instead this space is
@@ -3354,9 +3356,9 @@ to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. margin & padding, #1 (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image156.webp" 
+  title="Margin & Padding, #1"
   alt="Margin & Padding, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 With margin and padding, all you&apos;re going to do is give a numerical
@@ -3369,9 +3371,9 @@ body of the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. margin & padding, #2 (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image157.webp" 
+  title="Margin & Padding, #2"
   alt="Margin & Padding, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 They, just like the border, can be defined in that one to four values.
@@ -3382,9 +3384,9 @@ top, bottom, left and right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. margin & padding, example (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image158.webp" 
+  title="Margin & Padding, Example"
   alt="Margin & Padding, Example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So let me show you a quick picture of kind of what I&apos;m talking about.
@@ -3400,9 +3402,9 @@ more sense which one&apos;s a margin and which one is the padding.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. additive height and width (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image159.webp" 
+  title="Additive height and width"
   alt="Additive height and width."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One of the things you need to understand when you&apos;re doing padding and
@@ -3414,9 +3416,9 @@ to take into account how big all those other aspects and properties are.
 <!--~~~~~~~~~~~~~~~~~~~ 160. margin + border + padding + width/height (90) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image160.webp" 
+  title="Margin + border + padding + width/height"
   alt="Margin + border + padding + width/height."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, in this case, part of the width is the margin, plus the border, plus
@@ -3429,9 +3431,9 @@ to take up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 161. what is the width and height? (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image161.webp" 
+  title="What is the width and height?"
   alt="What is the width and height?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If we look at this example right here where I have the width is 100px,
@@ -3444,9 +3446,9 @@ need on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 162. what is the width and height, #2? (91) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image162.webp" 
+  title="What is the width and height, #2?"
   alt="What is the width and height, #2?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And in this case the width is 132 pixels. The 100, plus 10, plus five,
@@ -3455,9 +3457,9 @@ plus one, plus one, plus five, plus ten. It all adds up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 163. what is the width and height, #3? (91) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image163.webp" 
+  title="What is the width and height, #3?"
   alt="What is the width and height, #3?"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>The height, in the same way, is your height plus the top and bottom
@@ -3466,9 +3468,9 @@ padding, top and bottom margin, and the top and bottom border.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. centering an element (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image164.webp" 
+  title="Centering an element"
   alt="Centering an element."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>All right, so when we talk about margin, I just wanted to throw this
@@ -3495,9 +3497,9 @@ to center things right now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. box-sizing (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image165.webp" 
-  alt="box-sizing."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="box-sizing"
+  alt="box-sizing"
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Finally, when we talk about this, I want to add one more option, and
@@ -3517,9 +3519,9 @@ margin.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. measurements (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image166.webp" 
-  alt="Measurements."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Measurements"
+  alt="Measurements"
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>So finally, one of the things I&apos;m going to be showing you in this
@@ -3554,9 +3556,11 @@ about to do.</p>
 <p align="center">
 <img src="./images/image167.webp"
   style="width:40%;"
+  title="boxModel.html and boxModel.css to set width for side-by-side text"
   alt="boxModel.html and boxModel.css to set width for side-by-side text." />
 <img src="./images/image168.webp"
   style="width:40%;"
+  title="boxModel.html and boxModel.css to set width for side-by-side text"
   alt="boxModel.html and boxModel.css to set width for side-by-side text." />
 </p>
 
@@ -3570,9 +3574,9 @@ happen, see if it works out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. set width to 48% (95) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image169.webp" 
-  alt="Set width to 48%"
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Set width to 48%"
+  alt="Set width to 48%."
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The problem with doing that, as I uncomment my code here, is that as
@@ -3583,9 +3587,9 @@ too small. What I&apos;ve done here is I went ahead and I set my width to
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. left/right div (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image170.webp" 
+  title="Left/right div"
   alt="Left/right div."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now doing that is really great, and I&apos;m going to come out of this one
@@ -3597,9 +3601,9 @@ something really small.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. narrow left/right div (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image171.webp" 
+  title="Left/right div"
   alt="Left/right div."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 20%, they&apos;re not going next to each other. So, you need to remember
@@ -3614,9 +3618,9 @@ elements. Let&apos;s go ahead and save and reload.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. left/right div side-by-side (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image172.webp" 
+  title="Left/right div side-by-side"
   alt="Left/right div side-by-side."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can see that I&apos;ve done my width. I&apos;ve done my display block. I&apos;ve
@@ -3634,9 +3638,9 @@ tweaking, tweaking, tweaking.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. review (2.1) (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image173.webp" 
+  title="2.1 Box Model Review"
   alt="2.1 Box Model Review."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>When it comes time for you to start implementing all these ideas, your
@@ -3676,9 +3680,9 @@ Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. code together (2.02) (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image174.webp" 
+  title="2.02 Code Together"
   alt="2.02 Code Together."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 <p>Once again, I&apos;m going to ask you to stop learning and start coding and 
@@ -3689,9 +3693,9 @@ break.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. old/new menus (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image175.webp" 
+  title="Display old and new (before and after) menu pages"
   alt="Display old and new (before and after) menu pages."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I wanted to show you what our old page was, right here. And see how we
@@ -3703,6 +3707,7 @@ started.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. style sheet (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image176.webp" 
+  title="Style sheet"
   alt="Style sheet."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -3719,6 +3724,7 @@ meant to do was I meant to style the body tag.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. starting point (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image177.webp" 
+  title="Starting point"
   alt="Starting point."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -3732,6 +3738,7 @@ different things we can style in our page, all right?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. start point, #2 (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image178.webp" 
+  title="Start point, #2"
   alt="Start point, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -3754,6 +3761,7 @@ appealing to your users, all right?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. add margin & padding (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image179.webp" 
+  title="Add margin and padding to style sheet"
   alt="Add margin and padding to style sheet."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -3773,6 +3781,7 @@ space between the border and the bottom. Make sure I save.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. add margin & padding, #2 (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image180.webp" 
+  title="Add margin and padding to style sheet, #2"
   alt="Add margin and padding to style sheet, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -3824,9 +3833,11 @@ next to each other. That&apos;s because they&apos;re still block.
 <p align="center">
 <img src="./images/image183.webp"
   style="width:40%;"
+  title="display: inline-block"
   alt="display: inline-block." />
 <img src="./images/image184.webp"
   style="width:40%;"
+  title="display: inline-block"
   alt="display: inline-block." />
 </p>
 
@@ -3840,9 +3851,11 @@ fix this fact that they aren&apos;t all lined up at the top.</p>
 <p align="center">
 <img src="./images/image185.webp"
   style="width:40%;"
+  title="Add margin to add space between items"
   alt="Add margin to add space between items." />
 <img src="./images/image186.webp"
   style="width:40%;"
+  title="Add margin to add space between items"
   alt="Add margin to add space between items." />
 </p>
 
@@ -3935,9 +3948,11 @@ it look like if instead I make it 150 pixels? Does that look better?
 <p align="center">
 <img src="./images/image194.webp"
   style="width:40%;"
+  title="More styling practice"
   alt="More styling practice." />
 <img src="./images/image195.webp"
   style="width:40%;"
+  title="More styling practice"
   alt="More styling practice." />
 </p>
 
@@ -3962,9 +3977,9 @@ do this. So good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 196. styling links and lists (2.03) (106) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image196.webp" 
+  title="2.03 Styling Links and Lists"
   alt="2.03 Styling Links and Lists."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Today we&apos;re going to talk about styling links and styling lists. When
@@ -3984,9 +3999,9 @@ additional property called text-decoration.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. anchor links (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image197.webp" 
+  title="Anchor links"
   alt="Anchor links."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In this example right here, what I have going on is that instead of
@@ -4006,9 +4021,9 @@ rid of that underline that usually shows up underneath links.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. anchor links example (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image198.webp" 
+  title="Anchor links example"
   alt="Anchor links example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I&apos;ve gone from this up here in the top corner to something that a
@@ -4018,9 +4033,9 @@ doesn&apos;t even look like a link at all. Let&apos;s talk about that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199. buttons (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image199.webp" 
-  alt="Buttons."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Buttons"
+  alt="Buttons"
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Sometimes when installing their links, people really try to make it look
@@ -4030,9 +4045,9 @@ semantic. If you want a button, use a button element instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200. buttons example (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image200.webp" 
+  title="Buttons example"
   alt="Buttons example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And you can do that very simply by just putting in the button tag
@@ -4047,9 +4062,9 @@ link they&apos;re hearing about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. states (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image201.webp" 
+  title="States: a:link, a:visited, a:hover, a:focus &amp; a:active"
   alt="States: a:link, a:visited, a:hover, a:focus &amp; a:active."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Another new thing about links, that we haven&apos;t seen before, is this
@@ -4096,9 +4111,9 @@ Cascading style sheets are very big on this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. precedence of rules (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image202.webp" 
+  title="Precedence of rules; a:hover after a:link, a:visited after a:hover &amp; a:active"
   alt="Precedence of rules; a:hover after a:link, a:visited after a:hover &amp; a:active."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If you decide that you want to use these different states, there are a
@@ -4111,9 +4126,9 @@ pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. styling links (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image203.webp" 
+  title="Styling links"
   alt="Styling links."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s look at an example now of some code and how I&apos;m styling my
@@ -4125,9 +4140,9 @@ University, which is where I did my undergrad.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. more style links (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image204.webp" 
+  title="More Styling links"
   alt="More Styling links."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But what happens when I add some CSS to it? Up here on the top I have
@@ -4141,9 +4156,9 @@ each links looks really much different, okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205. hover, color change (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image205.webp" 
+  title="Hover, color change"
   alt="Hover, color change."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And you can see when I see my pen, when I hover over each one of these,
@@ -4160,9 +4175,9 @@ Kent State, and I&apos;m doing that by tabbing through the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. active rule (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image206.webp" 
+  title="Active rule"
   alt="Active rule."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The last rule, the active rule, is something that I&apos;m going to show you
@@ -4184,9 +4199,9 @@ styling list items.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. styling lists (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image207.webp" 
+  title="Styling lists"
   alt="Styling lists."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When you style lists, kind of the default properties they all look the
@@ -4202,9 +4217,9 @@ indicate the different list items?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. list-style-type, #1 (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image208.webp" 
+  title="list-style-type, #1"
   alt="list-style-type, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 By default, for ordered lists again, we have the one, two, three, but
@@ -4214,9 +4229,9 @@ you can give different values.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. list-style-type, #2 (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image209.webp" 
+  title="list-style-type, #2"
   alt="list-style-type, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can say I want it to be lower roman numeral, upper roman numeral,
@@ -4232,9 +4247,9 @@ make sure it&apos;s going to be.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. list styles, #1 (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image210.webp" 
+  title="List style, #1"
   alt="List style, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Another option that you can play with is this idea of getting rid of
@@ -4247,9 +4262,9 @@ you&apos;re using.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211. list styles, #2 (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image211.webp" 
+  title="List style, #2"
   alt="List style, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Down here I&apos;ve got an example of where I&apos;m saying I want my list style
@@ -4270,9 +4285,9 @@ lists are using the default numbers. Let&apos;s play with this now.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212. list.html example (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image212.webp" 
+  title="list.html example"
   alt="list.html example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s go ahead and put in a style sheet. In my style sheet, I&apos;ve gone
@@ -4283,10 +4298,12 @@ it to upper-roman and numeral and also use a square instead.
 <p align="center">
 <img src="./images/image213.webp"
   style="width:40%;"
-  alt="Before." />
+  title="Before"
+  alt="Before" />
 <img src="./images/image214.webp"
   style="width:40%;"
-  alt="After." />
+  title="After"
+  alt="After" />
 </p>
 
 This is what it looked like before, and this is what we look like
@@ -4303,9 +4320,9 @@ the rules above it. Let&apos;s make sure I&apos;ve saved my page, and reload.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. add lightening bolts (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image215.webp" 
+  title="Add lightening bolts"
   alt="Add lightening bolts."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And now in this case what&apos;s happened is that we&apos;ve removed those
@@ -4316,12 +4333,12 @@ got everything written exactly the same way. Typos are really the
 killer. It&apos;s not a matter of it being difficult, it&apos;s a matter about
 you just being very careful when you&apos;re doing these things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 216. review (2.03. styling links and lists) (115) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 216. review (2.03 styling links and lists) (115) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image216.webp" 
-  alt="2.03. Review: Styling links and lists."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="2.03 Review: Styling links and lists"
+  alt="2.03 Review: Styling links and lists."
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Okay, so let&apos;s go ahead and review what we&apos;ve been talking about so
@@ -4357,9 +4374,9 @@ proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.04) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image217.webp" 
+  title="2.04 Advanced Selectors"
   alt="2.04 Advanced Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, today we&apos;re going to be talking about advanced selectors. Up until
@@ -4373,9 +4390,9 @@ just want to style some of them?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. css selectors (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image218.webp" 
+  title="CSS Selectors"
   alt="CSS Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Well, now we&apos;re going to talk about these types of advanced selectors
@@ -4407,12 +4424,12 @@ section that has an h1 and then an ordered list, they would be siblings.
 If you had an h1 and then some other things and that ordered list was
 inside a paragraph, it wouldn&apos;t work that way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. id selectors (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. id selectors (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image219.webp" 
+  title="id Selectors"
   alt="id Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Next, we&apos;re going to talk about what we call id selectors. ids are used
@@ -4431,9 +4448,9 @@ you&apos;re going to be seeing a lot, so I want to introduce you to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220. id selectors example (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image220.webp" 
+  title="id Selectors example"
   alt="id Selectors example."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s see an example really quickly here just on the screen of how it
@@ -4446,9 +4463,9 @@ margin.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. class selector (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image221.webp" 
+  title="Class Selectors"
   alt="Class Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Class selectors are similar to ids, but the difference is, that classes
@@ -4462,9 +4479,9 @@ but you want a lot of them to be.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. class selector example (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image222.webp" 
+  title="Class Selectors, #2"
   alt="Class Selectors, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You would write this code in a very similar manner. Over here in my
@@ -4478,9 +4495,9 @@ the thumbnails.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. classes vs. ids (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image223.webp" 
+  title="Classes vs ids"
   alt="Classes vs ids."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So just to try to help you make it a little bit clearer, what&apos;s the
@@ -4508,9 +4525,9 @@ Let&apos;s go through a quick example using that navigation bar.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. sample html (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image224.webp" 
+  title="Sample HTML with 4 links"
   alt="Sample HTML with 4 links."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here&apos;s a sample HTML file, where all I&apos;ve done is put in four links
@@ -4520,9 +4537,9 @@ just so you can see what it would look like without any styling.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. add more styling (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image225.webp" 
+  title="Home, Interests, Resume, Hobbies"
   alt="Home, Interests, Resume, Hobbies."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can see, I&apos;ve got my Home, Interests, Resume, Hobbies, and I have
@@ -4540,9 +4557,11 @@ style sheet. Save it.
 <p align="center">
 <img src="./images/image226.webp"
   style="width:40%;"
+  title="Before nav link styled"
   alt="Before nav link styled." />
 <img src="./images/image227.webp"
   style="width:40%;"
+  title="After nav link styled"
   alt="After nav link styled." />
 </p>
 
@@ -4558,9 +4577,9 @@ things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. narrowing the scope (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image228.webp" 
+  title="Narrowing the scope"
   alt="Narrowing the scope."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And one of the notations you can use for that is the dot. In your style
@@ -4576,9 +4595,9 @@ and the articles. Not a problem.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. expanding the scope (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image229.webp" 
+  title="Expanding the Scope"
   alt="Expanding the Scope."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What you do is you just write the element, and you include a comma right
@@ -4596,9 +4615,9 @@ earlier ones that don&apos;t conflict.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. more attribute selectors (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image230.webp" 
+  title="More Attribute Selectors"
   alt="More Attribute Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 In addition to the element selectors and the different DOM relationship
@@ -4624,9 +4643,9 @@ ahead and look at using these attribute selectors.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. attribute selectors (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image231.webp" 
+  title="Attribute Selectors"
   alt="Attribute Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The way that attribute selectors work is that they search the DOM for
@@ -4641,9 +4660,9 @@ differently.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. using operators (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image232.webp" 
+  title="Using operators"
   alt="Using operators."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 How we do that is we use operators to match the different parts of the
@@ -4659,9 +4678,9 @@ part of any hyper reference at all, apply this rule.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. links and extension types (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image233.webp" 
+  title="Links and Extension types"
   alt="Links and Extension types."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What we&apos;re going to look at is we&apos;re going to look at a file that has
@@ -4672,9 +4691,9 @@ want to style differently.
 <!--~~~~~~~~~~~~~~~~~~~~~ 234. different extensions: gov, org, edu (124) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image234.webp" 
+  title="Different extensions: gove, org, edu"
   alt="Different extensions: gove, org, edu."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right. What I have here is just a list of links. There&apos;s no
@@ -4687,9 +4706,9 @@ underlined, the text right there.
 <!--~~~~~~~~~~~~~~~~~~ 235. different extension, different background (124) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image235.webp" 
+  title="If different extension, make different background-color"
   alt="If different extension, make different background-color."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But what I want to do is I want to go in and say, you know what, all the
@@ -4700,9 +4719,9 @@ see what it looks like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. a[href] org, edu & gov (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image236.webp" 
+  title="Set background color depending upon extension of web site (org, edu or gov)"
   alt="Set background color depending upon extension of web site (org, edu or gov)."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here, you can see that without me having to put in any information
@@ -4716,9 +4735,9 @@ you&apos;re going to be using attributes.
 <!--~~~~~~~~~~~~~~~~ 237. element may have multiple classes and/or id's (125) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image237.webp" 
+  title="Elements may have multiple classes and id's"
   alt="Elements may have multiple classes and id's."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And the important thing I want you to know is that when you are adding
@@ -4732,9 +4751,9 @@ always going to start to the top, and apply each rule.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. the good news (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image238.webp" 
+  title="The Good News"
   alt="The Good News."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now the good news from this lecture is that I want you to realize that
@@ -4746,12 +4765,12 @@ sheets and make it your very own. Just make sure that you link your
 style sheet last.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 239. review (2.04. advanced selectors) (126) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 239. review (2.04 advanced selectors) (126) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image239.webp" 
-  alt="2.04. Review Advanced Selectors."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="2.04 Review Advanced Selectors"
+  alt="2.04 Review Advanced Selectors."
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 All right, we&apos;ve covered a lot, and I&apos;m hoping I didn&apos;t overwhelm you
@@ -4823,9 +4842,9 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.webp" 
+  title="2.05 Browser Capabilities"
   alt="2.05 Browser Capabilities."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Hi, everyone. Today we&apos;re going to talk about browser capabilities and
@@ -4836,9 +4855,9 @@ appearance, regardless of how people are accessing it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. browsers differ (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image241.webp" 
+  title="Browsers Differ"
   alt="Browsers Differ."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Even though HTML5 has really been pushing the browser developers to all
@@ -4855,9 +4874,9 @@ to the most basic browser implementations.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 242. handling stylistic differences (128) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image242.webp" 
+  title="Handling Stylistic Differences"
   alt="Handling Stylistic Differences."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So first, let&apos;s talk about handling these stylistic differences. The
@@ -4881,9 +4900,9 @@ if you&apos;ve actually checked off each element that you&apos;re using.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 243. handling unsupported properties (128) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image243.webp" 
+  title="Handling Unsupported Properties"
   alt="Handling Unsupported Properties."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 One of the other things we want to talk about is handling what we call
@@ -4909,9 +4928,9 @@ these prefixes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. browser prefixes (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image244.webp" 
+  title="Browser Prefixes"
   alt="Browser Prefixes."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 So, let&apos;s take a look at what I&apos;m talking about. You&apos;ve been using
@@ -4925,9 +4944,9 @@ the designer is going for.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 245. often unsupported properties (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image245.webp" 
+  title="Often Unsupported Properties"
   alt="Often Unsupported Properties."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 What are some of these properties that are often unsupported? They
@@ -4956,18 +4975,20 @@ idea to check that site out as you start developing your page.
 <p align="center">
 <img src="./images/image246.webp"
   style="width:40%;"
+  title="Browser Differences, #1"
   alt="Browser Differences, #1." />
 <img src="./images/image247.webp"
   style="width:40%;"
+  title="Browser Differences, #2"
   alt="Browser Differences, #2." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248. more browser differences (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image248.webp" 
+  title="More Browser Differences"
   alt="More Browser Differences."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But for now, let&apos;s go ahead and look at an example. In this example, I
@@ -4982,9 +5003,9 @@ pages look exactly the same, what I can do is add a default style sheet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. set default stylesheet (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image249.webp" 
+  title="Set default stylesheet"
   alt="Set default stylesheet."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Let&apos;s go down over here, and I&apos;m going to say hey I want to use my
@@ -4998,9 +5019,9 @@ as you can.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. browser differences (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image250.webp" 
+  title="Browser Differences, slight"
   alt="Browser Differences, slight."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If I go back over here, you might not see a huge difference because the
@@ -5012,9 +5033,9 @@ I refresh the Safari, they&apos;re going to look a little bit more similar.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. column-count & browsers (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image251.webp" 
+  title="Using column-count with different browsers"
   alt="Using column-count with different browsers."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now, let&apos;s go ahead and look at that example where some of the
@@ -5030,9 +5051,9 @@ want between those columns.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. again, column-count (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image251.webp" 
+  title="Using column-count, again"
   alt="Using column-count, again."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Now, when I refresh, you can see it&apos;s gone from being all one long kind
@@ -5042,9 +5063,9 @@ because it&apos;s dynamic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 252. support multiple browsers (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image252.webp" 
+  title="Support multiple browsers"
   alt="Support multiple browsers."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 If I re-size the browser, everything kind of moves around. And this is a
@@ -5056,9 +5077,9 @@ square, I want to kind of round the edges a little bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253. border-radius (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image253.webp" 
+  title="border-radius"
   alt="border-radius."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You do that by adding in what&apos;s called the border-radius. Now I&apos;m
@@ -5071,9 +5092,9 @@ that&apos;s been around for a while.
 <!--~~~~~~~~~~~~~~~~~~~~~ 254. add prefixes for browser capability (134) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image254.webp" 
+  title="Add prefixes for browser capabilities"
   alt="Add prefixes for browser capabilities."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And you can see it right here, and you give it a value. Same with
@@ -5088,9 +5109,9 @@ ahead and refresh it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255. curve edges (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image255.webp" 
+  title="Curve edges"
   alt="Curve edges."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And as you can see, I&apos;ve curved the different edges around the side.
@@ -5104,9 +5125,11 @@ case the gradient isn&apos;t happening.
 <p align="center">
 <img src="./images/image256.webp"
   style="width:40%;"
+  title="linear gradient"
   alt="linear gradient." />
 <img src="./images/image257.webp"
   style="width:40%;"
+  title="sample output"
   alt="sample output." />
 </p>
 
@@ -5119,9 +5142,9 @@ to remember how to do everything.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258. inspect (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image258.webp" 
-  alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  title="Inspect"
+  alt="Inspect"
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 I&apos;m going to right-click on here, and do Inspect Element. Because if
@@ -5130,12 +5153,12 @@ color, what you don&apos;t want to do is type, save, refresh, type, save,
 refresh. It gets really annoying.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 259.  (135) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 259. automated ways to include prefixes (135) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image259.webp" 
+  title="Automated ways to include prefixes"
   alt="Automated ways to include prefixes."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Instead, I&apos;m going to go right here to my section and I&apos;m going to
@@ -5150,8 +5173,7 @@ make it 5 pixels.
 <p align="center">
   <img src="./images/image260.webp" 
   alt="."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can see it happening in real time. If you want to make it look
@@ -5164,9 +5186,9 @@ it can be frustrating.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 261. automated ways to include prefixes (136) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image261.webp" 
+  title="Automated ways to include prefixes"
   alt="Automated ways to include prefixes."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But the most important thing is that you should realize it&apos;s very
@@ -5196,9 +5218,9 @@ about them right now. For now, let&apos;s focus on the basics.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. review (2.5) (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image262.webp" 
+  title="2.5 Review"
   alt="2.5 Review."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 To review, when you start coding, when you start making style sheets,
@@ -5243,9 +5265,9 @@ certain that it is supported by most of the browsers now. I even went to
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. caniuse, #1 (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image263.webp" 
+  title="Caniuse, #1"
   alt="Caniuse, #1."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 But when I checked on column-count it showed that the prefixes are still
@@ -5255,9 +5277,9 @@ needed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. caniuse, #2 (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image264.webp" 
+  title="Caniuse, #2"
   alt="Caniuse, #2."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And I didn&apos;t even talk about prefixes for the new Microsoft browser,
@@ -5290,9 +5312,9 @@ Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.06) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image265.webp" 
+  title="2.06 Code Together"
   alt="2.06 Code Together."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Welcome back, everybody. It&apos;s time for us to stop learning new things
