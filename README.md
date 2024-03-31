@@ -1,7 +1,7 @@
 ---
 title: "2. University of Michigan's Introduction to CSS3"
 author: "bbauska"
-date last editted: "3/13/2023 10+am"
+date last editted: "3/31/2024 4+am"
 output: 
   markdown:
     with some style
@@ -5276,9 +5276,9 @@ doing.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266. before/after web changes (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image266.webp" 
+  title="Before/After web changes"
   alt="Before/After web changes."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 When we last were coding together, hopefully you created something that
@@ -5293,9 +5293,9 @@ utilizing these new selectors that we&apos;ve been studying. Let&apos;s begin.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. header/footer (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image267.webp" 
+  title="Linear gradient in header/footer"
   alt="Linear gradient in header/footer."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The first thing that I want to do is put in that linear gradient or that
@@ -5316,6 +5316,7 @@ about why that happened.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268. clear: both (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image268.webp" 
+  title="footer, background and clear: both"
   alt="footer, background and clear: both."
   style="border: 2px solid #000000;" 
   width="40%;" />
@@ -5328,6 +5329,7 @@ color. This overwrites any earlier rules, so I&apos;m going to go in here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269. style 2 elements at once (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image269.webp" 
+  title="Style two elements at once"
   alt="Style two elements at once."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5344,9 +5346,9 @@ look and see what we&apos;ve got. I&apos;ve got the gradient in.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270. styling links (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image270.webp" 
+  title="Styling the links"
   alt="Styling the links."
-  style="border: 2px solid #000000;" 
-  width="40%;" />
+  style="border: 2px solid #000000; width:40%;" />
 </p>
 
 The next thing I want to tackle is styling these links, and again, I&apos;m
@@ -5358,9 +5360,11 @@ that are inside the navigation section.
 <p align="center">
 <img src="./images/image271.webp"
   style="width:40%;"
+  title="Style the nav and nav a code"
   alt="Style the nav and nav a code." />
 <img src="./images/image272.webp"
   style="width:40%;"
+  title="Web changes after nav code changes"
   alt="Web changes after nav code changes." />
 </p>
 
@@ -5383,9 +5387,11 @@ that. All right? All right. So great, that&apos;s one step closer.
 <p align="center">
 <img src="./images/image273.webp"
   style="width:40%;"
+  title="Code to be changed"
   alt="Code to be changed." />
 <img src="./images/image274.webp"
   style="width:40%;"
+  title="Background after code changes"
   alt="Background after code changes." />
 </p>
 
@@ -5398,9 +5404,11 @@ closer. Little tiny steps are getting us much, much closer.
 <p align="center">
 <img src="./images/image275.webp"
   style="width:40%;"
+  title="Set 1/2 screen giving 45% width"
   alt="Set 1/2 screen giving 45% width." />
 <img src="./images/image276.webp"
   style="width:40%;"
+  title="After changes show screen"
   alt="After changes show screen." />
 </p>
 
@@ -5423,9 +5431,11 @@ class.
 <p align="center">
 <img src="./images/image277.webp"
   style="width:40%;"
+  title="Code on left set class='half'"
   alt="Code on left set class='half'." />
 <img src="./images/image278.webp"
   style="width:40%;"
+  title="Screen after code changes"
   alt="Screen after code changes." />
 </p>
 
@@ -5448,9 +5458,11 @@ we want to be whole.
 <p align="center">
 <img src="./images/image279.webp"
   style="width:40%;"
+  title="Progress in the Specialization 1/5"
   alt="Progress in the Specialization 1/5." />
 <img src="./images/image280.webp"
   style="width:40%;"
+  title="Progress in life goals 67/100"
   alt="Progress in life goals 67/100." />
 </p>
 
@@ -5487,6 +5499,7 @@ this:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281. subfolders; css & images (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image281.webp" 
+  title="Subfolders; CSS and images"
   alt="Subfolders; CSS and images."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5546,6 +5559,7 @@ Here is a site you may find helpful.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (2.07) (146) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image282.webp" 
+  title="2.07 Designing for Accessibility"
   alt="2.07 Designing for Accessibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5559,6 +5573,7 @@ and remind you of the basics of when you&apos;re designing your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. overview (2.7) (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image283.webp" 
+  title="Overview (2.7) Designing for Accessibility"
   alt="Overview (2.7) Designing for Accessibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5579,7 +5594,8 @@ really kind of match up with what you&apos;re doing with your CSS.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284. perceivable (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image284.webp" 
-  alt="Perceivable."
+  title="Perceivable"
+  alt="Perceivable"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5607,7 +5623,8 @@ what you&apos;ve put up there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 285. operable (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image285.webp" 
-  alt="Operable."
+  title="Operable"
+  alt="Operable"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5639,7 +5656,8 @@ them to find content and figure out where they are on your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. how to access the web (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image286.webp" 
-  alt="."
+  title="How to access the web"
+  alt="How to access the web."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5651,7 +5669,8 @@ that they can use to navigate through the web.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. understandable (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image287.webp" 
-  alt="Understandable."
+  title="Understandable"
+  alt="Understandable"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5680,7 +5699,8 @@ to figure out how to access the information.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. robust (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image288.webp" 
-  alt="Robust."
+  title="Robust"
+  alt="Robust"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5706,6 +5726,7 @@ better page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. review (2.7) (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image289.webp" 
+  title="Review (2.7) Designing for Accessibility"
   alt="Review (2.7) Designing for Accessibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5751,6 +5772,7 @@ performance of your page, as well as enhance accessibility:
 <!--~~~~~~~~~~~~~ 293. homework two description - advanced selectors (2.08) (154) ~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image293.webp" 
+  title="2.08 Homework Two Description: Advanced Selectors"
   alt="2.08 Homework Two Description: Advanced Selectors."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5763,7 +5785,8 @@ watch it to get a better feel for what I am looking for.</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image294.webp" 
-  alt="Objective."
+  title="Objective"
+  alt="Objective"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5844,6 +5867,7 @@ site. You can watch it in the next video, or link directly here:</i></b>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. before (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image130.webp" 
+  title="Ultimate Frisbee: Watch Your Head; Before changes"
   alt="Ultimate Frisbee: Watch Your Head; Before changes."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5854,15 +5878,18 @@ site. You can watch it in the next video, or link directly here:</i></b>
 <p align="center">
 <img src="./images/image290.webp"
   style="width:40%;"
+  title="Ultimate Frisbee (after)"
   alt="Ultimate Frisbee (after)." />
 <img src="./images/image291.webp"
   style="width:40%;"
+  title="Ultimate Frisbee Teams"
   alt="Ultimate Frisbee Teams." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292. ultimate frisbee history (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image292.webp" 
+  title="Ultimate Frisbee History"
   alt="Ultimate Frisbee History."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5872,7 +5899,8 @@ site. You can watch it in the next video, or link directly here:</i></b>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 293. homework description (2.08) (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image293.webp" 
-  alt="2.08. Homework Description."
+  title="2.08 Homework Description"
+  alt="2.08 Homework Description."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5883,7 +5911,8 @@ pages that you started styling last week.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. objective (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image294.webp" 
-  alt="Objective."
+  title="Objective"
+  alt="Objective"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5895,6 +5924,7 @@ html files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. getting started (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image295.webp" 
+  title="Getting Started"
   alt="Getting Started."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5911,9 +5941,11 @@ earlier work.
 <p align="center">
 <img src="./images/image296.webp"
   style="width:40%;"
+  title="Before assignment"
   alt="Before assignment." />
 <img src="./images/image297.webp"
   style="width:40%;"
+  title="After assignment"
   alt="After assignment." />
 </p>
 
@@ -5927,6 +5959,7 @@ and we got rid of those images.
 <!--~~~~~~~~~~~~ 298. add background-images, highlight selected menu option (157) ~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image298.webp" 
+  title="Add background-images, highlight selected menu option"
   alt="Add background-images, highlight selected menu option."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5943,6 +5976,7 @@ the home link is highlighted because we&apos;re on the home page.
 <!--~~~~~~~~~~~~~~~~~~~~ 299. history link - background and sources (157) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image299.webp" 
+  title="History link - background and sources"
   alt="History link - background and sources."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5957,6 +5991,7 @@ at in order to complete this assignment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 300. you must leave the html alone (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image300.webp" 
+  title="You must leave the HTML alone"
   alt="You must leave the HTML alone."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5975,6 +6010,7 @@ left-hand side of the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 301. body: change padding and margin (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image301.webp" 
+  title="body: change padding and margin"
   alt="body: change padding and margin."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -5989,6 +6025,7 @@ I know I did because I just found the text a little bit too small.
 <!--~~~~~~~~~~~~~~~~~~~~~ 302. header:  background-color and image (158) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image302.webp" 
+  title="header: change background-color and add background-image"
   alt="header: change background-color and add background-image."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6003,6 +6040,7 @@ check in some of the other resources if you get stuck on this part.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 303. h1: change font size and color (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image303.webp" 
+  title="h1: change font-size and color"
   alt="h1: change font-size and color."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6015,6 +6053,7 @@ navigation section but only those links. Not all the links in the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 304. navigation links: style only nav (160) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image304.webp" 
+  title="Navigation links: style only nav"
   alt="Navigation links: style only nav."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6026,6 +6065,7 @@ rounded borders and no underline. Make them look nice.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. create active class (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image305.webp" 
+  title="Create an active class"
   alt="Create an active class."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6037,6 +6077,7 @@ having to look at the URL.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 306. page has a left and right class (160) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image306.webp" 
+  title="Page has a left and right class"
   alt="Page has a left and right class."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6052,7 +6093,8 @@ homework, but if you didn&apos;t make sure it gets done now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. images (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image307.webp" 
-  alt="Images."
+  title="Images"
+  alt="Images"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -6069,6 +6111,7 @@ the top and bottom, too.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. peer grading (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image308.webp" 
+  title="Peer Grading"
   alt="Peer Grading."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -6517,7 +6560,7 @@ to make it a little bit clearer.
 <p align="center">
   <img src="./images/image328.webp" 
   title="Translate"
-  alt="Translate."
+  alt="Translate"
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -6569,7 +6612,7 @@ degree.
 <p align="center">
   <img src="./images/image332.webp" 
   title="Scale"
-  alt="Scale."
+  alt="Scale"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -6899,6 +6942,7 @@ works its way across, and then down.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 349. relative, #1 (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image349.webp" 
+  title="Relative, #1"
   alt="Relative, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6916,6 +6960,7 @@ holes where the browser thought it should&apos;ve been in the first place.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 350. relative, #2 (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image350.webp" 
+  title="Relative, #2"
   alt="Relative, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6934,6 +6979,7 @@ they would normally go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351. absolute, #1 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image351.webp" 
+  title="Absolute, #1"
   alt="Absolute, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6949,6 +6995,7 @@ is that you can end up with one element on top of another.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 352. absolute, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image352.webp" 
+  title="Absolute, #2"
   alt="Absolute, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6964,6 +7011,7 @@ on top of it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 353. fixed position (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image353.webp" 
+  title="Fixed Position"
   alt="Fixed Position."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -6990,6 +7038,7 @@ because it&apos;s always just there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 354. position properties (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image354.webp" 
+  title="Elements and their position properties"
   alt="Elements and their position properties."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7008,6 +7057,7 @@ going to look like over in the browser.
 <!--~~~~~~~~~~~~~~~~~~~~~ 355. two divs (a and b) and a paragraph c (188) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image355.webp" 
+  title="Two divs on top (a and b) and a third paragraph below (c)"
   alt="Two divs on top (a and b) and a third paragraph below (c)."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7026,6 +7076,7 @@ paragraph should be positioned.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 356. webkit with inspect (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image356.webp" 
+  title="webkit with Inspect"
   alt="webkit with Inspect."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7107,7 +7158,7 @@ hand.
 <p align="center">
   <img src="./images/image361.webp" 
   title="z-index"
-  alt="z-index."
+  alt="z-index"
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -7391,6 +7442,7 @@ four simple links.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 375. before nav changes - inline menu (198) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image375.webp" 
+  title="The before navigation menu"
   alt="The before navigation menu."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7403,6 +7455,7 @@ navigation bar.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376. the after nav menu (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image376.webp" 
+  title="The after navigation menu"
   alt="The after navigation menu."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7419,6 +7472,7 @@ background color, etc.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 377. 1st step in creating nav menu bar (199) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image377.webp" 
+  title="1st steps - creating a nav menu bar"
   alt="1st steps - creating a nav menu bar."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -7435,6 +7489,7 @@ looking at.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 378. 2nd step in creating nav menu bar (199) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image378.webp" 
+  title="2nd step - creating a nav menu bar"
   alt="2nd step - creating a nav menu bar."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7450,6 +7505,7 @@ it and this is how I can do it.
 <!--~~~~~~~~~~~~~~~~ 379. 3rd step add background image and menu markers (200) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image379.webp" 
+  title="3rd step - add background image and menu markers"
   alt="3rd step - add background image and menu markers."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7474,6 +7530,7 @@ vertical navigation bar. Go ahead and try it. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (4.03) (201) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image380.webp" 
+  title="4.03 Accessible Navigation Menu"
   alt="4.03 Accessible Navigation Menu."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7544,6 +7601,7 @@ Me Here. You want to give good information in those link descriptions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384. proper heading hierarchy (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image384.webp" 
+  title="Proper heading hierarchy, #1"
   alt="Proper heading hierarchy, #1."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7558,6 +7616,7 @@ that there is meaning behind your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 385. proper heading hierarch, #2 (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image385.webp" 
+  title="Proper heading hierarchy, #2"
   alt="Proper heading hierarchy, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -7586,6 +7645,7 @@ repeat it. Don&apos;t use tags just because you like the way they look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386. off-page headings (204) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image386.webp" 
+  title="Off-page headings"
   alt="Off-page headings."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -8115,7 +8175,7 @@ site. You can watch it in the next video, or link directly here:
 <p align="center">
   <img src="./images/image412.webp" 
   title="Before"
-  alt="Before."
+  alt="Before"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -8126,7 +8186,7 @@ site. You can watch it in the next video, or link directly here:
 <p align="center">
   <img src="./images/image413.webp"
   title="After"
-  alt="After."
+  alt="After"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8149,7 +8209,7 @@ something that you feel really proud of and that you&apos;ll want to share.
 <p align="center">
   <img src="./images/image415.webp" 
   title="Objective"
-  alt="Objective."
+  alt="Objective"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -8174,12 +8234,12 @@ you want, but I need to know that those changes are completed.</p>
   src="./images/image417.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Before"
-  alt="Before." />
+  alt="Before" />
 <img class="border"
   src="./images/image418.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="After"
-  alt="After." />
+  alt="After" />
 <p style="clear: both;"></p>
 </p>
 
@@ -8259,7 +8319,7 @@ together examples.</p>
 <p align="center">
   <img src="./images/image425.webp" 
   title="Table"
-  alt="Table."
+  alt="Table"
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -8481,3 +8541,4 @@ great in CSS 3.</p>
 -->
 <h6>Last Updated: 2/25/2024 8:53pm</h6>
 <h6>Last Updated: 3/13/2024 10:17am</h6>
+<h6>Last Updated: 3/31/2024 4:11am</h6>
