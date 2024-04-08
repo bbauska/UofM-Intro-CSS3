@@ -24,6 +24,9 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <script>
+    var dt = new Date();
+    document.getElementById('date-time').innerHTML=dt;
+
     <!-- get the button -->
     var mybutton = document.getElementById("myBtn");
 
@@ -7990,10 +7993,24 @@ to others.</p>
 the discussion boards and in other ways as you all created something
 great in CSS 3.</p>
 
-
 <p>..the end of 'Introduction to CSS taught through the University of Michigan.</p>
 
 <h6>Updated 2/26/2024 7+pm.</h6>
 <h6>Last updated 3/15/2024 8+pm.</h6>
+
+  <main class="cd__main">
+  <!-- Start DEMO HTML (Use the following code into your project)-->
+  <html>
+  <body onload="startTime()">
+  <div id="clockdate">
+    <div class="clockdate-wrapper">
+      <div id="clock"></div>
+      <div id="date"></div>
+    </div>
+  </div>
+
+  <!-- Script JS -->
+  <script src="./js/script.js"></script>
 </body>
+
 </html>
