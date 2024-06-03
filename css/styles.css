@@ -30,7 +30,7 @@ a {
   text-decoration: none; 
 }
 a[href]:hover {
-  color: #00000;
+  color: #000000;
   background-color: #ffff00;  /* yellow */
   text-decoration: underline; 
 }
@@ -38,15 +38,15 @@ a[href]:hover {
 div {
   float: left; }
 
-h1 { font-size: 21px;
+h1 { font-size: 25px;
      font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
 h2 { font-size: 18px;
      font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
 h3 { font-size: 17px;
      font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
-h4 { font-size: 16px;
+h4 { font-size: 13px;
      font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
-h5 { font-size: 15px;
+h5 { font-size: 12px;
      font-family: Bahnschrift, Inter, Helvetic, sans-serif; }
 h6 { font-size: 10px;
      font-family: Bahnschrift, Inter, Helvetic, sans-serif; }
@@ -76,7 +76,7 @@ body {
     border-radius: 1px;  /* 4px */
   }
   #myBtn:hover {
-    background-color: #555;  /* very dark gray */
+    background-color: #ffc0cb;  /* pink */
   }
 
 details {
