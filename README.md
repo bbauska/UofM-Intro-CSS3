@@ -2,6 +2,7 @@
 title: "2. University of Michigan's Introduction to CSS3"
 author: "bbauska"
 date last editted: "3/31/2024 4+am"
+date last editted: "6/19/2024 1+pm"
 output: 
   markdown:
     with some style
@@ -42,22 +43,19 @@ jump in ready to make mistakes and typos in this course. The only way
 you will really understand the material is to practice typing it in on
 your own as often as possible.
 
-1. <b><a href="https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0" target="_blank">1.01 Course Welcome</a></b>
+1. <b><a href="https://intro-css.bauska.org/#1-01" target="_blank">1.01 Course Welcome</a></b>
 
-<!-- 1b. [**1.01b Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcome-zOHP0){:target="_blank"} -->
-<!-- 1c. [**1.01c Course Welcome**](https://www.coursera.org/lecture/introcss/01-01-course-welcom-zOHP0)[newtab] -->
+2. <b><a href="https://intro-css.bauska.org/#1-02" target="_blank">1.02 Cascade Style Sheets</a></b>
 
-2.  **1.02 Cascading Style Sheets**
+3. <b><a href="https://intro-css.bauska.org/#1-03" target="_blank">1.03 Colors</a></b>
 
-3.  **1.03 Colors**
+4. <b><a href="https://intro-css.bauska.org/#1-04" target="_blank">1.04 Styling Your Text</a></b>
 
-4.  **1.04 Styling Your Text**
+5. <b><a href="https://intro-css.bauska.org/#1-05" target="_blank">1.05 Code Together</a></b>
 
-5.  **1.05 Code Together**
+6. <b><a href="https://intro-css.bauska.org/#1-06a" target="_blank">1.06a &amp; 06b Display and Visibility - Part 1 &amp; 2</a></b>
 
-6.  **1-06a & 06b Display and Visibility - Part 1 & 2**
-
-7.  **1-07 Homework Description**
+7. <b><a href="https://intro-css.bauska.org/#1-07" target="_blank">1.07 Homework Description</a></b>
 
 <h3>Week 2</h3>
 
@@ -71,21 +69,21 @@ require a little bit of tweaking to get the desired results. In
 particular we will talk about the Box Model, background images, opacity,
 float, columns, visibility, and designing for different browsers.
 
-1.  [**2-01 Box Model**](https://www.coursera.org/lecture/introcss/02-01-box-model-VDg21)
+1. <b><a href="https://intro-css.bauska.org/#2-01" target="_blank">2.01 Box Model</a></b>
 
-2.  **2-02 Code Together**
+2. <b><a href="https://intro-css.bauska.org/#2-02" target="_blank">2.02 Code Together</a></b>
 
-3.  **2-03 Styling Links and Lists**
+3. <b><a href="https://intro-css.bauska.org/#2-03" target="_blank">2.03 Styling Links and Lists</a></b>
 
-4.  **2-04 Advanced Selectors**
+4. <b><a href="https://intro-css.bauska.org/#2-04" target="_blank">2.04 Advanced Selectors</a></b>
 
-5.  **2-05 Browser Capabilities**
+5. <b><a href="https://intro-css.bauska.org/#2-05" target="_blank">2.05 Browser Capabilities</a></b>
 
-6.  **2-06 Code Together**
+6. <b><a href="https://intro-css.bauska.org/#2-06" target="_blank">2.06 Code Together</a></b>
 
-7.  **2-07 Designing for Accessibility**
+7. <b><a href="https://intro-css.bauska.org/#2-07" target="_blank">2.07 Designing for Accessibility</a></b>
 
-8.  **2-08 Homework Description**
+8. <b><a href="https://intro-css.bauska.org/#2-08" target="_blank">2.08 Homework Description</a></b>
 
 <h3>Week 3</h3>
 
@@ -104,7 +102,11 @@ elements to stick to a certain part of your page. Think about annoying
 pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
-1.  [**3-01 Pseudo Classes and Elements**](https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ)
+<!-- 1.  [**3-01 Pseudo Classes and Elements**](https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ) -->
+
+1. <b><a href="https://intro-css.bauska.org/#3-01" target="_blank">3.01 Pseudo Classes and Elements</a></b>
+
+2. <b><a href="https://intro-css.bauska.org/#3-02" target="_blank">3.02 TransitionsHomework Description</a></b>
 
 2.  **3-02 Transitions**
 
@@ -8594,3 +8596,4 @@ great in CSS 3.</p>
 <h6>Last Updated: 2/25/2024 8:53pm</h6>
 <h6>Last Updated: 3/13/2024 10:17am</h6>
 <h6>Last Updated: 3/31/2024 4:11am</h6>
+<h6>Last Updated: 6/18/2024 1:48pm</h6>
