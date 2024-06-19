@@ -76,21 +76,29 @@ require a little bit of tweaking to get the desired results. In
 particular we will talk about the Box Model, background images, opacity,
 float, columns, visibility, and designing for different browsers.
 
-1. <b><a href="https://intro-css.bauska.org/#2-01" target="_blank">2.01 Box Model</a></b>
+1. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#201-box-model" 
+  target="_blank">2.01 Box Model</a></b>
 
-2. <b><a href="https://intro-css.bauska.org/#2-02" target="_blank">2.02 Code Together</a></b>
+2. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#202-code-together" 
+  target="_blank">2.02 Code Together</a></b>
 
-3. <b><a href="https://intro-css.bauska.org/#2-03" target="_blank">2.03 Styling Links and Lists</a></b>
+3. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#203-styling-links-and-lists" 
+  target="_blank">2.03 Styling Links and Lists</a></b>
 
-4. <b><a href="https://intro-css.bauska.org/#2-04" target="_blank">2.04 Advanced Selectors</a></b>
+4. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#204-advanced-selectors" 
+  target="_blank">2.04 Advanced Selectors</a></b>
 
-5. <b><a href="https://intro-css.bauska.org/#2-05" target="_blank">2.05 Browser Capabilities</a></b>
+5. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#205-browser-capabilities" 
+  target="_blank">2.05 Browser Capabilities</a></b>
 
-6. <b><a href="https://intro-css.bauska.org/#2-06" target="_blank">2.06 Code Together</a></b>
+6. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#206-code-together" 
+  target="_blank">2.06 Code Together</a></b>
 
-7. <b><a href="https://intro-css.bauska.org/#2-07" target="_blank">2.07 Designing for Accessibility</a></b>
+7. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#207-designing-for-accessibility" 
+  target="_blank">2.07 Designing for Accessibility</a></b>
 
-8. <b><a href="https://intro-css.bauska.org/#2-08" target="_blank">2.08 Homework Description</a></b>
+8. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#208-homework-two-description---advanced-selectors" 
+  target="_blank">2.08 Homework Description</a></b>
 
 <h3>Week 3</h3>
 
@@ -109,15 +117,20 @@ elements to stick to a certain part of your page. Think about annoying
 pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
-1. <b><a href="https://intro-css.bauska.org/#3-01" target="_blank">3.01 Pseudo Classes and Elements</a></b>
+1. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#301-pseudo-classes-and-elements" 
+  target="_blank">3.01 Pseudo Classes and Elements</a></b>
 
-2. <b><a href="https://intro-css.bauska.org/#3-02" target="_blank">3.02 Transitions</a></b>
+2. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#302-transitions" 
+  target="_blank">3.02 Transitions</a></b>
 
-3. <b><a href="https://intro-css.bauska.org/#3-03" target="_blank">3.03 Transforms</a></b>
+3. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#303-transforms" 
+  target="_blank">3.03 Transforms</a></b>
 
-4. <b><a href="https://intro-css.bauska.org/#3-04" target="_blank">3.04 Code Together - Transitions</a></b>
+4. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#304-code-together---transitions" 
+  target="_blank">3.04 Code Together - Transitions</a></b>
 
-5. <b><a href="https://intro-css.bauska.org/#3-05" target="_blank">3.05 Positioning</a></b>
+5. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#305-positioning" 
+  target="_blank">3.05 Positioning</a></b>
 
 <h3>Week 4</h3>
 
@@ -134,19 +147,26 @@ styling guidelines while still putting your own personal touch on the
 project. Just remember, you need to validate your work for proper syntax
 and accessibility.
 
-1. <b><a href="https://intro-css.bauska.org/#4-01" target="_blank">4.01 Styling Tables</a></b>
+1. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#401-styling-tables" 
+  target="_blank">4.01 Styling Tables</a></b>
 
-2. <b><a href="https://intro-css.bauska.org/#4-02" target="_blank">4.02 Creating Navigation Menus</a></b>
+2. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#402-creating-navigation-menus" 
+  target="_blank">4.02 Creating Navigation Menus</a></b>
 
-3. <b><a href="https://intro-css.bauska.org/#4-03" target="_blank">4.03 Accessible Navigation</a></b>
+3. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#403-accessible-navigation-menu" 
+  target="_blank">4.03 Accessible Navigation</a></b>
 
-4. <b><a href="https://intro-css.bauska.org/#4-04" target="_blank">4.04 Creating Navigation Menus 2</a></b>
+4. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#404-creating-navigation-menus-2" 
+  target="_blank">4.04 Creating Navigation Menus 2</a></b>
 
-5. <b><a href="https://intro-css.bauska.org/#4-05" target="_blank">4.05 Creating Navigation Menus 3</a></b>
+5. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#405-creating-navigation-menus-3" 
+  target="_blank">4.05 Creating Navigation Menus 3</a></b>
 
-6. <b><a href="https://intro-css.bauska.org/#4-04" target="_blank">4.06 Homework Description</a></b>
+6. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#406-homework-description" 
+  target="_blank">4.06 Homework Description</a></b>
 
-7. <b><a href="https://intro-css.bauska.org/#4-05" target="_blank">4.07 Conclusion</a></b>
+7. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#407-conclusion" 
+  target="_blank">4.07 Conclusion</a></b>
 
 <h3>Where To Go from Here?</h3>
 
@@ -2809,13 +2829,13 @@ computers it matters and this would not work:
 &lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="1-07b">1.07b, cont'd: Homework One Description - Creating an External Style Sheet</h2>
+<h2 id="1-07b">1.07b Homework One Description - Creating an External Style Sheet, cont'd</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (1.07b) (73) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image128.webp" 
-  title="1.07b Homework Description - Creating an External Style Sheet"
-  alt="1.07b Homework Description - Creating an External Style Sheet."
+  title="1.07b Homework Description - Creating an External Style Sheet, cont'd"
+  alt="1.07b Homework Description - Creating an External Style Sheet, cont'd."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -2890,7 +2910,6 @@ a copy of your code so you don&apos;t lose it!!
 </p>
 
 <h3>After</h3>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. after menu (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3178,7 +3197,7 @@ name of each file that they use:
 -   Coding together 3 with No CSS - Classes
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-01">2.01 Box Model</h2>
+<h2 id="2-01">2.01 Box Model</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.01) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3680,7 +3699,7 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/yYPppz>
 Styled code: <http://codepen.io/ColleenEMc/pen/WQXddR>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-02">2.02 Code Together</h2>
+<h2 id="2-02">2.02 Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. code together (2.02) (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -3977,7 +3996,7 @@ I want your confidence to be very, very high by the end of week four that you ca
 do this. So good luck.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-03">2.03 Styling Links and Lists</h2>
+<h2 id="2-03">2.03 Styling Links and Lists</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 196. styling links and lists (2.03) (106) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4374,7 +4393,7 @@ more and more web design, I&apos;m hoping that you&apos;re gaining the
 confidence to help make something really cool that you&apos;re going to
 proud of. So, stick in there. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-04">2.04 Advanced Selectors</h2>
+<h2 id="2-04">2.04 Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. advanced selectors (2.04) (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -4842,7 +4861,7 @@ background: #00ff00 url(&quot;imgs/ocean.jpg&quot;) no-repeat fixed center;
 -   background-position
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-05">2.05 Browser Capabilities</h2>
+<h2 id="2-05">2.05 Browser Capabilities</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. browser capabilities (2.05) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5312,7 +5331,7 @@ Unstyled code: <http://codepen.io/ColleenEMc/pen/QjOaVg>
 Styled code: <http://codepen.io/ColleenEMc/pen/jbaYvL>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-06">2.06 Code Together</h2>
+<h2 id="2-06">2.06 Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. code together (2.06) (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5611,7 +5630,7 @@ Here is a site you may find helpful.
 <https://css-tricks.com/almanac/properties/o/opacity/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-07">2.07 Designing for Accessibility</h2>
+<h2 id="2-07">2.07 Designing for Accessibility</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 282. designing for accessibility (2.07) (146) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -5824,7 +5843,7 @@ performance of your page, as well as enhance accessibility:
 [http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era&#45;-webdesign-16824.](%20http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week2-08">2.08 Homework Two Description - Advanced Selectors</h2>
+<h2 id="2-08">2.08 Homework Two Description - Advanced Selectors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 293. homework two description - advanced selectors (2.08) (154) ~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6256,7 +6275,7 @@ of each file that they use:
 -   Positioning
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-01">3.01 Pseudo Classes and Elements</h2>
+<h2 id="3-01">3.01 Pseudo Classes and Elements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 309. pseudo classes and elements (3.01) (163) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6356,7 +6375,7 @@ about. But I do want to give you the tools so that you can go out and
 investigate how you can add some cool new styles to your page. Good
 luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-02">3.02 Transitions</h2>
+<h2 id="3-02">3.02 Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. transitions (3.02) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6577,7 +6596,7 @@ going to tab through. You want to make sure that all your content is
 always available, and just keep those transitions for something a little
 bit extra to add to your site. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-03">3.03 Transforms</h2>
+<h2 id="3-03">3.03 Transforms</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. transforms (3.03) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6791,7 +6810,7 @@ more confident about what we just learned with transforms. Good luck.
     animation](http://www.creativebloq.com/css3/animation-with-css3-712437)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-04">3.04 Code Together - Transitions</h2>
+<h2 id="3-04">3.04 Code Together - Transitions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 338. code together - transitions (3.04) (178) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6925,7 +6944,7 @@ very own version of those annoying ads. Using the box model principals,
 you learned earlier, you will learn to manipulate the positioning
 property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week3-05">3.05 Positioning</h2>
+<h2 id="3-05">3.05 Positioning</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 345. positioning (3.05) (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7304,7 +7323,7 @@ is a lightning bolt.
   style="border: 2px solid #000000; width:5%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-01">4.01 Styling Tables</h2>
+<h2 id="4-01">4.01 Styling Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In today&apos;s code review, we&apos;re going to talk about making a calendar.
 Because what I really like about calendars is that there are all these little, 
@@ -7468,7 +7487,7 @@ all go together to create a page that can look so much better than just
 plain HTML by itself. So, I&apos;m hoping you&apos;ll use this code and create
 something great for yourself. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-02">4.02 Creating Navigation Menus</h2>
+<h2 id="4-02">4.02 Creating Navigation Menus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 373. creating navigation menus (4.02) (197) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7582,7 +7601,7 @@ we&apos;ve already talked about, display, line height, background URLs, we
 were able to make something that I think looks really cool for a simple,
 vertical navigation bar. Go ahead and try it. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-03">4.03 Accessible Navigation Menu</h2>
+<h2 id="4-03">4.03 Accessible Navigation Menu</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 380. accessible navigation menu (4.03) (201) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7867,7 +7886,7 @@ disagrees.
 <https://yoast.com/headings-use/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-04">4.04 Creating Navigation Menus #2</h2>
+<h2 id="4-04">4.04 Creating Navigation Menus #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 396. creating navigation menus #2 (4.04) (210) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -7961,7 +7980,7 @@ page that you are trying to create. So go ahead, have some fun, and now
 try to make a navigation bar that goes in all different ways, up and
 down, sideways, or even combinations. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-05">4.05 Creating Navigation Menus #3</h2>
+<h2 id="4-05">4.05 Creating Navigation Menus #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 401. creating navigation menus #3 (4.05) (213) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8247,7 +8266,7 @@ site. You can watch it in the next video, or link directly here:
   style="border: 2px solid #000000; width:40%;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-06">4.06 Homework Description</h2>
+<h2 id="4-06">4.06 Homework Description</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 414. homework description (4.06) - final project (217) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8516,7 +8535,7 @@ your understanding of CSS. If you run into problems, you should feel free to use
 the discussion boards and ask people anything that you&apos;re not quite sure on. 
 Or just share something cool that you got to work. Good luck.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week4-07">4.07 Conclusion</h2>
+<h2 id="4-07">4.07 Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. in closing (4.07) (225) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -8600,3 +8619,4 @@ great in CSS 3.</p>
 <h6>Last Updated: 3/13/2024 10:17am</h6>
 <h6>Last Updated: 3/31/2024 4:11am</h6>
 <h6>Last Updated: 6/18/2024 1:48pm</h6>
+<h6>Last Updated: 6/19/2024 2:17pm</h6>
