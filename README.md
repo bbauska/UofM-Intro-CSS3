@@ -102,19 +102,15 @@ elements to stick to a certain part of your page. Think about annoying
 pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE
 OF THE SCREEN despite the fact that you keep trying to scroll them away.
 
-<!-- 1.  [**3-01 Pseudo Classes and Elements**](https://www.coursera.org/lecture/introcss/03-01-pseudo-classes-and-elements-jE7LQ) -->
-
 1. <b><a href="https://intro-css.bauska.org/#3-01" target="_blank">3.01 Pseudo Classes and Elements</a></b>
 
-2. <b><a href="https://intro-css.bauska.org/#3-02" target="_blank">3.02 TransitionsHomework Description</a></b>
+2. <b><a href="https://intro-css.bauska.org/#3-02" target="_blank">3.02 Transitions</a></b>
 
-2.  **3-02 Transitions**
+3. <b><a href="https://intro-css.bauska.org/#3-03" target="_blank">3.03 Transforms</a></b>
 
-3.  **3-03 Transforms**
+4. <b><a href="https://intro-css.bauska.org/#3-04" target="_blank">3.04 Code Together - Transitions</a></b>
 
-4.  **3-04 Code together - Transitions**
-
-5.  **3-05 Positioning**
+5. <b><a href="https://intro-css.bauska.org/#3-05" target="_blank">3.05 Positioning</a></b>
 
 <h3>Week 4</h3>
 
@@ -131,19 +127,19 @@ styling guidelines while still putting your own personal touch on the
 project. Just remember, you need to validate your work for proper syntax
 and accessibility.
 
-1.  [**4-01 Styling Tables**](https://www.coursera.org/lecture/introcss/04-01-styling-tables-OGCjp)
+1. <b><a href="https://intro-css.bauska.org/#4-01" target="_blank">4.01 Styling Tables</a></b>
 
-2.  **4-02 Creating Navigation Menus**
+2. <b><a href="https://intro-css.bauska.org/#4-02" target="_blank">4.02 Creating Navigation Menus</a></b>
 
-3.  **4-03 Accessible Navigation**
+3. <b><a href="https://intro-css.bauska.org/#4-03" target="_blank">4.03 Accessible Navigation</a></b>
 
-4.  **4-04 Creating Navigation Menus 2**
+4. <b><a href="https://intro-css.bauska.org/#4-04" target="_blank">4.04 Creating Navigation Menus 2</a></b>
 
-5.  **4-05 Creating Navigation Menus 3**
+5. <b><a href="https://intro-css.bauska.org/#4-05" target="_blank">4.05 Creating Navigation Menus 3</a></b>
 
-6.  **4-06 Homework Description**
+6. <b><a href="https://intro-css.bauska.org/#4-04" target="_blank">4.06 Homework Description</a></b>
 
-7.  **4-07 Conclusion**
+7. <b><a href="https://intro-css.bauska.org/#4-05" target="_blank">4.07 Conclusion</a></b>
 
 <h3>Where To Go from Here?</h3>
 
