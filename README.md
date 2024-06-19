@@ -49,15 +49,20 @@ your own as often as possible.
 2. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#102-cascade-style-sheets" 
   target="_blank">1.02 Cascade Style Sheets</a></b>
 
-3. <b><a href="https://intro-css.bauska.org/#1-03" target="_blank">1.03 Colors</a></b>
+3. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#103-colors" 
+  target="_blank">1.03 Colors</a></b>
 
-4. <b><a href="https://intro-css.bauska.org/#1-04" target="_blank">1.04 Styling Your Text</a></b>
+4. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#104-styling-your-text" 
+  target="_blank">1.04 Styling Your Text</a></b>
 
-5. <b><a href="https://intro-css.bauska.org/#1-05" target="_blank">1.05 Code Together</a></b>
+5. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#105-code-together" 
+  target="_blank">1.05 Code Together</a></b>
 
-6. <b><a href="https://intro-css.bauska.org/#1-06a" target="_blank">1.06a &amp; 06b Display and Visibility - Part 1 &amp; 2</a></b>
+6. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#106a-display-and-visibility-part-1" 
+  target="_blank">1.06a &amp; 06b Display and Visibility - Part 1 &amp; 2</a></b>
 
-7. <b><a href="https://intro-css.bauska.org/#1-07" target="_blank">1.07 Homework Description</a></b>
+7. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#107a-homework-description---code-placement" 
+  target="_blank">1.07 Homework Description</a></b>
 
 <h3>Week 2</h3>
 
