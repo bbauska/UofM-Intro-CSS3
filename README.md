@@ -43,9 +43,11 @@ jump in ready to make mistakes and typos in this course. The only way
 you will really understand the material is to practice typing it in on
 your own as often as possible.
 
-1. <b><a href="https://intro-css.bauska.org/#1-01" target="_blank">1.01 Course Welcome</a></b>
+1. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#101-course-welcomeoverview" 
+  target="_blank">1.01 Course Welcome</a></b>
 
-2. <b><a href="https://intro-css.bauska.org/#1-02" target="_blank">1.02 Cascade Style Sheets</a></b>
+2. <b><a href="https://github.com/bbauska/UofM-Intro-CSS3?tab=readme-ov-file#102-cascade-style-sheets" 
+  target="_blank">1.02 Cascade Style Sheets</a></b>
 
 3. <b><a href="https://intro-css.bauska.org/#1-03" target="_blank">1.03 Colors</a></b>
 
@@ -353,7 +355,7 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-01">1.01 Course Welcome/Overview</h2>
+<h2 id="1-01">1.01 Course Welcome/Overview</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -634,7 +636,7 @@ lectures. Or better yet, read this first, watch the lectures, and then
 review the material again, but this time play with the code to see if
 you can change the pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-02">1.02 Cascade Style Sheets</h2>
+<h2 id="1-02">1.02 Cascade Style Sheets</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 10. intro to cascading style sheets v3 (1.02) (14) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1154,7 +1156,7 @@ course. You&apos;re going to be messing up a lot in this course. But I
 can&apos;t wait for you to develop something that really reflects how you
 want your page to look. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-03">1.03 Colors</h2>
+<h2 id="1-03">1.03 Colors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. colors (1.03) (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1502,7 +1504,7 @@ to play with these different design elements of your page. And I hope
 that you&apos;ve learned something here that&apos;s useful as you continue
 programming, and keep styling your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-04">1.04 Styling Your Text</h2>
+<h2 id="1-04">1.04 Styling Your Text</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. styling your text (1.04) (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1919,7 +1921,7 @@ Un-styled code: <http://codepen.io/ColleenEMc/pen/MaOrmE>
 Styled code: <http://codepen.io/ColleenEMc/pen/MaOrmv>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-05">1.05 Code Together</h2>
+<h2 id="1-05">1.05 Code Together</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. code together (1.05) (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2128,7 +2130,7 @@ you&apos;re going to need to do for the homework in this section. Practice
 here, come back and watch me, if it helps you out a little bit getting
 over humps. But the important thing is, code, code, code, good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-06a">1.06a Display and Visibility, Part 1</h2>
+<h2 id="1-06a">1.06a Display and Visibility, Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 93. display and visibility, part 1 (1.06a) (55) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2503,7 +2505,7 @@ So go ahead, do what we&apos;ve always been doing and just play with these a lit
 bit until you get the idea of what they do. As time goes on, you&apos;ll start to 
 figure out when you want them to actually do these kinds of actions.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-06b">1.06b Display and Visibility, Part 2</h2>
+<h2 id="1-06b">1.06b Display and Visibility, Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 94. display and visibility, part 2 (1.06b) (65) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2747,7 +2749,7 @@ easier. We want to avoid save refresh, save refresh. Instead, use those
 tools and you&apos;ll find that you&apos;re making really good decisions in your
 design and your code. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-07a">1.07a Homework Description - Code Placement</h2>
+<h2 id="1-07a">1.07a Homework Description - Code Placement</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
@@ -2802,7 +2804,7 @@ computers it matters and this would not work:
 &lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="week1-07b">1.07b, cont'd: Homework One Description - Creating an External Style Sheet</h2>
+<h2 id="1-07b">1.07b, cont'd: Homework One Description - Creating an External Style Sheet</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (1.07b) (73) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
