@@ -744,10 +744,10 @@ which property it is you want to change. We can look at things such as
 color, background color, how much space we put around it, we&apos;re going
 to cover all of those.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 13.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 13. cascading style sheet: selector, #2 (16) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image013.webp" 
-  alt="."
+  alt="Cascade Style Sheet: Selector, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -760,10 +760,10 @@ blue. We&apos;ve done exactly what we did when we embedded using the style
 tag, but now it&apos;s very generic, and we&apos;re not talking about a specific
 heading. We&apos;re not talking about a specific tag.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 14.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 14. cascading style sheet: selector, #3 (16) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image014.webp" 
-  alt="."
+  alt="Cascade Style Sheet: Selector, #3."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -777,10 +777,10 @@ me show you again when we go back here, you can see that I&apos;ve got a
 beginning bracket and a closing bracket, and I&apos;ve got this semicolon
 right at the end. You need to remember to include those.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 15.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. rule syntax (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image015.webp" 
-  alt="."
+  alt="Rule Syntax."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -801,20 +801,20 @@ background color to be yellow? Well, no problem. You can have as many
 property value combinations as you want. You just need to remember to
 separate them with semicolons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 16.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. multiple properties (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image016.webp" 
-  alt="."
+  alt="Multiple Properties; color and background-color." 
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
 In this case, again, I&apos;ve set the color to blue and the background
 color to yellow.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 17.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. internal style sheet, #1 (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image017.webp" 
-  alt="."
+  alt="Internal Style Sheet, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -825,10 +825,10 @@ here in my code, I&apos;ve got the basic template of our file. And inside
 the head tags, I&apos;ve put this style tag in, that&apos;s where you&apos;re going
 to want to put your rules, they&apos;re defined right within that style.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 18.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. internal style sheet, #2 (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image018.webp" 
-  alt="."
+  alt="Internal Style Sheet, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -841,10 +841,10 @@ have multiple rules including paragraphs, images, things like that,
 it&apos;s going to know, I want to apply this to all instances in the entire
 file.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 19.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. internal style sheet, #3 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image019.webp" 
-  alt="."
+  alt="Internal Style Sheet, #3."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -864,10 +864,10 @@ You don&apos;t want to have to go in and say if you want to change a color,
 you don&apos;t want to have to go in and open every single one of those
 files so you can change the color to red or green.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. external style sheet, #1 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image020.webp" 
-  alt="."
+  alt="External Style Sheet, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -887,10 +887,10 @@ be really important that you&apos;re naming things in ways that they make
 since to you. You can link to as many different style sheets as you
 want, most of the time we start with one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. external style sheet, #2 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image021.webp" 
-  alt="."
+  alt="External Style Sheet, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -901,10 +901,10 @@ change that color from blue to red or green or something like that? This
 is great. All you need to do is open up style.css, change one line of
 code, and you&apos;ve now just changed potentially thousands of pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 22.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 22. the 'cascading' part of css, again (20) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image022.webp" 
-  alt="."
+  alt="The 'Cascading' part of CSS, again."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -932,10 +932,10 @@ external, then internal, and then inline. Which is why really you want
 to avoid using any inline style because it pretty much nullifies all
 your styling rules.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 23.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. rule precedence, #1 (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image023.webp" 
-  alt="."
+  alt="Rule Precedence, #1"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -948,7 +948,9 @@ Well, how it works is that the rules from the most recent file have
 precedence. And what I mean by the most recent file, it means it goes up
 into the head section and it goes one, two, three, and it kind of looks
 at what order you listed them, and the last one you listed is the one
-that&apos;s going to have precedence. Okay? Well, what if you have a
+that&apos;s going to have precedence. 
+
+Okay? Well, what if you have a
 selector in the same file, and you&apos;ve written H1 multiple times. This
 can actually happen quite a bit. Especially if you decide to go off and
 be part of a big development company, you write some code, and then
@@ -958,10 +960,10 @@ decided, I&apos;m going to code! And you forget that you&apos;ve already written
 some rules. Well, if that&apos;s the case, once again, the browser&apos;s going
 to look at the one it saw last.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 24.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. rule precedence, #2 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image024.webp" 
-  alt="."
+  alt="Rule Precedence, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -973,20 +975,20 @@ going to look at this is it&apos;s going to go down, and say, I&apos;m going to
 make all the font blue, and I&apos;m going to go ahead and make the font
 family Times. It&apos;s just always is going to use the last one it saw.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 25.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. rule precedence, #3 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image025.webp" 
-  alt="."
+  alt="Rule Precedence, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Again, the most recent rule has precedence, whether it was inside your
 code or it came from different files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 26.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. !important (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image026.webp" 
-  alt="."
+  alt="!important."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1000,10 +1002,10 @@ Even though later I decide to overwrite it with times, the browser&apos;s
 going to say nope, I know that she really wanted me to use Arial, and it
 works out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 27.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27. styled heading (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image027.webp" 
-  alt="."
+  alt="Styled Heading."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1024,10 +1026,10 @@ there and put style equals, style equals. In this example there&apos;s only
 two, but you can imagine how it&apos;d get really annoying if you had a lot,
 okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 28.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 28. internal styled heading (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image028.webp" 
-  alt="."
+  alt="Internal Styled Heading."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1062,7 +1064,9 @@ put them off into an external style sheet. Again, there&apos;s no style tag
 here. It&apos;s just the rules themselves. And then I had to go back to the
 HTML file, and you can see right up here, near the top, I have hey,
 let&apos;s link to the style sheet I want. Now, I want to point this out
-very carefully to you. If you notice, I have css/externalStyle sheet.
+very carefully to you. 
+
+If you notice, I have css/externalStyle sheet.
 This means that my style sheet is in a special folder called css.
 Developers really stress that you do this, because you want your code to
 be kind of organized into different parts. Again, in the same way, I now
@@ -1070,10 +1074,10 @@ have a page that uses external style sheets and looks really good. All
 this code is going to be available for you to look at it, but I want you
 to kind of play with it as much as you can.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 31. styled heading to show how cascade works (25) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. external styled heading, #2 (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image031.webp" 
-  alt="."
+  alt="External Style Heading, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1081,10 +1085,10 @@ But I want to use this final example to help you understand how the
 cascading works. Right here, I have my external style sheet. I&apos;m going
 to go over here for just a second. Go to my, and I&apos;m going to add,
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 32. awkward styled heading (25) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. external styled heading, #3 (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image032.webp" 
-  alt="."
+  alt="External Styled Heading, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1095,7 +1099,7 @@ quickly. I&apos;m going to save it; I&apos;m going to reload my page and
 everything disappeared. This was what I was talking about. You really
 want to make sure you include that style tag. Do it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 33. external and internal style sheets (25) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. external styled heading, #4 (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image033.webp" 
   alt="Both external and internal style sheet example."
@@ -1114,8 +1118,8 @@ can do that formatting.
 <!--~~~~~~~~~~~~~~~~~~~~ 34. review style sheets - internal & external (26) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image034.webp" 
-  title="Review - Both external and internal style sheet example"
-  alt="Review - Both external and internal style sheet example."
+  title="1.02 Review - Both external and internal style sheet example"
+  alt="1.02 Review - Both external and internal style sheet example." 
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1219,16 +1223,18 @@ way that you can add color is to just simply use the English word. Blue,
 red, yellow, etc. These work, and they&apos;ll show up fine on your page.
 The problem is, is that it&apos;s not consistent across the pages. What&apos;s
 yellow to one browser is not the exact same shade of yellow to another
-browser. So, in general, we avoid color names when your final project is
+browser. 
+
+In general, we avoid color names when your final project is
 coming up. When you&apos;re just coding and hacking away, you just want to
 pop something up on the screen. No problem. Use blue or red or yellow
 but then later what you&apos;re going to want to do. It changed when these
 other two conventions I&apos;m going to talk about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. color conventions, #2 (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image041.webp" 
-  alt="."
+  alt="Color Conventions, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1242,10 +1248,10 @@ six digits. The examples I have here for you are six digits. And the way
 it works is that you have a red, green, and blue value, and the bigger
 the number you put in there, the more red, green, or blue you&apos;ll see.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 42.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. color conventions, #3 (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image042.webp" 
-  alt="."
+  alt="Color Conventions, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1253,10 +1259,10 @@ Here&apos;s my example. I have an example of blue, red, but also yellow
 because depending on how much of these different values you put in,
 it&apos;s can change the color that&apos;s going to show up on your screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. color conventions, #4 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image043.webp" 
-  alt="."
+  alt="Color Conventions, #4."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1269,20 +1275,20 @@ I&apos;ve done the same thing, I&apos;ve just done one, one, and one, one. I
 could have just as easily put 0.5, 0.8, 0.6, and that would change the
 strength of the color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 44.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. color conventions, #5 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image044.webp" 
-  alt="."
+  alt="Color Conventions, #5."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
 Here I have rgb (0,0,1). One of the reasons that people have been
 switching over to rgb is that there&apos;s another option called rgba.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 45.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. color conventions, #6 (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image045.webp" 
-  alt="."
+  alt="Color Conventions, #6."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1291,10 +1297,10 @@ and what it stands for is alpha transparency. You have a fourth value on
 the end that says, you know what? I want to use this blue color, but I
 want to kind of make it a little bit see through.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 46.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 46. color conventions, #7 (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image046.webp" 
-  alt="."
+  alt="Color Conventions, #7."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1309,10 +1315,10 @@ ways, all right? I want to show you an example really quick on the web
 of how you can see some of these different colors and how they&apos;re
 working.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 47.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. course webpage (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image047.webp" 
-  alt="."
+  alt="Course Webpage."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1322,10 +1328,10 @@ something called Inspect Element to really kind of look at my page, and
 look at the colors, and a really quick way for me to see how I can make
 it look different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 48.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 48. inspect element, course webpage (32) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image048.webp" 
-  alt="."
+  alt="Inspect Element, Course Webpage."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1333,29 +1339,29 @@ I have my mouse, right here. I&apos;m going to right-click, and I'm going to
 go down to Inspect Element. Now for some of you, this part may pop over
 to the side or underneath.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 49.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 49. inspect element, course webpage, #2 (32) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image049.webp" 
-  alt="."
+  alt="Inspect Element, Course Webpage, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
 You can move it around by clicking on this button over here. But as you
 can see, I&apos;m going to highlight my h1 and go down here to the span.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 50.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 50. inspect element, course webpage, #3 (33) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image050.webp" 
-  alt="."
+  alt="Inspect Element, Course Webpage, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And you can be like oh, there&apos;s the color I&apos;m using.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 51.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 51. inspect element, course webpage, #4 (33) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image051.webp" 
-  alt="."
+  alt="Inspect Element, Course Webpage, #4."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1367,10 +1373,10 @@ could find the perfect color, this green is not the perfect color. I
 could find the perfect color, grab that hexadecimal value and put into
 my style sheet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 52. inspect element, course webpage, #5 (33) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image052.webp" 
-  alt="."
+  alt="Inspect Element, Course Webpage, #5."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1379,10 +1385,10 @@ either way you want. I love using expect element to kind of play with
 the colors because it&apos;s so much easier when you can see what&apos;s
 happening as you&apos;re designing it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 53.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 53. inspect element, course webpage, #6 (34) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image053.webp" 
-  alt="."
+  alt="Inspect Element, Course Webpage, #6."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1391,10 +1397,10 @@ as you highlight you can add colors, do different things along the same
 line. I wouldn&apos;t suggest this, but I&apos;m going to add a background
 color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 54.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 54. inspect element, course webpage, #7 (34) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image054.webp" 
-  alt="."
+  alt="Inspect Element, Course Webpage, #7."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1408,10 +1414,10 @@ rabbit hole. And you&apos;re like, oh I like this color. No, this color&apos;s
 better. You&apos;re beginning, you&apos;re starting off, just pick a color, play
 with it, and keep going with it. But let&apos;s go back.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 55.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 55. accessibility (35) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image055.webp" 
-  alt="."
+  alt="Accessibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1439,10 +1445,10 @@ us intuitively know when something has really poor color contrast.
 We&apos;re squinting at it. But to be honest, very few of us know what the
 really exact level is of where you need to go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 56.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 56. what is color contrast? (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image056.webp" 
-  alt="."
+  alt="What is Color Contrast?"
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1454,20 +1460,20 @@ over here, and I&apos;ve got the wave.webbing.org. And you can type in any
 URL. I&apos;m going to go ahead and put in my own personal web page from
 UMISH, which may change by the time this comes up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 57.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 57. detect contrast issues, #1 (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image057.webp" 
-  alt="."
+  alt="Detect Contrast Issues, #1."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And, as you can see, you can go over here and it&apos;ll check your styles,
 it&apos;ll check your different HTML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. detect contrast issues, #2 (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image058.webp" 
-  alt="."
+  alt="Detect Contrast Issues, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1478,10 +1484,10 @@ you will get examples. They can be extremely picky and if it&apos;s really
 something that you feel strongly that you can see, absolutely, stick
 with it. But you want to take their suggestions with a grain of salt.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 59. don't use color alone to convey meaning (37) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image059.webp" 
-  alt="."
+  alt="Don't Use Color Alone to Convey Meaning."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1490,10 +1496,10 @@ whole idea of don't use color alone to convey meaning. This is a typical
 kind of bar graph for people to use colors to say, hey this is how much
 share is Apple iPhone, the Pre Palm, different things along that line.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 60.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60. test in gray scale (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image060.webp" 
-  alt="."
+  alt="Test in Gray Scale."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1505,10 +1511,10 @@ saying you can&apos;t, I&apos;m saying make sure you&apos;re providing alternati
 Make sure you&apos;ve got alternate text or you&apos;ve got a caption or
 someplace else where people can link to get this information.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 61.  (xxx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. review (1.03 color) (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image061.webp" 
-  alt="."
+  alt="1.03 Review - Color."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1575,6 +1581,7 @@ First let&apos;s talk about font family. Font families are just different types
 of text. If you&apos;ve used Word before, you&apos;ve gone in, you&apos;ve
 gone to font family and you can pick Arial or Wingdings or all these
 different types of fonts. You can do the same things on your webpage.
+
 I&apos;ve got a couple of examples up here for you of the more common. You
 have Helvetica, Courier, Courier New, Comic Sans, cursive or Verdana. I
 tried to put the font type here in the slide, but it might be hard for
@@ -1610,7 +1617,9 @@ to look like this example here.
 Now every single browser doesn&apos;t support everything. We&apos;ve seen this
 even with HTML 5. Some browsers support some text, some don&apos;t. In the
 same way some browsers support some fonts and others don&apos;t as well.
-What you can do is provide alternatives. In this example, I&apos;ve given
+What you can do is provide alternatives. 
+
+In this example, I&apos;ve given 
 the browser three different alternatives to use. I&apos;m saying, whenever
 you come up to an h1 tag, I want you to use the Courier font. But if you
 don&apos;t have the Courier font, use the Impact font. If you don&apos;t have
