@@ -2,7 +2,7 @@
 title: "2. University of Michigan's Introduction to CSS3"
 author: "bbauska"
 date last editted: "3/31/2024 4+am"
-date last editted: "6/19/2024 1+pm"
+date last editted: "9/19/2024 4+pm"
 output: 
   markdown:
     with some style
@@ -21,7 +21,7 @@ output:
   style="border: 2px solid #000000; width:500px;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by university of michigan (07) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 03. offered by university of michigan (01) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.webp" 
   title="offered by University of Michigan"
@@ -382,7 +382,7 @@ you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="1-01">1.01 Course Welcome/Overview</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. intro to css3 (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.webp" 
   title="University of Michigan - Intro to CSS3" 
@@ -545,7 +545,7 @@ I&apos;m going to do in these lectures. There&apos;s only so much information I
 can give to you. It&apos;s up to you to practice it, tweak it, change it,
 and try to really see what happens beyond what I&apos;m showing you.
 
-So, if you want to know a little bit more about me and why I&apos;m choosing
+If you want to know a little bit more about me and why I&apos;m choosing
 to teach this class, here&apos;s a little bit of background information. I
 have a PhD in Computer Science. But to be honest, that&apos;s really the
 least important part. What I really have is two decades of teaching
@@ -587,26 +587,23 @@ us as we learn more about cascading style sheets. Thanks.
 
 <h4>Software:</h4>
 
-The **preferred** way to code in this class is editor software
+<p>The <b>preferred</b> way to code in this class is editor software
 (Notepad++, TextWrangler, Sublime, etc.). If you do not have the ability
 to access or install this type of software, there is an online editor
-at:
+at: <a href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro" target="_blank" rel="noopener noreferrer">Online Editor</a>.</p>
 
-<http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro> .
-
-You can also use CodePen (there is a link below). It is important that
-you find a way that you can enter code and still test your work.
+<p>You can also use CodePen (there is a link below). It is important that
+you find a way that you can enter code and still test your work.</p>
 
 <h4>Code:</h4>
 
-All of the code I cover is available from a CodePen repository. I hope
+<p>All of the code I cover is available from a CodePen repository. I hope
 you can play with the code to test the different concepts we will cover.
 Here is a link to the CodePen repository for the Week One code.
+<a href="http://codepen.io/collection/noEQed/">Week 1 code</a>.</p>
 
-<http://codepen.io/collection/noEQed/>
-
-Here is a list of the lectures this week that use CodePen, and the name
-of each file that they use:
+<p>Here is a list of the lectures this week that use CodePen, and the name
+of each file that they use:</p>
 
 <h4>01-02 Cascading Style Sheet:</h4>
 
@@ -646,8 +643,10 @@ introcss.ppt
 
 <h4>Building Your First Web Page by Shay Howe</h4>
 
-This tutorial can be found at
-<https://learn.shayhowe.com/html-css/building-your-first-web-page/>.
+<p>This tutorial can be found at 
+<a href="https://learn.shayhowe.com/html-css/building-your-first-web-page/">
+Building Your First Webpage</a>.</p>
+
 This is a great resource for a lot of my students. I particularly like
 that the author uses CodePen. This is a great feature that lets you
 open, edit, and run the code as you learn about it. The lesson
@@ -744,10 +743,11 @@ which property it is you want to change. We can look at things such as
 color, background color, how much space we put around it, we&apos;re going
 to cover all of those.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 13. cascading style sheet: selector, #2 (16) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~ 13. cascade style sheet: defined generic rules that can apply to multiple elements (16) ~~-->
 <p align="center">
   <img src="./images/image013.webp" 
-  alt="Cascade Style Sheet: Selector, #2."
+  title="CSS: Cascade Style Sheet: defined generic rules that can apply to multiple elements"
+  alt="CSS: Cascade Style Sheet: defined generic rules that can apply to multiple elements."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
@@ -760,9 +760,10 @@ blue. We&apos;ve done exactly what we did when we embedded using the style
 tag, but now it&apos;s very generic, and we&apos;re not talking about a specific
 heading. We&apos;re not talking about a specific tag.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 14. cascading style sheet: selector, #3 (16) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 14. cascading style sheets: selector, #3 (16) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image014.webp" 
+  title="Cascade Style Sheet: Selector, #3"
   alt="Cascade Style Sheet: Selector, #3."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -780,6 +781,7 @@ right at the end. You need to remember to include those.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. rule syntax (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image015.webp" 
+  title="Rule Syntax"
   alt="Rule Syntax."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -801,19 +803,21 @@ background color to be yellow? Well, no problem. You can have as many
 property value combinations as you want. You just need to remember to
 separate them with semicolons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. multiple properties (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. multiple properties (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image016.webp" 
-  alt="Multiple Properties; color and background-color." 
+  title="Multiple properties; font color and background-color"
+  alt="Multiple properties; font color and background-color."
   style="border: 2px solid #000000; width:50%;" />
 </p>
 
 In this case, again, I&apos;ve set the color to blue and the background
 color to yellow.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. internal style sheet, #1 (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. internal style sheet, #1 (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image017.webp" 
+  title="Internal Style Sheet, #1"
   alt="Internal Style Sheet, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -825,9 +829,10 @@ here in my code, I&apos;ve got the basic template of our file. And inside
 the head tags, I&apos;ve put this style tag in, that&apos;s where you&apos;re going
 to want to put your rules, they&apos;re defined right within that style.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. internal style sheet, #2 (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. internal style sheet, #2 (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image018.webp" 
+  title="Internal Style Sheet, #2"
   alt="Internal Style Sheet, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -841,9 +846,10 @@ have multiple rules including paragraphs, images, things like that,
 it&apos;s going to know, I want to apply this to all instances in the entire
 file.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. internal style sheet, #3 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. internal style sheet, #3 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image019.webp" 
+  title="Internal Style Sheet, #3"
   alt="Internal Style Sheet, #3."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -864,9 +870,10 @@ You don&apos;t want to have to go in and say if you want to change a color,
 you don&apos;t want to have to go in and open every single one of those
 files so you can change the color to red or green.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. external style sheet, #1 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. external style sheet, #1 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image020.webp" 
+  title="External Style Sheet, #1"
   alt="External Style Sheet, #1."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -887,9 +894,10 @@ be really important that you&apos;re naming things in ways that they make
 since to you. You can link to as many different style sheets as you
 want, most of the time we start with one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. external style sheet, #2 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. external style sheet, #2 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image021.webp" 
+  title="External Style Sheet, #2"
   alt="External Style Sheet, #2."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -904,6 +912,7 @@ code, and you&apos;ve now just changed potentially thousands of pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 22. the 'cascading' part of css, again (20) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image022.webp" 
+  title="The 'Cascading' part of CSS, again"
   alt="The 'Cascading' part of CSS, again."
   style="border: 2px solid #000000; width:50%;" />
 </p>
@@ -932,10 +941,11 @@ external, then internal, and then inline. Which is why really you want
 to avoid using any inline style because it pretty much nullifies all
 your styling rules.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. rule precedence, #1 (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. rule precedence, #1 (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image023.webp" 
-  alt="Rule Precedence, #1"
+  title="Rule Precedence, #1"
+  alt="Rule Precedence, #1."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -948,9 +958,7 @@ Well, how it works is that the rules from the most recent file have
 precedence. And what I mean by the most recent file, it means it goes up
 into the head section and it goes one, two, three, and it kind of looks
 at what order you listed them, and the last one you listed is the one
-that&apos;s going to have precedence. 
-
-Okay? Well, what if you have a
+that&apos;s going to have precedence. Okay? Well, what if you have a
 selector in the same file, and you&apos;ve written H1 multiple times. This
 can actually happen quite a bit. Especially if you decide to go off and
 be part of a big development company, you write some code, and then
@@ -960,9 +968,10 @@ decided, I&apos;m going to code! And you forget that you&apos;ve already written
 some rules. Well, if that&apos;s the case, once again, the browser&apos;s going
 to look at the one it saw last.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. rule precedence, #2 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. rule precedence, #2 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image024.webp" 
+  title="Rule Precedence, #2"
   alt="Rule Precedence, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -975,9 +984,10 @@ going to look at this is it&apos;s going to go down, and say, I&apos;m going to
 make all the font blue, and I&apos;m going to go ahead and make the font
 family Times. It&apos;s just always is going to use the last one it saw.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. rule precedence, #3 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. rule precedence, #3 (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image025.webp" 
+  title="Rule Precedence, #3"
   alt="Rule Precedence, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -988,6 +998,7 @@ code or it came from different files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. !important (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image026.webp" 
+  title="!important"
   alt="!important."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1002,9 +1013,10 @@ Even though later I decide to overwrite it with times, the browser&apos;s
 going to say nope, I know that she really wanted me to use Arial, and it
 works out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27. styled heading (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27. styled heading (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image027.webp" 
+  title="Styled Heading"
   alt="Styled Heading."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1029,6 +1041,7 @@ okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 28. internal styled heading (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image028.webp" 
+  title="Internal Styled Heading"
   alt="Internal Styled Heading."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1064,9 +1077,7 @@ put them off into an external style sheet. Again, there&apos;s no style tag
 here. It&apos;s just the rules themselves. And then I had to go back to the
 HTML file, and you can see right up here, near the top, I have hey,
 let&apos;s link to the style sheet I want. Now, I want to point this out
-very carefully to you. 
-
-If you notice, I have css/externalStyle sheet.
+very carefully to you. If you notice, I have css/externalStyle sheet.
 This means that my style sheet is in a special folder called css.
 Developers really stress that you do this, because you want your code to
 be kind of organized into different parts. Again, in the same way, I now
@@ -1074,10 +1085,11 @@ have a page that uses external style sheets and looks really good. All
 this code is going to be available for you to look at it, but I want you
 to kind of play with it as much as you can.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. external styled heading, #2 (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 31. external styled heading to show how cascade works (25) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image031.webp" 
-  alt="External Style Heading, #2."
+  title="External Styled Heading to show how cascade works"
+  alt="External Styled Heading to show how cascade works."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1085,10 +1097,11 @@ But I want to use this final example to help you understand how the
 cascading works. Right here, I have my external style sheet. I&apos;m going
 to go over here for just a second. Go to my, and I&apos;m going to add,
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. external styled heading, #3 (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. awkward styled heading (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image032.webp" 
-  alt="External Styled Heading, #3."
+  title="Awkward Styled Heading"
+  alt="Awkward Styled Heading."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1099,9 +1112,10 @@ quickly. I&apos;m going to save it; I&apos;m going to reload my page and
 everything disappeared. This was what I was talking about. You really
 want to make sure you include that style tag. Do it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. external styled heading, #4 (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 33. both external and internal style sheets (25) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image033.webp" 
+  <img src="./images/image033.webp"
+  title="Both external and internal style sheet example"
   alt="Both external and internal style sheet example."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1118,8 +1132,8 @@ can do that formatting.
 <!--~~~~~~~~~~~~~~~~~~~~ 34. review style sheets - internal & external (26) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image034.webp" 
-  title="1.02 Review - Both external and internal style sheet example"
-  alt="1.02 Review - Both external and internal style sheet example." 
+  title="Review - Both external and internal style sheet example"
+  alt="Review - Both external and internal style sheet example."
   style="border: 2px solid #000000;" 
   width="40%;" />
 </p>
@@ -1223,17 +1237,16 @@ way that you can add color is to just simply use the English word. Blue,
 red, yellow, etc. These work, and they&apos;ll show up fine on your page.
 The problem is, is that it&apos;s not consistent across the pages. What&apos;s
 yellow to one browser is not the exact same shade of yellow to another
-browser. 
-
-In general, we avoid color names when your final project is
+browser. So, in general, we avoid color names when your final project is
 coming up. When you&apos;re just coding and hacking away, you just want to
 pop something up on the screen. No problem. Use blue or red or yellow
 but then later what you&apos;re going to want to do. It changed when these
 other two conventions I&apos;m going to talk about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. color conventions, #2 (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. color conventions, #2 (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image041.webp" 
+  title="Color Conventions, #2"
   alt="Color Conventions, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1248,9 +1261,10 @@ six digits. The examples I have here for you are six digits. And the way
 it works is that you have a red, green, and blue value, and the bigger
 the number you put in there, the more red, green, or blue you&apos;ll see.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. color conventions, #3 (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. color conventions, #3 (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image042.webp" 
+  title="Color Conventions, #3"
   alt="Color Conventions, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1259,9 +1273,10 @@ Here&apos;s my example. I have an example of blue, red, but also yellow
 because depending on how much of these different values you put in,
 it&apos;s can change the color that&apos;s going to show up on your screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. color conventions, #4 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. color conventions, #4 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image043.webp" 
+  title="Color Conventions, #4"
   alt="Color Conventions, #4."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1275,9 +1290,10 @@ I&apos;ve done the same thing, I&apos;ve just done one, one, and one, one. I
 could have just as easily put 0.5, 0.8, 0.6, and that would change the
 strength of the color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. color conventions, #5 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. color conventions, #5 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image044.webp" 
+  title="Color Conventions, #5"
   alt="Color Conventions, #5."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1285,9 +1301,10 @@ strength of the color.
 Here I have rgb (0,0,1). One of the reasons that people have been
 switching over to rgb is that there&apos;s another option called rgba.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. color conventions, #6 (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. color conventions, #6 (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image045.webp" 
+  title="Color Conventions, #6"
   alt="Color Conventions, #6."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1300,6 +1317,7 @@ want to kind of make it a little bit see through.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 46. color conventions, #7 (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image046.webp" 
+  title="Color Conventions, #7"
   alt="Color Conventions, #7."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1318,6 +1336,7 @@ working.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. course webpage (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image047.webp" 
+  title="Course Webpage"
   alt="Course Webpage."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1328,9 +1347,10 @@ something called Inspect Element to really kind of look at my page, and
 look at the colors, and a really quick way for me to see how I can make
 it look different.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 48. inspect element, course webpage (32) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 48. inspect element, course webpage (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image048.webp" 
+  title="Inspect Element, Course Webpage"
   alt="Inspect Element, Course Webpage."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1339,9 +1359,10 @@ I have my mouse, right here. I&apos;m going to right-click, and I'm going to
 go down to Inspect Element. Now for some of you, this part may pop over
 to the side or underneath.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 49. inspect element, course webpage, #2 (32) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 49. inspect element, course webpage, #2 (32) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image049.webp" 
+  title="Inspect Element, Course Webpage, #2"
   alt="Inspect Element, Course Webpage, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1349,18 +1370,20 @@ to the side or underneath.
 You can move it around by clicking on this button over here. But as you
 can see, I&apos;m going to highlight my h1 and go down here to the span.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 50. inspect element, course webpage, #3 (33) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 50. inspect element, course webpage, #3 (33) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image050.webp" 
+  title="Inspect Element, Course Webpage, #3"
   alt="Inspect Element, Course Webpage, #3."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
 And you can be like oh, there&apos;s the color I&apos;m using.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 51. inspect element, course webpage, #4 (33) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 51. inspect element, course webpage, #4 (33) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image051.webp" 
+  title="Inspect Element, Course Webpage, #4"
   alt="Inspect Element, Course Webpage, #4."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1373,9 +1396,10 @@ could find the perfect color, this green is not the perfect color. I
 could find the perfect color, grab that hexadecimal value and put into
 my style sheet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 52. inspect element, course webpage, #5 (33) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 52. inspect element, course webpage, #5 (33) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image052.webp" 
+  title="Inspect Element, Course Webpage, #5"
   alt="Inspect Element, Course Webpage, #5."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1385,9 +1409,10 @@ either way you want. I love using expect element to kind of play with
 the colors because it&apos;s so much easier when you can see what&apos;s
 happening as you&apos;re designing it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 53. inspect element, course webpage, #6 (34) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 53. inspect element, course webpage, #6 (34) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image053.webp" 
+  title="Inspect Element, Course Webpage, #6"
   alt="Inspect Element, Course Webpage, #6."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1397,9 +1422,10 @@ as you highlight you can add colors, do different things along the same
 line. I wouldn&apos;t suggest this, but I&apos;m going to add a background
 color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 54. inspect element, course webpage, #7 (34) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 54. inspect element, course webpage, #7 (34) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image054.webp" 
+  title="Inspect Element, Course Webpage, #7"
   alt="Inspect Element, Course Webpage, #7."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1414,9 +1440,10 @@ rabbit hole. And you&apos;re like, oh I like this color. No, this color&apos;s
 better. You&apos;re beginning, you&apos;re starting off, just pick a color, play
 with it, and keep going with it. But let&apos;s go back.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 55. accessibility (35) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 55. accessibility (35) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image055.webp" 
+  title="Accessibility"
   alt="Accessibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1445,9 +1472,10 @@ us intuitively know when something has really poor color contrast.
 We&apos;re squinting at it. But to be honest, very few of us know what the
 really exact level is of where you need to go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 56. what is color contrast? (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 56. what is color contrast? (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image056.webp" 
+  title="What is Color Contrast?"
   alt="What is Color Contrast?"
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1463,6 +1491,7 @@ UMISH, which may change by the time this comes up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 57. detect contrast issues, #1 (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image057.webp" 
+  title="Detect Contrast Issues, #1"
   alt="Detect Contrast Issues, #1."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1470,9 +1499,10 @@ UMISH, which may change by the time this comes up.
 And, as you can see, you can go over here and it&apos;ll check your styles,
 it&apos;ll check your different HTML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. detect contrast issues, #2 (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. detect contrast issues, #2 (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image058.webp" 
+  title="Detect Contrast Issues, #2"
   alt="Detect Contrast Issues, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1484,9 +1514,10 @@ you will get examples. They can be extremely picky and if it&apos;s really
 something that you feel strongly that you can see, absolutely, stick
 with it. But you want to take their suggestions with a grain of salt.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 59. don't use color alone to convey meaning (37) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 59. don't use color alone to convey meaning (37) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image059.webp" 
+  title="Don't Use Color Alone to Convey Meaning"
   alt="Don't Use Color Alone to Convey Meaning."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1499,6 +1530,7 @@ share is Apple iPhone, the Pre Palm, different things along that line.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60. test in gray scale (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image060.webp" 
+  title="Test in Gray Scale"
   alt="Test in Gray Scale."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1511,9 +1543,10 @@ saying you can&apos;t, I&apos;m saying make sure you&apos;re providing alternati
 Make sure you&apos;ve got alternate text or you&apos;ve got a caption or
 someplace else where people can link to get this information.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. review (1.03 color) (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. review (1.03 color (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image061.webp" 
+  title="1.03 Review - Color"
   alt="1.03 Review - Color."
   style="border: 2px solid #000000; width:40%;" />
 </p>
@@ -1581,7 +1614,6 @@ First let&apos;s talk about font family. Font families are just different types
 of text. If you&apos;ve used Word before, you&apos;ve gone in, you&apos;ve
 gone to font family and you can pick Arial or Wingdings or all these
 different types of fonts. You can do the same things on your webpage.
-
 I&apos;ve got a couple of examples up here for you of the more common. You
 have Helvetica, Courier, Courier New, Comic Sans, cursive or Verdana. I
 tried to put the font type here in the slide, but it might be hard for
@@ -1617,9 +1649,7 @@ to look like this example here.
 Now every single browser doesn&apos;t support everything. We&apos;ve seen this
 even with HTML 5. Some browsers support some text, some don&apos;t. In the
 same way some browsers support some fonts and others don&apos;t as well.
-What you can do is provide alternatives. 
-
-In this example, I&apos;ve given 
+What you can do is provide alternatives. In this example, I&apos;ve given
 the browser three different alternatives to use. I&apos;m saying, whenever
 you come up to an h1 tag, I want you to use the Courier font. But if you
 don&apos;t have the Courier font, use the Impact font. If you don&apos;t have
@@ -1736,10 +1766,9 @@ extra-small, small, and smaller. I don&apos;t really like those very much,
 because it doesn&apos;t really give me a frame of reference. You can have
 medium, you can have large, extra-large, xx-large, and larger. Very few
 people use these options, but they&apos;re out there so I wanted to tell you
-what they were. 
+what they were. Instead, what many people use is pixels. 
 
-Instead, what many people use is pixels. I&apos;m
-going to include on the website this nice table that relates how many pixels to 
+I&apos;m going to include on the website this nice table that relates how many pixels to 
 an inch, how many pixels to picos, so you can get a feel for it. But most people 
 do something along the lines of 20 pixels, 35 pixels, 80 pixels. And this is a 
 very consistent look and it&apos;s something that people can kind of feel what 
@@ -1899,11 +1928,11 @@ better, I&apos;m just going to turn this into a teachable moment and have
 you go in there and type it yourself and look at how these two different
 rules affect the text.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82. review (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 82. Review - Styling Your Text (1.04) (48) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image082.webp" 
-  title="Review (1.4)"
-  alt="Review (1.4)"
+  title="1.04 Review - Styling Your Text"
+  alt="1.04 Review - Styling Your Text."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -1976,11 +2005,11 @@ listening with me doesn&apos;t really give you the true experience you need
 to type it in and make mistakes as we go along together.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 84. practice coding; styling (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 84. practice coding; new file, copy (50) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image084.webp" 
-  title="Practice Coding; Styling"
-  alt="Practice Coding; Styling."
+  title="Practice Coding; New file, copy"
+  alt="Practice Coding; New file, copy."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -2010,11 +2039,11 @@ together-1.css. It&apos;s really important that you remember to put that
 file extension, or things aren&apos;t going to work.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 86. style header (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 86. colleen web page, old and boring (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image086.webp" 
-  title="Practice Styling; Style Header"
-  alt="Practice Styling; Style Header."
+  title="Colleen's old, boring web page"
+  alt="Colleen's old, boring web page."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -2101,11 +2130,11 @@ only one, two, three, four, five. Five rules and we already have a much
 different look. I&apos;m going to go ahead and make the screen smaller
 because when I put in that font size 150%, it makes a big difference.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. style summary in details (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. style summary in details (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image090.webp" 
-  title="Style summary in italics"
-  alt="Style summary in italics."
+  title="Style summary in details"
+  alt="Style summary in details."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -2148,11 +2177,11 @@ go. What we&apos;ve done now is we&apos;ve gone from a very simple, basic HTML
 file and we&apos;ve started adding just a little bit of color, a little bit
 of font size, a few different things like that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. old and new styles (55) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 92. old and new colleen web pages (55) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image092.webp" 
-  title="Old and new styles side-by-side"
-  alt="Old and new styles side-by-side."
+  title="Old and new Colleen web pages"
+  alt="Old and new Colleen web pages."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -2648,7 +2677,7 @@ we&apos;ve told it we don&apos;t want them to be underneath each other. But this
 really isn&apos;t what you were hoping for it to look like.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. divs float left (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. divs float left (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image119.webp" 
   title="divs float left"
@@ -2664,7 +2693,7 @@ that doesn&apos;t work out really well. And that is this idea of when I
 resize it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. example overflow (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. example overflow (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image120.webp" 
   title="Example overflow"
@@ -2683,7 +2712,7 @@ actually not a huge fan of this, because I don&apos;t like that people would
 need to know that they can scroll.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. set width of div to 30% (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. set width of div to 30% (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image121.webp" 
   title="Set width of 3 divs to 30% each"
@@ -2704,7 +2733,7 @@ resizes, but it&apos;s just not doing what we want because each one has its
 own particular height because we really want it to just fit that.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. another div change (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. another div change (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image122.webp" 
   title="Another div change"
@@ -2721,7 +2750,7 @@ this may not work. Because what you really want to say is, if I&apos;m going
 to go ahead and make this used table cell, don&apos;t forget to go into your
 body and say display.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. still another div change (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. still another div change (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image123.webp" 
   title="Still another div change"
@@ -2741,7 +2770,7 @@ time for your final project, that&apos;s when to be really specific about
 making sure that everything looks good on every browser.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. visibility (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. visibility (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image124.webp" 
   title="Visibility"
@@ -2762,11 +2791,11 @@ displaying none the browser acts as if it&apos;s not even there. You don&apos;t
 see anything. With visibility hidden, the browser is going to leave the
 space that that element would take up, it just doesn&apos;t show it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. review (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 125. review - display and visibility (1.06b) (71) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image125.webp" 
-  title="Review (1.6)"
-  alt="Review (1.6)."
+  title="1.06b Review - Display and Visibility"
+  alt="1.06b Review - Display and Visibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -2796,7 +2825,7 @@ files in it. There are also subfolders (folders inside the main folder)
 for your CSS files and image files. (In this example I also have
 JavaScript files.)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 126. folder with subfolders nested within (72) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 126. folder with subfolders nested within (73) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image126.webp" 
   title="Folder with subfolders nested within"
@@ -2818,7 +2847,7 @@ again.
 
 I am going to end with a screen shot of my computer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 127. screenshot: homework, css, style (72) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 127. screenshot: homework, css, style (73) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image127.webp" 
   title="Screenshot: homework, css, and style"
@@ -2838,9 +2867,9 @@ computers it matters and this would not work:
 &lt;link rel=&quot;stylesheet&quot; href=&quot;CSS/style.css&quot;&gt;
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="1-07b">1.07b Homework One Description - Creating an External Style Sheet, cont'd</h2>
+<h2 id="1-07b">1.07b Homework One Description - Creating an External Style Sheet</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (1.07b) (73) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 128. creating an external style sheet (1.07b) (74) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image128.webp" 
   title="1.07b Homework Description - Creating an External Style Sheet, cont'd"
@@ -2910,7 +2939,7 @@ a copy of your code so you don&apos;t lose it!!
 
 <h3>Before</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129. before menu (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129. before menu (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image129.webp" 
   title="Before Menu"
@@ -2920,7 +2949,7 @@ a copy of your code so you don&apos;t lose it!!
 
 <h3>After</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. after menu (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. after menu (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image130.webp" 
   title="After Menu"
@@ -2939,18 +2968,18 @@ that&apos;s what this homework is for. A chance for you to finally go
 through and put down some of this code and see what goes on when you try
 to apply styling to your HTML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. objective (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. objective (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image131.webp" 
   title="Objective"
-  alt="Objective"
+  alt="Objective."
   style="border: 2px solid #000000; width:40%;" />
 
 The objective for this homework assignment is for you to show me that
 you can write one CSS file that can go and style three different HTML
 files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 132/133. before/after html and jpg photos (76) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 132/133. before/after html and jpg photos (77) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image132.webp"
   style="width:40%;"
@@ -2968,7 +2997,7 @@ assignment.
 <http://www.intro-webdesign.com/CSS/assignment-1/index.html>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. ultimate frisbee (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. ultimate frisbee (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image134.webp" 
   title="Ultimate Frisbee"
@@ -2982,7 +3011,7 @@ assignment.
 <http://www.intro-webdesign.com/CSS/assignment-1/teams.html>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. ultimate frisbee teams (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. ultimate frisbee teams (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image135.webp" 
   title="Ultimate Frisbee Teams"
@@ -2996,7 +3025,7 @@ assignment.
 <http://www.intro-webdesign.com/CSS/assignment-1/history.html>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136. ultimate frisbee history (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136. ultimate frisbee history (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image136.webp" 
   title="Ultimate Frisbee History"
@@ -3010,11 +3039,11 @@ clearer when I show you the homework in action. Let&apos;s take a look at
 it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. picture in ultimte frisbee (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 137. picture in ultimate frisbee, before (79) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image137.webp" 
-  title="Picture in Ultimate Frisbee"
-  alt="Picture in Ultimate Frisbee."
+  title="Picture in Ultimate Frisbee, before"
+  alt="Picture in Ultimate Frisbee, before."
   style="border: 2px solid #000000; width:40%;" />
 
 When we start, I&apos;m going to give you three HTML files that are really
@@ -3024,11 +3053,11 @@ All three pages that you&apos;ll look at, home, teams, and history have
 different content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 138. ultimate frisbee: before menu changes (79) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 138. ultimate frisbee: after menu changes (80) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image138.webp" 
-  title="Ultimate Frisbee: before menu changes"
-  alt="Ultimate Frisbee: before menu changes."
+  title="Ultimate Frisbee: after menu changes"
+  alt="Ultimate Frisbee: after menu changes."
   style="border: 2px solid #000000; width:40%;" />
 
 What I want you to do is write your own CSS rules that will take these
@@ -3040,7 +3069,7 @@ easier to read. Let&apos;s go ahead and step through the different things
 that you&apos;ll need to change in order to achieve this separate look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 139. you must leave the html alone (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 139. you must leave the html alone (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image139.webp" 
   title="You Must Leave the HTML Alone"
@@ -3055,7 +3084,7 @@ the section, the links and the images. Let me go through and show you
 exactly what you need to look at.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. header (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. header (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image140.webp" 
   title="Header: Add Background Color"
@@ -3066,7 +3095,7 @@ For your header, it&apos;s pretty straightforward. I want you to go in and I
 want you to add a background color.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. h1 and h2 (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. h1 and h2 (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image141.webp" 
   title="h1 and h2"
@@ -3085,11 +3114,11 @@ The next thing I want you to do is just for the h1 heading I want you to
 center the text.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. section (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. section (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image142.webp" 
-  title="section"
-  alt="section"
+  title="Section"
+  alt="Section"
   style="border: 2px solid #000000; width:40%;" />
 
 Next make one quick change to the section part of your HTML. I want you
@@ -3097,7 +3126,7 @@ to style the different section so it has a different background color
 from the other elements in your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. links (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. links (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image143.webp" 
   title="links"
@@ -3113,7 +3142,7 @@ to the way that you&apos;re going to the center the texts for the h1
 headings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. images (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. images (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image144.webp" 
   title="Images"
@@ -3129,11 +3158,11 @@ to change the html. I want those pictures to be there. I just want you
 to use CSS3 to remove them from the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. before and after menu (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. before and after menu (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image145.webp" 
-  title="Before and After Menus"
-  alt="Before and After Menus."
+  title="Before and After Menu"
+  alt="Before and After Menu."
   style="border: 2px solid #000000; width:40%;" />
 
 I hope between looking through this example and looking online, and
@@ -3141,7 +3170,7 @@ looking at my before and after shots, that you&apos;ll be able to do this
 homework assignment.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. peer grading (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. peer grading (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image146.webp" 
   title="Peer grading"
@@ -3208,7 +3237,7 @@ name of each file that they use:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="2-01">2.01 Box Model</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.01) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. box model (2.01) (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image147.webp" 
   title="2.01 Box Model"
@@ -3221,7 +3250,7 @@ model is, is really a general concept of CSS that helps you size and
 place your element where you want them to go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. height and width (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. height and width (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image148.webp" 
   title="Height and Width"
@@ -3245,11 +3274,11 @@ Anything else, the browser goes great, I can go ahead and change that
 for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. border (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. border, #1 (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image149.webp" 
-  title="Border"
-  alt="Border"
+  title="Border, #1"
+  alt="Border, #1."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -3270,11 +3299,11 @@ default to black and probably one pixel. But you have to decide what
 kind of style you want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. border with div example (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. border with div example, #2 (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image150.webp" 
-  title="Border with div example"
-  alt="Border with div example."
+  title="Border with div example, #2"
+  alt="Border with div example, #2."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5202,10 +5231,11 @@ and change it. Instead of 25 pixels, if I want less of a curve, I can
 make it 5 pixels.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 260.  (136) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 260. change dynamically the post to .css (136) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image260.webp" 
-  alt="."
+  title="Make changes dynamically until your ready to update the styles.css"
+  alt="Make changes dynamically until your ready to update the styles.css."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5248,11 +5278,11 @@ still had all the different prefixes. This would automatically only add
 the ones you need. Again, these are kind of cool, but let&apos;s not worry
 about them right now. For now, let&apos;s focus on the basics.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. review (2.5) (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. review (2.05) (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image262.webp" 
-  title="2.5 Review"
-  alt="2.5 Review."
+  title="2.05 Review: Browser Capabilities"
+  alt="2.05 Review: Browser Capabilities."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -5808,11 +5838,11 @@ onto validator.w3c.org and the wave.webaim.org to validate your code.
 It&apos;s simple, it&apos;s fast, and it&apos;s really going to give you a much
 better page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. review (2.7) (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. review (2.07) (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image289.webp" 
-  title="Review (2.7) Designing for Accessibility"
-  alt="Review (2.7) Designing for Accessibility."
+  title="Review (2.07) Designing for Accessibility"
+  alt="Review (2.07) Designing for Accessibility."
   style="border: 2px solid #000000; width:40%;" />
 </p>
 
@@ -8629,3 +8659,4 @@ great in CSS 3.</p>
 <h6>Last Updated: 3/31/2024 4:11am</h6>
 <h6>Last Updated: 6/18/2024 1:48pm</h6>
 <h6>Last Updated: 6/19/2024 2:17pm</h6>
+<h6>Last Updated: 9/19/2024 4:17pm</h6>
