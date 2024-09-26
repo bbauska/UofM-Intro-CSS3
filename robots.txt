@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://github.com/bbauska/UofM-Intro-CSS, https://intro-to-css.bauska.org
+Sitemap: https://github.com/bbauska/UofM-Intro-CSS3, https://intro-css.bauska.org
