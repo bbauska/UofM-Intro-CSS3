@@ -635,11 +635,9 @@ of each file that they use:</p>
 
 If you would like to download a copy of slides, they are available here:
 
-ZIP File
+<h4>ZIP File</h4>
 
-introcss.ppt
-
-<https://d3c33hcgiwev3.cloudfront.net/_6fb69eabde5662fc69073f044056cafd_introcss.ppt.zip?Expires=1698364800&Signature=fuKkHBs6j5ODSGL6iSCuW3OBaKouKaSPVm8dDyDjEEKKbAUbcfaBfwgoHCE23MJ5yqYbvognEi3CARurOIZrS1qrEuFJUyKuo-6LMkWF~i-muSC66OGsgfD5e4kyK72sp8goyVsZIl6sIOtH5XMojMVXApZEG0h8B3viqAJa2Hg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A>
+<a href="https://d3c33hcgiwev3.cloudfront.net/_6fb69eabde5662fc69073f044056cafd_introcss.ppt.zip?Expires=1698364800&Signature=fuKkHBs6j5ODSGL6iSCuW3OBaKouKaSPVm8dDyDjEEKKbAUbcfaBfwgoHCE23MJ5yqYbvognEi3CARurOIZrS1qrEuFJUyKuo-6LMkWF~i-muSC66OGsgfD5e4kyK72sp8goyVsZIl6sIOtH5XMojMVXApZEG0h8B3viqAJa2Hg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A">introcss.ppt</a>
 
 <h4>Building Your First Web Page by Shay Howe</h4>
 
@@ -1232,8 +1230,9 @@ We talk about the three different basic color conventions, the main ones
 that people use. Conventions is just another word for suggestions. It&apos;s
 not a rule. You don&apos;t have to follow the rules I&apos;m going to give you.
 It&apos;s just the way that most programmers program so that they can
-understand what you&apos;re trying to do, when they look at your code. One
-way that you can add color is to just simply use the English word. Blue,
+understand what you&apos;re trying to do, when they look at your code. 
+
+One way that you can add color is to just simply use the English word. Blue,
 red, yellow, etc. These work, and they&apos;ll show up fine on your page.
 The problem is, is that it&apos;s not consistent across the pages. What&apos;s
 yellow to one browser is not the exact same shade of yellow to another
@@ -1271,7 +1270,7 @@ the number you put in there, the more red, green, or blue you&apos;ll see.
 
 Here&apos;s my example. I have an example of blue, red, but also yellow
 because depending on how much of these different values you put in,
-it&apos;s can change the color that&apos;s going to show up on your screen.
+it can change the color that&apos;s going to show up on your screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. color conventions, #4 (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
