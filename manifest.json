@@ -1,7 +1,7 @@
 {
   "name": "UofM Intro to CSS",
   "short_name": "Intro CSS", 
-  "start_url": "/intro-css.bauska.org",
+  "start_url": "index.html",
   "display": "standalone", 
   "icons": [
   {
